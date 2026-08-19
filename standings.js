@@ -1,4 +1,4 @@
-import { api } from "./dataService.js?v=20260630a";
+import { api } from "./dataService.js?v=20260609a";
 import { renderNav } from "./components/nav.js";
 
 let standings = null;
@@ -32,7 +32,7 @@ function computeFaabRemaining(year) {
     return result;
 }
 
-const INACTIVE = new Set(['ClickToWiniPad', 'aaaaaronoraaaaa', 'youngli', 'HoosierDan15']);
+const INACTIVE = new Set(['edgxrjiang', 'riqi', 'shmyung', 'urmummma', 'JUNNNNAY']);
 function avatarEl(name, size) {
     const sz = size || 24;
     const letter = (name||"?")[0].toUpperCase();
@@ -707,10 +707,10 @@ function renderTable(rows, txStats, year, playoffRecords, isAllTime) {
             <tr>
                 <td class="rank">${r.rank}</td>
                 <td class="team-name">
-                    <a href="team.html?team=${encodeURIComponent(r.name)}" style="display:flex;align-items:center;gap:8px;text-decoration:none;color:inherit;" onmouseover="this.style.color='#818cf8'" onmouseout="this.style.color='inherit'">
+                    <div style="display:flex;align-items:center;gap:8px;">
                         ${avatarEl(r.name, 26)}
                         <span>${r.name}</span>
-                    </a>
+                    </div>
                 </td>
                 <td class="num wins">${r.wins}</td>
                 <td class="num losses">${r.losses}</td>
@@ -910,7 +910,9 @@ async function init() {
     try {
         const [
             standingsData, txData, historyData, usersData, divsData,
-            nameMap, statsArr, draftArr,
+            nameMap,
+            stats2023, stats2024, stats2025,
+            draft2023, draft2024, draft2025,
         ] = await Promise.all([
             api.getStandings(),
             api.getTransactions(),
@@ -918,8 +920,12 @@ async function init() {
             api.getLeagueUsers(),
             api.getDivisions(),
             api.getPlayerNameMap(),
-            Promise.all(STAT_YEARS.map(y => api.getPlayerStats(y).catch(() => ({})))),
-            Promise.all(STAT_YEARS.map(y => api.getDraft(y).catch(() => []))),
+            api.getPlayerStats("2023").catch(() => ({})),
+            api.getPlayerStats("2024").catch(() => ({})),
+            api.getPlayerStats("2025").catch(() => ({})),
+            api.getDraft("2023").catch(() => []),
+            api.getDraft("2024").catch(() => []),
+            api.getDraft("2025").catch(() => []),
         ]);
 
         standings     = standingsData;
@@ -928,10 +934,12 @@ async function init() {
         leagueUsers   = usersData;
         divisionsData = divsData;
         playerNameMap = nameMap;
-        STAT_YEARS.forEach((y, i) => {
-            allPlayerStats[y] = statsArr[i];
-            allDraftData[y]   = draftArr[i];
-        });
+        allPlayerStats["2023"] = stats2023;
+        allPlayerStats["2024"] = stats2024;
+        allPlayerStats["2025"] = stats2025;
+        allDraftData["2023"] = draft2023;
+        allDraftData["2024"] = draft2024;
+        allDraftData["2025"] = draft2025;
 
         const controls = document.getElementById("s-controls");
 

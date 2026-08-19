@@ -1,4 +1,4 @@
-import { api } from "./dataService.js?v=20260630a";
+import { api } from "./dataService.js?v=20260609a";
 import { renderNav } from "./components/nav.js";
 
 renderNav();
@@ -26,7 +26,7 @@ let nameToId = {};
 let statsCache = {};
 let draftCache = {};
 let usersMap = {};
-let selectedYear = "2025";
+let selectedYear = "2026";
 let selectedTAUser = "all";
 
 // ── Value system ──────────────────────────────────────────────────────────────
@@ -42,10 +42,10 @@ function playerYearData(name, year) {
     return { pts: st.pts_half_ppr, score: ptsToScore(st.pts_half_ppr), rank: st.rank, position: st.position };
 }
 
-// Redraft league: a trade only affects the season it was made in (players return to
-// the pool next year), so grade it on that season's production — not future years.
+// Post-trade years: only REAL_STAT_YEARS that are strictly after the trade year
 function postTradeYears(tradeYear) {
-    return REAL_STAT_YEARS.filter(y => y === String(tradeYear));
+    const yi = parseInt(tradeYear);
+    return REAL_STAT_YEARS.filter(y => parseInt(y) > yi);
 }
 
 // Average score across post-trade years for a player
@@ -81,7 +81,7 @@ function pickPostTradeValue(asset, receivingTeam, tradeYear, givingTeam, usedPic
     if (resolved) usedPickKeys.add(`${pickYear}-${resolved.pick_no}`);
 
     if (resolved) {
-        const ptYears = REAL_STAT_YEARS.filter(y => y === pickYear);
+        const ptYears = REAL_STAT_YEARS.filter(y => parseInt(y) >= parseInt(pickYear) && parseInt(y) > parseInt(tradeYear));
         const byYear = ptYears.map(y => ({ year: y, data: playerYearData(resolved.player, y) }));
         const valid  = byYear.filter(e => e.data !== null);
         const avg    = valid.length ? valid.reduce((s, e) => s + e.data.score, 0) / valid.length : null;
@@ -156,7 +156,7 @@ function tradeNarrative(tx, itemsA, itemsB, valA, valB) {
     const parts = [];
 
     if (noData) {
-        parts.push(`The ${tx.season} season isn't complete yet, so there's no performance data to grade this trade.`);
+        parts.push(`This trade was made in ${tx.season} and no completed seasons have elapsed yet. Check back after the ${parseInt(tx.season) + 1} season.`);
         return parts.join(" ");
     }
 
@@ -220,7 +220,7 @@ function tradeNarrative(tx, itemsA, itemsB, valA, valB) {
     const inactive = allItems.filter(i => !i.byYear.some(e => e.data));
     if (inactive.length > 0) {
         const names = inactive.slice(0, 2).map(i => `<strong>${i.name}</strong>`).join(" and ");
-        parts.push(`${names} gave no production that season.`);
+        parts.push(`${names} had no production in the post-trade window.`);
     }
 
     const aGivesPicks = (tx.assets_received[teamB] || []).some(a => a.position === "PICK");
@@ -229,11 +229,15 @@ function tradeNarrative(tx, itemsA, itemsB, valA, valB) {
     const bPickCount  = (tx.assets_received[teamA] || []).filter(a => a.position === "PICK").length;
 
     if (bGivesPicks && !aGivesPicks) {
-        parts.push(`<strong>${teamB}</strong> dealt ${bPickCount > 1 ? bPickCount + " picks" : "a pick"} for immediate help.`);
+        parts.push(`<strong>${teamB}</strong> was in win-now mode, dealing ${bPickCount > 1 ? bPickCount + " picks" : "a pick"} for immediate talent. <strong>${teamA}</strong> was building for the future.`);
     } else if (aGivesPicks && !bGivesPicks) {
-        parts.push(`<strong>${teamA}</strong> dealt ${aPickCount > 1 ? aPickCount + " picks" : "a pick"} for immediate help.`);
+        parts.push(`<strong>${teamA}</strong> was in win-now mode, dealing ${aPickCount > 1 ? aPickCount + " picks" : "a pick"} for immediate talent. <strong>${teamB}</strong> was building for the future.`);
     } else if (aGivesPicks && bGivesPicks) {
-        parts.push(`Both teams swapped players and picks.`);
+        parts.push(`Both teams swapped players and picks — a repositioning of their respective rebuild timelines.`);
+    }
+
+    if (postYears.length === 1) {
+        parts.push(`Note: only ${postYears[0]} data is available; values will refine as more seasons complete.`);
     }
 
     return parts.join(" ");
@@ -256,7 +260,7 @@ const AVATAR_COLORS = ["#5a5be6","#e74c82","#3ecf8e","#f6ad55","#4299e1","#9f7ae
 function accentColor(name) {
     return AVATAR_COLORS[(name||"?").split("").reduce((s,c)=>s+c.charCodeAt(0),0) % AVATAR_COLORS.length];
 }
-const INACTIVE_USERS = new Set(['ClickToWiniPad', 'aaaaaronoraaaaa', 'youngli', 'HoosierDan15']);
+const INACTIVE_USERS = new Set(['edgxrjiang', 'riqi', 'shmyung', 'urmummma', 'JUNNNNAY']);
 function avatarEl(name, size=24) {
     const sz = size;
     const letter = (name||"?")[0].toUpperCase();
@@ -304,7 +308,7 @@ function renderItemCard(item, tradeYear) {
                     ${posTag(item.resolvedPos, true)}
                     <span style="font-size:11px;font-weight:600;color:#c9cdd4;">${item.resolved}</span>
                 </div>
-                ${item.avg !== null ? `<div style="font-size:10px;color:#8b9099;">Season value: <strong style="color:${color};">${item.avg.toFixed(0)}/100</strong></div>${scoreBar(item.avg)}` : ""}
+                ${item.avg !== null ? `<div style="font-size:10px;color:#8b9099;">Post-trade value: <strong style="color:${color};">${item.avg.toFixed(0)}/100</strong></div>${scoreBar(item.avg)}` : ""}
             </div>`;
         } else if (item.estimated && !future) {
             resolvedHtml = `<div style="font-size:10px;color:#5a6070;margin-top:3px;">Est. ~${item.avg}/100 (pick unresolved)</div>`;
@@ -342,9 +346,9 @@ function renderItemCard(item, tradeYear) {
         </div>
         <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:10px;color:#8b9099;margin-bottom:2px;">
             ${hasData
-                ? `<span>Season value: <strong style="color:${avgColor};font-size:12px;">${avgDisplay}</strong></span>` +
+                ? `<span>Post-trade value: <strong style="color:${avgColor};font-size:12px;">${avgDisplay}</strong></span>` +
                   (item.byYear.length ? `<span style="color:#3d4350;">|</span><span>${yearRows}</span>` : "")
-                : `<span style="color:#5a6070;">No data for that season</span>`}
+                : `<span style="color:#5a6070;">No post-trade data yet</span>`}
         </div>
         ${item.avg !== null ? scoreBar(item.avg) : ""}
     </div>`;
@@ -384,7 +388,7 @@ function renderTradeCard(tx) {
                 ${isLoser  ? '<span style="font-size:10px;font-weight:700;color:#f87171;background:#2b0d0d;border-radius:4px;padding:2px 6px;">L</span>' : ""}
             </div>
             ${items.map(i => renderItemCard(i, tx.season)).join("")}
-            ${hasData ? `<div style="font-size:10px;color:#5a6070;border-top:1px solid #2d3139;padding-top:5px;margin-top:4px;">Total season value: <strong style="color:#c9cdd4;">${val.toFixed(0)}</strong></div>` : ""}
+            ${hasData ? `<div style="font-size:10px;color:#5a6070;border-top:1px solid #2d3139;padding-top:5px;margin-top:4px;">Total post-trade value: <strong style="color:#c9cdd4;">${val.toFixed(0)}</strong></div>` : ""}
         </div>`;
     };
 
@@ -491,11 +495,12 @@ function renderAll(year, showPreseason) {
     const ptYears = postTradeYears(year);
     const notice = ptYears.length === 0
         ? `<div style="background:#2b1d0d;border:1px solid #7c4a1a;border-radius:8px;padding:10px 14px;font-size:12px;color:#f6ad55;margin-bottom:20px;">
-            The ${year} season isn't complete yet — trade grades will appear once its stats exist.
+            No completed seasons after ${year} yet — post-trade values will appear once real stats exist.
            </div>`
-        : `<div style="background:#1a2230;border:1px solid #2d4060;border-radius:8px;padding:10px 14px;font-size:12px;color:#8b9099;margin-bottom:20px;">
-            Each trade is graded on how the players performed that same season.
-           </div>`;
+        : ptYears.length === 1
+        ? `<div style="background:#1a2230;border:1px solid #2d4060;border-radius:8px;padding:10px 14px;font-size:12px;color:#8b9099;margin-bottom:20px;">
+            Value based on ${ptYears[0]} only — will refine as more seasons complete.
+           </div>` : "";
 
     const section = (label, trades) => !trades.length ? "" : `
         <div style="margin-bottom:32px;">
@@ -545,7 +550,7 @@ async function init() {
     ]);
     allTransactions = transactions;
     nameToId = nameMap;
-    (leagueUsers || []).forEach(u => { usersMap[u.username] = u.avatar_url; });
+    (leagueUsers || []).forEach(u => { usersMap[u.username] = u.username === "Paul_Yoon" ? PAUL_YOON_AVATAR : u.avatar_url; });
 
     // Build user dropdown from trade data (captures all participants)
     const rosters2026ta = await api.getRosters("2026").catch(() => []);

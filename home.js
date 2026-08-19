@@ -1,4 +1,4 @@
-import { api } from "./dataService.js?v=20260630a";
+import { api } from "./dataService.js?v=20260609a";
 import { renderNav } from "./components/nav.js";
 
 const YEARS = ["2025", "2026"];
@@ -12,7 +12,7 @@ let matchupsData = {};   // year → { week: [matchup] }
 let selectedYear = "all_time";
 
 const AVATAR_COLORS = ["#5a5be6","#e74c82","#3ecf8e","#f6ad55","#4299e1","#9f7aea","#ed64a6","#38b2ac"];
-const INACTIVE = new Set(['ClickToWiniPad', 'aaaaaronoraaaaa', 'youngli', 'HoosierDan15']);
+const INACTIVE = new Set([]);
 function accentColor(name) {
     return AVATAR_COLORS[(name||"?").split("").reduce((s,c)=>s+c.charCodeAt(0),0) % AVATAR_COLORS.length];
 }
@@ -107,44 +107,6 @@ function computePrizesWon() {
     }
     events.forEach(e => { totals[e.winner] = (totals[e.winner] || 0) + e.amount; });
     return totals;
-}
-
-// Final 1–12 placement per team for a season, from playoff (1st–6th) + consolation
-// (7th–12th) brackets. Sleeper's losers-bracket place is consolation-relative, so +6.
-function seasonFinalPlacements(year) {
-    const s = (historyData || {})[year] || {};
-    const out = {};
-    (s.winners_bracket || []).forEach(m => {
-        if ([1, 3, 5].includes(m.place)) {
-            if (m.winner) out[m.winner] = m.place;
-            if (m.loser)  out[m.loser]  = m.place + 1;
-        }
-    });
-    (s.losers_bracket || []).forEach(m => {
-        if ([1, 3, 5].includes(m.place)) {
-            if (m.winner) out[m.winner] = m.place + 6;
-            if (m.loser)  out[m.loser]  = m.place + 7;
-        }
-    });
-    return out;
-}
-
-// Aggregate finishes across all completed seasons -> name: {first, second, third, avgFinish}
-function buildFinishStats() {
-    const stats = {};
-    COMPLETED_YEARS.forEach(year => {
-        const pl = seasonFinalPlacements(year);
-        Object.entries(pl).forEach(([name, rank]) => {
-            if (!stats[name]) stats[name] = { first: 0, second: 0, third: 0, sum: 0, seasons: 0 };
-            const t = stats[name];
-            t.seasons++; t.sum += rank;
-            if (rank === 1) t.first++;
-            else if (rank === 2) t.second++;
-            else if (rank === 3) t.third++;
-        });
-    });
-    Object.values(stats).forEach(t => { t.avgFinish = t.seasons ? t.sum / t.seasons : null; });
-    return stats;
 }
 
 // Compute FAAB remaining for a given year per team
@@ -300,13 +262,8 @@ function buildSosRanks(rows, sosMap) {
 
 function renderStandingsTable(rows, playoffRec, isAllTime, faabRemaining, sosMap) {
     const sosRanks = buildSosRanks(rows, sosMap);
-    const finishStats = isAllTime ? buildFinishStats() : null;
     const extraHeaders = isAllTime
-        ? `<th style="${TH}" title="1st-place finishes (champion)">1st</th>
-           <th style="${TH}" title="2nd-place finishes">2nd</th>
-           <th style="${TH}" title="3rd-place finishes">3rd</th>
-           <th style="${TH}" title="Average final finish across seasons">Avg Fin</th>
-           <th style="${TH}">Avg PF</th><th style="${TH}">Best PF</th>`
+        ? `<th style="${TH}">Avg PF</th><th style="${TH}">Best PF</th>`
         : "";
     const faabHeader = !isAllTime ? `<th style="${TH}">FAAB Left</th>` : "";
 
@@ -334,12 +291,8 @@ function renderStandingsTable(rows, playoffRec, isAllTime, faabRemaining, sosMap
         const po = playoffRec[r.name];
         const poStr = po ? `${po.wins}-${po.losses}` : "—";
         const av = usersMap[r.name];
-        const fs = finishStats?.[r.name];
-        const medalCell = (count, color) => `<td style="${TD};${count ? `color:${color};font-weight:700;` : "color:#3d4350;"}">${count || "—"}</td>`;
         const extraCells = isAllTime
-            ? `${medalCell(fs?.first, "#fbbf24")}${medalCell(fs?.second, "#c8d6e5")}${medalCell(fs?.third, "#cd9b5a")}` +
-              `<td style="${TD};font-weight:700;color:#f0f1f3;">${fs?.avgFinish != null ? fs.avgFinish.toFixed(1) : "—"}</td>` +
-              `<td style="${TD}">${r.avgPF.toFixed(1)}</td><td style="${TD}">${r.highestPF.toFixed(1)}</td>`
+            ? `<td style="${TD}">${r.avgPF.toFixed(1)}</td><td style="${TD}">${r.highestPF.toFixed(1)}</td>`
             : "";
         const faabLeft = !isAllTime ? faabRemaining?.[r.name] : undefined;
         const faabCell = !isAllTime
@@ -368,10 +321,10 @@ function renderStandingsTable(rows, playoffRec, isAllTime, faabRemaining, sosMap
         return `<tr style="border-bottom:1px solid #2d3139;">
             <td style="${TD};color:#5a6070;font-weight:700;">${i+1}</td>
             <td style="${TD};text-align:left;">
-                <a href="team.html?team=${encodeURIComponent(r.name)}" style="display:flex;align-items:center;gap:8px;text-decoration:none;" onmouseover="this.querySelector('.mgr-name').style.color='#818cf8'" onmouseout="this.querySelector('.mgr-name').style.color='#f0f1f3'">
+                <div style="display:flex;align-items:center;gap:8px;">
                     ${avatarEl(av, r.name, 26)}
-                    <span class="mgr-name" style="font-weight:700;color:#f0f1f3;transition:color .12s;">${r.name}</span>
-                </a>
+                    <span style="font-weight:700;color:#f0f1f3;">${r.name}</span>
+                </div>
             </td>
             <td style="${TD};color:#3ecf8e;font-weight:700;">${r.wins}</td>
             <td style="${TD};color:#f87171;font-weight:700;">${r.losses}</td>
@@ -428,6 +381,7 @@ const PAYOUTS = [
 ];
 
 function buildFeesTable() {
+    return "";   // Indigo finances unknown — no fabricated fee history until commissioner confirms
     const ALL_YEARS = ["2025", "2026"];
     const userYearsMap = {};
     ALL_YEARS.forEach(year => {
@@ -520,7 +474,7 @@ function buildFeesTable() {
 }
 
 const FORMAT_ITEMS = [
-    ["League Type", "Keeper"],
+    ["League Type", "Dynasty"],
     ["Teams", "12"],
     ["Scoring", "Half-PPR"],
     ["Seasons", "Since 2025"],
@@ -528,17 +482,9 @@ const FORMAT_ITEMS = [
 ];
 const STARTERS = ["QB", "RB", "RB", "WR", "WR", "TE", "FLEX", "FLEX", "K", "DEF"];
 
-function keeperRow(label, val) {
-    return `<div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:7px 0;border-bottom:1px solid #2d3139;font-size:13px;">
-        <span style="color:#8b9099;flex-shrink:0;">${label}</span>
-        <span style="font-weight:600;color:#f0f1f3;text-align:right;">${val}</span>
-    </div>`;
-}
-
 function renderRules() {
     return `
     <div style="margin-bottom:32px;">
-        <!-- Row 1: League Format (full width) -->
         <div style="background:#1e2027;border:1px solid #2d3139;border-radius:10px;padding:16px;margin-bottom:16px;">
             <div style="font-size:10px;text-transform:uppercase;letter-spacing:.08em;color:#5a6070;font-weight:700;margin-bottom:14px;padding-bottom:8px;border-bottom:1px solid #2d3139;">League Format</div>
             <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px 24px;">
@@ -556,25 +502,10 @@ function renderRules() {
                 </div>
             </div>
         </div>
-
-        <!-- Row 2: Keeper Settings -->
-        <div style="display:grid;grid-template-columns:1fr;gap:16px;" class="rules-grid">
-            <div style="background:#1e2027;border:1px solid #3ecf8e44;border-radius:10px;padding:16px;">
-                <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;padding-bottom:8px;border-bottom:1px solid #2d3139;">
-                    <span style="font-size:10px;text-transform:uppercase;letter-spacing:.08em;color:#5a6070;font-weight:700;">Keeper Settings</span>
-                    <span style="font-size:10px;font-weight:700;color:#3ecf8e;">2025–present</span>
-                </div>
-                <div style="display:flex;align-items:baseline;gap:10px;margin-bottom:12px;">
-                    <span style="font-size:40px;font-weight:800;color:#3ecf8e;line-height:1;">1</span>
-                    <span style="color:#8b9099;font-size:13px;">keeper per team, each season</span>
-                </div>
-                ${keeperRow("Keeper cost & rules", "Set by the commissioner — add here when confirmed")}
-            </div>
+        <div style="padding:8px 10px;background:#252830;border-radius:8px;font-size:11px;color:#5a6070;line-height:1.5;">
+            Dynasty rosters carry over each season. Prize pool &amp; entry fees are set by the commissioner — add them here when confirmed.
         </div>
-
-        <div style="margin-top:16px;padding:8px 10px;background:#252830;border-radius:8px;font-size:11px;color:#5a6070;line-height:1.5;">
-            Prize pool &amp; entry fees are set by the commissioner — add them here when confirmed.
-        </div>
+        <div id="home-fees-table"></div>
     </div>`;
 }
 
@@ -609,30 +540,35 @@ async function init() {
     <div id="home-standings-table" style="color:#5a6070;padding:20px 0;">Loading...</div>`;
 
     try {
-        const [standings, history, leagueUsers, transactions,
-               rostersArr, matchupsArr] = await Promise.all([
+        const [standings, history, leagueUsers, transactions, rosters2026, rosters2025,
+               mu2026, mu2025] = await Promise.all([
             api.getStandings(),
             api.getSeasonHistory(),
             api.getLeagueUsers(),
             api.getTransactions(),
-            Promise.all(YEARS.map(y => api.getRosters(y).catch(() => []))),
-            Promise.all(YEARS.map(y => api.getMatchups(y).catch(() => ({})))),
+            api.getRosters("2026"),
+            api.getRosters("2025"),
+            api.getMatchups("2026").catch(() => ({})),
+            api.getMatchups("2025").catch(() => ({})),
         ]);
 
         standingsData = standings;
         historyData = history;
         transactionsData = transactions || [];
-        matchupsData = {};
-        rostersData = {};
-        YEARS.forEach((y, i) => {
-            matchupsData[y] = matchupsArr[i] || {};
-            rostersData[y] = rostersArr[i] || [];
-        });
+        matchupsData = { "2026": mu2026||{}, "2025": mu2025||{} };
+        rostersData = {
+            "2026": rosters2026 || [],
+            "2025": rosters2025 || [],
+        };
         (leagueUsers || []).forEach(u => { usersMap[u.username] = u.avatar_url; });
 
         // Load stats for best player column (all years)
-        const statsArr = await Promise.all(YEARS.map(y => api.getPlayerStats(y).catch(() => ({}))));
-        YEARS.forEach((y, i) => { statsCache[y] = statsArr[i] || {}; });
+        const [s26, s25] = await Promise.all([
+            api.getPlayerStats("2026").catch(() => ({})),
+            api.getPlayerStats("2025").catch(() => ({})),
+        ]);
+        statsCache["2026"] = s26 || {};
+        statsCache["2025"] = s25 || {};
 
         document.getElementById("home-year-select").addEventListener("change", e => {
             selectedYear = e.target.value;
@@ -640,6 +576,7 @@ async function init() {
         });
 
         document.getElementById("home-rules").innerHTML = renderRules();
+        document.getElementById("home-fees-table").innerHTML = buildFeesTable();
         updateStandings();
 
     } catch (err) {

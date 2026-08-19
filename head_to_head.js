@@ -1,4 +1,4 @@
-import { api } from "./dataService.js?v=20260630a";
+import { api } from "./dataService.js?v=20260609a";
 import { renderNav } from "./components/nav.js";
 
 let data = null;
@@ -9,7 +9,7 @@ const AVATAR_COLORS_H2H = ["#5a5be6","#e74c82","#3ecf8e","#f6ad55","#4299e1","#9
 function accentColorH2H(name) {
     return AVATAR_COLORS_H2H[(name||"?").split("").reduce((s,c)=>s+c.charCodeAt(0),0) % AVATAR_COLORS_H2H.length];
 }
-const INACTIVE = new Set(['ClickToWiniPad', 'aaaaaronoraaaaa', 'youngli', 'HoosierDan15']);
+const INACTIVE = new Set(['edgxrjiang', 'riqi', 'shmyung', 'urmummma']);
 
 function getTeams(dataset) {
     const set = new Set();
@@ -235,7 +235,7 @@ async function init() {
         ]);
         data = h2hData;
         const PAUL_YOON_AVATAR = "https://sleepercdn.com/images/v4/avatars/avatar_default_blue.webp";
-        (leagueUsers || []).forEach(u => { usersMap[u.username] = u.avatar_url; });
+        (leagueUsers || []).forEach(u => { usersMap[u.username] = u.username === "Paul_Yoon" ? PAUL_YOON_AVATAR : u.avatar_url; });
 
         const controls = document.getElementById("h2h-controls");
         controls.innerHTML = `
