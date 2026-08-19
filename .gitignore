@@ -1,0 +1,10 @@
+# Indigo League — data/ IS committed (the site fetches data/{year}/*.json directly)
+venv/
+.claude/
+__pycache__/
+*.pyc
+scripts/players_cache.json
+.DS_Store
+
+# graft's local graph cache — regenerable, not committed (run `graft build`).
+graft/
