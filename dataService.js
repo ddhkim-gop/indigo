@@ -1,5 +1,4 @@
 const D = window.__STATIC_DATA__;
-const CURRENT_YEAR = "2026";   // live roster lives in data.js (refresh-updated); past years use snapshots
 const _cache = {};
 async function fetchJSON(url) {
     if (_cache[url]) return _cache[url];
@@ -10,14 +9,7 @@ async function fetchJSON(url) {
 }
 export const api = {
     async getDraft(year)       { return D.draft[year] || []; },
-    // Historical years read their end-of-season roster snapshot (data/{year}/rosters.json);
-    // the current year uses the live roster from data.js so the 30-min refresh stays fresh.
-    async getRosters(year)     {
-        if (year && String(year) !== CURRENT_YEAR) {
-            try { return await fetchJSON(`data/${year}/rosters.json`); } catch (e) {}
-        }
-        return D.rosters || [];
-    },
+    async getRosters(year)     { return D.rosters || []; },
     async getUsers(year)       { return D.users || []; },
     async getLeagueUsers()     { return D.league_users || []; },
     async getTransactions()    { return D.transactions || []; },

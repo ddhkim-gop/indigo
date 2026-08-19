@@ -1,4 +1,4 @@
-import { api } from "./dataService.js?v=20260630a";
+import { api } from "./dataService.js?v=20260609a";
 import { renderNav } from "./components/nav.js";
 
 renderNav();
@@ -21,7 +21,7 @@ async function init() {
         const PAUL_YOON_AVATAR = "https://sleepercdn.com/images/v4/avatars/avatar_default_blue.webp";
         const usersMap = {};
         (leagueUsers || []).forEach(u => {
-            usersMap[u.username] = u.avatar_url;
+            usersMap[u.username] = u.username === "Paul_Yoon" ? PAUL_YOON_AVATAR : u.avatar_url;
         });
         const AVATAR_COLORS = ["#6366f1","#8b5cf6","#ec4899","#f59e0b","#10b981","#3b82f6","#ef4444","#14b8a6"];
         function makeAvatarEl(name) {

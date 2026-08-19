@@ -1,4 +1,4 @@
-import { api } from "./dataService.js?v=20260630a";
+import { api } from "./dataService.js?v=20260609a";
 import { renderNav } from "./components/nav.js";
 
 const PLAYER_PROFILES = {
@@ -84,7 +84,7 @@ function abbrevName(name) {
 }
 
 const AVATAR_COLORS_DRAFT = ["#5a5be6","#e74c82","#3ecf8e","#f6ad55","#4299e1","#9f7aea","#ed64a6","#38b2ac"];
-const INACTIVE_USERS = new Set(['ClickToWiniPad', 'aaaaaronoraaaaa', 'youngli', 'HoosierDan15']);
+const INACTIVE_USERS = new Set(['edgxrjiang', 'riqi', 'shmyung', 'urmummma', 'JUNNNNAY']);
 function accentColorDraft(name) {
     return AVATAR_COLORS_DRAFT[(name||"?").split("").reduce((s,c)=>s+c.charCodeAt(0),0) % AVATAR_COLORS_DRAFT.length];
 }
@@ -198,13 +198,13 @@ function renderPickCard(p, roundNum) {
             </span>
         </div>
 
-        <!-- Row 3: only shown when traded (someone other than the slot owner selected) -->
+        <!-- Row 3: picker avatar + name (bottom), with → if traded -->
         <div style="margin-top:auto;display:flex;align-items:center;gap:4px;min-width:0;">
-            ${traded ? `<span style="font-size:10px;color:rgba(0,0,0,.4);flex-shrink:0;font-weight:700;">→</span>
+            ${traded ? `<span style="font-size:10px;color:rgba(0,0,0,.4);flex-shrink:0;font-weight:700;">→</span>` : ""}
             ${avatarEl(p.picked_by, 14)}
             <span style="font-size:9px;color:rgba(0,0,0,.55);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1;">
                 ${p.picked_by||"—"}
-            </span>` : ""}
+            </span>
         </div>
     </div>`;
 }
@@ -417,7 +417,7 @@ async function renderDraftAnalysis(picks, year) {
     if (!el) return;
     el.innerHTML = `<div style="color:#5a6070;font-size:13px;">Loading analysis…</div>`;
 
-    const isStartup = year === "2025";
+    const isStartup = year === "2023";
     const revisitYear = parseInt(year) + 2;
     const canRevisit = revisitYear <= 2026;
     const totalTeams = 12;
@@ -674,7 +674,7 @@ async function load(year) {
         const picks = await api.getDraft(year);
         (picks||[]).forEach(p => { p.season = year; });
 
-        // Load player stats for this year if available (completed seasons)
+        // Load player stats for this year if available (2023-2025)
         if (["2025"].includes(year)) {
             const [stats, nameMap] = await Promise.all([
                 api.getPlayerStats(year).catch(()=>({})),
@@ -708,16 +708,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const select = document.getElementById("yearSelect");
     const validYears = new Set(Array.from(select.options).map(o => o.value));
     const hashYear = location.hash.replace("#", "");
-    if (validYears.has(hashYear)) {
-        select.value = hashYear;
-    } else {
-        // Default to the latest season that actually has draft data
-        // (options are ordered newest→oldest), so pre-draft years are skipped.
-        for (const opt of select.options) {
-            const picks = await api.getDraft(opt.value).catch(() => []);
-            if (picks && picks.length) { select.value = opt.value; break; }
-        }
-    }
+    if (validYears.has(hashYear)) select.value = hashYear;
 
     load(select.value);
     select.addEventListener("change", () => {

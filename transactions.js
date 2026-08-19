@@ -1,4 +1,4 @@
-import { api } from "./dataService.js?v=20260630a";
+import { api } from "./dataService.js?v=20260609a";
 import { renderNav } from "./components/nav.js";
 
 const POS_COLORS = { QB:"#e74c82", RB:"#3ecf8e", WR:"#4299e1", TE:"#f6ad55", K:"#9f7aea", DEF:"#94a3b8" };
@@ -43,7 +43,7 @@ function posBadge(pos) {
     return `<span class="pos-badge" style="background:${color}">${pos || "?"}</span>`;
 }
 
-const INACTIVE_USERS = new Set(['ClickToWiniPad', 'aaaaaronoraaaaa', 'youngli', 'HoosierDan15']);
+const INACTIVE_USERS = new Set(['edgxrjiang', 'riqi', 'shmyung', 'urmummma', 'JUNNNNAY']);
 function avatarEl(name) {
     const letter = (name||"?")[0].toUpperCase();
     if (INACTIVE_USERS.has(name)) {
@@ -107,12 +107,50 @@ function buildPickChainHtml(year, round, team, afterDate, depth, retradeConsumer
 
 function assetRow(asset, receivedBy, pickConsumers, tradeDate, retradeConsumers, draftConsumers) {
     if ((asset.position || "").toUpperCase() === "PICK") {
-        // Redraft keeper league — show the pick itself, not dynasty-style provenance
-        // (which player it became / where it came from).
-        return `<div class="tx-asset-row">
-            <span class="pick-badge">PICK</span>
-            <span class="tx-asset-name">${fmtPick(asset.name)}</span>
-        </div>`;
+        // name format: "2025 Round 2" → year=2025, round=2
+        const m = (asset.name || "").match(/(\d{4})\s+Round\s+(\d+)/i);
+        let detailHtml = "";
+        const round = m ? parseInt(m[2]) : null;
+        let slotSuffix = "";
+        if (m && receivedBy) {
+            const year = m[1];
+            const key = `${year}-${round}-${receivedBy}`;
+            const idx = pickConsumers[key] || 0;
+
+            // Check if receivedBy later re-traded this pick
+            const chainHtml = buildPickChainHtml(year, round, receivedBy, tradeDate || "", 0, retradeConsumers, draftConsumers);
+
+            if (chainHtml !== null) {
+                // Pick was re-traded — show the chain instead of drafted player
+                detailHtml = `<div style="margin-top:4px;padding:4px 8px;background:#1a1c22;border-radius:6px;border-left:2px solid #a78bfa22;">
+                    ${chainHtml}
+                </div>`;
+            } else {
+                // Pick stayed with receivedBy — show who they drafted
+                const arr = pickMap[key] || [];
+                const dp = arr[idx];
+                if (dp) {
+                    pickConsumers[key] = idx + 1;
+                    const pickInRound = dp.pick_no - (round - 1) * NUM_TEAMS;
+                    slotSuffix = ` (${round}.${String(pickInRound).padStart(2, "0")})`;
+                    detailHtml = `
+    <div style="margin-top:4px;padding:4px 8px;background:#1a1c22;border-radius:6px;border-left:2px solid #3d4350;">
+        <div style="font-size:10px;color:#5a6070;margin-bottom:2px;">Drafted</div>
+        <div style="display:flex;align-items:center;gap:5px;">
+            ${posBadge(dp.position)}
+            <span style="font-size:11px;font-weight:600;color:#c9cdd4;">${dp.player}</span>
+        </div>
+    </div>`;
+                }
+            }
+        }
+        return `<div class="tx-asset-row" style="flex-direction:column;align-items:flex-start;">
+    <div style="display:flex;align-items:center;gap:6px;">
+        <span class="pick-badge">PICK</span>
+        <span class="tx-asset-name">${fmtPick(asset.name)}${slotSuffix}</span>
+    </div>
+    ${detailHtml}
+</div>`;
     }
     return `<div class="tx-asset-row">
         ${posBadge(asset.position)}
@@ -573,7 +611,7 @@ async function init() {
         ]);
         allData = txData;
         const PAUL_YOON_AVATAR = "https://sleepercdn.com/images/v4/avatars/avatar_default_blue.webp";
-        (usersList || []).forEach(u => { usersMap[u.username] = u.avatar_url; });
+        (usersList || []).forEach(u => { usersMap[u.username] = u.username === "Paul_Yoon" ? PAUL_YOON_AVATAR : u.avatar_url; });
 
         // Determine active users (have rosters in any year)
         const rosters2026 = await api.getRosters("2026").catch(() => []);

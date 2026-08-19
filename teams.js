@@ -1,4 +1,4 @@
-import { api } from "./dataService.js?v=20260630a";
+import { api } from "./dataService.js?v=20260609a";
 import { renderNav } from "./components/nav.js";
 
 const YEARS = ["2025", "2026"];
@@ -57,7 +57,7 @@ function playerValueScore(p) {
     // Sort by 2025 pts_half_ppr desc; fallback to 2024, then 0
     const pid = p.player_id;
     if (statsCache["2025"]?.[pid]?.pts_half_ppr > 0) return statsCache["2025"][pid].pts_half_ppr;
-    if (statsCache[]?.[pid]?.pts_half_ppr > 0) return statsCache[][pid].pts_half_ppr;
+    if (statsCache["2024"]?.[pid]?.pts_half_ppr > 0) return statsCache["2024"][pid].pts_half_ppr;
     return 0;
 }
 
@@ -99,10 +99,10 @@ async function init() {
     await loadPlayerStats();
 
     const PAUL_YOON_AVATAR = "https://sleepercdn.com/images/v4/avatars/avatar_default_blue.webp";
-        (leagueUsers || []).forEach(u => { usersMap[u.username] = u.avatar_url; });
+        (leagueUsers || []).forEach(u => { usersMap[u.username] = u.username === "Paul_Yoon" ? PAUL_YOON_AVATAR : u.avatar_url; });
 
     // Team dropdown
-    const INACTIVE_USERS_SET = new Set(['ClickToWiniPad', 'aaaaaronoraaaaa', 'youngli', 'HoosierDan15']);
+    const INACTIVE_USERS_SET = new Set(['edgxrjiang', 'riqi', 'shmyung', 'urmummma', 'JUNNNNAY']);
     const activeRosters = (rosters || []).filter(r => r.owner && !INACTIVE_USERS_SET.has(r.owner))
         .sort((a,b) => a.owner.localeCompare(b.owner));
     const dropdownWrap = document.getElementById("teams-dropdown-wrap");
@@ -173,7 +173,7 @@ async function init() {
         // Pick a consistent accent color from the username (same palette Sleeper uses)
         const AVATAR_COLORS_T = ["#5a5be6","#e74c82","#3ecf8e","#f6ad55","#4299e1","#9f7aea","#ed64a6","#38b2ac"];
         const accentColor = AVATAR_COLORS_T[ownerName.split("").reduce((s,c)=>s+c.charCodeAt(0),0) % AVATAR_COLORS_T.length];
-        const INACTIVE_USERS_T = new Set(['ClickToWiniPad', 'aaaaaronoraaaaa', 'youngli', 'HoosierDan15']);
+        const INACTIVE_USERS_T = new Set(['edgxrjiang', 'riqi', 'shmyung', 'urmummma', 'JUNNNNAY']);
 
         // Build avatar element
         let avatarEl;

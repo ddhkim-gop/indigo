@@ -1,4 +1,4 @@
-import { api } from "./dataService.js?v=20260630a";
+import { api } from "./dataService.js?v=20260609a";
 import { renderNav } from "./components/nav.js";
 
 renderNav();
@@ -36,7 +36,7 @@ async function fetchWeekStats(year, weekStr) {
     return weekStatsCache[key];
 }
 
-const INACTIVE_USERS = new Set(['ClickToWiniPad', 'aaaaaronoraaaaa', 'youngli', 'HoosierDan15']);
+const INACTIVE_USERS = new Set(['edgxrjiang', 'riqi', 'shmyung', 'urmummma', 'JUNNNNAY']);
 function avatarEl(name, size = 24) {
     const sz = size;
     const letter = (name||"?")[0].toUpperCase();
@@ -541,7 +541,7 @@ async function init() {
     try {
         const leagueUsers = await api.getLeagueUsers();
         const PAUL_YOON_AVATAR = "https://sleepercdn.com/images/v4/avatars/avatar_default_blue.webp";
-        (leagueUsers || []).forEach(u => { usersMap[u.username] = u.avatar_url; });
+        (leagueUsers || []).forEach(u => { usersMap[u.username] = u.username === "Paul_Yoon" ? PAUL_YOON_AVATAR : u.avatar_url; });
     } catch { /* avatars optional */ }
 
     document.getElementById("mu-year-select").addEventListener("change", e => {

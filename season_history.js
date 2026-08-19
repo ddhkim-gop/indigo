@@ -1,4 +1,4 @@
-import { api } from "./dataService.js?v=20260630a";
+import { api } from "./dataService.js?v=20260609a";
 import { renderNav } from "./components/nav.js";
 
 renderNav();
@@ -941,7 +941,6 @@ async function init() {
             display:flex; align-items:center; gap:16px;
             margin-bottom:20px; padding-bottom:14px;
             border-bottom:2px solid #2d3139;
-            flex-wrap:wrap; row-gap:8px;
         }
         .sh-year-title { font-size:24px; font-weight:800; color:#f0f1f3; }
         .sh-champion {
