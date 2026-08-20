@@ -3656,6 +3656,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 94
         },
         {
+          "player_id": "11583",
+          "espn_id": null,
+          "name": "Jonathon Brooks",
+          "position": "RB",
+          "team": "CAR",
+          "birth_date": "2003-07-21",
+          "college": "Texas",
+          "height": "72",
+          "weight": "207",
+          "years_exp": 2,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 92
+        },
+        {
           "player_id": "11647",
           "espn_id": null,
           "name": "Kimani Vidal",
@@ -3669,21 +3684,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 141
-        },
-        {
-          "player_id": "11655",
-          "espn_id": null,
-          "name": "Tyrone Tracy",
-          "position": "RB",
-          "team": "NYG",
-          "birth_date": "1999-11-23",
-          "college": "Purdue",
-          "height": "71",
-          "weight": "210",
-          "years_exp": 2,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 110
         },
         {
           "player_id": "12540",
@@ -3714,21 +3714,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 212
-        },
-        {
-          "player_id": "13320",
-          "espn_id": null,
-          "name": "Zachariah Branch",
-          "position": "WR",
-          "team": "ATL",
-          "birth_date": "2004-03-29",
-          "college": "Georgia",
-          "height": "70",
-          "weight": "180",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 185
         },
         {
           "player_id": "13338",
@@ -3806,6 +3791,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 36
         },
         {
+          "player_id": "4983",
+          "espn_id": 3915416,
+          "name": "DJ Moore",
+          "position": "WR",
+          "team": "BUF",
+          "birth_date": "1997-04-14",
+          "college": "Maryland",
+          "height": "72",
+          "weight": "213",
+          "years_exp": 8,
+          "status": "Active",
+          "injury_status": "Questionable",
+          "search_rank": 56
+        },
+        {
           "player_id": "5012",
           "espn_id": 3116365,
           "name": "Mark Andrews",
@@ -3864,21 +3864,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 58
-        },
-        {
-          "player_id": "8132",
-          "espn_id": null,
-          "name": "Tyler Allgeier",
-          "position": "RB",
-          "team": "ARI",
-          "birth_date": "2000-04-15",
-          "college": "BYU",
-          "height": "70",
-          "weight": "225",
-          "years_exp": 4,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 89
         },
         {
           "player_id": "8142",
@@ -3971,11 +3956,11 @@ window.__STATIC_DATA__ = {
           "search_rank": 1
         },
         {
-          "player_id": "SEA",
+          "player_id": "JAX",
           "espn_id": null,
-          "name": "Seattle Seahawks",
+          "name": "Jacksonville Jaguars",
           "position": "DEF",
-          "team": "SEA",
+          "team": "JAX",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -6353,21 +6338,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 135
         },
         {
-          "player_id": "11583",
-          "espn_id": null,
-          "name": "Jonathon Brooks",
-          "position": "RB",
-          "team": "CAR",
-          "birth_date": "2003-07-21",
-          "college": "Texas",
-          "height": "72",
-          "weight": "207",
-          "years_exp": 2,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 92
-        },
-        {
           "player_id": "12467",
           "espn_id": null,
           "name": "Jordan James",
@@ -6428,6 +6398,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 208
         },
         {
+          "player_id": "12487",
+          "espn_id": null,
+          "name": "Terrance Ferguson",
+          "position": "TE",
+          "team": "LAR",
+          "birth_date": "2003-03-07",
+          "college": "Oregon",
+          "height": "77",
+          "weight": "252",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 141
+        },
+        {
           "player_id": "12490",
           "espn_id": null,
           "name": "Bhayshul Tuten",
@@ -6473,34 +6458,19 @@ window.__STATIC_DATA__ = {
           "search_rank": 179
         },
         {
-          "player_id": "12536",
+          "player_id": "13281",
           "espn_id": null,
-          "name": "Jaylin Noel",
+          "name": "Jordyn Tyson",
           "position": "WR",
-          "team": "HOU",
-          "birth_date": "2002-09-04",
-          "college": "Iowa State",
-          "height": "71",
-          "weight": "201",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 190
-        },
-        {
-          "player_id": "13279",
-          "espn_id": null,
-          "name": "Carnell Tate",
-          "position": "WR",
-          "team": "TEN",
-          "birth_date": "2005-01-19",
-          "college": "Ohio State",
+          "team": "NO",
+          "birth_date": "2004-08-12",
+          "college": "Arizona State",
           "height": "74",
-          "weight": "192",
+          "weight": "203",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 61
+          "injury_status": "Doubtful",
+          "search_rank": 62
         },
         {
           "player_id": "13287",
@@ -6578,6 +6548,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 126
         },
         {
+          "player_id": "3198",
+          "espn_id": 3043078,
+          "name": "Derrick Henry",
+          "position": "RB",
+          "team": "BAL",
+          "birth_date": "1994-01-04",
+          "college": "Alabama",
+          "height": "75",
+          "weight": "252",
+          "years_exp": 10,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 7
+        },
+        {
           "player_id": "4199",
           "espn_id": 3042519,
           "name": "Aaron Jones",
@@ -6636,6 +6621,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 12
+        },
+        {
+          "player_id": "8132",
+          "espn_id": null,
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI",
+          "birth_date": "2000-04-15",
+          "college": "BYU",
+          "height": "70",
+          "weight": "225",
+          "years_exp": 4,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 89
         },
         {
           "player_id": "8146",
@@ -6713,11 +6713,11 @@ window.__STATIC_DATA__ = {
           "search_rank": 148
         },
         {
-          "player_id": "JAX",
+          "player_id": "SEA",
           "espn_id": null,
-          "name": "Jacksonville Jaguars",
+          "name": "Seattle Seahawks",
           "position": "DEF",
-          "team": "JAX",
+          "team": "SEA",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -7160,6 +7160,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 557
         },
         {
+          "player_id": "11655",
+          "espn_id": null,
+          "name": "Tyrone Tracy",
+          "position": "RB",
+          "team": "NYG",
+          "birth_date": "1999-11-23",
+          "college": "Purdue",
+          "height": "71",
+          "weight": "210",
+          "years_exp": 2,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 110
+        },
+        {
           "player_id": "12462",
           "espn_id": null,
           "name": "Damien Martinez",
@@ -7173,21 +7188,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 999
-        },
-        {
-          "player_id": "12487",
-          "espn_id": null,
-          "name": "Terrance Ferguson",
-          "position": "TE",
-          "team": "LAR",
-          "birth_date": "2003-03-07",
-          "college": "Oregon",
-          "height": "77",
-          "weight": "252",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 141
         },
         {
           "player_id": "12493",
@@ -7235,6 +7235,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 11
         },
         {
+          "player_id": "12536",
+          "espn_id": null,
+          "name": "Jaylin Noel",
+          "position": "WR",
+          "team": "HOU",
+          "birth_date": "2002-09-04",
+          "college": "Iowa State",
+          "height": "71",
+          "weight": "201",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": "Questionable",
+          "search_rank": 190
+        },
+        {
           "player_id": "13268",
           "espn_id": null,
           "name": "Elijah Sarratt",
@@ -7265,19 +7280,19 @@ window.__STATIC_DATA__ = {
           "search_rank": 194
         },
         {
-          "player_id": "13281",
+          "player_id": "13279",
           "espn_id": null,
-          "name": "Jordyn Tyson",
+          "name": "Carnell Tate",
           "position": "WR",
-          "team": "NO",
-          "birth_date": "2004-08-12",
-          "college": "Arizona State",
+          "team": "TEN",
+          "birth_date": "2005-01-19",
+          "college": "Ohio State",
           "height": "74",
-          "weight": "203",
+          "weight": "192",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Doubtful",
-          "search_rank": 62
+          "injury_status": "Questionable",
+          "search_rank": 61
         },
         {
           "player_id": "13305",
@@ -7293,6 +7308,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 139
+        },
+        {
+          "player_id": "13320",
+          "espn_id": null,
+          "name": "Zachariah Branch",
+          "position": "WR",
+          "team": "ATL",
+          "birth_date": "2004-03-29",
+          "college": "Georgia",
+          "height": "70",
+          "weight": "180",
+          "years_exp": 0,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 185
         },
         {
           "player_id": "13337",
@@ -7340,21 +7370,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 46
         },
         {
-          "player_id": "3198",
-          "espn_id": 3043078,
-          "name": "Derrick Henry",
-          "position": "RB",
-          "team": "BAL",
-          "birth_date": "1994-01-04",
-          "college": "Alabama",
-          "height": "75",
-          "weight": "252",
-          "years_exp": 10,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 7
-        },
-        {
           "player_id": "4039",
           "espn_id": 2977187,
           "name": "Cooper Kupp",
@@ -7383,21 +7398,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 221
-        },
-        {
-          "player_id": "4983",
-          "espn_id": 3915416,
-          "name": "DJ Moore",
-          "position": "WR",
-          "team": "BUF",
-          "birth_date": "1997-04-14",
-          "college": "Maryland",
-          "height": "72",
-          "weight": "213",
-          "years_exp": 8,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 56
         },
         {
           "player_id": "5849",
@@ -8638,6 +8638,143 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 19, 2026 • 1:37 PM PT",
+      "transaction_id": "1395918693749235712",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee",
+        "Paul_Yoon"
+      ],
+      "assets_received": {
+        "PattyMahomiee": [
+          {
+            "name": "Jonathon Brooks",
+            "position": "RB",
+            "team": "CAR"
+          },
+          {
+            "name": "Jacksonville Jaguars",
+            "position": "DEF",
+            "team": "JAX"
+          },
+          {
+            "name": "$31 FAAB",
+            "position": "FAAB",
+            "team": null
+          }
+        ],
+        "Paul_Yoon": [
+          {
+            "name": "Tyler Allgeier",
+            "position": "RB",
+            "team": "ARI"
+          },
+          {
+            "name": "Seattle Seahawks",
+            "position": "DEF",
+            "team": "SEA"
+          }
+        ]
+      }
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 19, 2026 • 12:09 PM PT",
+      "transaction_id": "1395896382719557632",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee",
+        "bsohn00"
+      ],
+      "assets_received": {
+        "bsohn00": [
+          {
+            "name": "Tyrone Tracy",
+            "position": "RB",
+            "team": "NYG"
+          },
+          {
+            "name": "Zachariah Branch",
+            "position": "WR",
+            "team": "ATL"
+          },
+          {
+            "name": "2028 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "natepark99"
+          },
+          {
+            "name": "2028 Round 3",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "Paul_Yoon"
+          }
+        ],
+        "PattyMahomiee": [
+          {
+            "name": "DJ Moore",
+            "position": "WR",
+            "team": "BUF"
+          }
+        ]
+      }
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 19, 2026 • 12:00 PM PT",
+      "transaction_id": "1395894190843367424",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "Paul_Yoon",
+        "bsohn00"
+      ],
+      "assets_received": {
+        "Paul_Yoon": [
+          {
+            "name": "Terrance Ferguson",
+            "position": "TE",
+            "team": "LAR"
+          },
+          {
+            "name": "Jordyn Tyson",
+            "position": "WR",
+            "team": "NO"
+          },
+          {
+            "name": "Derrick Henry",
+            "position": "RB",
+            "team": "BAL"
+          }
+        ],
+        "bsohn00": [
+          {
+            "name": "Jaylin Noel",
+            "position": "WR",
+            "team": "HOU"
+          },
+          {
+            "name": "Carnell Tate",
+            "position": "WR",
+            "team": "TEN"
+          },
+          {
+            "name": "2027 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "willie425"
+          }
+        ]
+      }
     },
     {
       "season": "2026",
@@ -24902,11 +25039,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 2,
       "roster_id": "2",
-      "owner_id": "8",
-      "previous_owner_id": "6",
-      "owner_name": "Paul_Yoon",
+      "owner_id": "10",
+      "previous_owner_id": "8",
+      "owner_name": "bsohn00",
       "original_owner_name": "willie425",
-      "previous_owner_name": "natepark99"
+      "previous_owner_name": "Paul_Yoon"
     },
     {
       "season": "2027",
@@ -25062,11 +25199,11 @@ window.__STATIC_DATA__ = {
       "season": "2028",
       "round": 2,
       "roster_id": "6",
-      "owner_id": "1",
-      "previous_owner_id": "6",
-      "owner_name": "PattyMahomiee",
+      "owner_id": "10",
+      "previous_owner_id": "1",
+      "owner_name": "bsohn00",
       "original_owner_name": "natepark99",
-      "previous_owner_name": "natepark99"
+      "previous_owner_name": "PattyMahomiee"
     },
     {
       "season": "2026",
@@ -25142,11 +25279,11 @@ window.__STATIC_DATA__ = {
       "season": "2028",
       "round": 3,
       "roster_id": "8",
-      "owner_id": "1",
-      "previous_owner_id": "6",
-      "owner_name": "PattyMahomiee",
+      "owner_id": "10",
+      "previous_owner_id": "1",
+      "owner_name": "bsohn00",
       "original_owner_name": "Paul_Yoon",
-      "previous_owner_name": "natepark99"
+      "previous_owner_name": "PattyMahomiee"
     },
     {
       "season": "2029",
