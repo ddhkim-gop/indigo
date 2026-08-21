@@ -3836,19 +3836,19 @@ window.__STATIC_DATA__ = {
           "search_rank": 129
         },
         {
-          "player_id": "6783",
-          "espn_id": 4241463,
-          "name": "Jerry Jeudy",
+          "player_id": "6819",
+          "espn_id": 4035687,
+          "name": "Michael Pittman",
           "position": "WR",
-          "team": "CLE",
-          "birth_date": "1999-04-24",
-          "college": "Alabama",
-          "height": "73",
-          "weight": "195",
+          "team": "PIT",
+          "birth_date": "1997-10-05",
+          "college": "USC",
+          "height": "76",
+          "weight": "223",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": null,
-          "search_rank": 160
+          "injury_status": "Questionable",
+          "search_rank": 100
         },
         {
           "player_id": "7611",
@@ -5360,6 +5360,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 123
         },
         {
+          "player_id": "6783",
+          "espn_id": 4241463,
+          "name": "Jerry Jeudy",
+          "position": "WR",
+          "team": "CLE",
+          "birth_date": "1999-04-24",
+          "college": "Alabama",
+          "height": "73",
+          "weight": "195",
+          "years_exp": 6,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 160
+        },
+        {
           "player_id": "6790",
           "espn_id": 4259545,
           "name": "D'Andre Swift",
@@ -5403,21 +5418,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 4
-        },
-        {
-          "player_id": "6819",
-          "espn_id": 4035687,
-          "name": "Michael Pittman",
-          "position": "WR",
-          "team": "PIT",
-          "birth_date": "1997-10-05",
-          "college": "USC",
-          "height": "76",
-          "weight": "223",
-          "years_exp": 6,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 100
         },
         {
           "player_id": "8144",
@@ -8594,6 +8594,40 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 19, 2026 • 8:47 PM PT",
+      "transaction_id": "1396026804317208576",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee",
+        "GibbyMyTD"
+      ],
+      "assets_received": {
+        "GibbyMyTD": [
+          {
+            "name": "Jerry Jeudy",
+            "position": "WR",
+            "team": "CLE"
+          },
+          {
+            "name": "2027 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "daevn"
+          }
+        ],
+        "PattyMahomiee": [
+          {
+            "name": "Michael Pittman",
+            "position": "WR",
+            "team": "PIT"
+          }
+        ]
+      }
     },
     {
       "season": "2026",
@@ -25357,11 +25391,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 2,
       "roster_id": "11",
-      "owner_id": "1",
-      "previous_owner_id": "6",
-      "owner_name": "PattyMahomiee",
+      "owner_id": "5",
+      "previous_owner_id": "1",
+      "owner_name": "GibbyMyTD",
       "original_owner_name": "daevn",
-      "previous_owner_name": "natepark99"
+      "previous_owner_name": "PattyMahomiee"
     },
     {
       "season": "2026",
