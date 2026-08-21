@@ -6764,21 +6764,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 121
         },
         {
-          "player_id": "11627",
-          "espn_id": null,
-          "name": "Troy Franklin",
-          "position": "WR",
-          "team": "DEN",
-          "birth_date": "2003-02-06",
-          "college": "Oregon",
-          "height": "75",
-          "weight": "180",
-          "years_exp": 2,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 171
-        },
-        {
           "player_id": "11631",
           "espn_id": null,
           "name": "Brian Thomas",
@@ -6987,6 +6972,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 207
+        },
+        {
+          "player_id": "3257",
+          "espn_id": 2578570,
+          "name": "Jacoby Brissett",
+          "position": "QB",
+          "team": "ARI",
+          "birth_date": "1992-12-11",
+          "college": "North Carolina State",
+          "height": "76",
+          "weight": "235",
+          "years_exp": 10,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 184
         },
         {
           "player_id": "5022",
@@ -8539,6 +8539,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 20, 2026 • 4:46 PM PT",
+      "transaction_id": "1396328682829651968",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "justinpark99"
+      ],
+      "added": [
+        {
+          "name": "Jacoby Brissett",
+          "position": "QB",
+          "team": "ARI"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Troy Franklin",
+          "position": "WR",
+          "team": "DEN"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
