@@ -6077,21 +6077,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 3
         },
         {
-          "player_id": "4988",
-          "espn_id": 3128720,
-          "name": "Nick Chubb",
-          "position": "RB",
-          "team": null,
-          "birth_date": "1995-12-27",
-          "college": "Georgia",
-          "height": "71",
-          "weight": "227",
-          "years_exp": 8,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 244
-        },
-        {
           "player_id": "5045",
           "espn_id": 3128429,
           "name": "Courtland Sutton",
@@ -8554,6 +8539,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 22, 2026 • 8:19 AM PT",
+      "transaction_id": "1396925678544293888",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "cheigh"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Nick Chubb",
+          "position": "RB",
+          "team": null
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
