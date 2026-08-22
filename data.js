@@ -4994,6 +4994,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 156
         },
         {
+          "player_id": "13307",
+          "espn_id": null,
+          "name": "Marlin Klein",
+          "position": "TE",
+          "team": "HOU",
+          "birth_date": "2002-09-17",
+          "college": "Michigan",
+          "height": "78",
+          "weight": "250",
+          "years_exp": 0,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 522
+        },
+        {
           "player_id": "13329",
           "espn_id": null,
           "name": "Malik Benson",
@@ -5022,21 +5037,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 139
-        },
-        {
-          "player_id": "13424",
-          "espn_id": null,
-          "name": "Seth McGowan",
-          "position": "RB",
-          "team": "IND",
-          "birth_date": "2001-10-23",
-          "college": "Kentucky",
-          "height": "72",
-          "weight": "223",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 471
         },
         {
           "player_id": "13533",
@@ -8554,6 +8554,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 21, 2026 • 11:41 PM PT",
+      "transaction_id": "1396795505823981568",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "seunghosama"
+      ],
+      "added": [
+        {
+          "name": "Marlin Klein",
+          "position": "TE",
+          "team": "HOU"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Seth McGowan",
+          "position": "RB",
+          "team": "IND"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
