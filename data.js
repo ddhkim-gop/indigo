@@ -3638,7 +3638,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 28
+          "search_rank": 27
         },
         {
           "player_id": "11533",
@@ -3653,7 +3653,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 94
+          "search_rank": 95
         },
         {
           "player_id": "11583",
@@ -3668,7 +3668,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 92
+          "search_rank": 90
         },
         {
           "player_id": "11647",
@@ -3743,7 +3743,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 330
+          "search_rank": 228
         },
         {
           "player_id": "2505",
@@ -3818,7 +3818,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 56
+          "search_rank": 55
         },
         {
           "player_id": "5012",
@@ -3848,7 +3848,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 127
+          "search_rank": 133
         },
         {
           "player_id": "6819",
@@ -3863,7 +3863,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 101
+          "search_rank": 102
         },
         {
           "player_id": "7611",
@@ -3893,7 +3893,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": "PUP",
-          "search_rank": 93
+          "search_rank": 94
         },
         {
           "player_id": "8167",
@@ -4034,7 +4034,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 180
+          "search_rank": 181
         },
         {
           "player_id": "11584",
@@ -4109,7 +4109,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 653
+          "search_rank": 679
         },
         {
           "player_id": "12492",
@@ -4184,7 +4184,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 206
+          "search_rank": 205
         },
         {
           "player_id": "13302",
@@ -4244,7 +4244,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 19
+          "search_rank": 17
         },
         {
           "player_id": "7523",
@@ -4274,7 +4274,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 3
+          "search_rank": 4
         },
         {
           "player_id": "7839",
@@ -4319,7 +4319,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 562
+          "search_rank": 606
         },
         {
           "player_id": "8151",
@@ -4334,7 +4334,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 19
+          "search_rank": 18
         },
         {
           "player_id": "9486",
@@ -4349,7 +4349,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 210
+          "search_rank": 209
         },
         {
           "player_id": "HOU",
@@ -4385,7 +4385,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 360
+          "search_rank": 375
         },
         {
           "player_id": "11604",
@@ -4550,7 +4550,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 10,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 134
+          "search_rank": 132
         },
         {
           "player_id": "4881",
@@ -4670,7 +4670,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 23
+          "search_rank": 24
         },
         {
           "player_id": "8155",
@@ -4700,7 +4700,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 164
+          "search_rank": 161
         },
         {
           "player_id": "8676",
@@ -4715,7 +4715,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 151
+          "search_rank": 147
         },
         {
           "player_id": "9504",
@@ -4811,7 +4811,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 186
+          "search_rank": 183
         },
         {
           "player_id": "11625",
@@ -4886,7 +4886,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 136
+          "search_rank": 134
         },
         {
           "player_id": "12501",
@@ -4901,7 +4901,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 122
+          "search_rank": 126
         },
         {
           "player_id": "12502",
@@ -5006,7 +5006,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 522
+          "search_rank": 557
         },
         {
           "player_id": "13329",
@@ -5021,7 +5021,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 512
+          "search_rank": 531
         },
         {
           "player_id": "13417",
@@ -5036,7 +5036,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 139
+          "search_rank": 136
         },
         {
           "player_id": "13533",
@@ -5096,7 +5096,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 15
+          "search_rank": 16
         },
         {
           "player_id": "8134",
@@ -5126,7 +5126,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 231
+          "search_rank": 230
         },
         {
           "player_id": "DEN",
@@ -5162,7 +5162,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 60
+          "search_rank": 59
         },
         {
           "player_id": "11566",
@@ -5222,7 +5222,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 170
+          "search_rank": 171
         },
         {
           "player_id": "12469",
@@ -5267,7 +5267,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 634
+          "search_rank": 691
         },
         {
           "player_id": "13324",
@@ -5312,7 +5312,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 685
+          "search_rank": 644
         },
         {
           "player_id": "2216",
@@ -5417,7 +5417,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 34
+          "search_rank": 35
         },
         {
           "player_id": "6813",
@@ -5447,7 +5447,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 30
+          "search_rank": 31
         },
         {
           "player_id": "9221",
@@ -5462,7 +5462,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 1
+          "search_rank": 2
         },
         {
           "player_id": "9480",
@@ -5492,7 +5492,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 110
+          "search_rank": 108
         },
         {
           "player_id": "CLE",
@@ -5648,7 +5648,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 47
+          "search_rank": 46
         },
         {
           "player_id": "12524",
@@ -5723,7 +5723,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 162
+          "search_rank": 158
         },
         {
           "player_id": "13294",
@@ -5738,7 +5738,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 85
+          "search_rank": 86
         },
         {
           "player_id": "13298",
@@ -5753,7 +5753,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 114
+          "search_rank": 115
         },
         {
           "player_id": "13349",
@@ -5783,7 +5783,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 182
+          "search_rank": 179
         },
         {
           "player_id": "4227",
@@ -5888,7 +5888,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 175
+          "search_rank": 176
         },
         {
           "player_id": "9754",
@@ -5903,7 +5903,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 104
+          "search_rank": 106
         },
         {
           "player_id": "MIN",
@@ -6029,7 +6029,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 400
+          "search_rank": 358
         },
         {
           "player_id": "4018",
@@ -6224,7 +6224,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 7
+          "search_rank": 8
         },
         {
           "player_id": "8150",
@@ -6290,7 +6290,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 127
+          "search_rank": 130
         },
         {
           "player_id": "11435",
@@ -6350,7 +6350,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 240
+          "search_rank": 235
         },
         {
           "player_id": "12471",
@@ -6380,7 +6380,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 38
+          "search_rank": 37
         },
         {
           "player_id": "12483",
@@ -6620,7 +6620,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 12
+          "search_rank": 11
         },
         {
           "player_id": "6804",
@@ -6710,7 +6710,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 6
+          "search_rank": 7
         },
         {
           "player_id": "SEA",
@@ -6776,7 +6776,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 71
+          "search_rank": 70
         },
         {
           "player_id": "11632",
@@ -6806,7 +6806,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 38
+          "search_rank": 39
         },
         {
           "player_id": "12489",
@@ -6851,7 +6851,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 39
+          "search_rank": 40
         },
         {
           "player_id": "12529",
@@ -6971,7 +6971,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 208
+          "search_rank": 206
         },
         {
           "player_id": "3257",
@@ -7061,7 +7061,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 65
+          "search_rank": 66
         },
         {
           "player_id": "9511",
@@ -7397,7 +7397,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 9,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 220
+          "search_rank": 222
         },
         {
           "player_id": "5849",
@@ -7457,7 +7457,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 113
+          "search_rank": 111
         },
         {
           "player_id": "9506",
@@ -7538,7 +7538,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 103
+          "search_rank": 104
         },
         {
           "player_id": "11539",
@@ -7553,7 +7553,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 151
+          "search_rank": 149
         },
         {
           "player_id": "12522",
@@ -7703,7 +7703,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 53
+          "search_rank": 54
         },
         {
           "player_id": "6904",
@@ -7733,7 +7733,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 35
+          "search_rank": 34
         },
         {
           "player_id": "7553",
@@ -7748,7 +7748,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 68
+          "search_rank": 69
         },
         {
           "player_id": "8136",
@@ -7763,7 +7763,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 116
+          "search_rank": 120
         },
         {
           "player_id": "8138",
@@ -7964,7 +7964,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 11,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 116
+          "search_rank": 115
         },
         {
           "player_id": "4035",
@@ -8069,7 +8069,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 23
+          "search_rank": 24
         },
         {
           "player_id": "7594",
@@ -8099,7 +8099,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 576
+          "search_rank": 624
         },
         {
           "player_id": "8110",
@@ -8174,7 +8174,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 120
+          "search_rank": 119
         },
         {
           "player_id": "9224",
@@ -8189,7 +8189,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 15
+          "search_rank": 17
         },
         {
           "player_id": "9487",
