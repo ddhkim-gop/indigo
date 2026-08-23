@@ -4127,21 +4127,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 172
         },
         {
-          "player_id": "12503",
-          "espn_id": null,
-          "name": "Isaiah Bond",
-          "position": "WR",
-          "team": "CLE",
-          "birth_date": "2004-03-15",
-          "college": "Texas",
-          "height": "71",
-          "weight": "180",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 683
-        },
-        {
           "player_id": "12526",
           "espn_id": null,
           "name": "Tetairoa McMillan",
@@ -4350,6 +4335,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 209
+        },
+        {
+          "player_id": "9757",
+          "espn_id": null,
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "NO",
+          "birth_date": "2002-06-11",
+          "college": "TCU",
+          "height": "72",
+          "weight": "220",
+          "years_exp": 3,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 180
         },
         {
           "player_id": "HOU",
@@ -7145,21 +7145,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 167
         },
         {
-          "player_id": "11626",
-          "espn_id": null,
-          "name": "Xavier Legette",
-          "position": "WR",
-          "team": "CAR",
-          "birth_date": "2001-01-29",
-          "college": "South Carolina",
-          "height": "75",
-          "weight": "227",
-          "years_exp": 2,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 545
-        },
-        {
           "player_id": "11655",
           "espn_id": null,
           "name": "Tyrone Tracy",
@@ -7473,21 +7458,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 155
-        },
-        {
-          "player_id": "96",
-          "espn_id": 8439,
-          "name": "Aaron Rodgers",
-          "position": "QB",
-          "team": "PIT",
-          "birth_date": "1983-12-02",
-          "college": "California",
-          "height": "74",
-          "weight": "223",
-          "years_exp": 21,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 202
         },
         {
           "player_id": "9758",
@@ -8539,6 +8509,78 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 23, 2026 • 2:45 PM PT",
+      "transaction_id": "1397385414859329537",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "bsohn00"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Aaron Rodgers",
+          "position": "QB",
+          "team": "PIT"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 23, 2026 • 2:44 PM PT",
+      "transaction_id": "1397385176186671104",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "bsohn00"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Xavier Legette",
+          "position": "WR",
+          "team": "CAR"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 23, 2026 • 2:30 PM PT",
+      "transaction_id": "1397381580195962880",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "NO"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Isaiah Bond",
+          "position": "WR",
+          "team": "CLE"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
