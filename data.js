@@ -5330,21 +5330,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 60
         },
         {
-          "player_id": "4981",
-          "espn_id": 3925357,
-          "name": "Calvin Ridley",
-          "position": "WR",
-          "team": "TEN",
-          "birth_date": "1994-12-20",
-          "college": "Alabama",
-          "height": "73",
-          "weight": "190",
-          "years_exp": 8,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 180
-        },
-        {
           "player_id": "5846",
           "espn_id": 4047650,
           "name": "DK Metcalf",
@@ -5448,6 +5433,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 31
+        },
+        {
+          "player_id": "8800",
+          "espn_id": null,
+          "name": "Malik Davis",
+          "position": "RB",
+          "team": "DAL",
+          "birth_date": "1998-11-26",
+          "college": "Florida",
+          "height": "70",
+          "weight": "205",
+          "years_exp": 4,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 572
         },
         {
           "player_id": "9221",
@@ -8509,6 +8509,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 23, 2026 • 6:44 PM PT",
+      "transaction_id": "1397445387404513280",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "GibbyMyTD"
+      ],
+      "added": [
+        {
+          "name": "Malik Davis",
+          "position": "RB",
+          "team": "DAL"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Calvin Ridley",
+          "position": "WR",
+          "team": "TEN"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
