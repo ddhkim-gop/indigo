@@ -5662,7 +5662,7 @@ window.__STATIC_DATA__ = {
           "weight": "256",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 48
         },
         {
@@ -6379,7 +6379,7 @@ window.__STATIC_DATA__ = {
           "weight": "212",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 541
         },
         {
@@ -6790,7 +6790,7 @@ window.__STATIC_DATA__ = {
           "weight": "209",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 71
         },
         {
@@ -8530,7 +8530,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Trey Benson",
           "position": "RB",
-          "team": "ARI"
+          "team": null
         }
       ],
       "faab": 0,
