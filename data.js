@@ -3892,7 +3892,7 @@ window.__STATIC_DATA__ = {
           "weight": "211",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "PUP",
+          "injury_status": "Questionable",
           "search_rank": 94
         },
         {
@@ -4740,8 +4740,8 @@ window.__STATIC_DATA__ = {
           "team": "HOU",
           "birth_date": "2002-05-07",
           "college": "LSU",
-          "height": "71",
-          "weight": "203",
+          "height": "72",
+          "weight": "197",
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
@@ -7045,7 +7045,7 @@ window.__STATIC_DATA__ = {
           "weight": "185",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 105
         },
         {
@@ -7836,7 +7836,7 @@ window.__STATIC_DATA__ = {
           "espn_id": null,
           "name": "Jarquez Hunter",
           "position": "RB",
-          "team": "LAR",
+          "team": "MIA",
           "birth_date": "2002-12-29",
           "college": "Auburn",
           "height": "70",
@@ -10315,7 +10315,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Cedric Tillman",
           "position": "WR",
-          "team": "CLE"
+          "team": null
         }
       ],
       "faab": 0,
