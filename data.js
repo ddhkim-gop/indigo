@@ -4609,7 +4609,7 @@ window.__STATIC_DATA__ = {
           "weight": "223",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "DNR",
           "search_rank": 20
         },
         {
@@ -5976,7 +5976,7 @@ window.__STATIC_DATA__ = {
           "espn_id": null,
           "name": "Kaleb Johnson",
           "position": "RB",
-          "team": "PIT",
+          "team": "GB",
           "birth_date": "2003-08-14",
           "college": "Iowa",
           "height": "73",
@@ -7907,21 +7907,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 151
         },
         {
-          "player_id": "13300",
-          "espn_id": null,
-          "name": "Le'Veon Moss",
-          "position": "RB",
-          "team": null,
-          "birth_date": null,
-          "college": null,
-          "height": "71",
-          "weight": "210",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": "NA",
-          "search_rank": 999
-        },
-        {
           "player_id": "2449",
           "espn_id": 2976212,
           "name": "Stefon Diggs",
@@ -7980,21 +7965,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "Questionable",
           "search_rank": 92
-        },
-        {
-          "player_id": "4219",
-          "espn_id": 3127586,
-          "name": "Jeremy McNichols",
-          "position": "RB",
-          "team": "WAS",
-          "birth_date": "1995-12-26",
-          "college": "Boise State",
-          "height": "69",
-          "weight": "205",
-          "years_exp": 9,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 999
         },
         {
           "player_id": "4892",
@@ -8509,6 +8479,50 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 30, 2026 • 11:26 AM PT",
+      "transaction_id": "1399871931947171840",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jay0jay1jay2"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Jeremy McNichols",
+          "position": "RB",
+          "team": "WAS"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 30, 2026 • 11:22 AM PT",
+      "transaction_id": "1399871015974154240",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jay0jay1jay2"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Le'Veon Moss",
+          "position": "RB",
+          "team": null
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
