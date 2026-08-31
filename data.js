@@ -4183,7 +4183,7 @@ window.__STATIC_DATA__ = {
           "weight": "240",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "IR",
           "search_rank": 363
         },
         {
@@ -5266,7 +5266,7 @@ window.__STATIC_DATA__ = {
           "weight": "213",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "IR",
           "search_rank": 169
         },
         {
@@ -7657,7 +7657,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 8,
           "status": "Inactive",
-          "injury_status": "Questionable",
+          "injury_status": "IR",
           "search_rank": 210
         },
         {
