@@ -4609,7 +4609,7 @@ window.__STATIC_DATA__ = {
           "weight": "223",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": "DNR",
+          "injury_status": "NA",
           "search_rank": 20
         },
         {
@@ -5265,7 +5265,7 @@ window.__STATIC_DATA__ = {
           "height": "71",
           "weight": "213",
           "years_exp": 1,
-          "status": "Active",
+          "status": "Inactive",
           "injury_status": "IR",
           "search_rank": 169
         },
@@ -8192,6 +8192,21 @@ window.__STATIC_DATA__ = {
           "search_rank": null
         },
         {
+          "player_id": "LV",
+          "espn_id": null,
+          "name": "Las Vegas Raiders",
+          "position": "DEF",
+          "team": "LV",
+          "birth_date": null,
+          "college": null,
+          "height": null,
+          "weight": null,
+          "years_exp": null,
+          "status": null,
+          "injury_status": null,
+          "search_rank": null
+        },
+        {
           "player_id": "NO",
           "espn_id": null,
           "name": "New Orleans Saints",
@@ -8479,6 +8494,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 31, 2026 • 1:25 PM PT",
+      "transaction_id": "1400264241029640192",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jay0jay1jay2"
+      ],
+      "added": [
+        {
+          "name": "Las Vegas Raiders",
+          "position": "DEF",
+          "team": "LV"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
