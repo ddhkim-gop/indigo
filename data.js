@@ -4086,7 +4086,7 @@ window.__STATIC_DATA__ = {
           "espn_id": null,
           "name": "Jaydon Blue",
           "position": "RB",
-          "team": "DAL",
+          "team": null,
           "birth_date": "2004-01-08",
           "college": "Texas",
           "height": "69",
@@ -4182,7 +4182,7 @@ window.__STATIC_DATA__ = {
           "height": "75",
           "weight": "240",
           "years_exp": 0,
-          "status": "Active",
+          "status": "Inactive",
           "injury_status": "IR",
           "search_rank": 394
         },
@@ -10157,7 +10157,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Dean Connors",
           "position": "RB",
-          "team": "LAR"
+          "team": null
         }
       ],
       "faab": 0,
@@ -10285,7 +10285,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Phil Mafah",
           "position": "RB",
-          "team": "DAL"
+          "team": null
         }
       ],
       "faab": 0,
@@ -10400,7 +10400,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Dean Connors",
           "position": "RB",
-          "team": "LAR"
+          "team": null
         }
       ],
       "dropped": [
@@ -10507,7 +10507,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Michael Carter",
           "position": "RB",
-          "team": "TEN"
+          "team": null
         }
       ],
       "faab": 0,
@@ -10817,7 +10817,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Jawhar Jordan",
           "position": "RB",
-          "team": "HOU"
+          "team": null
         }
       ],
       "faab": 0,
