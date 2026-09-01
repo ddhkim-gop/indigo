@@ -6036,7 +6036,7 @@ window.__STATIC_DATA__ = {
           "espn_id": null,
           "name": "J'Mari Taylor",
           "position": "RB",
-          "team": "JAX",
+          "team": null,
           "birth_date": "2002-03-15",
           "college": "Virginia",
           "height": "69",
@@ -7119,7 +7119,7 @@ window.__STATIC_DATA__ = {
           "espn_id": null,
           "name": "Damien Martinez",
           "position": "RB",
-          "team": "GB",
+          "team": null,
           "birth_date": "2004-01-31",
           "college": "Miami (FL)",
           "height": "72",
@@ -8529,7 +8529,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Jarquez Hunter",
           "position": "RB",
-          "team": "MIA"
+          "team": null
         }
       ],
       "faab": 0,
@@ -9837,7 +9837,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Khalil Herbert",
           "position": "RB",
-          "team": "SF"
+          "team": null
         }
       ],
       "faab": 0,
@@ -9858,7 +9858,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Khalil Herbert",
           "position": "RB",
-          "team": "SF"
+          "team": null
         }
       ],
       "dropped": [],
@@ -10630,7 +10630,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Michael Carter",
           "position": "RB",
-          "team": null
+          "team": "TEN"
         }
       ],
       "faab": 0,
