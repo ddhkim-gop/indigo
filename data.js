@@ -5561,6 +5561,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 81
         },
         {
+          "player_id": "11237",
+          "espn_id": null,
+          "name": "Jacob Saylors",
+          "position": "RB",
+          "team": "DET",
+          "birth_date": "2001-03-08",
+          "college": "East Tennessee State",
+          "height": "71",
+          "weight": "195",
+          "years_exp": 3,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 486
+        },
+        {
           "player_id": "11638",
           "espn_id": null,
           "name": "Ricky Pearsall",
@@ -7231,7 +7246,7 @@ window.__STATIC_DATA__ = {
           "weight": "192",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 61
         },
         {
@@ -8022,8 +8037,8 @@ window.__STATIC_DATA__ = {
           "height": "70",
           "weight": "210",
           "years_exp": 4,
-          "status": "Active",
-          "injury_status": "Questionable",
+          "status": "Inactive",
+          "injury_status": "IR",
           "search_rank": 151
         },
         {
@@ -8404,6 +8419,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 1, 2026 • 2:17 PM PT",
+      "transaction_id": "1400639847441375232",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [
+        {
+          "name": "Jacob Saylors",
+          "position": "RB",
+          "team": "DET"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
@@ -10452,7 +10489,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Cedric Tillman",
           "position": "WR",
-          "team": null
+          "team": "NO"
         }
       ],
       "faab": 0,
