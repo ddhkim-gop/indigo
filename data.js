@@ -7832,21 +7832,6 @@ window.__STATIC_DATA__ = {
       "roster_id": 12,
       "players": [
         {
-          "player_id": "11569",
-          "espn_id": null,
-          "name": "Jarquez Hunter",
-          "position": "RB",
-          "team": "MIA",
-          "birth_date": "2002-12-29",
-          "college": "Auburn",
-          "height": "70",
-          "weight": "211",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 191
-        },
-        {
           "player_id": "11834",
           "espn_id": null,
           "name": "Devaughn Vele",
@@ -7873,7 +7858,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "IR",
           "search_rank": 677
         },
         {
@@ -7935,21 +7920,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "Questionable",
           "search_rank": 119
-        },
-        {
-          "player_id": "4066",
-          "espn_id": 3051876,
-          "name": "Evan Engram",
-          "position": "TE",
-          "team": "DEN",
-          "birth_date": "1994-09-02",
-          "college": "Ole Miss",
-          "height": "75",
-          "weight": "240",
-          "years_exp": 9,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 487
         },
         {
           "player_id": "4137",
@@ -8025,6 +7995,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "Questionable",
           "search_rank": 66
+        },
+        {
+          "player_id": "7600",
+          "espn_id": null,
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "team": "PIT",
+          "birth_date": "1998-10-25",
+          "college": "Penn State",
+          "height": "77",
+          "weight": "258",
+          "years_exp": 5,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 230
         },
         {
           "player_id": "7670",
@@ -8182,21 +8167,6 @@ window.__STATIC_DATA__ = {
           "name": "Los Angeles Rams",
           "position": "DEF",
           "team": "LAR",
-          "birth_date": null,
-          "college": null,
-          "height": null,
-          "weight": null,
-          "years_exp": null,
-          "status": null,
-          "injury_status": null,
-          "search_rank": null
-        },
-        {
-          "player_id": "LV",
-          "espn_id": null,
-          "name": "Las Vegas Raiders",
-          "position": "DEF",
-          "team": "LV",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -8494,6 +8464,94 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 31, 2026 • 4:48 PM PT",
+      "transaction_id": "1400315456442605568",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jay0jay1jay2"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Las Vegas Raiders",
+          "position": "DEF",
+          "team": "LV"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 31, 2026 • 4:45 PM PT",
+      "transaction_id": "1400314651958374400",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jay0jay1jay2"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Jarquez Hunter",
+          "position": "RB",
+          "team": "MIA"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 31, 2026 • 4:38 PM PT",
+      "transaction_id": "1400312921967362048",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jay0jay1jay2"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Evan Engram",
+          "position": "TE",
+          "team": "DEN"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Aug 31, 2026 • 4:38 PM PT",
+      "transaction_id": "1400312829742997504",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jay0jay1jay2"
+      ],
+      "added": [
+        {
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "team": "PIT"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
