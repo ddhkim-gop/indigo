@@ -3656,19 +3656,19 @@ window.__STATIC_DATA__ = {
           "search_rank": 91
         },
         {
-          "player_id": "11583",
+          "player_id": "11624",
           "espn_id": null,
-          "name": "Jonathon Brooks",
-          "position": "RB",
-          "team": "CAR",
-          "birth_date": "2003-07-21",
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "team": "KC",
+          "birth_date": "2003-04-27",
           "college": "Texas",
-          "height": "72",
-          "weight": "207",
+          "height": "71",
+          "weight": "165",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 88
+          "injury_status": null,
+          "search_rank": 122
         },
         {
           "player_id": "11647",
@@ -3684,6 +3684,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 141
+        },
+        {
+          "player_id": "12533",
+          "espn_id": null,
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS",
+          "birth_date": "2001-04-12",
+          "college": "Arizona",
+          "height": "71",
+          "weight": "208",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": "Questionable",
+          "search_rank": 95
         },
         {
           "player_id": "12540",
@@ -3881,6 +3896,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 58
         },
         {
+          "player_id": "8126",
+          "espn_id": null,
+          "name": "Wan'Dale Robinson",
+          "position": "WR",
+          "team": "TEN",
+          "birth_date": "2001-01-05",
+          "college": "Kentucky",
+          "height": "68",
+          "weight": "185",
+          "years_exp": 4,
+          "status": "Active",
+          "injury_status": "Questionable",
+          "search_rank": 105
+        },
+        {
           "player_id": "8142",
           "espn_id": null,
           "name": "Alec Pierce",
@@ -3894,6 +3924,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "Questionable",
           "search_rank": 94
+        },
+        {
+          "player_id": "8154",
+          "espn_id": null,
+          "name": "Brian Robinson",
+          "position": "RB",
+          "team": "ATL",
+          "birth_date": "1999-03-22",
+          "college": "Alabama",
+          "height": "73",
+          "weight": "225",
+          "years_exp": 4,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 80
         },
         {
           "player_id": "8167",
@@ -6563,6 +6608,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 83
         },
         {
+          "player_id": "5022",
+          "espn_id": 3121023,
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI",
+          "birth_date": "1995-01-03",
+          "college": "South Dakota State",
+          "height": "77",
+          "weight": "256",
+          "years_exp": 8,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 94
+        },
+        {
           "player_id": "6786",
           "espn_id": 4241389,
           "name": "CeeDee Lamb",
@@ -6638,21 +6698,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 38
         },
         {
-          "player_id": "8210",
-          "espn_id": null,
-          "name": "Chig Okonkwo",
-          "position": "TE",
-          "team": "WAS",
-          "birth_date": "1999-09-08",
-          "college": "Maryland",
-          "height": "75",
-          "weight": "238",
-          "years_exp": 4,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 137
-        },
-        {
           "player_id": "8408",
           "espn_id": null,
           "name": "Jordan Mason",
@@ -6719,19 +6764,19 @@ window.__STATIC_DATA__ = {
           "search_rank": 7
         },
         {
-          "player_id": "11624",
+          "player_id": "11583",
           "espn_id": null,
-          "name": "Xavier Worthy",
-          "position": "WR",
-          "team": "KC",
-          "birth_date": "2003-04-27",
+          "name": "Jonathon Brooks",
+          "position": "RB",
+          "team": "CAR",
+          "birth_date": "2003-07-21",
           "college": "Texas",
-          "height": "71",
-          "weight": "165",
+          "height": "72",
+          "weight": "207",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
-          "search_rank": 122
+          "injury_status": "Questionable",
+          "search_rank": 88
         },
         {
           "player_id": "11631",
@@ -6839,21 +6884,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 39
         },
         {
-          "player_id": "12533",
-          "espn_id": null,
-          "name": "Jacory Croskey-Merritt",
-          "position": "RB",
-          "team": "WAS",
-          "birth_date": "2001-04-12",
-          "college": "Arizona",
-          "height": "71",
-          "weight": "208",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 95
-        },
-        {
           "player_id": "12535",
           "espn_id": null,
           "name": "Isaac TeSlaa",
@@ -6959,21 +6989,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 179
         },
         {
-          "player_id": "5022",
-          "espn_id": 3121023,
-          "name": "Dallas Goedert",
-          "position": "TE",
-          "team": "PHI",
-          "birth_date": "1995-01-03",
-          "college": "South Dakota State",
-          "height": "77",
-          "weight": "256",
-          "years_exp": 8,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 94
-        },
-        {
           "player_id": "5844",
           "espn_id": 4036133,
           "name": "T.J. Hockenson",
@@ -6989,34 +7004,19 @@ window.__STATIC_DATA__ = {
           "search_rank": 128
         },
         {
-          "player_id": "8126",
+          "player_id": "8210",
           "espn_id": null,
-          "name": "Wan'Dale Robinson",
-          "position": "WR",
-          "team": "TEN",
-          "birth_date": "2001-01-05",
-          "college": "Kentucky",
-          "height": "68",
-          "weight": "185",
-          "years_exp": 4,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 105
-        },
-        {
-          "player_id": "8154",
-          "espn_id": null,
-          "name": "Brian Robinson",
-          "position": "RB",
-          "team": "ATL",
-          "birth_date": "1999-03-22",
-          "college": "Alabama",
-          "height": "73",
-          "weight": "225",
+          "name": "Chig Okonkwo",
+          "position": "TE",
+          "team": "WAS",
+          "birth_date": "1999-09-08",
+          "college": "Maryland",
+          "height": "75",
+          "weight": "238",
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 80
+          "search_rank": 137
         },
         {
           "player_id": "9484",
@@ -8419,6 +8419,83 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 1, 2026 • 5:22 PM PT",
+      "transaction_id": "1400686372301373440",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "Paul_Yoon",
+        "justinpark99"
+      ],
+      "assets_received": {
+        "Paul_Yoon": [
+          {
+            "name": "Dallas Goedert",
+            "position": "TE",
+            "team": "PHI"
+          }
+        ],
+        "justinpark99": [
+          {
+            "name": "Chig Okonkwo",
+            "position": "TE",
+            "team": "WAS"
+          }
+        ]
+      }
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 1, 2026 • 4:00 PM PT",
+      "transaction_id": "1400665712497864704",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee",
+        "justinpark99"
+      ],
+      "assets_received": {
+        "justinpark99": [
+          {
+            "name": "Jonathon Brooks",
+            "position": "RB",
+            "team": "CAR"
+          }
+        ],
+        "PattyMahomiee": [
+          {
+            "name": "Xavier Worthy",
+            "position": "WR",
+            "team": "KC"
+          },
+          {
+            "name": "Jacory Croskey-Merritt",
+            "position": "RB",
+            "team": "WAS"
+          },
+          {
+            "name": "Wan'Dale Robinson",
+            "position": "WR",
+            "team": "TEN"
+          },
+          {
+            "name": "Brian Robinson",
+            "position": "RB",
+            "team": "ATL"
+          },
+          {
+            "name": "2028 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "justinpark99"
+          }
+        ]
+      }
+    },
     {
       "season": "2026",
       "week": 1,
@@ -25781,6 +25858,16 @@ window.__STATIC_DATA__ = {
       "owner_id": "4",
       "previous_owner_id": "9",
       "owner_name": "seunghosama",
+      "original_owner_name": "justinpark99",
+      "previous_owner_name": "justinpark99"
+    },
+    {
+      "season": "2028",
+      "round": 2,
+      "roster_id": "9",
+      "owner_id": "1",
+      "previous_owner_id": "9",
+      "owner_name": "PattyMahomiee",
       "original_owner_name": "justinpark99",
       "previous_owner_name": "justinpark99"
     },
