@@ -6107,21 +6107,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 494
         },
         {
-          "player_id": "4018",
-          "espn_id": 3116385,
-          "name": "Joe Mixon",
-          "position": "RB",
-          "team": null,
-          "birth_date": "1996-07-24",
-          "college": "Oklahoma",
-          "height": "73",
-          "weight": "220",
-          "years_exp": 9,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 212
-        },
-        {
           "player_id": "4943",
           "espn_id": 3912547,
           "name": "Sam Darnold",
@@ -8419,6 +8404,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 2, 2026 • 6:19 PM PT",
+      "transaction_id": "1401063014685253632",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "cheigh"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Joe Mixon",
+          "position": "RB",
+          "team": null
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
