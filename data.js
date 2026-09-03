@@ -3671,21 +3671,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 122
         },
         {
-          "player_id": "11647",
-          "espn_id": null,
-          "name": "Kimani Vidal",
-          "position": "RB",
-          "team": "LAC",
-          "birth_date": "2001-08-28",
-          "college": "Troy",
-          "height": "68",
-          "weight": "215",
-          "years_exp": 2,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 141
-        },
-        {
           "player_id": "12533",
           "espn_id": null,
           "name": "Jacory Croskey-Merritt",
@@ -3699,21 +3684,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "Questionable",
           "search_rank": 95
-        },
-        {
-          "player_id": "12540",
-          "espn_id": null,
-          "name": "Chimere Dike",
-          "position": "WR",
-          "team": "TEN",
-          "birth_date": "2001-12-14",
-          "college": "Florida",
-          "height": "73",
-          "weight": "196",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 175
         },
         {
           "player_id": "13278",
@@ -3922,7 +3892,7 @@ window.__STATIC_DATA__ = {
           "weight": "211",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 94
         },
         {
@@ -8404,6 +8374,50 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 3, 2026 • 11:49 AM PT",
+      "transaction_id": "1401327296257720320",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Chimere Dike",
+          "position": "WR",
+          "team": "TEN"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 3, 2026 • 11:49 AM PT",
+      "transaction_id": "1401327219170676763",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "team": "LAC"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
