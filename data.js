@@ -4403,19 +4403,19 @@ window.__STATIC_DATA__ = {
       "roster_id": 3,
       "players": [
         {
-          "player_id": "10218",
+          "player_id": "10235",
           "espn_id": null,
-          "name": "Xavier Hutchinson",
-          "position": "WR",
-          "team": "HOU",
-          "birth_date": "2000-06-01",
-          "college": "Iowa State",
-          "height": "75",
-          "weight": "210",
+          "name": "Roschon Johnson",
+          "position": "RB",
+          "team": "CHI",
+          "birth_date": "2001-01-31",
+          "college": "Texas",
+          "height": "72",
+          "weight": "227",
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 679
+          "search_rank": 671
         },
         {
           "player_id": "11604",
@@ -4431,6 +4431,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 21
+        },
+        {
+          "player_id": "12185",
+          "espn_id": null,
+          "name": "Spencer Shrader",
+          "position": "K",
+          "team": "IND",
+          "birth_date": "1999-05-19",
+          "college": "Notre Dame",
+          "height": "74",
+          "weight": "201",
+          "years_exp": 2,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 355
         },
         {
           "player_id": "12484",
@@ -4553,21 +4568,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 203
         },
         {
-          "player_id": "13423",
-          "espn_id": null,
-          "name": "Eli Heidenreich",
-          "position": "RB",
-          "team": "PIT",
-          "birth_date": "2003-06-28",
-          "college": "Navy",
-          "height": "72",
-          "weight": "198",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 511
-        },
-        {
           "player_id": "3451",
           "espn_id": 2971573,
           "name": "Ka'imi Fairbairn",
@@ -4626,21 +4626,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "NA",
           "search_rank": 20
-        },
-        {
-          "player_id": "6865",
-          "espn_id": 4242557,
-          "name": "Colby Parkinson",
-          "position": "TE",
-          "team": "LAR",
-          "birth_date": "1999-01-08",
-          "college": "Stanford",
-          "height": "79",
-          "weight": "266",
-          "years_exp": 6,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 136
         },
         {
           "player_id": "7021",
@@ -8374,6 +8359,116 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 3, 2026 • 4:04 PM PT",
+      "transaction_id": "1401391568270716928",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [
+        {
+          "name": "Spencer Shrader",
+          "position": "K",
+          "team": "IND"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 3, 2026 • 4:04 PM PT",
+      "transaction_id": "1401391451371261952",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Eli Heidenreich",
+          "position": "RB",
+          "team": "PIT"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 3, 2026 • 4:03 PM PT",
+      "transaction_id": "1401391186219925504",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [
+        {
+          "name": "Roschon Johnson",
+          "position": "RB",
+          "team": "CHI"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 3, 2026 • 4:03 PM PT",
+      "transaction_id": "1401391138451017728",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Xavier Hutchinson",
+          "position": "WR",
+          "team": "HOU"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 3, 2026 • 4:02 PM PT",
+      "transaction_id": "1401391031684976640",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Colby Parkinson",
+          "position": "TE",
+          "team": "LAR"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
