@@ -6944,6 +6944,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 128
         },
         {
+          "player_id": "6865",
+          "espn_id": 4242557,
+          "name": "Colby Parkinson",
+          "position": "TE",
+          "team": "LAR",
+          "birth_date": "1999-01-08",
+          "college": "Stanford",
+          "height": "79",
+          "weight": "266",
+          "years_exp": 6,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 136
+        },
+        {
           "player_id": "8210",
           "espn_id": null,
           "name": "Chig Okonkwo",
@@ -6987,21 +7002,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "Questionable",
           "search_rank": 148
-        },
-        {
-          "player_id": "GB",
-          "espn_id": null,
-          "name": "Green Bay Packers",
-          "position": "DEF",
-          "team": "GB",
-          "birth_date": null,
-          "college": null,
-          "height": null,
-          "weight": null,
-          "years_exp": null,
-          "status": null,
-          "injury_status": null,
-          "search_rank": null
         },
         {
           "player_id": "LAC",
@@ -8359,6 +8359,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 3, 2026 • 5:05 PM PT",
+      "transaction_id": "1401406893255041024",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "justinpark99"
+      ],
+      "added": [
+        {
+          "name": "Colby Parkinson",
+          "position": "TE",
+          "team": "LAR"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Green Bay Packers",
+          "position": "DEF",
+          "team": "GB"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "Your waiver claim was processed successfully!"
+    },
     {
       "season": "2026",
       "week": 1,
