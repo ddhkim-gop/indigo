@@ -5214,7 +5214,7 @@ window.__STATIC_DATA__ = {
           "espn_id": null,
           "name": "Devin Neal",
           "position": "RB",
-          "team": "NO",
+          "team": null,
           "birth_date": "2003-08-12",
           "college": "Kansas",
           "height": "71",
