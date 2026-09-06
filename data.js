@@ -5465,11 +5465,11 @@ window.__STATIC_DATA__ = {
           "search_rank": 111
         },
         {
-          "player_id": "CLE",
+          "player_id": "DET",
           "espn_id": null,
-          "name": "Cleveland Browns",
+          "name": "Detroit Lions",
           "position": "DEF",
-          "team": "CLE",
+          "team": "DET",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -5480,11 +5480,11 @@ window.__STATIC_DATA__ = {
           "search_rank": null
         },
         {
-          "player_id": "DET",
+          "player_id": "LV",
           "espn_id": null,
-          "name": "Detroit Lions",
+          "name": "Las Vegas Raiders",
           "position": "DEF",
-          "team": "DET",
+          "team": "LV",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -8359,6 +8359,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 6, 2026 • 1:20 PM PT",
+      "transaction_id": "1402437232777789440",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "GibbyMyTD"
+      ],
+      "added": [
+        {
+          "name": "Las Vegas Raiders",
+          "position": "DEF",
+          "team": "LV"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Cleveland Browns",
+          "position": "DEF",
+          "team": "CLE"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
