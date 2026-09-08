@@ -4478,21 +4478,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 87
         },
         {
-          "player_id": "12713",
-          "espn_id": null,
-          "name": "Andy Borregales",
-          "position": "K",
-          "team": "NE",
-          "birth_date": "2003-01-02",
-          "college": "Miami (FL)",
-          "height": "71",
-          "weight": "202",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 157
-        },
-        {
           "player_id": "13269",
           "espn_id": null,
           "name": "Fernando Mendoza",
@@ -8344,6 +8329,50 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 8, 2026 • 9:05 AM PT",
+      "transaction_id": "1403098010690273280",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Andy Borregales",
+          "position": "K",
+          "team": "NE"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 8, 2026 • 8:26 AM PT",
+      "transaction_id": "1403088181967982592",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "daevn"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Christian Kirk",
+          "position": "WR",
+          "team": "SF"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
