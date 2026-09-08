@@ -2,5 +2,19 @@
   "team": "GibbyMyTD",
   "updated": "2026-09-08",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
-  "tweets": []
+  "tweets": [
+    {
+      "url": "https://x.com/camijustice/status/2090564153157030343",
+      "player": "Dylan Sampson",
+      "meta": "RB \u00b7 CLE",
+      "date": "2026-08-20",
+      "author": "camijustice",
+      "text": "#Browns RB Dylan Sampson with the strong run against the Bills in today's joint practice.",
+      "verified": true,
+      "faves": 99,
+      "secs": 23,
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2090563509520109568/img/M5PULl5dFyvM-3eL.jpg?name=orig",
+      "video": "https://video.twimg.com/amplify_video/2090563509520109568/vid/avc1/1280x720/dLHSBedmMCsIbgIR.mp4?tag=14"
+    }
+  ]
 }
