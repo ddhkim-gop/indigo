@@ -5248,7 +5248,7 @@ window.__STATIC_DATA__ = {
           "birth_date": "2002-03-09",
           "college": "SMU",
           "height": "76",
-          "weight": "251",
+          "weight": "250",
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
@@ -7539,21 +7539,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 11
-        },
-        {
-          "player_id": "4950",
-          "espn_id": 3895856,
-          "name": "Christian Kirk",
-          "position": "WR",
-          "team": "SF",
-          "birth_date": "1996-11-18",
-          "college": "Texas A&M",
-          "height": "71",
-          "weight": "200",
-          "years_exp": 8,
-          "status": "Inactive",
-          "injury_status": "IR",
-          "search_rank": 210
         },
         {
           "player_id": "5927",
@@ -10365,7 +10350,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Darius Slayton",
           "position": "WR",
-          "team": "NYG"
+          "team": null
         }
       ],
       "faab": 0,
