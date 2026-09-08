@@ -4198,7 +4198,7 @@ window.__STATIC_DATA__ = {
           "weight": "210",
           "years_exp": 9,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 4
         },
         {
@@ -4621,7 +4621,7 @@ window.__STATIC_DATA__ = {
           "birth_date": "2001-03-04",
           "college": "Georgia",
           "height": "75",
-          "weight": "200",
+          "weight": "205",
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
@@ -4681,7 +4681,7 @@ window.__STATIC_DATA__ = {
           "birth_date": "2002-05-07",
           "college": "LSU",
           "height": "72",
-          "weight": "197",
+          "weight": "203",
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
@@ -4975,7 +4975,7 @@ window.__STATIC_DATA__ = {
           "weight": "207",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 113
         },
         {
@@ -5281,7 +5281,7 @@ window.__STATIC_DATA__ = {
           "weight": "231",
           "years_exp": 12,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 60
         },
         {
@@ -6379,7 +6379,7 @@ window.__STATIC_DATA__ = {
           "weight": "252",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 141
         },
         {
@@ -6805,7 +6805,7 @@ window.__STATIC_DATA__ = {
           "weight": "202",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 39
         },
         {
@@ -8008,7 +8008,7 @@ window.__STATIC_DATA__ = {
           "weight": "216",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 5
         },
         {
