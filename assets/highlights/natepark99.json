@@ -1,0 +1,33 @@
+{
+  "team": "natepark99",
+  "updated": "2026-09-08",
+  "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
+  "tweets": [
+    {
+      "url": "https://x.com/LangmanVince/status/2091466320726356089",
+      "player": "Harrison Butker",
+      "meta": "K \u00b7 KC",
+      "date": "2026-08-23",
+      "author": "LangmanVince",
+      "text": "Harrison Butker kicked a 69-yard field goal in Kansas City's preseason football game yesterday. Yes the same Harrison Bu",
+      "verified": true,
+      "faves": 6837,
+      "secs": 24,
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2091466282981818368/img/DVbAQNhEHqRseFfu.jpg?name=orig",
+      "video": "https://video.twimg.com/amplify_video/2091466282981818368/vid/avc1/720x1280/lpP7rs2cb_RtKs4-.mp4?tag=29"
+    },
+    {
+      "url": "https://x.com/GuntherEagleman/status/2091580806581961129",
+      "player": "Harrison Butker",
+      "meta": "K \u00b7 KC",
+      "date": "2026-08-23",
+      "author": "GuntherEagleman",
+      "text": "\ud83d\udea8 HARRISON BUTKER JUST HIT A 69-YARD FIELD GOAL The Chiefs kicker drilled an absolute bomb last night. It would be an N",
+      "verified": true,
+      "faves": 1729,
+      "secs": 62,
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2091363841674227712/img/az4W5AH6iZn8WxB-.jpg?name=orig",
+      "video": "https://video.twimg.com/amplify_video/2091363841674227712/vid/avc1/1920x1080/Bk4xMd0fAQtuz7zr.mp4?tag=29"
+    }
+  ]
+}

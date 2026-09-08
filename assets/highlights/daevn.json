@@ -1,0 +1,42 @@
+{
+  "team": "daevn",
+  "updated": "2026-09-08",
+  "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
+  "tweets": [
+    {
+      "url": "https://x.com/NFL/status/2093491432569065932",
+      "player": "Travis Kelce",
+      "meta": "TE \u00b7 KC",
+      "date": "2026-08-29",
+      "author": "NFL",
+      "text": "Travis Kelce making guys miss in preseason \u203c\ufe0f Stream on @NFLPlus",
+      "verified": true,
+      "faves": 3426,
+      "secs": 12,
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2093491334808317952/img/molBiV2I3a0DvMpc.jpg?name=orig",
+      "video": "https://video.twimg.com/amplify_video/2093491334808317952/vid/avc1/1920x1080/ezy00JIorfPaTrWl.mp4?tag=29"
+    },
+    {
+      "url": "https://x.com/AFantasyFormula/status/2090575974840561965",
+      "player": "Kyle Pitts",
+      "meta": "TE \u00b7 ATL",
+      "date": "2026-08-20",
+      "author": "AFantasyFormula",
+      "text": "Kyle Pitts Sr. route rep with the ball in the air at Falcons camp",
+      "verified": true,
+      "faves": 300,
+      "secs": 5,
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2090524817808056320/img/MDuzzeEnCI0yLrYT.jpg?name=orig",
+      "video": "https://video.twimg.com/amplify_video/2090524817808056320/vid/avc1/720x900/QRimv4v5eOMzcboQ.mp4?tag=29",
+      "stats": {
+        "replies": 2,
+        "reposts": 2,
+        "likes": 19,
+        "views": 6526
+      },
+      "author_name": "TheFantasyFormula",
+      "avatar": "https://pbs.twimg.com/profile_images/2089755499537244161/y6FyS-6w_x96.jpg",
+      "author_verified": true
+    }
+  ]
+}
