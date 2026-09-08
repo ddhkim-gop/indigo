@@ -1,5 +1,5 @@
-import { api } from "./dataService.js?v=20260609a";
-import { renderNav } from "./components/nav.js?v=20260907a";
+import { api } from "./dataService.js?v=202609072358";
+import { renderNav } from "./components/nav.js?v=202609072358";
 
 const PLAYER_PROFILES = {
   // 2026
