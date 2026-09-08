@@ -1,0 +1,51 @@
+{
+  "team": "justinpark99",
+  "updated": "2026-09-08",
+  "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
+  "tweets": [
+    {
+      "url": "https://x.com/mattblively/status/2094548824522129910",
+      "player": "Kaelon Black",
+      "meta": "RB \u00b7 SF",
+      "date": "2026-08-31",
+      "author": "mattblively",
+      "text": "The RB2 spot is still up for grabs, according to Kyle Shanahan. Kaelon Black and Jordan James battling for that role.",
+      "verified": true,
+      "faves": 66,
+      "secs": 13,
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2094548715759607808/img/Bcl7bnLrMAwbKb3g.jpg?name=orig",
+      "video": "https://video.twimg.com/amplify_video/2094548715759607808/vid/avc1/2160x3840/Hyg_wxb04IZE6xcQ.mp4?tag=29",
+      "stats": {
+        "replies": 3,
+        "reposts": 10,
+        "likes": 66,
+        "views": 25087
+      },
+      "author_name": "Matt Lively",
+      "avatar": "https://pbs.twimg.com/profile_images/1696765700118073345/IAcnswCj_x96.jpg",
+      "author_verified": true
+    },
+    {
+      "url": "https://x.com/1010XL/status/2092616049245987257",
+      "player": "Brian Thomas",
+      "meta": "WR \u00b7 JAX",
+      "date": "2026-08-26",
+      "author": "1010XL",
+      "text": "Non-contact pinnies on today for Brian Thomas Jr. at Jaguars Training Camp\ud83d\udc06 #Jaguars | #DUUUVAL",
+      "verified": true,
+      "faves": 13,
+      "secs": 9,
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2092615949908094976/img/W1HSN16NR7tfB6LE.jpg?name=orig",
+      "video": "https://video.twimg.com/amplify_video/2092615949908094976/vid/avc1/1080x1920/RQ8-ZnjuaYsOK3PA.mp4?tag=29",
+      "stats": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 13,
+        "views": 6468
+      },
+      "author_name": "1010 XL / 92.5 FM",
+      "avatar": "https://pbs.twimg.com/profile_images/1831432168335130624/DIFGWYX8_x96.jpg",
+      "author_verified": true
+    }
+  ]
+}

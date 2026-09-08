@@ -1,0 +1,95 @@
+{
+  "team": "willie425",
+  "updated": "2026-09-08",
+  "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
+  "tweets": [
+    {
+      "url": "https://x.com/B_Shousejr/status/2092704561018413417",
+      "player": "Caleb Douglas",
+      "meta": "WR \u00b7 MIA",
+      "date": "2026-08-26",
+      "author": "B_Shousejr",
+      "text": "Malik Willis hits Caleb Douglas in stride for the TOUCHDOWN \u203c\ufe0f\ud83c\udfaf(@MiamiDolphins) #PhinsUp",
+      "verified": true,
+      "faves": 858,
+      "secs": 7,
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2092704533352685568/img/mkTBNreKg00xKAxe.jpg?name=orig",
+      "video": "https://video.twimg.com/amplify_video/2092704533352685568/vid/avc1/1126x1398/pGjaDfkCCFRIHB5U.mp4?tag=29",
+      "stats": {
+        "replies": 4,
+        "reposts": 49,
+        "likes": 858,
+        "views": 67936
+      },
+      "author_name": "Bobby Shouse",
+      "avatar": "https://pbs.twimg.com/profile_images/2021302648415322113/VWGwfRq1_x96.jpg",
+      "author_verified": true
+    },
+    {
+      "url": "https://x.com/SleeperPackers/status/2091917085068706125",
+      "player": "MarShawn Lloyd",
+      "meta": "RB \u00b7 GB",
+      "date": "2026-08-24",
+      "author": "SleeperPackers",
+      "text": "Packers runningback duo Josh Jacobs and MarShawn Lloyd at practice",
+      "verified": true,
+      "faves": 300,
+      "secs": 12,
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2091916977459658752/img/S_naBW-ODVwsfQqh.jpg?name=orig",
+      "video": "https://video.twimg.com/amplify_video/2091916977459658752/vid/avc1/2160x2324/G2XkHmtjWvS3Swk7.mp4?tag=29",
+      "stats": {
+        "replies": 0,
+        "reposts": 11,
+        "likes": 359,
+        "views": 50718
+      },
+      "author_name": "SleeperPackers",
+      "avatar": "https://pbs.twimg.com/profile_images/1899528250533326848/ke26SJjL_x96.jpg",
+      "author_verified": true
+    },
+    {
+      "url": "https://x.com/NoelleBlumel/status/2091977615858864578",
+      "player": "Evan McPherson",
+      "meta": "K \u00b7 CIN",
+      "date": "2026-08-24",
+      "author": "NoelleBlumel",
+      "text": "Evan McPherson ends practice on a 61 yarder #Bengals @WCPO",
+      "verified": true,
+      "faves": 36,
+      "secs": 17,
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2091977577996894208/img/HAAAlQWXq4yVOIOj.jpg?name=orig",
+      "video": "https://video.twimg.com/amplify_video/2091977577996894208/vid/avc1/720x1280/PlEIuvS90HFOLMXj.mp4?tag=29",
+      "stats": {
+        "replies": 3,
+        "reposts": 7,
+        "likes": 36,
+        "views": 4161
+      },
+      "author_name": "Noelle Blumel",
+      "avatar": "https://pbs.twimg.com/profile_images/1978749969063358464/lF0or7GM_x96.jpg",
+      "author_verified": false
+    },
+    {
+      "url": "https://x.com/DreareaSports/status/2091624681573146837",
+      "player": "Christian McCaffrey",
+      "meta": "RB \u00b7 SF",
+      "date": "2026-08-23",
+      "author": "DreareaSports",
+      "text": "Christian McCaffrey looking explosive at 49ers training camp",
+      "verified": true,
+      "faves": 300,
+      "secs": 13,
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2091598746358358016/img/h5HEaK3fHa8VqwfD.jpg?name=orig",
+      "video": "https://video.twimg.com/amplify_video/2091598746358358016/vid/avc1/1320x1304/_ZMU0EFSNHYl_x-I.mp4?tag=29",
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 38,
+        "views": 1244
+      },
+      "author_name": "Dre Area Sports \ud83c\udf99\ufe0f",
+      "avatar": "https://pbs.twimg.com/profile_images/2080109677489303552/M5AjGBVG_x96.jpg",
+      "author_verified": true
+    }
+  ]
+}
