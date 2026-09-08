@@ -4735,7 +4735,7 @@ window.__STATIC_DATA__ = {
       ]
     },
     {
-      "owner": "seunghosama",
+      "owner": "SeunghoSama",
       "roster_id": 4,
       "players": [
         {
@@ -8984,7 +8984,7 @@ window.__STATIC_DATA__ = {
       "type": "free_agent",
       "status": "complete",
       "teams": [
-        "seunghosama"
+        "SeunghoSama"
       ],
       "added": [
         {
@@ -9056,7 +9056,7 @@ window.__STATIC_DATA__ = {
             "name": "2027 Round 2",
             "position": "PICK",
             "team": null,
-            "original_owner": "seunghosama"
+            "original_owner": "SeunghoSama"
           }
         ]
       }
@@ -9163,7 +9163,7 @@ window.__STATIC_DATA__ = {
       "type": "free_agent",
       "status": "complete",
       "teams": [
-        "seunghosama"
+        "SeunghoSama"
       ],
       "added": [
         {
@@ -9262,7 +9262,7 @@ window.__STATIC_DATA__ = {
             "name": "2028 Round 3",
             "position": "PICK",
             "team": null,
-            "original_owner": "seunghosama"
+            "original_owner": "SeunghoSama"
           }
         ]
       }
@@ -9660,7 +9660,7 @@ window.__STATIC_DATA__ = {
             "name": "2027 Round 2",
             "position": "PICK",
             "team": null,
-            "original_owner": "seunghosama"
+            "original_owner": "SeunghoSama"
           }
         ],
         "PattyMahomiee": [
@@ -9714,7 +9714,7 @@ window.__STATIC_DATA__ = {
       "type": "free_agent",
       "status": "complete",
       "teams": [
-        "seunghosama"
+        "SeunghoSama"
       ],
       "added": [
         {
@@ -10031,7 +10031,7 @@ window.__STATIC_DATA__ = {
       "type": "free_agent",
       "status": "complete",
       "teams": [
-        "seunghosama"
+        "SeunghoSama"
       ],
       "added": [
         {
@@ -10053,7 +10053,7 @@ window.__STATIC_DATA__ = {
       "type": "free_agent",
       "status": "complete",
       "teams": [
-        "seunghosama"
+        "SeunghoSama"
       ],
       "added": [
         {
@@ -10075,7 +10075,7 @@ window.__STATIC_DATA__ = {
       "type": "free_agent",
       "status": "complete",
       "teams": [
-        "seunghosama"
+        "SeunghoSama"
       ],
       "added": [
         {
@@ -10097,7 +10097,7 @@ window.__STATIC_DATA__ = {
       "type": "trade",
       "status": "complete",
       "teams": [
-        "seunghosama",
+        "SeunghoSama",
         "Paul_Yoon"
       ],
       "assets_received": {
@@ -10121,10 +10121,10 @@ window.__STATIC_DATA__ = {
             "name": "2028 Round 3",
             "position": "PICK",
             "team": null,
-            "original_owner": "seunghosama"
+            "original_owner": "SeunghoSama"
           }
         ],
-        "seunghosama": [
+        "SeunghoSama": [
           {
             "name": "2027 Round 1",
             "position": "PICK",
@@ -10226,7 +10226,7 @@ window.__STATIC_DATA__ = {
       "type": "free_agent",
       "status": "complete",
       "teams": [
-        "seunghosama"
+        "SeunghoSama"
       ],
       "added": [
         {
@@ -10248,7 +10248,7 @@ window.__STATIC_DATA__ = {
       "type": "free_agent",
       "status": "complete",
       "teams": [
-        "seunghosama"
+        "SeunghoSama"
       ],
       "added": [],
       "dropped": [
@@ -10270,7 +10270,7 @@ window.__STATIC_DATA__ = {
       "type": "free_agent",
       "status": "complete",
       "teams": [
-        "seunghosama"
+        "SeunghoSama"
       ],
       "added": [],
       "dropped": [
@@ -10424,11 +10424,11 @@ window.__STATIC_DATA__ = {
       "type": "trade",
       "status": "complete",
       "teams": [
-        "seunghosama",
+        "SeunghoSama",
         "natepark99"
       ],
       "assets_received": {
-        "seunghosama": [
+        "SeunghoSama": [
           {
             "name": "Marvin Harrison",
             "position": "WR",
@@ -10445,7 +10445,7 @@ window.__STATIC_DATA__ = {
             "name": "2027 Round 2",
             "position": "PICK",
             "team": null,
-            "original_owner": "seunghosama"
+            "original_owner": "SeunghoSama"
           }
         ]
       }
@@ -10459,10 +10459,10 @@ window.__STATIC_DATA__ = {
       "status": "complete",
       "teams": [
         "PattyMahomiee",
-        "seunghosama"
+        "SeunghoSama"
       ],
       "assets_received": {
-        "seunghosama": [
+        "SeunghoSama": [
           {
             "name": "Drake London",
             "position": "WR",
@@ -11146,7 +11146,7 @@ window.__STATIC_DATA__ = {
       "type": "free_agent",
       "status": "complete",
       "teams": [
-        "seunghosama"
+        "SeunghoSama"
       ],
       "added": [],
       "dropped": [
@@ -11168,7 +11168,7 @@ window.__STATIC_DATA__ = {
       "type": "free_agent",
       "status": "complete",
       "teams": [
-        "seunghosama"
+        "SeunghoSama"
       ],
       "added": [],
       "dropped": [
@@ -11190,7 +11190,7 @@ window.__STATIC_DATA__ = {
       "type": "free_agent",
       "status": "complete",
       "teams": [
-        "seunghosama"
+        "SeunghoSama"
       ],
       "added": [],
       "dropped": [
@@ -11212,7 +11212,7 @@ window.__STATIC_DATA__ = {
       "type": "trade",
       "status": "complete",
       "teams": [
-        "seunghosama",
+        "SeunghoSama",
         "bsohn00"
       ],
       "assets_received": {
@@ -11223,7 +11223,7 @@ window.__STATIC_DATA__ = {
             "team": "ARI"
           }
         ],
-        "seunghosama": [
+        "SeunghoSama": [
           {
             "name": "2026 Round 1",
             "position": "PICK",
@@ -25723,7 +25723,7 @@ window.__STATIC_DATA__ = {
       "roster_id": "1",
       "owner_id": "4",
       "previous_owner_id": "1",
-      "owner_name": "seunghosama",
+      "owner_name": "SeunghoSama",
       "original_owner_name": "PattyMahomiee",
       "previous_owner_name": "PattyMahomiee"
     },
@@ -25743,7 +25743,7 @@ window.__STATIC_DATA__ = {
       "roster_id": "1",
       "owner_id": "4",
       "previous_owner_id": "1",
-      "owner_name": "seunghosama",
+      "owner_name": "SeunghoSama",
       "original_owner_name": "PattyMahomiee",
       "previous_owner_name": "PattyMahomiee"
     },
@@ -25763,7 +25763,7 @@ window.__STATIC_DATA__ = {
       "roster_id": "2",
       "owner_id": "4",
       "previous_owner_id": "10",
-      "owner_name": "seunghosama",
+      "owner_name": "SeunghoSama",
       "original_owner_name": "willie425",
       "previous_owner_name": "bsohn00"
     },
@@ -25773,7 +25773,7 @@ window.__STATIC_DATA__ = {
       "roster_id": "2",
       "owner_id": "4",
       "previous_owner_id": "2",
-      "owner_name": "seunghosama",
+      "owner_name": "SeunghoSama",
       "original_owner_name": "willie425",
       "previous_owner_name": "willie425"
     },
@@ -25844,7 +25844,7 @@ window.__STATIC_DATA__ = {
       "owner_id": "6",
       "previous_owner_id": "8",
       "owner_name": "natepark99",
-      "original_owner_name": "seunghosama",
+      "original_owner_name": "SeunghoSama",
       "previous_owner_name": "Paul_Yoon"
     },
     {
@@ -25854,8 +25854,8 @@ window.__STATIC_DATA__ = {
       "owner_id": "9",
       "previous_owner_id": "4",
       "owner_name": "justinpark99",
-      "original_owner_name": "seunghosama",
-      "previous_owner_name": "seunghosama"
+      "original_owner_name": "SeunghoSama",
+      "previous_owner_name": "SeunghoSama"
     },
     {
       "season": "2026",
@@ -25864,7 +25864,7 @@ window.__STATIC_DATA__ = {
       "owner_id": "12",
       "previous_owner_id": "2",
       "owner_name": "jay0jay1jay2",
-      "original_owner_name": "seunghosama",
+      "original_owner_name": "SeunghoSama",
       "previous_owner_name": "willie425"
     },
     {
@@ -25874,7 +25874,7 @@ window.__STATIC_DATA__ = {
       "owner_id": "10",
       "previous_owner_id": "2",
       "owner_name": "bsohn00",
-      "original_owner_name": "seunghosama",
+      "original_owner_name": "SeunghoSama",
       "previous_owner_name": "willie425"
     },
     {
@@ -25884,7 +25884,7 @@ window.__STATIC_DATA__ = {
       "owner_id": "9",
       "previous_owner_id": "8",
       "owner_name": "justinpark99",
-      "original_owner_name": "seunghosama",
+      "original_owner_name": "SeunghoSama",
       "previous_owner_name": "Paul_Yoon"
     },
     {
@@ -25923,7 +25923,7 @@ window.__STATIC_DATA__ = {
       "roster_id": "5",
       "owner_id": "4",
       "previous_owner_id": "8",
-      "owner_name": "seunghosama",
+      "owner_name": "SeunghoSama",
       "original_owner_name": "GibbyMyTD",
       "previous_owner_name": "Paul_Yoon"
     },
@@ -26003,7 +26003,7 @@ window.__STATIC_DATA__ = {
       "roster_id": "8",
       "owner_id": "4",
       "previous_owner_id": "8",
-      "owner_name": "seunghosama",
+      "owner_name": "SeunghoSama",
       "original_owner_name": "Paul_Yoon",
       "previous_owner_name": "Paul_Yoon"
     },
@@ -26033,7 +26033,7 @@ window.__STATIC_DATA__ = {
       "roster_id": "8",
       "owner_id": "4",
       "previous_owner_id": "8",
-      "owner_name": "seunghosama",
+      "owner_name": "SeunghoSama",
       "original_owner_name": "Paul_Yoon",
       "previous_owner_name": "Paul_Yoon"
     },
@@ -26073,7 +26073,7 @@ window.__STATIC_DATA__ = {
       "roster_id": "9",
       "owner_id": "4",
       "previous_owner_id": "9",
-      "owner_name": "seunghosama",
+      "owner_name": "SeunghoSama",
       "original_owner_name": "justinpark99",
       "previous_owner_name": "justinpark99"
     },
@@ -26083,7 +26083,7 @@ window.__STATIC_DATA__ = {
       "roster_id": "9",
       "owner_id": "4",
       "previous_owner_id": "9",
-      "owner_name": "seunghosama",
+      "owner_name": "SeunghoSama",
       "original_owner_name": "justinpark99",
       "previous_owner_name": "justinpark99"
     },
@@ -26103,7 +26103,7 @@ window.__STATIC_DATA__ = {
       "roster_id": "11",
       "owner_id": "4",
       "previous_owner_id": "8",
-      "owner_name": "seunghosama",
+      "owner_name": "SeunghoSama",
       "original_owner_name": "daevn",
       "previous_owner_name": "Paul_Yoon"
     },
