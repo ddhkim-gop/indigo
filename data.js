@@ -5987,21 +5987,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 109
         },
         {
-          "player_id": "13348",
-          "espn_id": null,
-          "name": "J'Mari Taylor",
-          "position": "RB",
-          "team": "JAX",
-          "birth_date": "2002-03-15",
-          "college": "Virginia",
-          "height": "69",
-          "weight": "204",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 498
-        },
-        {
           "player_id": "4943",
           "espn_id": 3912547,
           "name": "Sam Darnold",
@@ -6045,21 +6030,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 72
-        },
-        {
-          "player_id": "5848",
-          "espn_id": 4241372,
-          "name": "Marquise Brown",
-          "position": "WR",
-          "team": "PHI",
-          "birth_date": "1997-06-04",
-          "college": "Oklahoma",
-          "height": "69",
-          "weight": "170",
-          "years_exp": 7,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 685
         },
         {
           "player_id": "5872",
@@ -8329,6 +8299,50 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 8, 2026 • 11:42 PM PT",
+      "transaction_id": "1403318683052314624",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "cheigh"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "J'Mari Taylor",
+          "position": "RB",
+          "team": "JAX"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 8, 2026 • 11:42 PM PT",
+      "transaction_id": "1403318589070565376",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "cheigh"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Marquise Brown",
+          "position": "WR",
+          "team": "PHI"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
