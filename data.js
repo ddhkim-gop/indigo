@@ -3731,21 +3731,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 195
         },
         {
-          "player_id": "2505",
-          "espn_id": 2576925,
-          "name": "Darren Waller",
-          "position": "TE",
-          "team": "CAR",
-          "birth_date": "1992-09-13",
-          "college": "Georgia Tech",
-          "height": "78",
-          "weight": "238",
-          "years_exp": 11,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 355
-        },
-        {
           "player_id": "3294",
           "espn_id": 2577417,
           "name": "Dak Prescott",
@@ -4358,21 +4343,6 @@ window.__STATIC_DATA__ = {
       "roster_id": 3,
       "players": [
         {
-          "player_id": "10235",
-          "espn_id": null,
-          "name": "Roschon Johnson",
-          "position": "RB",
-          "team": "CHI",
-          "birth_date": "2001-01-31",
-          "college": "Texas",
-          "height": "72",
-          "weight": "227",
-          "years_exp": 3,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 681
-        },
-        {
           "player_id": "11604",
           "espn_id": null,
           "name": "Brock Bowers",
@@ -4949,36 +4919,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 156
         },
         {
-          "player_id": "13307",
-          "espn_id": null,
-          "name": "Marlin Klein",
-          "position": "TE",
-          "team": "HOU",
-          "birth_date": "2002-09-17",
-          "college": "Michigan",
-          "height": "78",
-          "weight": "250",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 663
-        },
-        {
-          "player_id": "13329",
-          "espn_id": null,
-          "name": "Malik Benson",
-          "position": "WR",
-          "team": "LV",
-          "birth_date": "2002-10-17",
-          "college": "Oregon",
-          "height": "73",
-          "weight": "195",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 502
-        },
-        {
           "player_id": "13417",
           "espn_id": null,
           "name": "De'Zhaun Stribling",
@@ -5082,21 +5022,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 120
-        },
-        {
-          "player_id": "8172",
-          "espn_id": null,
-          "name": "Greg Dulcich",
-          "position": "TE",
-          "team": "MIA",
-          "birth_date": "2000-03-26",
-          "college": "UCLA",
-          "height": "76",
-          "weight": "245",
-          "years_exp": 4,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 230
         },
         {
           "player_id": "DEN",
@@ -7081,7 +7006,7 @@ window.__STATIC_DATA__ = {
           "weight": "196",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 199
         },
         {
@@ -7948,7 +7873,7 @@ window.__STATIC_DATA__ = {
           "weight": "216",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 118
         },
         {
@@ -8314,6 +8239,116 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 9, 2026 • 3:50 PM PT",
+      "transaction_id": "1403562377927995392",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "SeunghoSama"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Malik Benson",
+          "position": "WR",
+          "team": "LV"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 9, 2026 • 3:27 PM PT",
+      "transaction_id": "1403556575720837120",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Roschon Johnson",
+          "position": "RB",
+          "team": "CHI"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 9, 2026 • 3:20 PM PT",
+      "transaction_id": "1403554622592851968",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "SeunghoSama"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Marlin Klein",
+          "position": "TE",
+          "team": "HOU"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 9, 2026 • 3:19 PM PT",
+      "transaction_id": "1403554579936808960",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "SeunghoSama"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Greg Dulcich",
+          "position": "TE",
+          "team": "MIA"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 9, 2026 • 3:14 PM PT",
+      "transaction_id": "1403553234051698688",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
