@@ -3716,21 +3716,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 523
         },
         {
-          "player_id": "13545",
-          "espn_id": null,
-          "name": "Trey Smack",
-          "position": "K",
-          "team": "GB",
-          "birth_date": "2003-06-12",
-          "college": "Florida",
-          "height": "73",
-          "weight": "188",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 195
-        },
-        {
           "player_id": "3294",
           "espn_id": 2577417,
           "name": "Dak Prescott",
@@ -3774,6 +3759,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "Questionable",
           "search_rank": 40
+        },
+        {
+          "player_id": "4147",
+          "espn_id": 3116389,
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN",
+          "birth_date": "1995-09-16",
+          "college": "Oklahoma",
+          "height": "71",
+          "weight": "240",
+          "years_exp": 9,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 453
         },
         {
           "player_id": "4983",
@@ -4198,7 +4198,7 @@ window.__STATIC_DATA__ = {
           "weight": "226",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 17
         },
         {
@@ -5135,21 +5135,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 129
         },
         {
-          "player_id": "12476",
-          "espn_id": null,
-          "name": "Devin Neal",
-          "position": "RB",
-          "team": null,
-          "birth_date": "2003-08-12",
-          "college": "Kansas",
-          "height": "71",
-          "weight": "213",
-          "years_exp": 1,
-          "status": "Inactive",
-          "injury_status": "Questionable",
-          "search_rank": 169
-        },
-        {
           "player_id": "12641",
           "espn_id": null,
           "name": "Jaylin Lane",
@@ -5163,21 +5148,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 691
-        },
-        {
-          "player_id": "13324",
-          "espn_id": null,
-          "name": "Matt Hibner",
-          "position": "TE",
-          "team": "BAL",
-          "birth_date": "2002-03-09",
-          "college": "SMU",
-          "height": "76",
-          "weight": "250",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 504
         },
         {
           "player_id": "13402",
@@ -5238,21 +5208,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 73
-        },
-        {
-          "player_id": "5870",
-          "espn_id": 3917792,
-          "name": "Daniel Jones",
-          "position": "QB",
-          "team": "IND",
-          "birth_date": "1997-05-27",
-          "college": "Duke",
-          "height": "77",
-          "weight": "230",
-          "years_exp": 7,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 131
         },
         {
           "player_id": "6783",
@@ -5441,21 +5396,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 81
         },
         {
-          "player_id": "11237",
-          "espn_id": null,
-          "name": "Jacob Saylors",
-          "position": "RB",
-          "team": "DET",
-          "birth_date": "2001-03-08",
-          "college": "East Tennessee State",
-          "height": "71",
-          "weight": "195",
-          "years_exp": 3,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 644
-        },
-        {
           "player_id": "11638",
           "espn_id": null,
           "name": "Ricky Pearsall",
@@ -5559,21 +5499,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 48
-        },
-        {
-          "player_id": "12524",
-          "espn_id": null,
-          "name": "Shedeur Sanders",
-          "position": "QB",
-          "team": "CLE",
-          "birth_date": "2002-02-07",
-          "college": "Colorado",
-          "height": "74",
-          "weight": "212",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 227
         },
         {
           "player_id": "13285",
@@ -5771,21 +5696,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 147
         },
         {
-          "player_id": "9228",
-          "espn_id": null,
-          "name": "Bryce Young",
-          "position": "QB",
-          "team": "CAR",
-          "birth_date": "2001-07-25",
-          "college": "Alabama",
-          "height": "70",
-          "weight": "204",
-          "years_exp": 3,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 133
-        },
-        {
           "player_id": "9502",
           "espn_id": null,
           "name": "Tank Dell",
@@ -5938,7 +5848,7 @@ window.__STATIC_DATA__ = {
           "weight": "225",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 92
         },
         {
@@ -6439,7 +6349,7 @@ window.__STATIC_DATA__ = {
           "weight": "250",
           "years_exp": 9,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 82
         },
         {
@@ -6685,7 +6595,7 @@ window.__STATIC_DATA__ = {
           "weight": "225",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 473
         },
         {
@@ -6732,21 +6642,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 184
-        },
-        {
-          "player_id": "12711",
-          "espn_id": null,
-          "name": "Tyler Loop",
-          "position": "K",
-          "team": "BAL",
-          "birth_date": "2001-08-04",
-          "college": "Arizona",
-          "height": "71",
-          "weight": "191",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 150
         },
         {
           "player_id": "13319",
@@ -6807,6 +6702,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 161
+        },
+        {
+          "player_id": "2020",
+          "espn_id": 17427,
+          "name": "Cairo Santos",
+          "position": "K",
+          "team": "CHI",
+          "birth_date": "1991-11-12",
+          "college": "Tulane",
+          "height": "68",
+          "weight": "173",
+          "years_exp": 12,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 190
         },
         {
           "player_id": "3257",
@@ -8239,6 +8149,194 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 9, 2026 • 8:53 PM PT",
+      "transaction_id": "1403638541946249216",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "justinpark99"
+      ],
+      "added": [
+        {
+          "name": "Cairo Santos",
+          "position": "K",
+          "team": "CHI"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Tyler Loop",
+          "position": "K",
+          "team": "BAL"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 9, 2026 • 8:19 PM PT",
+      "transaction_id": "1403629941492400128",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Trey Smack",
+          "position": "K",
+          "team": "GB"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 9, 2026 • 7:13 PM PT",
+      "transaction_id": "1403613394258395136",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "GibbyMyTD"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Daniel Jones",
+          "position": "QB",
+          "team": "IND"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 9, 2026 • 7:13 PM PT",
+      "transaction_id": "1403613343947804672",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "GibbyMyTD"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Matt Hibner",
+          "position": "TE",
+          "team": "BAL"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 9, 2026 • 7:12 PM PT",
+      "transaction_id": "1403613219192422400",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "GibbyMyTD"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Devin Neal",
+          "position": "RB",
+          "team": null
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 9, 2026 • 5:12 PM PT",
+      "transaction_id": "1403582839676563456",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Jacob Saylors",
+          "position": "RB",
+          "team": "DET"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 9, 2026 • 5:11 PM PT",
+      "transaction_id": "1403582747099795456",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Shedeur Sanders",
+          "position": "QB",
+          "team": "CLE"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 9, 2026 • 5:11 PM PT",
+      "transaction_id": "1403582585472405504",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Bryce Young",
+          "position": "QB",
+          "team": "CAR"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
