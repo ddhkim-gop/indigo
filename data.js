@@ -9057,7 +9057,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Jarquez Hunter",
           "position": "RB",
-          "team": null
+          "team": "MIA"
         }
       ],
       "faab": 0,
