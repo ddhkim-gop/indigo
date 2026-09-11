@@ -3832,7 +3832,7 @@ window.__STATIC_DATA__ = {
           "weight": "211",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 93
         },
         {
@@ -5296,7 +5296,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 439
         },
         {
@@ -6158,36 +6158,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 222
         },
         {
-          "player_id": "12481",
-          "espn_id": null,
-          "name": "Cam Skattebo",
-          "position": "RB",
-          "team": "NYG",
-          "birth_date": "2002-02-05",
-          "college": "Arizona State",
-          "height": "71",
-          "weight": "215",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 36
-        },
-        {
-          "player_id": "12483",
-          "espn_id": null,
-          "name": "Jack Bech",
-          "position": "WR",
-          "team": "LV",
-          "birth_date": "2002-12-18",
-          "college": "TCU",
-          "height": "73",
-          "weight": "214",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 208
-        },
-        {
           "player_id": "12487",
           "espn_id": null,
           "name": "Terrance Ferguson",
@@ -6201,21 +6171,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 141
-        },
-        {
-          "player_id": "12490",
-          "espn_id": null,
-          "name": "Bhayshul Tuten",
-          "position": "RB",
-          "team": "JAX",
-          "birth_date": "2003-02-14",
-          "college": "Virginia Tech",
-          "height": "69",
-          "weight": "209",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 44
         },
         {
           "player_id": "12509",
@@ -6293,6 +6248,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 364
         },
         {
+          "player_id": "1466",
+          "espn_id": 15847,
+          "name": "Travis Kelce",
+          "position": "TE",
+          "team": "KC",
+          "birth_date": "1989-10-05",
+          "college": "Cincinnati",
+          "height": "77",
+          "weight": "250",
+          "years_exp": 13,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 89
+        },
+        {
           "player_id": "2747",
           "espn_id": 2473037,
           "name": "Jason Myers",
@@ -6351,6 +6321,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 82
+        },
+        {
+          "player_id": "4866",
+          "espn_id": 3929630,
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI",
+          "birth_date": "1997-02-09",
+          "college": "Penn State",
+          "height": "72",
+          "weight": "233",
+          "years_exp": 8,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 10
         },
         {
           "player_id": "5022",
@@ -6413,21 +6398,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 67
         },
         {
-          "player_id": "8132",
-          "espn_id": null,
-          "name": "Tyler Allgeier",
-          "position": "RB",
-          "team": "ARI",
-          "birth_date": "2000-04-15",
-          "college": "BYU",
-          "height": "70",
-          "weight": "225",
-          "years_exp": 4,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 89
-        },
-        {
           "player_id": "8146",
           "espn_id": null,
           "name": "Garrett Wilson",
@@ -6441,21 +6411,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 38
-        },
-        {
-          "player_id": "8408",
-          "espn_id": null,
-          "name": "Jordan Mason",
-          "position": "RB",
-          "team": "MIN",
-          "birth_date": "1999-05-24",
-          "college": "Georgia Tech",
-          "height": "71",
-          "weight": "230",
-          "years_exp": 4,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 93
         },
         {
           "player_id": "9488",
@@ -6805,7 +6760,7 @@ window.__STATIC_DATA__ = {
           "weight": "191",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 148
         },
         {
@@ -7111,7 +7066,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 77
         },
         {
@@ -7226,6 +7181,36 @@ window.__STATIC_DATA__ = {
           "search_rank": 143
         },
         {
+          "player_id": "12481",
+          "espn_id": null,
+          "name": "Cam Skattebo",
+          "position": "RB",
+          "team": "NYG",
+          "birth_date": "2002-02-05",
+          "college": "Arizona State",
+          "height": "71",
+          "weight": "215",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 36
+        },
+        {
+          "player_id": "12490",
+          "espn_id": null,
+          "name": "Bhayshul Tuten",
+          "position": "RB",
+          "team": "JAX",
+          "birth_date": "2003-02-14",
+          "college": "Virginia Tech",
+          "height": "69",
+          "weight": "209",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 44
+        },
+        {
           "player_id": "12522",
           "espn_id": null,
           "name": "Cam Ward",
@@ -7271,36 +7256,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 400
         },
         {
-          "player_id": "13420",
-          "espn_id": null,
-          "name": "Bryce Lance",
-          "position": "WR",
-          "team": "NO",
-          "birth_date": "2002-08-20",
-          "college": "North Dakota State",
-          "height": "75",
-          "weight": "204",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 474
-        },
-        {
-          "player_id": "1466",
-          "espn_id": 15847,
-          "name": "Travis Kelce",
-          "position": "TE",
-          "team": "KC",
-          "birth_date": "1989-10-05",
-          "college": "Cincinnati",
-          "height": "77",
-          "weight": "250",
-          "years_exp": 13,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 89
-        },
-        {
           "player_id": "3214",
           "espn_id": 3046439,
           "name": "Hunter Henry",
@@ -7329,21 +7284,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 66
-        },
-        {
-          "player_id": "4866",
-          "espn_id": 3929630,
-          "name": "Saquon Barkley",
-          "position": "RB",
-          "team": "PHI",
-          "birth_date": "1997-02-09",
-          "college": "Penn State",
-          "height": "72",
-          "weight": "233",
-          "years_exp": 8,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 10
         },
         {
           "player_id": "5927",
@@ -7406,6 +7346,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 68
         },
         {
+          "player_id": "8132",
+          "espn_id": null,
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI",
+          "birth_date": "2000-04-15",
+          "college": "BYU",
+          "height": "70",
+          "weight": "225",
+          "years_exp": 4,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 89
+        },
+        {
           "player_id": "8136",
           "espn_id": null,
           "name": "Rachaad White",
@@ -7434,6 +7389,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 5
+        },
+        {
+          "player_id": "8408",
+          "espn_id": null,
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN",
+          "birth_date": "1999-05-24",
+          "college": "Georgia Tech",
+          "height": "71",
+          "weight": "230",
+          "years_exp": 4,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 93
         },
         {
           "player_id": "9756",
@@ -7486,21 +7456,6 @@ window.__STATIC_DATA__ = {
           "name": "New England Patriots",
           "position": "DEF",
           "team": "NE",
-          "birth_date": null,
-          "college": null,
-          "height": null,
-          "weight": null,
-          "years_exp": null,
-          "status": null,
-          "injury_status": null,
-          "search_rank": null
-        },
-        {
-          "player_id": "TB",
-          "espn_id": null,
-          "name": "Tampa Bay Buccaneers",
-          "position": "DEF",
-          "team": "TB",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -8149,6 +8104,126 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 11, 2026 • 1:26 PM PT",
+      "transaction_id": "1404250766696361984",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "daevn"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Bryce Lance",
+          "position": "WR",
+          "team": "NO"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 11, 2026 • 1:14 PM PT",
+      "transaction_id": "1404247784940441600",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "daevn"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Tampa Bay Buccaneers",
+          "position": "DEF",
+          "team": "TB"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 11, 2026 • 1:11 PM PT",
+      "transaction_id": "1404247038798970880",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "Paul_Yoon"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Jack Bech",
+          "position": "WR",
+          "team": "LV"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 10, 2026 • 11:34 PM PT",
+      "transaction_id": "1404041342648131584",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "Paul_Yoon",
+        "daevn"
+      ],
+      "assets_received": {
+        "daevn": [
+          {
+            "name": "Cam Skattebo",
+            "position": "RB",
+            "team": "NYG"
+          },
+          {
+            "name": "Bhayshul Tuten",
+            "position": "RB",
+            "team": "JAX"
+          },
+          {
+            "name": "Tyler Allgeier",
+            "position": "RB",
+            "team": "ARI"
+          },
+          {
+            "name": "Jordan Mason",
+            "position": "RB",
+            "team": "MIN"
+          }
+        ],
+        "Paul_Yoon": [
+          {
+            "name": "Travis Kelce",
+            "position": "TE",
+            "team": "KC"
+          },
+          {
+            "name": "Saquon Barkley",
+            "position": "RB",
+            "team": "PHI"
+          },
+          {
+            "name": "2027 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "Paul_Yoon"
+          }
+        ]
+      }
+    },
     {
       "season": "2026",
       "week": 1,
@@ -26247,11 +26322,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 2,
       "roster_id": "8",
-      "owner_id": "11",
-      "previous_owner_id": "8",
-      "owner_name": "daevn",
+      "owner_id": "8",
+      "previous_owner_id": "11",
+      "owner_name": "Paul_Yoon",
       "original_owner_name": "Paul_Yoon",
-      "previous_owner_name": "Paul_Yoon"
+      "previous_owner_name": "daevn"
     },
     {
       "season": "2027",
