@@ -4018,7 +4018,7 @@ window.__STATIC_DATA__ = {
           "weight": "214",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 64
         },
         {
@@ -4709,6 +4709,21 @@ window.__STATIC_DATA__ = {
       "roster_id": 4,
       "players": [
         {
+          "player_id": "11199",
+          "espn_id": null,
+          "name": "Emari Demercado",
+          "position": "RB",
+          "team": "DAL",
+          "birth_date": "1999-01-20",
+          "college": "TCU",
+          "height": "69",
+          "weight": "215",
+          "years_exp": 3,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 502
+        },
+        {
           "player_id": "11579",
           "espn_id": null,
           "name": "Audric Estime",
@@ -4885,7 +4900,7 @@ window.__STATIC_DATA__ = {
           "weight": "201",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 502
         },
         {
@@ -4900,7 +4915,7 @@ window.__STATIC_DATA__ = {
           "weight": "219",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 167
         },
         {
@@ -5086,7 +5101,7 @@ window.__STATIC_DATA__ = {
           "weight": "192",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 165
         },
         {
@@ -5161,7 +5176,7 @@ window.__STATIC_DATA__ = {
           "weight": "192",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 384
         },
         {
@@ -5542,7 +5557,7 @@ window.__STATIC_DATA__ = {
           "weight": "228",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 361
         },
         {
@@ -6916,7 +6931,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 201
         },
         {
@@ -7111,7 +7126,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 155
         },
         {
@@ -7558,7 +7573,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 9,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 119
         },
         {
@@ -8104,6 +8119,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 13, 2026 • 7:37 AM PT",
+      "transaction_id": "1404887765023199232",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "SeunghoSama"
+      ],
+      "added": [
+        {
+          "name": "Emari Demercado",
+          "position": "RB",
+          "team": "DAL"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
