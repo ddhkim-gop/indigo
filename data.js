@@ -5300,21 +5300,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 29
         },
         {
-          "player_id": "8800",
-          "espn_id": null,
-          "name": "Malik Davis",
-          "position": "RB",
-          "team": "DAL",
-          "birth_date": "1998-11-26",
-          "college": "Florida",
-          "height": "70",
-          "weight": "205",
-          "years_exp": 4,
-          "status": "Inactive",
-          "injury_status": "IR",
-          "search_rank": 439
-        },
-        {
           "player_id": "9221",
           "espn_id": null,
           "name": "Jahmyr Gibbs",
@@ -7066,7 +7051,7 @@ window.__STATIC_DATA__ = {
           "weight": "207",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 88
         },
         {
@@ -8119,6 +8104,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 13, 2026 • 1:23 PM PT",
+      "transaction_id": "1404974735732879360",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "GibbyMyTD"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Malik Davis",
+          "position": "RB",
+          "team": "DAL"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
