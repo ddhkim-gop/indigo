@@ -4022,21 +4022,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 64
         },
         {
-          "player_id": "12048",
-          "espn_id": null,
-          "name": "George Holani",
-          "position": "RB",
-          "team": "SEA",
-          "birth_date": "1999-12-16",
-          "college": "Boise State",
-          "height": "71",
-          "weight": "210",
-          "years_exp": 2,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 457
-        },
-        {
           "player_id": "12457",
           "espn_id": null,
           "name": "Jaydon Blue",
@@ -4157,21 +4142,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 122
         },
         {
-          "player_id": "1479",
-          "espn_id": 15818,
-          "name": "Keenan Allen",
-          "position": "WR",
-          "team": "IND",
-          "birth_date": "1992-04-27",
-          "college": "California",
-          "height": "74",
-          "weight": "211",
-          "years_exp": 13,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 180
-        },
-        {
           "player_id": "4034",
           "espn_id": 3117251,
           "name": "Christian McCaffrey",
@@ -4260,21 +4230,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 22
-        },
-        {
-          "player_id": "8135",
-          "espn_id": null,
-          "name": "Treylon Burks",
-          "position": "WR",
-          "team": "WAS",
-          "birth_date": "2000-03-23",
-          "college": "Arkansas",
-          "height": "74",
-          "weight": "225",
-          "years_exp": 4,
-          "status": "Active",
-          "injury_status": "Out",
-          "search_rank": 679
         },
         {
           "player_id": "8151",
@@ -8104,6 +8059,72 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 15, 2026 • 3:07 PM PT",
+      "transaction_id": "1405725760634748928",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Keenan Allen",
+          "position": "WR",
+          "team": "IND"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 15, 2026 • 3:06 PM PT",
+      "transaction_id": "1405725629302816768",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Treylon Burks",
+          "position": "WR",
+          "team": "WAS"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 15, 2026 • 3:06 PM PT",
+      "transaction_id": "1405725567537414144",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "George Holani",
+          "position": "RB",
+          "team": "SEA"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
