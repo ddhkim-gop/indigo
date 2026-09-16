@@ -5531,21 +5531,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 54
         },
         {
-          "player_id": "13289",
-          "espn_id": null,
-          "name": "Drew Allar",
-          "position": "QB",
-          "team": "PIT",
-          "birth_date": "2004-03-08",
-          "college": "Penn State",
-          "height": "77",
-          "weight": "228",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 360
-        },
-        {
           "player_id": "13293",
           "espn_id": null,
           "name": "Ja'Kobi Lane",
@@ -6143,21 +6128,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 135
         },
         {
-          "player_id": "12467",
-          "espn_id": null,
-          "name": "Jordan James",
-          "position": "RB",
-          "team": "SF",
-          "birth_date": "2004-03-29",
-          "college": "Oregon",
-          "height": "69",
-          "weight": "208",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 222
-        },
-        {
           "player_id": "12487",
           "espn_id": null,
           "name": "Terrance Ferguson",
@@ -6291,6 +6261,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 7
+        },
+        {
+          "player_id": "4177",
+          "espn_id": 2991662,
+          "name": "Mack Hollins",
+          "position": "WR",
+          "team": "NE",
+          "birth_date": "1993-09-16",
+          "college": "North Carolina",
+          "height": "76",
+          "weight": "221",
+          "years_exp": 9,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 697
         },
         {
           "player_id": "4199",
@@ -8104,6 +8089,56 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 2,
+      "created": "Sep 16, 2026 • 6:16 AM PT",
+      "transaction_id": "1405954456389955584",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "Paul_Yoon"
+      ],
+      "added": [
+        {
+          "name": "Mack Hollins",
+          "position": "WR",
+          "team": "NE"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Jordan James",
+          "position": "RB",
+          "team": "SF"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 2,
+      "created": "Sep 16, 2026 • 5:05 AM PT",
+      "transaction_id": "1405936557432532992",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Drew Allar",
+          "position": "QB",
+          "team": "PIT"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 1,
