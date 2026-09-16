@@ -1,6 +1,6 @@
 {
   "team": "natepark99",
-  "updated": "2026-09-15",
+  "updated": "2026-09-16",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -90,6 +90,21 @@
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/0913/909791f0-9dd8-4b4c-b546-186f984cfada/909791f0-9dd8-4b4c-b546-186f984cfada.mp4"
     },
     {
+      "url": "https://x.com/NFLTDsVideos/status/2099202050189938703",
+      "player": "Jalen Coker",
+      "meta": "WR \u00b7 CAR",
+      "date": "2026-09-13",
+      "author": "NFL Touchdown Videos",
+      "text": "Bryce Young (2) to Jalen Coker (1) Carolina Panthers 51 yards pic.twitter.com/hpyE6Etd9n \u2014 NFL Touchdown Videos (@NFLTDsVideos) September 13, 2026",
+      "verified": true,
+      "faves": 0,
+      "secs": 0,
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2099195890875723776/img/N1QS4Cww6WHEEI9X.jpg?name=orig",
+      "video": "https://video.twimg.com/amplify_video/2099195890875723776/vid/avc1/1920x1080/KuR7MDgLzqb_ptbU.mp4?tag=29",
+      "game_time": "Q2 12:49",
+      "kickoff": "9/13/26, 13:04:50"
+    },
+    {
       "url": "https://x.com/NFLTDsVideos/status/2099255350218166306",
       "player": "Tyler Warren",
       "meta": "TE \u00b7 IND",
@@ -101,6 +116,21 @@
       "secs": 0,
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2099223509176401920/img/x8zglbhrD3KuUeX1.jpg?name=orig",
       "video": "https://video.twimg.com/amplify_video/2099223509176401920/vid/avc1/1920x1080/VAVmWQ6DnDmNC3GO.mp4?tag=29"
+    },
+    {
+      "url": "https://x.com/NFLTDsVideos/status/2099256179083841949",
+      "player": "Jalen Coker",
+      "meta": "WR \u00b7 CAR",
+      "date": "2026-09-13",
+      "author": "NFL Touchdown Videos",
+      "text": "Bryce Young (4) to Jalen Coker (2) Carolina Panthers 8 yards pic.twitter.com/CYPDAg7vOu \u2014 NFL Touchdown Videos (@NFLTDsVideos) September 13, 2026",
+      "verified": true,
+      "faves": 0,
+      "secs": 0,
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2099231312767000576/img/rYXwSDwVhtY_2xeM.jpg?name=orig",
+      "video": "https://video.twimg.com/amplify_video/2099231312767000576/vid/avc1/1920x1080/nYPywGvkuUVAjXiI.mp4?tag=29",
+      "game_time": "Q4 04:05",
+      "kickoff": "9/13/26, 13:04:50"
     }
   ]
 }
