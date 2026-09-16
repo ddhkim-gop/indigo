@@ -4097,6 +4097,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 61
         },
         {
+          "player_id": "12547",
+          "espn_id": null,
+          "name": "Kyle Williams",
+          "position": "WR",
+          "team": "NE",
+          "birth_date": "2002-11-13",
+          "college": "Washington State",
+          "height": "71",
+          "weight": "190",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 195
+        },
+        {
           "player_id": "13296",
           "espn_id": null,
           "name": "Caleb Douglas",
@@ -5056,7 +5071,7 @@ window.__STATIC_DATA__ = {
           "weight": "192",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 165
         },
         {
@@ -6811,7 +6826,7 @@ window.__STATIC_DATA__ = {
           "weight": "210",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 110
         },
         {
@@ -8089,6 +8104,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 2,
+      "created": "Sep 16, 2026 • 8:36 AM PT",
+      "transaction_id": "1405989884602195968",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Kyle Williams",
+          "position": "WR",
+          "team": "NE"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 2,
