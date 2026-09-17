@@ -3847,7 +3847,7 @@ window.__STATIC_DATA__ = {
           "weight": "211",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 93
         },
         {
@@ -4097,21 +4097,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 61
         },
         {
-          "player_id": "12547",
-          "espn_id": null,
-          "name": "Kyle Williams",
-          "position": "WR",
-          "team": "NE",
-          "birth_date": "2002-11-13",
-          "college": "Washington State",
-          "height": "71",
-          "weight": "190",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 195
-        },
-        {
           "player_id": "13296",
           "espn_id": null,
           "name": "Caleb Douglas",
@@ -4297,6 +4282,21 @@ window.__STATIC_DATA__ = {
           "name": "Houston Texans",
           "position": "DEF",
           "team": "HOU",
+          "birth_date": null,
+          "college": null,
+          "height": null,
+          "weight": null,
+          "years_exp": null,
+          "status": null,
+          "injury_status": null,
+          "search_rank": null
+        },
+        {
+          "player_id": "LAC",
+          "espn_id": null,
+          "name": "Los Angeles Chargers",
+          "position": "DEF",
+          "team": "LAC",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -4859,21 +4859,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 45
         },
         {
-          "player_id": "12544",
-          "espn_id": null,
-          "name": "LeQuint Allen",
-          "position": "RB",
-          "team": "JAX",
-          "birth_date": "2004-08-05",
-          "college": "Syracuse",
-          "height": "72",
-          "weight": "201",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 507
-        },
-        {
           "player_id": "13288",
           "espn_id": null,
           "name": "Nicholas Singleton",
@@ -5007,6 +4992,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 120
+        },
+        {
+          "player_id": "9508",
+          "espn_id": null,
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN",
+          "birth_date": "2001-06-15",
+          "college": "Tulane",
+          "height": "71",
+          "weight": "200",
+          "years_exp": 3,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 122
         },
         {
           "player_id": "DEN",
@@ -5281,7 +5281,7 @@ window.__STATIC_DATA__ = {
           "weight": "187",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 29
         },
         {
@@ -6811,7 +6811,7 @@ window.__STATIC_DATA__ = {
           "weight": "210",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 110
         },
         {
@@ -8092,6 +8092,34 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 2,
+      "created": "Sep 17, 2026 • 2:01 PM PT",
+      "transaction_id": "1406433895607484416",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Los Angeles Chargers",
+          "position": "DEF",
+          "team": "LAC"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Kyle Williams",
+          "position": "WR",
+          "team": "NE"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 2,
       "created": "Sep 16, 2026 • 4:24 PM PT",
       "transaction_id": "1406107650151739392",
       "type": "free_agent",
@@ -8110,6 +8138,56 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 2,
+      "created": "Sep 16, 2026 • 4:23 PM PT",
+      "transaction_id": "1406107182906269696",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "SeunghoSama"
+      ],
+      "added": [
+        {
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "LeQuint Allen",
+          "position": "RB",
+          "team": "JAX"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 15,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 2,
+      "created": "Sep 16, 2026 • 2:48 PM PT",
+      "transaction_id": "1406083421381435392",
+      "type": "waiver",
+      "status": "failed",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "This player was claimed by another owner."
     },
     {
       "season": "2026",
