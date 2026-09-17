@@ -6062,21 +6062,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 13
         },
         {
-          "player_id": "BUF",
-          "espn_id": null,
-          "name": "Buffalo Bills",
-          "position": "DEF",
-          "team": "BUF",
-          "birth_date": null,
-          "college": null,
-          "height": null,
-          "weight": null,
-          "years_exp": null,
-          "status": null,
-          "injury_status": null,
-          "search_rank": null
-        },
-        {
           "player_id": "PIT",
           "espn_id": null,
           "name": "Pittsburgh Steelers",
@@ -6871,7 +6856,7 @@ window.__STATIC_DATA__ = {
           "weight": "196",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 199
         },
         {
@@ -7021,7 +7006,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 9,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 196
         },
         {
@@ -8104,6 +8089,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 2,
+      "created": "Sep 16, 2026 • 4:24 PM PT",
+      "transaction_id": "1406107650151739392",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "cheigh"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Buffalo Bills",
+          "position": "DEF",
+          "team": "BUF"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 2,
