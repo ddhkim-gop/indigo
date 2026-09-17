@@ -3671,6 +3671,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 122
         },
         {
+          "player_id": "12048",
+          "espn_id": null,
+          "name": "George Holani",
+          "position": "RB",
+          "team": "SEA",
+          "birth_date": "1999-12-16",
+          "college": "Boise State",
+          "height": "71",
+          "weight": "210",
+          "years_exp": 2,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 454
+        },
+        {
           "player_id": "12533",
           "espn_id": null,
           "name": "Jacory Croskey-Merritt",
@@ -3894,21 +3909,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 8
-        },
-        {
-          "player_id": "9508",
-          "espn_id": null,
-          "name": "Tyjae Spears",
-          "position": "RB",
-          "team": "TEN",
-          "birth_date": "2001-06-15",
-          "college": "Tulane",
-          "height": "71",
-          "weight": "200",
-          "years_exp": 3,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 122
         },
         {
           "player_id": "9509",
@@ -5983,7 +5983,7 @@ window.__STATIC_DATA__ = {
           "weight": "245",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 103
         },
         {
@@ -6319,7 +6319,7 @@ window.__STATIC_DATA__ = {
           "weight": "250",
           "years_exp": 9,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 81
         },
         {
@@ -7111,7 +7111,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 155
         },
         {
@@ -7401,7 +7401,7 @@ window.__STATIC_DATA__ = {
           "height": "71",
           "weight": "230",
           "years_exp": 4,
-          "status": "Active",
+          "status": "Inactive",
           "injury_status": "IR",
           "search_rank": 91
         },
@@ -7618,7 +7618,7 @@ window.__STATIC_DATA__ = {
           "weight": "222",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 23
         },
         {
@@ -8178,6 +8178,28 @@ window.__STATIC_DATA__ = {
     },
     {
       "season": "2026",
+      "week": 2,
+      "created": "Sep 15, 2026 • 11:12 PM PT",
+      "transaction_id": "1405847900868669440",
+      "type": "waiver",
+      "status": "failed",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Treylon Burks",
+          "position": "WR",
+          "team": "WAS"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "Unfortunately, your roster will have too many players after this transaction."
+    },
+    {
+      "season": "2026",
       "week": 1,
       "created": "Sep 15, 2026 • 10:39 PM PT",
       "transaction_id": "1405839500294250496",
@@ -8296,6 +8318,34 @@ window.__STATIC_DATA__ = {
       ],
       "faab": 0,
       "waiver_bid": 15,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "created": "Sep 15, 2026 • 7:44 PM PT",
+      "transaction_id": "1405795444910526464",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "George Holani",
+          "position": "RB",
+          "team": "SEA"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 14,
       "notes": "Your waiver claim was processed successfully!"
     },
     {
