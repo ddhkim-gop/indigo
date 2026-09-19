@@ -6800,21 +6800,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 167
         },
         {
-          "player_id": "11655",
-          "espn_id": null,
-          "name": "Tyrone Tracy",
-          "position": "RB",
-          "team": "NYG",
-          "birth_date": "1999-11-23",
-          "college": "Purdue",
-          "height": "71",
-          "weight": "210",
-          "years_exp": 2,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 110
-        },
-        {
           "player_id": "12462",
           "espn_id": null,
           "name": "Damien Martinez",
@@ -7083,21 +7068,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 107
-        },
-        {
-          "player_id": "9506",
-          "espn_id": null,
-          "name": "Sean Tucker",
-          "position": "RB",
-          "team": "TB",
-          "birth_date": "2001-10-25",
-          "college": "Syracuse",
-          "height": "70",
-          "weight": "205",
-          "years_exp": 3,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 155
         },
         {
           "player_id": "9758",
@@ -8089,6 +8059,50 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 2,
+      "created": "Sep 18, 2026 • 5:13 PM PT",
+      "transaction_id": "1406844707710959616",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "bsohn00"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Tyrone Tracy",
+          "position": "RB",
+          "team": "NYG"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 2,
+      "created": "Sep 18, 2026 • 5:13 PM PT",
+      "transaction_id": "1406844697124564992",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "bsohn00"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Sean Tucker",
+          "position": "RB",
+          "team": "TB"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 2,
