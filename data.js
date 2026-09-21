@@ -3862,7 +3862,7 @@ window.__STATIC_DATA__ = {
           "weight": "225",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 80
         },
         {
@@ -6669,7 +6669,7 @@ window.__STATIC_DATA__ = {
           "height": "76",
           "weight": "246",
           "years_exp": 9,
-          "status": "Active",
+          "status": "Inactive",
           "injury_status": "Out",
           "search_rank": 131
         },
@@ -7468,7 +7468,7 @@ window.__STATIC_DATA__ = {
           "weight": "208",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 242
         },
         {
@@ -7738,7 +7738,7 @@ window.__STATIC_DATA__ = {
           "weight": "216",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 4
         },
         {
@@ -10387,7 +10387,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Zach Ertz",
           "position": "TE",
-          "team": null
+          "team": "PHI"
         }
       ],
       "faab": 0,
