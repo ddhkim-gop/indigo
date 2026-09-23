@@ -3831,8 +3831,8 @@ window.__STATIC_DATA__ = {
           "height": "75",
           "weight": "211",
           "years_exp": 4,
-          "status": "Active",
-          "injury_status": "Doubtful",
+          "status": "Inactive",
+          "injury_status": "Out",
           "search_rank": 93
         },
         {
@@ -3877,7 +3877,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 52
         },
         {
@@ -4683,7 +4683,7 @@ window.__STATIC_DATA__ = {
           "espn_id": null,
           "name": "Audric Estime",
           "position": "RB",
-          "team": "NO",
+          "team": null,
           "birth_date": "2003-09-06",
           "college": "Notre Dame",
           "height": "71",
@@ -4840,7 +4840,7 @@ window.__STATIC_DATA__ = {
           "weight": "223",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 42
         },
         {
@@ -5005,7 +5005,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 122
         },
         {
@@ -5071,7 +5071,7 @@ window.__STATIC_DATA__ = {
           "weight": "210",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 20
         },
         {
@@ -5908,7 +5908,7 @@ window.__STATIC_DATA__ = {
           "weight": "209",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 63
         },
         {
@@ -6459,7 +6459,7 @@ window.__STATIC_DATA__ = {
           "height": "72",
           "weight": "216",
           "years_exp": 2,
-          "status": "Active",
+          "status": "Inactive",
           "injury_status": "IR",
           "search_rank": 87
         },
@@ -6749,11 +6749,11 @@ window.__STATIC_DATA__ = {
           "search_rank": 148
         },
         {
-          "player_id": "TB",
+          "player_id": "GB",
           "espn_id": null,
-          "name": "Tampa Bay Buccaneers",
+          "name": "Green Bay Packers",
           "position": "DEF",
-          "team": "TB",
+          "team": "GB",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -7757,11 +7757,11 @@ window.__STATIC_DATA__ = {
           "search_rank": 101
         },
         {
-          "player_id": "LAR",
+          "player_id": "CIN",
           "espn_id": null,
-          "name": "Los Angeles Rams",
+          "name": "Cincinnati Bengals",
           "position": "DEF",
-          "team": "LAR",
+          "team": "CIN",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -7772,11 +7772,11 @@ window.__STATIC_DATA__ = {
           "search_rank": null
         },
         {
-          "player_id": "NO",
+          "player_id": "LAR",
           "espn_id": null,
-          "name": "New Orleans Saints",
+          "name": "Los Angeles Rams",
           "position": "DEF",
-          "team": "NO",
+          "team": "LAR",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -8059,6 +8059,62 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 23, 2026 • 8:29 AM PT",
+      "transaction_id": "1408524816247435264",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jay0jay1jay2"
+      ],
+      "added": [
+        {
+          "name": "Cincinnati Bengals",
+          "position": "DEF",
+          "team": "CIN"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "New Orleans Saints",
+          "position": "DEF",
+          "team": "NO"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 23, 2026 • 7:40 AM PT",
+      "transaction_id": "1408512259067506688",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "justinpark99"
+      ],
+      "added": [
+        {
+          "name": "Green Bay Packers",
+          "position": "DEF",
+          "team": "GB"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Tampa Bay Buccaneers",
+          "position": "DEF",
+          "team": "TB"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 3,
@@ -11164,7 +11220,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Audric Estime",
           "position": "RB",
-          "team": "NO"
+          "team": null
         }
       ],
       "dropped": [],
@@ -11404,7 +11460,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Audric Estime",
           "position": "RB",
-          "team": "NO"
+          "team": null
         }
       ],
       "faab": 0,
