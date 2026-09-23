@@ -4093,7 +4093,7 @@ window.__STATIC_DATA__ = {
           "weight": "207",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 61
         },
         {
@@ -4444,7 +4444,7 @@ window.__STATIC_DATA__ = {
           "weight": "228",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 197
         },
         {
@@ -4534,7 +4534,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 34
         },
         {
@@ -4930,7 +4930,7 @@ window.__STATIC_DATA__ = {
           "weight": "177",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 459
         },
         {
@@ -5058,6 +5058,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 57
+        },
+        {
+          "player_id": "11435",
+          "espn_id": null,
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA",
+          "birth_date": "1999-05-08",
+          "college": "Fort Valley State",
+          "height": "70",
+          "weight": "226",
+          "years_exp": 3,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 161
         },
         {
           "player_id": "11566",
@@ -5193,21 +5208,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "Questionable",
           "search_rank": 60
-        },
-        {
-          "player_id": "4993",
-          "espn_id": 3116164,
-          "name": "Mike Gesicki",
-          "position": "TE",
-          "team": "CIN",
-          "birth_date": "1995-10-03",
-          "college": "Penn State",
-          "height": "78",
-          "weight": "245",
-          "years_exp": 8,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 449
         },
         {
           "player_id": "5846",
@@ -5422,7 +5422,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 132
         },
         {
@@ -6289,7 +6289,7 @@ window.__STATIC_DATA__ = {
           "weight": "208",
           "years_exp": 9,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 85
         },
         {
@@ -7036,7 +7036,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 77
         },
         {
@@ -7117,7 +7117,7 @@ window.__STATIC_DATA__ = {
           "weight": "187",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 98
         },
         {
@@ -7192,7 +7192,7 @@ window.__STATIC_DATA__ = {
           "weight": "220",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 118
         },
         {
@@ -8059,6 +8059,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 23, 2026 • 12:34 PM PT",
+      "transaction_id": "1408586329922510848",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "GibbyMyTD"
+      ],
+      "added": [
+        {
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 3,
