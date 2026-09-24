@@ -4109,7 +4109,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 201
+          "search_rank": 200
         },
         {
           "player_id": "13302",
@@ -4259,7 +4259,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 206
+          "search_rank": 207
         },
         {
           "player_id": "9757",
@@ -4445,7 +4445,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 197
+          "search_rank": 196
         },
         {
           "player_id": "3451",
@@ -4460,7 +4460,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 10,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 128
+          "search_rank": 129
         },
         {
           "player_id": "4881",
@@ -4550,7 +4550,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 31
+          "search_rank": 30
         },
         {
           "player_id": "8137",
@@ -4565,7 +4565,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 22
+          "search_rank": 23
         },
         {
           "player_id": "8155",
@@ -4679,21 +4679,6 @@ window.__STATIC_DATA__ = {
       "roster_id": 4,
       "players": [
         {
-          "player_id": "11579",
-          "espn_id": null,
-          "name": "Audric Estime",
-          "position": "RB",
-          "team": null,
-          "birth_date": "2003-09-06",
-          "college": "Notre Dame",
-          "height": "71",
-          "weight": "227",
-          "years_exp": 2,
-          "status": "Inactive",
-          "injury_status": "Questionable",
-          "search_rank": 190
-        },
-        {
           "player_id": "11610",
           "espn_id": null,
           "name": "Malik Washington",
@@ -4766,7 +4751,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 133
+          "search_rank": 132
         },
         {
           "player_id": "12472",
@@ -5057,7 +5042,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 57
+          "search_rank": 58
         },
         {
           "player_id": "11435",
@@ -5132,7 +5117,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 173
+          "search_rank": 172
         },
         {
           "player_id": "12469",
@@ -5513,7 +5498,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 49
+          "search_rank": 47
         },
         {
           "player_id": "13285",
@@ -5528,7 +5513,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 201
+          "search_rank": 202
         },
         {
           "player_id": "13286",
@@ -6095,7 +6080,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 126
+          "search_rank": 125
         },
         {
           "player_id": "11563",
@@ -6245,7 +6230,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 11,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 125
+          "search_rank": 124
         },
         {
           "player_id": "3198",
@@ -6365,7 +6350,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 13
+          "search_rank": 11
         },
         {
           "player_id": "6804",
@@ -6491,7 +6476,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 27
+          "search_rank": 28
         },
         {
           "player_id": "11635",
@@ -6656,7 +6641,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 194
+          "search_rank": 195
         },
         {
           "player_id": "5844",
@@ -6992,7 +6977,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 9,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 197
+          "search_rank": 196
         },
         {
           "player_id": "4195",
@@ -7007,7 +6992,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 9,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 215
+          "search_rank": 214
         },
         {
           "player_id": "5849",
@@ -7067,7 +7052,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 105
+          "search_rank": 106
         },
         {
           "player_id": "9758",
@@ -7253,7 +7238,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 56
+          "search_rank": 55
         },
         {
           "player_id": "6904",
@@ -7514,7 +7499,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 11,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 105
+          "search_rank": 104
         },
         {
           "player_id": "4035",
@@ -8059,6 +8044,49 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 23, 2026 • 9:55 PM PT",
+      "transaction_id": "1408727569087451136",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "SeunghoSama"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Audric Estime",
+          "position": "RB",
+          "team": null
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 23, 2026 • 9:51 PM PT",
+      "transaction_id": "1408726622017687552",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee",
+        "natepark99"
+      ],
+      "assets_received": {
+        "natepark99": [
+          {
+            "name": "$20 FAAB",
+            "position": "FAAB",
+            "team": null
+          }
+        ]
+      }
+    },
     {
       "season": "2026",
       "week": 3,
