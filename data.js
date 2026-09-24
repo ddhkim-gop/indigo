@@ -3728,7 +3728,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 10,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 39
+          "search_rank": 38
         },
         {
           "player_id": "4037",
@@ -3758,7 +3758,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 9,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 40
+          "search_rank": 39
         },
         {
           "player_id": "4983",
@@ -4124,7 +4124,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 399
+          "search_rank": 400
         },
         {
           "player_id": "13305",
@@ -4184,7 +4184,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 42
+          "search_rank": 41
         },
         {
           "player_id": "7564",
@@ -4415,7 +4415,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 90
+          "search_rank": 89
         },
         {
           "player_id": "13269",
@@ -4430,7 +4430,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 109
+          "search_rank": 110
         },
         {
           "player_id": "13311",
@@ -4475,7 +4475,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 8
+          "search_rank": 10
         },
         {
           "player_id": "5001",
@@ -4625,7 +4625,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 467
+          "search_rank": 466
         },
         {
           "player_id": "9504",
@@ -4844,6 +4844,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 45
         },
         {
+          "player_id": "13281",
+          "espn_id": null,
+          "name": "Jordyn Tyson",
+          "position": "WR",
+          "team": "NO",
+          "birth_date": "2004-08-12",
+          "college": "Arizona State",
+          "height": "74",
+          "weight": "203",
+          "years_exp": 0,
+          "status": "Inactive",
+          "injury_status": "IR",
+          "search_rank": 62
+        },
+        {
           "player_id": "13288",
           "espn_id": null,
           "name": "Nicholas Singleton",
@@ -4874,6 +4889,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 156
         },
         {
+          "player_id": "13317",
+          "espn_id": null,
+          "name": "Ted Hurst",
+          "position": "WR",
+          "team": "TB",
+          "birth_date": "2004-07-02",
+          "college": "Georgia State",
+          "height": "75",
+          "weight": "195",
+          "years_exp": 0,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 196
+        },
+        {
           "player_id": "13417",
           "espn_id": null,
           "name": "De'Zhaun Stribling",
@@ -4901,7 +4931,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 390
+          "search_rank": 389
         },
         {
           "player_id": "13533",
@@ -4916,7 +4946,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 459
+          "search_rank": 460
         },
         {
           "player_id": "3163",
@@ -4931,22 +4961,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 10,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 61
-        },
-        {
-          "player_id": "6770",
-          "espn_id": 3915511,
-          "name": "Joe Burrow",
-          "position": "QB",
-          "team": "CIN",
-          "birth_date": "1996-12-10",
-          "college": "LSU",
-          "height": "76",
-          "weight": "215",
-          "years_exp": 6,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 15
+          "search_rank": 62
         },
         {
           "player_id": "8112",
@@ -5411,21 +5426,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 132
         },
         {
-          "player_id": "11783",
-          "espn_id": null,
-          "name": "Ryan Flournoy",
-          "position": "WR",
-          "team": "DAL",
-          "birth_date": "1999-10-27",
-          "college": "Southeast Missouri State",
-          "height": "73",
-          "weight": "205",
-          "years_exp": 2,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 199
-        },
-        {
           "player_id": "12474",
           "espn_id": null,
           "name": "Woody Marks",
@@ -5621,6 +5621,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 155
         },
         {
+          "player_id": "4892",
+          "espn_id": 3052587,
+          "name": "Baker Mayfield",
+          "position": "QB",
+          "team": "TB",
+          "birth_date": "1995-04-14",
+          "college": "Oklahoma",
+          "height": "73",
+          "weight": "215",
+          "years_exp": 8,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 74
+        },
+        {
           "player_id": "6797",
           "espn_id": 4038941,
           "name": "Justin Herbert",
@@ -5633,7 +5648,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 35
+          "search_rank": 33
         },
         {
           "player_id": "8121",
@@ -5804,7 +5819,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 105
+          "search_rank": 104
         },
         {
           "player_id": "13330",
@@ -5834,7 +5849,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 92
+          "search_rank": 93
         },
         {
           "player_id": "4984",
@@ -6095,7 +6110,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 44
+          "search_rank": 46
         },
         {
           "player_id": "11576",
@@ -6143,21 +6158,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 179
         },
         {
-          "player_id": "13281",
-          "espn_id": null,
-          "name": "Jordyn Tyson",
-          "position": "WR",
-          "team": "NO",
-          "birth_date": "2004-08-12",
-          "college": "Arizona State",
-          "height": "74",
-          "weight": "203",
-          "years_exp": 0,
-          "status": "Inactive",
-          "injury_status": "IR",
-          "search_rank": 62
-        },
-        {
           "player_id": "13287",
           "espn_id": null,
           "name": "Jeremiyah Love",
@@ -6171,21 +6171,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 15
-        },
-        {
-          "player_id": "13317",
-          "espn_id": null,
-          "name": "Ted Hurst",
-          "position": "WR",
-          "team": "TB",
-          "birth_date": "2004-07-02",
-          "college": "Georgia State",
-          "height": "75",
-          "weight": "195",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 196
         },
         {
           "player_id": "13411",
@@ -6323,6 +6308,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 94
         },
         {
+          "player_id": "6770",
+          "espn_id": 3915511,
+          "name": "Joe Burrow",
+          "position": "QB",
+          "team": "CIN",
+          "birth_date": "1996-12-10",
+          "college": "LSU",
+          "height": "76",
+          "weight": "215",
+          "years_exp": 6,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 15
+        },
+        {
           "player_id": "6786",
           "espn_id": 4241389,
           "name": "CeeDee Lamb",
@@ -6365,7 +6365,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 69
+          "search_rank": 68
         },
         {
           "player_id": "8146",
@@ -6671,7 +6671,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 131
+          "search_rank": 132
         },
         {
           "player_id": "8188",
@@ -7007,7 +7007,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 87
+          "search_rank": 86
         },
         {
           "player_id": "5947",
@@ -7163,7 +7163,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 115
+          "search_rank": 113
         },
         {
           "player_id": "13345",
@@ -7223,7 +7223,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 17,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 65
+          "search_rank": 66
         },
         {
           "player_id": "5927",
@@ -7424,7 +7424,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 14,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 274
+          "search_rank": 273
         },
         {
           "player_id": "11834",
@@ -7649,7 +7649,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 56
+          "search_rank": 55
         },
         {
           "player_id": "8205",
@@ -8069,6 +8069,34 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
+      "created": "Sep 23, 2026 • 9:52 PM PT",
+      "transaction_id": "1408726864394043392",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [
+        {
+          "name": "Baker Mayfield",
+          "position": "QB",
+          "team": "TB"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 3,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 3,
       "created": "Sep 23, 2026 • 9:51 PM PT",
       "transaction_id": "1408726622017687552",
       "type": "trade",
@@ -8254,6 +8282,63 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 21,
       "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 2,
+      "created": "Sep 21, 2026 • 11:43 PM PT",
+      "transaction_id": "1408030031082528768",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "SeunghoSama",
+        "Paul_Yoon"
+      ],
+      "assets_received": {
+        "SeunghoSama": [
+          {
+            "name": "Jordyn Tyson",
+            "position": "WR",
+            "team": "NO"
+          },
+          {
+            "name": "Ted Hurst",
+            "position": "WR",
+            "team": "TB"
+          },
+          {
+            "name": "2027 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "Paul_Yoon"
+          }
+        ],
+        "Paul_Yoon": [
+          {
+            "name": "Joe Burrow",
+            "position": "QB",
+            "team": "CIN"
+          },
+          {
+            "name": "2027 Round 3",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "SeunghoSama"
+          },
+          {
+            "name": "2028 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "SeunghoSama"
+          },
+          {
+            "name": "2027 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "natepark99"
+          }
+        ]
+      }
     },
     {
       "season": "2026",
@@ -27117,6 +27202,26 @@ window.__STATIC_DATA__ = {
       "previous_owner_name": "willie425"
     },
     {
+      "season": "2027",
+      "round": 3,
+      "roster_id": "4",
+      "owner_id": "8",
+      "previous_owner_id": "4",
+      "owner_name": "Paul_Yoon",
+      "original_owner_name": "SeunghoSama",
+      "previous_owner_name": "SeunghoSama"
+    },
+    {
+      "season": "2028",
+      "round": 2,
+      "roster_id": "4",
+      "owner_id": "8",
+      "previous_owner_id": "4",
+      "owner_name": "Paul_Yoon",
+      "original_owner_name": "SeunghoSama",
+      "previous_owner_name": "SeunghoSama"
+    },
+    {
       "season": "2028",
       "round": 3,
       "roster_id": "4",
@@ -27190,11 +27295,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 2,
       "roster_id": "6",
-      "owner_id": "4",
-      "previous_owner_id": "6",
-      "owner_name": "SeunghoSama",
+      "owner_id": "8",
+      "previous_owner_id": "4",
+      "owner_name": "Paul_Yoon",
       "original_owner_name": "natepark99",
-      "previous_owner_name": "natepark99"
+      "previous_owner_name": "SeunghoSama"
     },
     {
       "season": "2028",
@@ -27260,11 +27365,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 2,
       "roster_id": "8",
-      "owner_id": "8",
-      "previous_owner_id": "11",
-      "owner_name": "Paul_Yoon",
+      "owner_id": "4",
+      "previous_owner_id": "8",
+      "owner_name": "SeunghoSama",
       "original_owner_name": "Paul_Yoon",
-      "previous_owner_name": "daevn"
+      "previous_owner_name": "Paul_Yoon"
     },
     {
       "season": "2027",
