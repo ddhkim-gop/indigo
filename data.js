@@ -6233,21 +6233,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 7
         },
         {
-          "player_id": "4177",
-          "espn_id": 2991662,
-          "name": "Mack Hollins",
-          "position": "WR",
-          "team": "NE",
-          "birth_date": "1993-09-16",
-          "college": "North Carolina",
-          "height": "76",
-          "weight": "221",
-          "years_exp": 9,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 697
-        },
-        {
           "player_id": "4199",
           "espn_id": 3042519,
           "name": "Aaron Jones",
@@ -8044,6 +8029,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 24, 2026 • 7:57 AM PT",
+      "transaction_id": "1408879050214105088",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "Paul_Yoon"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Mack Hollins",
+          "position": "WR",
+          "team": "NE"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 3,
