@@ -5848,7 +5848,7 @@ window.__STATIC_DATA__ = {
           "weight": "225",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 93
         },
         {
@@ -6139,7 +6139,7 @@ window.__STATIC_DATA__ = {
           "weight": "252",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 141
         },
         {
@@ -6595,7 +6595,7 @@ window.__STATIC_DATA__ = {
           "weight": "217",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 157
         },
         {
@@ -6961,7 +6961,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 9,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 196
         },
         {
@@ -7179,6 +7179,21 @@ window.__STATIC_DATA__ = {
           "status": "Inactive",
           "injury_status": "IR",
           "search_rank": 400
+        },
+        {
+          "player_id": "2505",
+          "espn_id": 2576925,
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR",
+          "birth_date": "1992-09-13",
+          "college": "Georgia Tech",
+          "height": "78",
+          "weight": "238",
+          "years_exp": 11,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 354
         },
         {
           "player_id": "3214",
@@ -8029,6 +8044,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 24, 2026 • 4:01 PM PT",
+      "transaction_id": "1409000839728648192",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "daevn"
+      ],
+      "added": [
+        {
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 3,
