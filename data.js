@@ -3939,6 +3939,21 @@ window.__STATIC_DATA__ = {
           "status": null,
           "injury_status": null,
           "search_rank": null
+        },
+        {
+          "player_id": "NYG",
+          "espn_id": null,
+          "name": "New York Giants",
+          "position": "DEF",
+          "team": "NYG",
+          "birth_date": null,
+          "college": null,
+          "height": null,
+          "weight": null,
+          "years_exp": null,
+          "status": null,
+          "injury_status": null,
+          "search_rank": null
         }
       ]
     },
@@ -3958,7 +3973,7 @@ window.__STATIC_DATA__ = {
           "weight": "226",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 21
         },
         {
@@ -5692,7 +5707,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 147
         },
         {
@@ -6259,7 +6274,7 @@ window.__STATIC_DATA__ = {
           "weight": "256",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 94
         },
         {
@@ -7147,7 +7162,7 @@ window.__STATIC_DATA__ = {
           "weight": "220",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "search_rank": 118
         },
         {
@@ -7252,7 +7267,7 @@ window.__STATIC_DATA__ = {
           "weight": "170",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 33
         },
         {
@@ -8029,6 +8044,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 26, 2026 • 10:57 AM PT",
+      "transaction_id": "1409649169408299008",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "New York Giants",
+          "position": "DEF",
+          "team": "NYG"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 3,
