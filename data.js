@@ -3743,7 +3743,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 9,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 88
+          "search_rank": 87
         },
         {
           "player_id": "4046",
@@ -3773,7 +3773,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 48
+          "search_rank": 50
         },
         {
           "player_id": "5012",
@@ -4019,7 +4019,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 65
+          "search_rank": 63
         },
         {
           "player_id": "12457",
@@ -4109,7 +4109,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": "Out",
-          "search_rank": 201
+          "search_rank": 199
         },
         {
           "player_id": "13302",
@@ -4124,7 +4124,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 398
+          "search_rank": 400
         },
         {
           "player_id": "13305",
@@ -4475,7 +4475,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 10,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 129
+          "search_rank": 127
         },
         {
           "player_id": "4881",
@@ -4826,7 +4826,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 41
+          "search_rank": 43
         },
         {
           "player_id": "12512",
@@ -5312,7 +5312,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 133
+          "search_rank": 134
         },
         {
           "player_id": "9480",
@@ -5498,7 +5498,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 49
+          "search_rank": 47
         },
         {
           "player_id": "13285",
@@ -5633,7 +5633,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 74
+          "search_rank": 75
         },
         {
           "player_id": "6797",
@@ -5678,7 +5678,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 119
+          "search_rank": 118
         },
         {
           "player_id": "9225",
@@ -5819,7 +5819,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 105
+          "search_rank": 103
         },
         {
           "player_id": "13330",
@@ -5894,7 +5894,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 130
+          "search_rank": 131
         },
         {
           "player_id": "5967",
@@ -6029,7 +6029,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 6
+          "search_rank": 7
         },
         {
           "player_id": "7611",
@@ -6095,7 +6095,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 125
+          "search_rank": 127
         },
         {
           "player_id": "11563",
@@ -6188,21 +6188,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 375
         },
         {
-          "player_id": "1466",
-          "espn_id": 15847,
-          "name": "Travis Kelce",
-          "position": "TE",
-          "team": "KC",
-          "birth_date": "1989-10-05",
-          "college": "Cincinnati",
-          "height": "77",
-          "weight": "250",
-          "years_exp": 13,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 89
-        },
-        {
           "player_id": "2747",
           "espn_id": 2473037,
           "name": "Jason Myers",
@@ -6216,21 +6201,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 124
-        },
-        {
-          "player_id": "3198",
-          "espn_id": 3043078,
-          "name": "Derrick Henry",
-          "position": "RB",
-          "team": "BAL",
-          "birth_date": "1994-01-04",
-          "college": "Alabama",
-          "height": "75",
-          "weight": "252",
-          "years_exp": 10,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 7
         },
         {
           "player_id": "4199",
@@ -6368,6 +6338,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 38
         },
         {
+          "player_id": "9224",
+          "espn_id": null,
+          "name": "Chase Brown",
+          "position": "RB",
+          "team": "CIN",
+          "birth_date": "2000-03-21",
+          "college": "Illinois",
+          "height": "70",
+          "weight": "210",
+          "years_exp": 3,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 15
+        },
+        {
           "player_id": "9488",
           "espn_id": null,
           "name": "Jaxon Smith-Njigba",
@@ -6461,7 +6446,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 27
+          "search_rank": 28
         },
         {
           "player_id": "11635",
@@ -6476,7 +6461,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 34
+          "search_rank": 35
         },
         {
           "player_id": "12489",
@@ -6611,7 +6596,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 160
+          "search_rank": 162
         },
         {
           "player_id": "13545",
@@ -6701,7 +6686,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 65
+          "search_rank": 64
         },
         {
           "player_id": "9511",
@@ -6962,7 +6947,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 9,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 196
+          "search_rank": 197
         },
         {
           "player_id": "4195",
@@ -7037,7 +7022,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 104
+          "search_rank": 106
         },
         {
           "player_id": "9758",
@@ -7148,7 +7133,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 115
+          "search_rank": 114
         },
         {
           "player_id": "13345",
@@ -7193,7 +7178,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 11,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 353
+          "search_rank": 354
         },
         {
           "player_id": "3214",
@@ -7343,7 +7328,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 90
+          "search_rank": 92
         },
         {
           "player_id": "9756",
@@ -7424,7 +7409,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 14,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 272
+          "search_rank": 274
         },
         {
           "player_id": "11834",
@@ -7487,6 +7472,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 151
         },
         {
+          "player_id": "1466",
+          "espn_id": 15847,
+          "name": "Travis Kelce",
+          "position": "TE",
+          "team": "KC",
+          "birth_date": "1989-10-05",
+          "college": "Cincinnati",
+          "height": "77",
+          "weight": "250",
+          "years_exp": 13,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 89
+        },
+        {
           "player_id": "2449",
           "espn_id": 2976212,
           "name": "Stefon Diggs",
@@ -7500,6 +7500,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 104
+        },
+        {
+          "player_id": "3198",
+          "espn_id": 3043078,
+          "name": "Derrick Henry",
+          "position": "RB",
+          "team": "BAL",
+          "birth_date": "1994-01-04",
+          "college": "Alabama",
+          "height": "75",
+          "weight": "252",
+          "years_exp": 10,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 7
         },
         {
           "player_id": "4035",
@@ -7592,21 +7607,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 230
         },
         {
-          "player_id": "7670",
-          "espn_id": null,
-          "name": "Joshua Palmer",
-          "position": "WR",
-          "team": "BUF",
-          "birth_date": "1999-09-22",
-          "college": "Tennessee",
-          "height": "73",
-          "weight": "210",
-          "years_exp": 5,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 624
-        },
-        {
           "player_id": "8110",
           "espn_id": null,
           "name": "Jake Ferguson",
@@ -7680,21 +7680,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 118
-        },
-        {
-          "player_id": "9224",
-          "espn_id": null,
-          "name": "Chase Brown",
-          "position": "RB",
-          "team": "CIN",
-          "birth_date": "2000-03-21",
-          "college": "Illinois",
-          "height": "70",
-          "weight": "210",
-          "years_exp": 3,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 13
         },
         {
           "player_id": "9487",
@@ -8047,6 +8032,28 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
+      "created": "Sep 25, 2026 • 10:55 PM PT",
+      "transaction_id": "1409467356186431488",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jay0jay1jay2"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Joshua Palmer",
+          "position": "WR",
+          "team": "BUF"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 3,
       "created": "Sep 25, 2026 • 7:46 PM PT",
       "transaction_id": "1409419928909475840",
       "type": "free_agent",
@@ -8093,6 +8100,45 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 24, 2026 • 8:29 AM PT",
+      "transaction_id": "1408886994796359680",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "Paul_Yoon",
+        "jay0jay1jay2"
+      ],
+      "assets_received": {
+        "jay0jay1jay2": [
+          {
+            "name": "Travis Kelce",
+            "position": "TE",
+            "team": "KC"
+          },
+          {
+            "name": "Derrick Henry",
+            "position": "RB",
+            "team": "BAL"
+          },
+          {
+            "name": "2028 Round 1",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "Paul_Yoon"
+          }
+        ],
+        "Paul_Yoon": [
+          {
+            "name": "Chase Brown",
+            "position": "RB",
+            "team": "CIN"
+          }
+        ]
+      }
     },
     {
       "season": "2026",
@@ -27450,6 +27496,16 @@ window.__STATIC_DATA__ = {
       "owner_id": "4",
       "previous_owner_id": "8",
       "owner_name": "SeunghoSama",
+      "original_owner_name": "Paul_Yoon",
+      "previous_owner_name": "Paul_Yoon"
+    },
+    {
+      "season": "2028",
+      "round": 1,
+      "roster_id": "8",
+      "owner_id": "12",
+      "previous_owner_id": "8",
+      "owner_name": "jay0jay1jay2",
       "original_owner_name": "Paul_Yoon",
       "previous_owner_name": "Paul_Yoon"
     },
