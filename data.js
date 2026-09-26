@@ -4448,6 +4448,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 196
         },
         {
+          "player_id": "13423",
+          "espn_id": null,
+          "name": "Eli Heidenreich",
+          "position": "RB",
+          "team": "PIT",
+          "birth_date": "2003-06-28",
+          "college": "Navy",
+          "height": "72",
+          "weight": "198",
+          "years_exp": 0,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 486
+        },
+        {
           "player_id": "3451",
           "espn_id": 2971573,
           "name": "Ka'imi Fairbairn",
@@ -4611,21 +4626,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 149
-        },
-        {
-          "player_id": "9482",
-          "espn_id": null,
-          "name": "Michael Mayer",
-          "position": "TE",
-          "team": "LV",
-          "birth_date": "2001-07-06",
-          "college": "Notre Dame",
-          "height": "76",
-          "weight": "256",
-          "years_exp": 3,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 465
         },
         {
           "player_id": "9504",
@@ -8044,6 +8044,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 25, 2026 • 7:46 PM PT",
+      "transaction_id": "1409419928909475840",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [
+        {
+          "name": "Eli Heidenreich",
+          "position": "RB",
+          "team": "PIT"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Michael Mayer",
+          "position": "TE",
+          "team": "LV"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 3,
