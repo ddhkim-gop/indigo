@@ -3832,7 +3832,7 @@ window.__STATIC_DATA__ = {
           "weight": "211",
           "years_exp": 4,
           "status": "Inactive",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "search_rank": 93
         },
         {
@@ -3911,11 +3911,11 @@ window.__STATIC_DATA__ = {
           "search_rank": 1
         },
         {
-          "player_id": "CAR",
+          "player_id": "JAX",
           "espn_id": null,
-          "name": "Carolina Panthers",
+          "name": "Jacksonville Jaguars",
           "position": "DEF",
-          "team": "CAR",
+          "team": "JAX",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -3926,11 +3926,11 @@ window.__STATIC_DATA__ = {
           "search_rank": null
         },
         {
-          "player_id": "JAX",
+          "player_id": "NO",
           "espn_id": null,
-          "name": "Jacksonville Jaguars",
+          "name": "New Orleans Saints",
           "position": "DEF",
-          "team": "JAX",
+          "team": "NO",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -8029,6 +8029,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 26, 2026 • 7:17 AM PT",
+      "transaction_id": "1409593753634615296",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "New Orleans Saints",
+          "position": "DEF",
+          "team": "NO"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Carolina Panthers",
+          "position": "DEF",
+          "team": "CAR"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 3,
