@@ -3772,7 +3772,7 @@ window.__STATIC_DATA__ = {
           "weight": "213",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 50
         },
         {
@@ -3877,7 +3877,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 52
         },
         {
@@ -3892,7 +3892,7 @@ window.__STATIC_DATA__ = {
           "weight": "195",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 8
         },
         {
@@ -4354,7 +4354,7 @@ window.__STATIC_DATA__ = {
           "weight": "201",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 355
         },
         {
@@ -4461,21 +4461,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 196
-        },
-        {
-          "player_id": "13423",
-          "espn_id": null,
-          "name": "Eli Heidenreich",
-          "position": "RB",
-          "team": "PIT",
-          "birth_date": "2003-06-28",
-          "college": "Navy",
-          "height": "72",
-          "weight": "198",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 484
         },
         {
           "player_id": "3451",
@@ -4673,6 +4658,21 @@ window.__STATIC_DATA__ = {
           "search_rank": null
         },
         {
+          "player_id": "LV",
+          "espn_id": null,
+          "name": "Las Vegas Raiders",
+          "position": "DEF",
+          "team": "LV",
+          "birth_date": null,
+          "college": null,
+          "height": null,
+          "weight": null,
+          "years_exp": null,
+          "status": null,
+          "injury_status": null,
+          "search_rank": null
+        },
+        {
           "player_id": "PHI",
           "espn_id": null,
           "name": "Philadelphia Eagles",
@@ -4720,7 +4720,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 162
         },
         {
@@ -4750,7 +4750,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 174
         },
         {
@@ -5020,7 +5020,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 122
         },
         {
@@ -5131,7 +5131,7 @@ window.__STATIC_DATA__ = {
           "weight": "213",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 206
         },
         {
@@ -5191,7 +5191,7 @@ window.__STATIC_DATA__ = {
           "weight": "192",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 385
         },
         {
@@ -5206,7 +5206,7 @@ window.__STATIC_DATA__ = {
           "weight": "218",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 644
         },
         {
@@ -5221,7 +5221,7 @@ window.__STATIC_DATA__ = {
           "weight": "231",
           "years_exp": 12,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 60
         },
         {
@@ -5437,7 +5437,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 132
         },
         {
@@ -5983,7 +5983,7 @@ window.__STATIC_DATA__ = {
           "weight": "223",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 107
         },
         {
@@ -8044,6 +8044,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 27, 2026 • 8:20 AM PT",
+      "transaction_id": "1409971945188917248",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [
+        {
+          "name": "Las Vegas Raiders",
+          "position": "DEF",
+          "team": "LV"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Eli Heidenreich",
+          "position": "RB",
+          "team": "PIT"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 3,
