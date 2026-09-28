@@ -4,6 +4,25 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://www.espn.com/video/clip/_/id/50047881/cody-white-td-puts-raiders-ahead-late",
+      "player": "Kirk Cousins",
+      "meta": "QB \u00b7 LV",
+      "date": "2026-09-27",
+      "author": "ESPN",
+      "text": "Cody White's TD puts Raiders ahead late. Cody White's TD puts Raiders ahead late ",
+      "verified": true,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401872961",
+      "game_id": "401872961",
+      "game_time": "Q4 9:21",
+      "play_key": "401872961:4018729613883",
+      "played_at": "2026-09-27T23:08:01Z",
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0927/4148498f-cdff-49e7-8464-cd81906b1024/4148498f-cdff-49e7-8464-cd81906b1024.jpg",
+      "published": "2026-09-27T23:46:56Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/0927/4148498f-cdff-49e7-8464-cd81906b1024/4148498f-cdff-49e7-8464-cd81906b1024.mp4"
+    },
+    {
       "url": "https://www.espn.com/video/clip/_/id/50047725/george-kittle-cushions-49ers-lead-td-brock-purdy",
       "player": "Brock Purdy",
       "meta": "QB \u00b7 SF",
@@ -61,6 +80,25 @@
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/0928/19f23692-dbb3-4d43-aca2-0928ac78627f/19f23692-dbb3-4d43-aca2-0928ac78627f.mp4"
     },
     {
+      "url": "https://www.espn.com/video/clip/_/id/50046163/michael-mayer-td-puts-raiders-ahead",
+      "player": "Kirk Cousins",
+      "meta": "QB \u00b7 LV",
+      "date": "2026-09-27",
+      "author": "ESPN",
+      "text": "Michael Mayer's TD puts Raiders ahead",
+      "verified": true,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401872961",
+      "game_id": "401872961",
+      "game_time": "Q2 5:46",
+      "play_key": "401872961:4018729611562",
+      "played_at": "2026-09-27T21:21:31Z",
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0927/c382b479-aa7a-4974-a7ab-1898a9278a6e/c382b479-aa7a-4974-a7ab-1898a9278a6e.jpg",
+      "published": "2026-09-27T21:31:45Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/0927/c382b479-aa7a-4974-a7ab-1898a9278a6e/c382b479-aa7a-4974-a7ab-1898a9278a6e.mp4"
+    },
+    {
       "url": "https://www.espn.com/video/clip/_/id/50046013/derrick-henry-takes-direct-snap-td",
       "player": "Derrick Henry",
       "meta": "RB \u00b7 BAL",
@@ -97,6 +135,25 @@
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/b8f6e709bc924ceb866fff3aacc6f8831040/b8f6e709bc924ceb866fff3aacc6f8831040.jpg",
       "published": "2026-09-27T21:14:10Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/0927/b8f6e709-bc92-4ceb-866f-ff3aacc6f883/b8f6e709-bc92-4ceb-866f-ff3aacc6f883.mp4"
+    },
+    {
+      "url": "https://www.espn.com/video/clip/_/id/50045971/evans-pulls-some-sweet-trickery-lateral-samuel-80-yard-td",
+      "player": "Brock Purdy",
+      "meta": "QB \u00b7 SF",
+      "date": "2026-09-27",
+      "author": "ESPN",
+      "text": "Evans pulls off some sweet trickery with a lateral to Samuel for an 80-yard TD",
+      "verified": true,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401872958",
+      "game_id": "401872958",
+      "game_time": "Q1 8:26",
+      "play_key": "401872958:401872958503",
+      "played_at": "2026-09-27T20:20:31Z",
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/2d803eada4e44177aad3315c0152dcf71046/2d803eada4e44177aad3315c0152dcf71046.jpg",
+      "published": "2026-09-27T21:08:18Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/0927/2d803ead-a4e4-4177-aad3-315c0152dcf7/2d803ead-a4e4-4177-aad3-315c0152dcf7.mp4"
     },
     {
       "url": "https://www.espn.com/video/clip/_/id/50044820/patrick-mahomes-links-travis-kelce-pad-chiefs-lead",

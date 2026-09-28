@@ -4,6 +4,25 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://www.espn.com/video/clip/_/id/50043788/keenan-allen-scores-first-td-colt",
+      "player": "Daniel Jones",
+      "meta": "QB \u00b7 IND",
+      "date": "2026-09-27",
+      "author": "ESPN",
+      "text": "Keenan Allen scores his first TD as a Colt",
+      "verified": true,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401872951",
+      "game_id": "401872951",
+      "game_time": "Q2 11:08",
+      "play_key": "401872951:4018729511263",
+      "played_at": "2026-09-27T17:49:49Z",
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0927/320eadf0-48ef-4eb7-8323-16fecfd441e0/320eadf0-48ef-4eb7-8323-16fecfd441e0.jpg",
+      "published": "2026-09-27T18:03:08Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/0927/320eadf0-48ef-4eb7-8323-16fecfd441e0/320eadf0-48ef-4eb7-8323-16fecfd441e0.mp4"
+    },
+    {
       "url": "https://www.espn.com/video/clip/_/id/50043538/ollie-gordon-ii-muscles-a-dolphins-td",
       "player": "Ollie Gordon",
       "meta": "RB \u00b7 MIA",
