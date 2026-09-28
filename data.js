@@ -6218,6 +6218,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 124
         },
         {
+          "player_id": "3321",
+          "espn_id": 3116406,
+          "name": "Tyreek Hill",
+          "position": "WR",
+          "team": null,
+          "birth_date": "1994-03-01",
+          "college": "West Alabama",
+          "height": "70",
+          "weight": "191",
+          "years_exp": 10,
+          "status": "Active",
+          "injury_status": "",
+          "search_rank": 145
+        },
+        {
           "player_id": "4199",
           "espn_id": 3042519,
           "name": "Aaron Jones",
@@ -8044,6 +8059,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 28, 2026 • 6:31 AM PT",
+      "transaction_id": "1410307060301570048",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "Paul_Yoon"
+      ],
+      "added": [
+        {
+          "name": "Tyreek Hill",
+          "position": "WR",
+          "team": null
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 3,
