@@ -13,10 +13,14 @@
       "verified": true,
       "faves": 0,
       "secs": 0,
+      "espn_game": "401872959",
+      "game_id": "401872959",
+      "game_time": "Q1 6:44",
+      "play_key": "401872959:401872959564",
+      "played_at": "2026-09-27T20:26:25Z",
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0927/b3482540-f594-4db9-abc1-a012e29579c6/b3482540-f594-4db9-abc1-a012e29579c6.jpg",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/0927/b3482540-f594-4db9-abc1-a012e29579c6/b3482540-f594-4db9-abc1-a012e29579c6.mp4",
-      "game_time": "Q1 06:29",
-      "kickoff": "9/13/26, 13:03:57"
+      "published": "2026-09-27T21:22:09Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/0927/b3482540-f594-4db9-abc1-a012e29579c6/b3482540-f594-4db9-abc1-a012e29579c6.mp4"
     }
   ]
 }
