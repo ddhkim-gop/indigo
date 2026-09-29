@@ -4,6 +4,27 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://www.youtube.com/shorts/-FEnbaRp1WQ",
+      "player": "Ted Hurst",
+      "meta": "WR \u00b7 TB",
+      "date": "2026-09-27",
+      "author": "Buccaneers",
+      "text": "TED TUDDY \ud83d\udc4f \ud83d\udcfa: #MINvsTB on FOX #tedhurst #bakermayfield #touchdown #nfl #buccaneers",
+      "verified": true,
+      "faves": 498,
+      "secs": 22,
+      "game_id": "401872959",
+      "game_time": "Q1 6:44",
+      "play_key": "401872959:401872959564",
+      "played_at": "2026-09-27T20:26:25Z",
+      "poster": "https://i.ytimg.com/vi/-FEnbaRp1WQ/hqdefault.jpg",
+      "published": "2026-09-27T20:44:46Z",
+      "youtube": "-FEnbaRp1WQ",
+      "author_name": "Tampa Bay Buccaneers",
+      "avatar": "",
+      "author_verified": true
+    },
+    {
       "url": "https://www.espn.com/video/clip/_/id/50045467/deshaun-watson-finds-harold-fannin-jr-late-td-give-browns-lead",
       "player": "Harold Fannin",
       "meta": "TE \u00b7 CLE",
