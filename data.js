@@ -7196,21 +7196,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 354
         },
         {
-          "player_id": "3214",
-          "espn_id": 3046439,
-          "name": "Hunter Henry",
-          "position": "TE",
-          "team": "NE",
-          "birth_date": "1994-12-07",
-          "college": "Arkansas",
-          "height": "77",
-          "weight": "249",
-          "years_exp": 10,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 92
-        },
-        {
           "player_id": "421",
           "espn_id": 12483,
           "name": "Matthew Stafford",
@@ -8044,6 +8029,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 29, 2026 • 7:58 AM PT",
+      "transaction_id": "1410691181666467840",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "daevn"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Hunter Henry",
+          "position": "TE",
+          "team": "NE"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 3,
