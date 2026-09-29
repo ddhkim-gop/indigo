@@ -3623,7 +3623,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 185
+          "search_rank": 187
         },
         {
           "player_id": "10229",
@@ -3638,7 +3638,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 30
+          "search_rank": 29
         },
         {
           "player_id": "11533",
@@ -3654,6 +3654,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 90
+        },
+        {
+          "player_id": "11584",
+          "espn_id": null,
+          "name": "Bucky Irving",
+          "position": "RB",
+          "team": "TB",
+          "birth_date": "2002-08-19",
+          "college": "Oregon",
+          "height": "70",
+          "weight": "195",
+          "years_exp": 2,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 32
         },
         {
           "player_id": "11624",
@@ -3684,6 +3699,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 95
+        },
+        {
+          "player_id": "12534",
+          "espn_id": null,
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI",
+          "birth_date": "2002-06-06",
+          "college": "Rutgers",
+          "height": "68",
+          "weight": "207",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 61
         },
         {
           "player_id": "13278",
@@ -3881,19 +3911,19 @@ window.__STATIC_DATA__ = {
           "search_rank": 52
         },
         {
-          "player_id": "9226",
+          "player_id": "9486",
           "espn_id": null,
-          "name": "De'Von Achane",
-          "position": "RB",
-          "team": "MIA",
-          "birth_date": "2001-10-13",
-          "college": "Texas A&M",
-          "height": "69",
-          "weight": "195",
+          "name": "Dontayvion Wicks",
+          "position": "WR",
+          "team": "PHI",
+          "birth_date": "2001-06-16",
+          "college": "Virginia",
+          "height": "73",
+          "weight": "206",
           "years_exp": 3,
-          "status": "Inactive",
-          "injury_status": "IR",
-          "search_rank": 8
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 207
         },
         {
           "player_id": "9509",
@@ -4007,21 +4037,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 99
         },
         {
-          "player_id": "11584",
-          "espn_id": null,
-          "name": "Bucky Irving",
-          "position": "RB",
-          "team": "TB",
-          "birth_date": "2002-08-19",
-          "college": "Oregon",
-          "height": "70",
-          "weight": "195",
-          "years_exp": 2,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 32
-        },
-        {
           "player_id": "11620",
           "espn_id": null,
           "name": "Rome Odunze",
@@ -4095,21 +4110,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 38
-        },
-        {
-          "player_id": "12534",
-          "espn_id": null,
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "team": "CHI",
-          "birth_date": "2002-06-06",
-          "college": "Rutgers",
-          "height": "68",
-          "weight": "207",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 61
         },
         {
           "player_id": "13296",
@@ -4262,19 +4262,19 @@ window.__STATIC_DATA__ = {
           "search_rank": 18
         },
         {
-          "player_id": "9486",
+          "player_id": "9226",
           "espn_id": null,
-          "name": "Dontayvion Wicks",
-          "position": "WR",
-          "team": "PHI",
-          "birth_date": "2001-06-16",
-          "college": "Virginia",
-          "height": "73",
-          "weight": "206",
+          "name": "De'Von Achane",
+          "position": "RB",
+          "team": "MIA",
+          "birth_date": "2001-10-13",
+          "college": "Texas A&M",
+          "height": "69",
+          "weight": "195",
           "years_exp": 3,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 207
+          "status": "Inactive",
+          "injury_status": "IR",
+          "search_rank": 8
         },
         {
           "player_id": "9757",
@@ -4415,7 +4415,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 455
+          "search_rank": 458
         },
         {
           "player_id": "12545",
@@ -4445,7 +4445,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 107
+          "search_rank": 109
         },
         {
           "player_id": "13311",
@@ -4625,7 +4625,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 149
+          "search_rank": 150
         },
         {
           "player_id": "9504",
@@ -4671,21 +4671,6 @@ window.__STATIC_DATA__ = {
           "status": null,
           "injury_status": null,
           "search_rank": null
-        },
-        {
-          "player_id": "PHI",
-          "espn_id": null,
-          "name": "Philadelphia Eagles",
-          "position": "DEF",
-          "team": "PHI",
-          "birth_date": null,
-          "college": null,
-          "height": null,
-          "weight": null,
-          "years_exp": null,
-          "status": null,
-          "injury_status": null,
-          "search_rank": null
         }
       ]
     },
@@ -4706,7 +4691,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 176
+          "search_rank": 177
         },
         {
           "player_id": "11625",
@@ -4766,7 +4751,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 131
+          "search_rank": 133
         },
         {
           "player_id": "12472",
@@ -4946,7 +4931,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 389
+          "search_rank": 390
         },
         {
           "player_id": "13533",
@@ -4976,7 +4961,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 10,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 59
+          "search_rank": 61
         },
         {
           "player_id": "8112",
@@ -5147,7 +5132,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 172
+          "search_rank": 173
         },
         {
           "player_id": "12469",
@@ -5192,7 +5177,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": "Out",
-          "search_rank": 384
+          "search_rank": 385
         },
         {
           "player_id": "13477",
@@ -5513,7 +5498,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 47
+          "search_rank": 48
         },
         {
           "player_id": "13285",
@@ -5573,7 +5558,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 89
+          "search_rank": 91
         },
         {
           "player_id": "13298",
@@ -5834,7 +5819,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 103
+          "search_rank": 104
         },
         {
           "player_id": "13330",
@@ -6044,7 +6029,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 7
+          "search_rank": 6
         },
         {
           "player_id": "7611",
@@ -6215,7 +6200,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 11,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 124
+          "search_rank": 125
         },
         {
           "player_id": "3321",
@@ -6335,7 +6320,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": "Out",
-          "search_rank": 11
+          "search_rank": 12
         },
         {
           "player_id": "6804",
@@ -6395,7 +6380,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 5
+          "search_rank": 6
         },
         {
           "player_id": "SEA",
@@ -6521,7 +6506,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 467
+          "search_rank": 466
         },
         {
           "player_id": "12514",
@@ -6536,7 +6521,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 40
+          "search_rank": 39
         },
         {
           "player_id": "12529",
@@ -6581,7 +6566,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 449
+          "search_rank": 450
         },
         {
           "player_id": "13347",
@@ -7103,7 +7088,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": "Out",
-          "search_rank": 99
+          "search_rank": 97
         },
         {
           "player_id": "11539",
@@ -7118,7 +7103,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 148
+          "search_rank": 149
         },
         {
           "player_id": "12481",
@@ -7358,7 +7343,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 92
+          "search_rank": 90
         },
         {
           "player_id": "9756",
@@ -7439,7 +7424,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 14,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 272
+          "search_rank": 273
         },
         {
           "player_id": "11834",
@@ -7679,7 +7664,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 56
+          "search_rank": 55
         },
         {
           "player_id": "8205",
@@ -8062,6 +8047,28 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
+      "created": "Sep 28, 2026 • 10:35 PM PT",
+      "transaction_id": "1410549594395312128",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Philadelphia Eagles",
+          "position": "DEF",
+          "team": "PHI"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 3,
       "created": "Sep 28, 2026 • 6:31 AM PT",
       "transaction_id": "1410307060301570048",
       "type": "free_agent",
@@ -8080,6 +8087,50 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 27, 2026 • 4:43 PM PT",
+      "transaction_id": "1410098551169515520",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee",
+        "willie425"
+      ],
+      "assets_received": {
+        "PattyMahomiee": [
+          {
+            "name": "Bucky Irving",
+            "position": "RB",
+            "team": "TB"
+          },
+          {
+            "name": "Kyle Monangai",
+            "position": "RB",
+            "team": "CHI"
+          },
+          {
+            "name": "Dontayvion Wicks",
+            "position": "WR",
+            "team": "PHI"
+          }
+        ],
+        "willie425": [
+          {
+            "name": "De'Von Achane",
+            "position": "RB",
+            "team": "MIA"
+          },
+          {
+            "name": "2027 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "cheigh"
+          }
+        ]
+      }
     },
     {
       "season": "2026",
@@ -27573,11 +27624,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 2,
       "roster_id": "7",
-      "owner_id": "1",
-      "previous_owner_id": "7",
-      "owner_name": "PattyMahomiee",
+      "owner_id": "2",
+      "previous_owner_id": "1",
+      "owner_name": "willie425",
       "original_owner_name": "cheigh",
-      "previous_owner_name": "cheigh"
+      "previous_owner_name": "PattyMahomiee"
     },
     {
       "season": "2027",
