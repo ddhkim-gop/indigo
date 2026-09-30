@@ -4082,6 +4082,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 38
         },
         {
+          "player_id": "12718",
+          "espn_id": null,
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "team": "LAR",
+          "birth_date": "2002-10-24",
+          "college": "Pittsburgh",
+          "height": "73",
+          "weight": "188",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 678
+        },
+        {
           "player_id": "13296",
           "espn_id": null,
           "name": "Caleb Douglas",
@@ -4185,21 +4200,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 41
-        },
-        {
-          "player_id": "7528",
-          "espn_id": null,
-          "name": "Najee Harris",
-          "position": "RB",
-          "team": "NYG",
-          "birth_date": "1998-03-09",
-          "college": "Alabama",
-          "height": "73",
-          "weight": "232",
-          "years_exp": 5,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 170
         },
         {
           "player_id": "7564",
@@ -4609,7 +4609,7 @@ window.__STATIC_DATA__ = {
           "weight": "217",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "search_rank": 27
         },
         {
@@ -4720,7 +4720,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "search_rank": 162
         },
         {
@@ -5020,7 +5020,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 122
         },
         {
@@ -5115,8 +5115,8 @@ window.__STATIC_DATA__ = {
           "height": "73",
           "weight": "192",
           "years_exp": 2,
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "search_rank": 165
         },
         {
@@ -5848,7 +5848,7 @@ window.__STATIC_DATA__ = {
           "weight": "241",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 109
         },
         {
@@ -5923,7 +5923,7 @@ window.__STATIC_DATA__ = {
           "weight": "209",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 63
         },
         {
@@ -7116,8 +7116,8 @@ window.__STATIC_DATA__ = {
           "height": "71",
           "weight": "187",
           "years_exp": 3,
-          "status": "Active",
-          "injury_status": "Doubtful",
+          "status": "Inactive",
+          "injury_status": "Out",
           "search_rank": 99
         },
         {
@@ -7342,7 +7342,7 @@ window.__STATIC_DATA__ = {
           "weight": "214",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 125
         },
         {
@@ -8077,6 +8077,34 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
+      "created": "Sep 30, 2026 • 9:48 AM PT",
+      "transaction_id": "1411081321458982912",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "team": "LAR"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Najee Harris",
+          "position": "RB",
+          "team": "NYG"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 4,
       "created": "Sep 29, 2026 • 11:13 PM PT",
       "transaction_id": "1410921458699358208",
       "type": "free_agent",
@@ -8708,7 +8736,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Audric Estime",
           "position": "RB",
-          "team": null
+          "team": "MIN"
         }
       ],
       "faab": 0,
@@ -11261,7 +11289,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Odell Beckham",
           "position": "WR",
-          "team": "NYG"
+          "team": null
         }
       ],
       "faab": 0,
@@ -12010,7 +12038,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Audric Estime",
           "position": "RB",
-          "team": null
+          "team": "MIN"
         }
       ],
       "dropped": [],
@@ -12250,7 +12278,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Audric Estime",
           "position": "RB",
-          "team": null
+          "team": "MIN"
         }
       ],
       "faab": 0,
@@ -12476,7 +12504,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Odell Beckham",
           "position": "WR",
-          "team": "NYG"
+          "team": null
         }
       ],
       "dropped": [],
