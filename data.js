@@ -3941,41 +3941,11 @@ window.__STATIC_DATA__ = {
           "search_rank": 1
         },
         {
-          "player_id": "JAX",
-          "espn_id": null,
-          "name": "Jacksonville Jaguars",
-          "position": "DEF",
-          "team": "JAX",
-          "birth_date": null,
-          "college": null,
-          "height": null,
-          "weight": null,
-          "years_exp": null,
-          "status": null,
-          "injury_status": null,
-          "search_rank": null
-        },
-        {
           "player_id": "NO",
           "espn_id": null,
           "name": "New Orleans Saints",
           "position": "DEF",
           "team": "NO",
-          "birth_date": null,
-          "college": null,
-          "height": null,
-          "weight": null,
-          "years_exp": null,
-          "status": null,
-          "injury_status": null,
-          "search_rank": null
-        },
-        {
-          "player_id": "NYG",
-          "espn_id": null,
-          "name": "New York Giants",
-          "position": "DEF",
-          "team": "NYG",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -4780,7 +4750,7 @@ window.__STATIC_DATA__ = {
           "weight": "214",
           "years_exp": 1,
           "status": "Inactive",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "search_rank": 208
         },
         {
@@ -6013,7 +5983,7 @@ window.__STATIC_DATA__ = {
           "weight": "185",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 42
         },
         {
@@ -8032,6 +8002,50 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
+      "created": "Sep 29, 2026 • 1:35 PM PT",
+      "transaction_id": "1410776109888344064",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "New York Giants",
+          "position": "DEF",
+          "team": "NYG"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 29, 2026 • 1:35 PM PT",
+      "transaction_id": "1410776083946582016",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Jacksonville Jaguars",
+          "position": "DEF",
+          "team": "JAX"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 3,
       "created": "Sep 29, 2026 • 7:58 AM PT",
       "transaction_id": "1410691181666467840",
       "type": "free_agent",
@@ -9696,7 +9710,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Devin Neal",
           "position": "RB",
-          "team": null
+          "team": "MIN"
         }
       ],
       "faab": 0,
