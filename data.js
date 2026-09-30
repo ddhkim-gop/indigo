@@ -3667,7 +3667,7 @@ window.__STATIC_DATA__ = {
           "weight": "195",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 32
         },
         {
@@ -3787,7 +3787,7 @@ window.__STATIC_DATA__ = {
           "weight": "209",
           "years_exp": 9,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 87
         },
         {
@@ -3817,7 +3817,7 @@ window.__STATIC_DATA__ = {
           "weight": "213",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 49
         },
         {
@@ -4474,7 +4474,7 @@ window.__STATIC_DATA__ = {
           "weight": "228",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 198
         },
         {
@@ -4504,7 +4504,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 10
         },
         {
@@ -4549,7 +4549,7 @@ window.__STATIC_DATA__ = {
           "weight": "218",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 65
         },
         {
@@ -5131,7 +5131,7 @@ window.__STATIC_DATA__ = {
           "weight": "213",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 206
         },
         {
@@ -5878,7 +5878,7 @@ window.__STATIC_DATA__ = {
           "weight": "237",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 4
         },
         {
@@ -6028,7 +6028,7 @@ window.__STATIC_DATA__ = {
           "weight": "185",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 42
         },
         {
@@ -6749,11 +6749,11 @@ window.__STATIC_DATA__ = {
           "search_rank": 148
         },
         {
-          "player_id": "GB",
+          "player_id": "JAX",
           "espn_id": null,
-          "name": "Green Bay Packers",
+          "name": "Jacksonville Jaguars",
           "position": "DEF",
-          "team": "GB",
+          "team": "JAX",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -7036,7 +7036,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 77
         },
         {
@@ -7117,7 +7117,7 @@ window.__STATIC_DATA__ = {
           "weight": "187",
           "years_exp": 3,
           "status": "Inactive",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "search_rank": 99
         },
         {
@@ -7402,7 +7402,7 @@ window.__STATIC_DATA__ = {
           "weight": "183",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 40
         },
         {
@@ -8101,6 +8101,34 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 4,
+      "created": "Sep 30, 2026 • 1:29 AM PT",
+      "transaction_id": "1410955620726673408",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "justinpark99"
+      ],
+      "added": [
+        {
+          "name": "Jacksonville Jaguars",
+          "position": "DEF",
+          "team": "JAX"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Green Bay Packers",
+          "position": "DEF",
+          "team": "GB"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "Your waiver claim was processed successfully!"
     },
     {
       "season": "2026",
