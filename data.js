@@ -3761,6 +3761,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 39
         },
         {
+          "player_id": "3634",
+          "espn_id": 2973405,
+          "name": "Kalif Raymond",
+          "position": "WR",
+          "team": "CHI",
+          "birth_date": "1994-08-08",
+          "college": "Holy Cross",
+          "height": "69",
+          "weight": "160",
+          "years_exp": 10,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 645
+        },
+        {
           "player_id": "4037",
           "espn_id": 3116165,
           "name": "Chris Godwin",
@@ -3817,23 +3832,8 @@ window.__STATIC_DATA__ = {
           "weight": "250",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 96
-        },
-        {
-          "player_id": "7571",
-          "espn_id": null,
-          "name": "Rashod Bateman",
-          "position": "WR",
-          "team": "BAL",
-          "birth_date": "1999-11-29",
-          "college": "Minnesota",
-          "height": "73",
-          "weight": "193",
-          "years_exp": 5,
-          "status": "Active",
           "injury_status": null,
-          "search_rank": 203
+          "search_rank": 96
         },
         {
           "player_id": "8126",
@@ -3973,7 +3973,7 @@ window.__STATIC_DATA__ = {
           "weight": "226",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "search_rank": 21
         },
         {
@@ -4093,7 +4093,7 @@ window.__STATIC_DATA__ = {
           "weight": "208",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 200
         },
         {
@@ -4125,6 +4125,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 123
+        },
+        {
+          "player_id": "1479",
+          "espn_id": 15818,
+          "name": "Keenan Allen",
+          "position": "WR",
+          "team": "IND",
+          "birth_date": "1992-04-27",
+          "college": "California",
+          "height": "74",
+          "weight": "211",
+          "years_exp": 13,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 183
         },
         {
           "player_id": "4034",
@@ -4170,6 +4185,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 41
+        },
+        {
+          "player_id": "7528",
+          "espn_id": null,
+          "name": "Najee Harris",
+          "position": "RB",
+          "team": "NYG",
+          "birth_date": "1998-03-09",
+          "college": "Alabama",
+          "height": "73",
+          "weight": "232",
+          "years_exp": 5,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 170
         },
         {
           "player_id": "7564",
@@ -4262,11 +4292,11 @@ window.__STATIC_DATA__ = {
           "search_rank": 180
         },
         {
-          "player_id": "HOU",
+          "player_id": "CLE",
           "espn_id": null,
-          "name": "Houston Texans",
+          "name": "Cleveland Browns",
           "position": "DEF",
-          "team": "HOU",
+          "team": "CLE",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -4277,11 +4307,11 @@ window.__STATIC_DATA__ = {
           "search_rank": null
         },
         {
-          "player_id": "LAC",
+          "player_id": "HOU",
           "espn_id": null,
-          "name": "Los Angeles Chargers",
+          "name": "Houston Texans",
           "position": "DEF",
-          "team": "LAC",
+          "team": "HOU",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -4313,6 +4343,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 22
         },
         {
+          "player_id": "12048",
+          "espn_id": null,
+          "name": "George Holani",
+          "position": "RB",
+          "team": "SEA",
+          "birth_date": "1999-12-16",
+          "college": "Boise State",
+          "height": "71",
+          "weight": "210",
+          "years_exp": 2,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 460
+        },
+        {
           "player_id": "12185",
           "espn_id": null,
           "name": "Spencer Shrader",
@@ -4324,7 +4369,7 @@ window.__STATIC_DATA__ = {
           "weight": "201",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 355
         },
         {
@@ -4503,8 +4548,8 @@ window.__STATIC_DATA__ = {
           "height": "71",
           "weight": "218",
           "years_exp": 6,
-          "status": "Inactive",
-          "injury_status": "Out",
+          "status": "Active",
+          "injury_status": "Questionable",
           "search_rank": 65
         },
         {
@@ -4564,7 +4609,7 @@ window.__STATIC_DATA__ = {
           "weight": "217",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 27
         },
         {
@@ -4675,7 +4720,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 162
         },
         {
@@ -4705,7 +4750,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 174
         },
         {
@@ -4796,7 +4841,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 41
+          "search_rank": 43
         },
         {
           "player_id": "12512",
@@ -4915,7 +4960,7 @@ window.__STATIC_DATA__ = {
           "weight": "177",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 462
         },
         {
@@ -4975,7 +5020,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 122
         },
         {
@@ -5056,7 +5101,7 @@ window.__STATIC_DATA__ = {
           "weight": "210",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 20
         },
         {
@@ -5146,8 +5191,8 @@ window.__STATIC_DATA__ = {
           "weight": "192",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Out",
-          "search_rank": 385
+          "injury_status": null,
+          "search_rank": 384
         },
         {
           "player_id": "13477",
@@ -5176,7 +5221,7 @@ window.__STATIC_DATA__ = {
           "weight": "231",
           "years_exp": 12,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 60
         },
         {
@@ -5392,7 +5437,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 132
         },
         {
@@ -5999,7 +6044,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 6
+          "search_rank": 7
         },
         {
           "player_id": "7611",
@@ -6109,7 +6154,7 @@ window.__STATIC_DATA__ = {
           "weight": "252",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "search_rank": 141
         },
         {
@@ -6155,7 +6200,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 377
+          "search_rank": 379
         },
         {
           "player_id": "2747",
@@ -6244,7 +6289,7 @@ window.__STATIC_DATA__ = {
           "weight": "256",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "search_rank": 94
         },
         {
@@ -6289,7 +6334,7 @@ window.__STATIC_DATA__ = {
           "weight": "195",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 12
         },
         {
@@ -6449,6 +6494,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 35
         },
         {
+          "player_id": "12476",
+          "espn_id": null,
+          "name": "Devin Neal",
+          "position": "RB",
+          "team": "MIN",
+          "birth_date": "2003-08-12",
+          "college": "Kansas",
+          "height": "71",
+          "weight": "213",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 169
+        },
+        {
           "player_id": "12489",
           "espn_id": null,
           "name": "RJ Harvey",
@@ -6460,7 +6520,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 56
         },
         {
@@ -6475,7 +6535,7 @@ window.__STATIC_DATA__ = {
           "weight": "225",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 466
         },
         {
@@ -6655,7 +6715,7 @@ window.__STATIC_DATA__ = {
           "weight": "238",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 137
         },
         {
@@ -6826,7 +6886,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": null,
           "search_rank": 201
         },
         {
@@ -7057,7 +7117,7 @@ window.__STATIC_DATA__ = {
           "weight": "187",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "search_rank": 99
         },
         {
@@ -7196,6 +7256,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 55
         },
         {
+          "player_id": "6083",
+          "espn_id": 4249087,
+          "name": "Matt Gay",
+          "position": "K",
+          "team": "LV",
+          "birth_date": "1994-03-15",
+          "college": "Utah",
+          "height": "72",
+          "weight": "232",
+          "years_exp": 7,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 239
+        },
+        {
           "player_id": "6904",
           "espn_id": 4040715,
           "name": "Jalen Hurts",
@@ -7267,7 +7342,7 @@ window.__STATIC_DATA__ = {
           "weight": "214",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 125
         },
         {
@@ -7423,7 +7498,7 @@ window.__STATIC_DATA__ = {
           "weight": "208",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": null,
           "search_rank": 242
         },
         {
@@ -7543,7 +7618,7 @@ window.__STATIC_DATA__ = {
           "weight": "222",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 21
         },
         {
@@ -7678,7 +7753,7 @@ window.__STATIC_DATA__ = {
           "weight": "216",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 4
         },
         {
@@ -8001,6 +8076,78 @@ window.__STATIC_DATA__ = {
   "transactions": [
     {
       "season": "2026",
+      "week": 4,
+      "created": "Sep 29, 2026 • 11:13 PM PT",
+      "transaction_id": "1410921458699358208",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "daevn"
+      ],
+      "added": [
+        {
+          "name": "Matt Gay",
+          "position": "K",
+          "team": "LV"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 29, 2026 • 6:51 PM PT",
+      "transaction_id": "1410855536018096128",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "justinpark99"
+      ],
+      "added": [
+        {
+          "name": "Devin Neal",
+          "position": "RB",
+          "team": "MIN"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 10,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 29, 2026 • 2:15 PM PT",
+      "transaction_id": "1410786094009548800",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Kalif Raymond",
+          "position": "WR",
+          "team": "CHI"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Rashod Bateman",
+          "position": "WR",
+          "team": "BAL"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 71,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
       "week": 3,
       "created": "Sep 29, 2026 • 1:35 PM PT",
       "transaction_id": "1410776109888344064",
@@ -8068,6 +8215,166 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
+      "created": "Sep 29, 2026 • 7:27 AM PT",
+      "transaction_id": "1410683444018577408",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [
+        {
+          "name": "George Holani",
+          "position": "RB",
+          "team": "SEA"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 7,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 29, 2026 • 5:52 AM PT",
+      "transaction_id": "1410659484883337216",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Cleveland Browns",
+          "position": "DEF",
+          "team": "CLE"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Los Angeles Chargers",
+          "position": "DEF",
+          "team": "LAC"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 29, 2026 • 5:41 AM PT",
+      "transaction_id": "1410656684463992832",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Najee Harris",
+          "position": "RB",
+          "team": "NYG"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 29, 2026 • 5:40 AM PT",
+      "transaction_id": "1410656477449830400",
+      "type": "waiver",
+      "status": "failed",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Cade Otton",
+          "position": "TE",
+          "team": "TB"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "Unfortunately, your roster will have too many players after this transaction."
+    },
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 29, 2026 • 4:43 AM PT",
+      "transaction_id": "1410642240912572416",
+      "type": "waiver",
+      "status": "failed",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "team": "WAS"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "Unfortunately, your roster will have too many players after this transaction."
+    },
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 29, 2026 • 4:43 AM PT",
+      "transaction_id": "1410642176651669504",
+      "type": "waiver",
+      "status": "failed",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "team": "LAR"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "Unfortunately, your roster will have too many players after this transaction."
+    },
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 29, 2026 • 4:43 AM PT",
+      "transaction_id": "1410642129193025536",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Keenan Allen",
+          "position": "WR",
+          "team": "IND"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 1,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 3,
       "created": "Sep 28, 2026 • 10:35 PM PT",
       "transaction_id": "1410549594395312128",
       "type": "free_agent",
@@ -8086,6 +8393,28 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 3,
+      "created": "Sep 28, 2026 • 10:33 PM PT",
+      "transaction_id": "1410548987118796800",
+      "type": "waiver",
+      "status": "failed",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [
+        {
+          "name": "Kalif Raymond",
+          "position": "WR",
+          "team": "CHI"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 16,
+      "notes": "This player was claimed by another owner."
     },
     {
       "season": "2026",
