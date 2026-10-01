@@ -5045,21 +5045,6 @@ window.__STATIC_DATA__ = {
       "roster_id": 5,
       "players": [
         {
-          "player_id": "10218",
-          "espn_id": null,
-          "name": "Xavier Hutchinson",
-          "position": "WR",
-          "team": "HOU",
-          "birth_date": "2000-06-01",
-          "college": "Iowa State",
-          "height": "75",
-          "weight": "210",
-          "years_exp": 3,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 679
-        },
-        {
           "player_id": "10859",
           "espn_id": null,
           "name": "Sam LaPorta",
@@ -5118,6 +5103,21 @@ window.__STATIC_DATA__ = {
           "status": "Inactive",
           "injury_status": "IR",
           "search_rank": 165
+        },
+        {
+          "player_id": "11630",
+          "espn_id": null,
+          "name": "Roman Wilson",
+          "position": "WR",
+          "team": "PIT",
+          "birth_date": "2001-06-19",
+          "college": "Michigan",
+          "height": "72",
+          "weight": "192",
+          "years_exp": 2,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 688
         },
         {
           "player_id": "11637",
@@ -8074,6 +8074,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 4,
+      "created": "Oct 1, 2026 • 1:16 AM PT",
+      "transaction_id": "1411314966316773376",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "GibbyMyTD"
+      ],
+      "added": [
+        {
+          "name": "Roman Wilson",
+          "position": "WR",
+          "team": "PIT"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Xavier Hutchinson",
+          "position": "WR",
+          "team": "HOU"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 4,
