@@ -3817,7 +3817,7 @@ window.__STATIC_DATA__ = {
           "weight": "213",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 49
         },
         {
@@ -3907,7 +3907,7 @@ window.__STATIC_DATA__ = {
           "weight": "217",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 27
         },
         {
@@ -3973,7 +3973,7 @@ window.__STATIC_DATA__ = {
           "weight": "226",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 21
         },
         {
@@ -4108,7 +4108,7 @@ window.__STATIC_DATA__ = {
           "weight": "208",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 199
         },
         {
@@ -4720,7 +4720,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 162
         },
         {
@@ -5086,7 +5086,7 @@ window.__STATIC_DATA__ = {
           "weight": "210",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 20
         },
         {
@@ -5131,7 +5131,7 @@ window.__STATIC_DATA__ = {
           "weight": "213",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 206
         },
         {
@@ -5266,7 +5266,7 @@ window.__STATIC_DATA__ = {
           "weight": "204",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 45
         },
         {
@@ -6169,7 +6169,7 @@ window.__STATIC_DATA__ = {
           "weight": "252",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 141
         },
         {
@@ -6349,7 +6349,7 @@ window.__STATIC_DATA__ = {
           "weight": "195",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 12
         },
         {
@@ -6730,7 +6730,7 @@ window.__STATIC_DATA__ = {
           "weight": "238",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 137
         },
         {
@@ -6811,7 +6811,7 @@ window.__STATIC_DATA__ = {
           "weight": "211",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 167
         },
         {
@@ -7267,7 +7267,7 @@ window.__STATIC_DATA__ = {
           "weight": "210",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 55
         },
         {
@@ -7357,7 +7357,7 @@ window.__STATIC_DATA__ = {
           "weight": "214",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 125
         },
         {
@@ -7622,6 +7622,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 42
         },
         {
+          "player_id": "7528",
+          "espn_id": null,
+          "name": "Najee Harris",
+          "position": "RB",
+          "team": "NYG",
+          "birth_date": "1998-03-09",
+          "college": "Alabama",
+          "height": "73",
+          "weight": "232",
+          "years_exp": 5,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 170
+        },
+        {
           "player_id": "7569",
           "espn_id": null,
           "name": "Nico Collins",
@@ -7712,21 +7727,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 56
         },
         {
-          "player_id": "8205",
-          "espn_id": null,
-          "name": "Isiah Pacheco",
-          "position": "RB",
-          "team": "DET",
-          "birth_date": "1999-03-02",
-          "college": "Rutgers",
-          "height": "70",
-          "weight": "210",
-          "years_exp": 4,
-          "status": "Inactive",
-          "injury_status": "IR",
-          "search_rank": 151
-        },
-        {
           "player_id": "8259",
           "espn_id": null,
           "name": "Cameron Dicker",
@@ -7768,7 +7768,7 @@ window.__STATIC_DATA__ = {
           "weight": "216",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 4
         },
         {
@@ -8089,6 +8089,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 4,
+      "created": "Oct 2, 2026 • 9:58 AM PT",
+      "transaction_id": "1411808677467357184",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jay0jay1jay2"
+      ],
+      "added": [
+        {
+          "name": "Najee Harris",
+          "position": "RB",
+          "team": "NYG"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Isiah Pacheco",
+          "position": "RB",
+          "team": "DET"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 4,
