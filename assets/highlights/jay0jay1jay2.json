@@ -1,8 +1,29 @@
 {
   "team": "jay0jay1jay2",
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
+    {
+      "url": "https://x.com/steelers/status/2105863023713800555",
+      "player": "Pat Freiermuth",
+      "meta": "TE \u00b7 PIT",
+      "date": "2026-10-02",
+      "author": "steelers",
+      "text": "Muth tuddie\u203c\ufe0f @pat_fry5\n\n\ud83d\udcf2\u00a0Stream on\u00a0NFL+:",
+      "verified": true,
+      "faves": 426,
+      "secs": 8,
+      "game_id": "401872964",
+      "game_time": "Q4 1:42",
+      "play_key": "401872964:4018729644353",
+      "played_at": "2026-10-02T03:29:20Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2105862853085278208/img/bRqN5Y8oDJ9tt54l.jpg",
+      "published": "2026-10-02T03:30:44Z",
+      "video": "https://video.twimg.com/amplify_video/2105862853085278208/vid/avc1/1920x1080/armjrfV08tUY5MDZ.mp4",
+      "author_name": "Pittsburgh Steelers",
+      "avatar": "https://pbs.twimg.com/profile_images/1982652036136030208/ptD9zAsL_normal.jpg",
+      "author_verified": true
+    },
     {
       "url": "https://www.espn.com/video/clip/_/id/50047881/cody-white-td-puts-raiders-ahead-late",
       "player": "Kirk Cousins",

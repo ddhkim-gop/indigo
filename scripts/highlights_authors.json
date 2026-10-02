@@ -343,5 +343,10 @@
   "avatar": "",
   "name": "New York Jets",
   "verified": true
+ },
+ "steelers": {
+  "avatar": "https://pbs.twimg.com/profile_images/1982652036136030208/ptD9zAsL_normal.jpg",
+  "name": "Pittsburgh Steelers",
+  "verified": true
  }
 }

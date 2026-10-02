@@ -785,6 +785,26 @@
   "published": "2026-09-30T13:14:21Z",
   "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/2026/0930/ss_20260930_091422435_3679817/ss_20260930_091422435_3679817.mp4"
  },
+ "https://www.espn.com/video/clip/_/id/50080661/aaron-rodgers-throws-td-roman-wilson-open-scoring": {
+  "espn_game": "401872964",
+  "game_id": "401872964",
+  "game_time": "Q1 2:59",
+  "play_key": "401872964:401872964675",
+  "played_at": "2026-10-02T00:39:27Z",
+  "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1001/9bcc358dfd474546975e7355aa889f631264/9bcc358dfd474546975e7355aa889f631264.jpg",
+  "published": "2026-10-02T00:48:54Z",
+  "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1002/9bcc358d-fd47-4546-975e-7355aa889f63/9bcc358d-fd47-4546-975e-7355aa889f63.mp4"
+ },
+ "https://www.espn.com/video/clip/_/id/50081188/deshaun-watson-zips-pass-harold-fannin-jr-browns-td": {
+  "espn_game": "401872964",
+  "game_id": "401872964",
+  "game_time": "Q2 1:22",
+  "play_key": "401872964:4018729641986",
+  "played_at": "2026-10-02T01:38:33Z",
+  "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1001/00566164e84141c19d2c4cf8f1167ad31438/00566164e84141c19d2c4cf8f1167ad31438.jpg",
+  "published": "2026-10-02T01:49:08Z",
+  "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1002/00566164-e841-41c1-9d2c-4cf8f1167ad3/00566164-e841-41c1-9d2c-4cf8f1167ad3.mp4"
+ },
  "https://www.youtube.com/shorts/-9mLHMkLMRw": {
   "poster": "https://i.ytimg.com/vi/-9mLHMkLMRw/hqdefault.jpg",
   "published": "2026-09-21T18:33:52Z",
@@ -2187,6 +2207,26 @@
   "published": "2026-09-29T00:03:20Z",
   "video": "https://video.twimg.com/amplify_video/2104722524533936128/vid/avc1/1080x1920/FsI4d06jlfW7GCdl.mp4"
  },
+ "https://x.com/NFLonFOX/status/2105697552192664052": {
+  "poster": "https://pbs.twimg.com/amplify_video_thumb/2105697484249174016/img/YqyuMQg2IuR16ksz.jpg",
+  "published": "2026-10-01T16:33:13Z",
+  "video": "https://video.twimg.com/amplify_video/2105697484249174016/vid/avc1/1080x1920/4j8shP_Oc1JGlcZH.mp4"
+ },
+ "https://x.com/NFLonFOX/status/2105734494653223076": {
+  "poster": "https://pbs.twimg.com/amplify_video_thumb/2105463020629749760/img/zGjrb8PKGElnXoQM.jpg",
+  "published": "2026-10-01T19:00:00Z",
+  "video": "https://video.twimg.com/amplify_video/2105463020629749760/vid/avc1/1080x1920/GdRjjS8niDDMd6cY.mp4"
+ },
+ "https://x.com/NFLonFOX/status/2105741274741358923": {
+  "poster": "https://pbs.twimg.com/amplify_video_thumb/2105741254042759168/img/pJnwtViQZ5F-pepw.jpg",
+  "published": "2026-10-01T19:26:57Z",
+  "video": "https://video.twimg.com/amplify_video/2105741254042759168/vid/avc1/540x960/rYS8BjhgiwmCkGfo.mp4"
+ },
+ "https://x.com/NFLonFOX/status/2105744666243055889": {
+  "poster": "https://pbs.twimg.com/amplify_video_thumb/2105723341139070976/img/fer6huRQ9uGwhHOJ.jpg",
+  "published": "2026-10-01T19:40:25Z",
+  "video": "https://video.twimg.com/amplify_video/2105723341139070976/vid/avc1/1080x1920/-3HiZ6HBcPECP6Bq.mp4"
+ },
  "https://x.com/NFLonPrime/status/2090544447800946897": {
   "poster": "https://pbs.twimg.com/amplify_video_thumb/2090544419824947200/img/IAqeOOBA6vJxNq06.jpg?name=orig",
   "video": "https://video.twimg.com/amplify_video/2090544419824947200/vid/avc1/720x1280/cTmsBgdx1TKR5qF5.mp4?tag=14"
@@ -2515,6 +2555,15 @@
  "https://x.com/snyjets/status/2095221629076812085": {
   "poster": "https://pbs.twimg.com/amplify_video_thumb/2095221550764978181/img/82q1C7DY5D1MU6PT.jpg?name=orig",
   "video": "https://video.twimg.com/amplify_video/2095221550764978181/vid/avc1/720x1280/kip0cm6CjHdrklY5.mp4?tag=29"
+ },
+ "https://x.com/steelers/status/2105863023713800555": {
+  "game_id": "401872964",
+  "game_time": "Q4 1:42",
+  "play_key": "401872964:4018729644353",
+  "played_at": "2026-10-02T03:29:20Z",
+  "poster": "https://pbs.twimg.com/amplify_video_thumb/2105862853085278208/img/bRqN5Y8oDJ9tt54l.jpg",
+  "published": "2026-10-02T03:30:44Z",
+  "video": "https://video.twimg.com/amplify_video/2105862853085278208/vid/avc1/1920x1080/armjrfV08tUY5MDZ.mp4"
  },
  "https://x.com/stevehoikkala/status/2087994136179646872": {
   "poster": "https://pbs.twimg.com/amplify_video_thumb/2087994093448146944/img/2FaGMlCEvXPcnTc9.jpg?name=orig",
