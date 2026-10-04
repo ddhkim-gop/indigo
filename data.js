@@ -3623,7 +3623,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 187
+          "search_rank": 185
         },
         {
           "player_id": "10229",
@@ -4355,7 +4355,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 457
+          "search_rank": 455
         },
         {
           "player_id": "12185",
@@ -5192,7 +5192,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 385
+          "search_rank": 383
         },
         {
           "player_id": "13477",
@@ -6335,7 +6335,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": "Out",
-          "search_rank": 12
+          "search_rank": 11
         },
         {
           "player_id": "6804",
@@ -7178,7 +7178,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 115
+          "search_rank": 114
         },
         {
           "player_id": "13345",
@@ -7252,7 +7252,7 @@ window.__STATIC_DATA__ = {
           "weight": "210",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Questionable",
           "search_rank": 55
         },
         {
@@ -7283,7 +7283,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 26
+          "search_rank": 28
         },
         {
           "player_id": "7525",
@@ -8123,6 +8123,41 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 4,
+      "created": "Oct 2, 2026 • 3:07 AM PT",
+      "transaction_id": "1411705069585391616",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee",
+        "jamescho0829"
+      ],
+      "assets_received": {
+        "jamescho0829": [
+          {
+            "name": "2027 Round 3",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "jamescho0829"
+          },
+          {
+            "name": "2028 Round 1",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "jamescho0829"
+          }
+        ],
+        "PattyMahomiee": [
+          {
+            "name": "$1 FAAB",
+            "position": "FAAB",
+            "team": null
+          }
+        ]
+      }
     },
     {
       "season": "2026",
@@ -28036,21 +28071,21 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 3,
       "roster_id": "3",
-      "owner_id": "1",
-      "previous_owner_id": "3",
-      "owner_name": "PattyMahomiee",
+      "owner_id": "3",
+      "previous_owner_id": "1",
+      "owner_name": "jamescho0829",
       "original_owner_name": "jamescho0829",
-      "previous_owner_name": "jamescho0829"
+      "previous_owner_name": "PattyMahomiee"
     },
     {
       "season": "2028",
       "round": 1,
       "roster_id": "3",
-      "owner_id": "1",
-      "previous_owner_id": "3",
-      "owner_name": "PattyMahomiee",
+      "owner_id": "3",
+      "previous_owner_id": "1",
+      "owner_name": "jamescho0829",
       "original_owner_name": "jamescho0829",
-      "previous_owner_name": "jamescho0829"
+      "previous_owner_name": "PattyMahomiee"
     },
     {
       "season": "2026",
