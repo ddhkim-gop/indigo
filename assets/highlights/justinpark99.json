@@ -4,6 +4,25 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://www.espn.com/video/clip/_/id/50102207/tucker-kraft-catch-ruled-td-review",
+      "player": "Tucker Kraft",
+      "meta": "TE \u00b7 GB",
+      "date": "2026-10-04",
+      "author": "ESPN",
+      "text": "Tucker Kraft catch ruled TD after review. Tucker Kraft catch ruled TD after review ",
+      "verified": true,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401872968",
+      "game_id": "401872968",
+      "game_time": "Q3 10:32",
+      "play_key": "401872968:4018729682302",
+      "played_at": "2026-10-04T18:41:07Z",
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1004/d79c9dfb-4d1e-4083-a7af-97f28ecff382/d79c9dfb-4d1e-4083-a7af-97f28ecff382.jpg",
+      "published": "2026-10-04T19:09:59Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1004/d79c9dfb-4d1e-4083-a7af-97f28ecff382/d79c9dfb-4d1e-4083-a7af-97f28ecff382.mp4"
+    },
+    {
       "url": "https://x.com/NFL/status/2106811111043670073",
       "player": "Brian Thomas",
       "meta": "WR \u00b7 JAX",
