@@ -94,6 +94,11 @@
   "name": "Chicago Bears",
   "verified": true
  },
+ "Chiefs": {
+  "avatar": "https://pbs.twimg.com/profile_images/2007106813859184640/FWg8XWsT_normal.jpg",
+  "name": "Kansas City Chiefs",
+  "verified": true
+ },
  "ClutchPoints": {
   "avatar": "https://pbs.twimg.com/profile_images/1975965877825851392/hEOFxPXh_x96.jpg",
   "name": "ClutchPoints",

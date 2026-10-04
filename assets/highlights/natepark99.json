@@ -4,6 +4,27 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://x.com/HoustonTexans/status/2106835381911974100",
+      "player": "Woody Marks",
+      "meta": "RB \u00b7 HOU",
+      "date": "2026-10-04",
+      "author": "HoustonTexans",
+      "text": "Keep chuckin' wood! \n\n\ud83d\udcfa: @nflonfox",
+      "verified": true,
+      "faves": 268,
+      "secs": 19,
+      "game_id": "401872967",
+      "game_time": "Q4 2:23",
+      "play_key": "401872967:4018729673982",
+      "played_at": "2026-10-04T19:52:59Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2106835204799164416/img/c_jjMPxkzhY8CGD9.jpg",
+      "published": "2026-10-04T19:54:32Z",
+      "video": "https://video.twimg.com/amplify_video/2106835204799164416/vid/avc1/1920x1080/cmm1TRERlAl74G9K.mp4",
+      "author_name": "Houston Texans",
+      "avatar": "https://pbs.twimg.com/profile_images/2099498945441677312/sTVLN3iG_normal.jpg",
+      "author_verified": true
+    },
+    {
       "url": "https://x.com/Patriots/status/2106821007151452454",
       "player": "Romeo Doubs",
       "meta": "WR \u00b7 NE",

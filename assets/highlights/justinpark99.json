@@ -4,6 +4,27 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://x.com/Chiefs/status/2106849526405640582",
+      "player": "Tyquan Thornton",
+      "meta": "WR \u00b7 KC",
+      "date": "2026-10-04",
+      "author": "Chiefs",
+      "text": "TYQUAN TD!!!",
+      "verified": true,
+      "faves": 1704,
+      "secs": 9,
+      "game_id": "401872976",
+      "game_time": "Q1 2:23",
+      "play_key": "401872976:401872976693",
+      "played_at": "2026-10-04T20:50:10Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2106849465588133888/img/z6nDm0jfDbjdOA4v.jpg",
+      "published": "2026-10-04T20:50:45Z",
+      "video": "https://video.twimg.com/amplify_video/2106849465588133888/vid/avc1/1080x1080/CwIzIgulu3SoUC2l.mp4",
+      "author_name": "Kansas City Chiefs",
+      "avatar": "https://pbs.twimg.com/profile_images/2007106813859184640/FWg8XWsT_normal.jpg",
+      "author_verified": true
+    },
+    {
       "url": "https://www.espn.com/video/clip/_/id/50102207/tucker-kraft-catch-ruled-td-review",
       "player": "Tucker Kraft",
       "meta": "TE \u00b7 GB",
