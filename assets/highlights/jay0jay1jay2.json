@@ -4,6 +4,48 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://x.com/NFL/status/2106794041161527653",
+      "player": "Nico Collins",
+      "meta": "WR \u00b7 HOU",
+      "date": "2026-10-04",
+      "author": "NFL",
+      "text": "Welcome back to the end zone, Nico Collins.\n\n@DALvsHOU on FOX/FOX One\nStream on @NFLPlus",
+      "verified": true,
+      "faves": 865,
+      "secs": 11,
+      "game_id": "401872967",
+      "game_time": "Q1 10:01",
+      "play_key": "401872967:401872967250",
+      "played_at": "2026-10-04T17:09:10Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2106793899486265344/img/KBSr_8PeMA9nwsR5.jpg",
+      "published": "2026-10-04T17:10:16Z",
+      "video": "https://video.twimg.com/amplify_video/2106793899486265344/vid/avc1/1920x1080/bnZ87ISoHDdcSPSK.mp4",
+      "author_name": "NFL",
+      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "author_verified": true
+    },
+    {
+      "url": "https://x.com/Ravens/status/2106793972064465325",
+      "player": "Derrick Henry",
+      "meta": "RB \u00b7 BAL",
+      "date": "2026-10-04",
+      "author": "Ravens",
+      "text": "HE WON'T BE DENIED!!! TOUCHDOWN @KingHenry_2!!!\n\nTune in on @NFLonCBS and @ParamountPlus.",
+      "verified": true,
+      "faves": 1503,
+      "secs": 38,
+      "game_id": "401872973",
+      "game_time": "Q1 12:09",
+      "play_key": "401872973:401872973224",
+      "played_at": "2026-10-04T17:08:28Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2106793808973148161/img/IU6SAVQOUuRxiC5M.jpg",
+      "published": "2026-10-04T17:09:59Z",
+      "video": "https://video.twimg.com/amplify_video/2106793808973148161/vid/avc1/1920x1080/IXoBs6NizQkHEjQd.mp4",
+      "author_name": "Baltimore Ravens",
+      "avatar": "https://pbs.twimg.com/profile_images/1994466436266225664/05ma1sy0_normal.jpg",
+      "author_verified": true
+    },
+    {
       "url": "https://x.com/steelers/status/2105863023713800555",
       "player": "Pat Freiermuth",
       "meta": "TE \u00b7 PIT",
@@ -249,7 +291,7 @@
       "published": "2026-09-30T22:31:44Z",
       "youtube": "1X1a1EBiPFg",
       "author_name": "Houston Texans",
-      "avatar": "",
+      "avatar": "https://pbs.twimg.com/profile_images/2099498945441677312/sTVLN3iG_normal.jpg",
       "author_verified": true
     },
     {
@@ -266,7 +308,7 @@
       "published": "2026-09-30T22:32:32Z",
       "youtube": "d6Mq1cdDthI",
       "author_name": "Houston Texans",
-      "avatar": "",
+      "avatar": "https://pbs.twimg.com/profile_images/2099498945441677312/sTVLN3iG_normal.jpg",
       "author_verified": true
     }
   ]
