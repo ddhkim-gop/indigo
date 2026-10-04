@@ -3863,7 +3863,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 22
+          "search_rank": 23
         },
         {
           "player_id": "8142",
@@ -5528,7 +5528,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 49
+          "search_rank": 47
         },
         {
           "player_id": "13285",
@@ -5957,21 +5957,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 199
         },
         {
-          "player_id": "6803",
-          "espn_id": 4360438,
-          "name": "Brandon Aiyuk",
-          "position": "WR",
-          "team": "SF",
-          "birth_date": "1998-03-17",
-          "college": "Arizona State",
-          "height": "72",
-          "weight": "200",
-          "years_exp": 6,
-          "status": "Active",
-          "injury_status": "DNR",
-          "search_rank": 177
-        },
-        {
           "player_id": "6806",
           "espn_id": 4241985,
           "name": "J.K. Dobbins",
@@ -5999,7 +5984,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 106
+          "search_rank": 107
         },
         {
           "player_id": "7002",
@@ -6410,7 +6395,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 7
+          "search_rank": 5
         },
         {
           "player_id": "SEA",
@@ -7739,7 +7724,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 119
+          "search_rank": 118
         },
         {
           "player_id": "9487",
@@ -8089,6 +8074,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 4,
+      "created": "Oct 3, 2026 • 7:54 PM PT",
+      "transaction_id": "1412320901327749120",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "cheigh"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Brandon Aiyuk",
+          "position": "WR",
+          "team": "SF"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 4,
