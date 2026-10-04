@@ -4,6 +4,25 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://www.espn.com/video/clip/_/id/50100345/daniel-jones-calls-own-number-dashes-colts-td",
+      "player": "Daniel Jones",
+      "meta": "QB \u00b7 IND",
+      "date": "2026-10-04",
+      "author": "ESPN",
+      "text": "Daniel Jones calls his own number and dashes in for a Colts TD",
+      "verified": true,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401872965",
+      "game_id": "401872965",
+      "game_time": "Q4 11:38",
+      "play_key": "401872965:4018729653450",
+      "played_at": "2026-10-04T16:07:26Z",
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1004/e23b2653-a533-4a35-9f74-06db206804df/e23b2653-a533-4a35-9f74-06db206804df.jpg",
+      "published": "2026-10-04T16:16:16Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1004/e23b2653-a533-4a35-9f74-06db206804df/e23b2653-a533-4a35-9f74-06db206804df.mp4"
+    },
+    {
       "url": "https://www.espn.com/video/clip/_/id/50043788/keenan-allen-scores-first-td-colt",
       "player": "Daniel Jones",
       "meta": "QB \u00b7 IND",
