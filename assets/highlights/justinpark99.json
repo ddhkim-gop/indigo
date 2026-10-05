@@ -42,22 +42,22 @@
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1004/c5099364-f32c-4430-bf01-2c6143297ab4/c5099364-f32c-4430-bf01-2c6143297ab4.mp4"
     },
     {
-      "url": "https://x.com/Chiefs/status/2106849526405640582",
+      "url": "https://x.com/Chiefs/status/2106851118496006565",
       "player": "Tyquan Thornton",
       "meta": "WR \u00b7 KC",
       "date": "2026-10-04",
       "author": "Chiefs",
-      "text": "TYQUAN TD!!!",
+      "text": "2 GETS HIS FIRST TD OF THE SEASON \ud83d\udde3\ufe0f",
       "verified": true,
-      "faves": 1704,
-      "secs": 9,
+      "faves": 1273,
+      "secs": 31,
       "game_id": "401872976",
       "game_time": "Q1 2:23",
       "play_key": "401872976:401872976693",
       "played_at": "2026-10-04T20:50:10Z",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2106849465588133888/img/z6nDm0jfDbjdOA4v.jpg",
-      "published": "2026-10-04T20:50:45Z",
-      "video": "https://video.twimg.com/amplify_video/2106849465588133888/vid/avc1/1080x1080/CwIzIgulu3SoUC2l.mp4",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2106849594520866816/img/jAAAn0SsLN4zbmDc.jpg",
+      "published": "2026-10-04T20:57:04Z",
+      "video": "https://video.twimg.com/amplify_video/2106849594520866816/vid/avc1/1920x1080/HOKMxVXx8M5nnjPc.mp4",
       "author_name": "Kansas City Chiefs",
       "avatar": "https://pbs.twimg.com/profile_images/2007106813859184640/FWg8XWsT_normal.jpg",
       "author_verified": true
@@ -137,27 +137,6 @@
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1004/41490288-5e18-47af-af97-cc0aca4cb85f/41490288-5e18-47af-af97-cc0aca4cb85f.mp4"
     },
     {
-      "url": "https://x.com/Patriots/status/2106805217492619497",
-      "player": "Drake Maye",
-      "meta": "QB \u00b7 NE",
-      "date": "2026-10-04",
-      "author": "Patriots",
-      "text": "Big gain by @DrakeMaye2 \n\n\ud83d\udcfa CBS",
-      "verified": true,
-      "faves": 798,
-      "secs": 14,
-      "game_id": "401872971",
-      "game_time": "Q2 8:21",
-      "play_key": "401872971:4018729711405",
-      "played_at": "2026-10-04T17:50:35Z",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2106805153022029824/img/lM4Vu42KEX3rPKdH.jpg",
-      "published": "2026-10-04T17:54:41Z",
-      "video": "https://video.twimg.com/amplify_video/2106805153022029824/vid/avc1/1920x1080/wx3eFM0u4MI5RAl5.mp4",
-      "author_name": "New England Patriots",
-      "avatar": "https://pbs.twimg.com/profile_images/1996611183541932032/lhq26XX7_normal.jpg",
-      "author_verified": true
-    },
-    {
       "url": "https://x.com/Patriots/status/2106795255508914649",
       "player": "Drake Maye",
       "meta": "QB \u00b7 NE",
@@ -175,7 +154,7 @@
       "published": "2026-10-04T17:15:05Z",
       "video": "https://video.twimg.com/amplify_video/2106795154271035393/vid/avc1/1920x1080/eFhxqU9hrOwYmy-k.mp4",
       "author_name": "New England Patriots",
-      "avatar": "https://pbs.twimg.com/profile_images/1996611183541932032/lhq26XX7_normal.jpg",
+      "avatar": "",
       "author_verified": true
     },
     {
@@ -211,6 +190,23 @@
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1005/c041a6d6-504f-4441-a16a-b122c5e2ae86/c041a6d6-504f-4441-a16a-b122c5e2ae86.jpg",
       "published": "2026-10-05T03:57:21Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1005/c041a6d6-504f-4441-a16a-b122c5e2ae86/c041a6d6-504f-4441-a16a-b122c5e2ae86.mp4"
+    },
+    {
+      "url": "https://www.youtube.com/shorts/ZBLP405u1Ek",
+      "player": "T.J. Hockenson",
+      "meta": "TE \u00b7 MIN",
+      "date": "2026-10-04",
+      "author": "Vikings",
+      "text": "T.J. Hockenson's Game: 13 Catches, 119 Yards \ud83d\udd25 | \ud83d\udcfa: NFL on FOX",
+      "verified": false,
+      "faves": 433,
+      "secs": 15,
+      "poster": "https://i.ytimg.com/vi/ZBLP405u1Ek/hqdefault.jpg",
+      "published": "2026-10-04T23:05:33Z",
+      "youtube": "ZBLP405u1Ek",
+      "author_name": "Minnesota Vikings",
+      "avatar": "",
+      "author_verified": true
     }
   ]
 }

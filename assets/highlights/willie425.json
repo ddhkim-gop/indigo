@@ -80,6 +80,27 @@
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1004/6e736345-7087-492c-88f0-b49a12f15942/6e736345-7087-492c-88f0-b49a12f15942.mp4"
     },
     {
+      "url": "https://www.youtube.com/shorts/1qmVS9R-qVQ",
+      "player": "Christian McCaffrey",
+      "meta": "RB \u00b7 SF",
+      "date": "2026-10-04",
+      "author": "49ers",
+      "text": "CMC finds his way \ud83d\udcaa",
+      "verified": true,
+      "faves": 441,
+      "secs": 31,
+      "game_id": "401872975",
+      "game_time": "Q4 8:52",
+      "play_key": "401872975:4018729753607",
+      "played_at": "2026-10-04T23:02:21Z",
+      "poster": "https://i.ytimg.com/vi/1qmVS9R-qVQ/hqdefault.jpg",
+      "published": "2026-10-04T23:16:53Z",
+      "youtube": "1qmVS9R-qVQ",
+      "author_name": "San Francisco 49ers",
+      "avatar": "",
+      "author_verified": true
+    },
+    {
       "url": "https://x.com/ChicagoBears/status/2106812813222011267",
       "player": "Rome Odunze",
       "meta": "WR \u00b7 CHI",
@@ -97,7 +118,7 @@
       "published": "2026-10-04T18:24:52Z",
       "video": "https://video.twimg.com/amplify_video/2106812740761243648/vid/avc1/1920x1080/PftlfCcmsorbcAsb.mp4",
       "author_name": "Chicago Bears",
-      "avatar": "https://pbs.twimg.com/profile_images/2095215291395665920/hTWEqaly_normal.jpg",
+      "avatar": "",
       "author_verified": true
     },
     {
