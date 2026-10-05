@@ -1,6 +1,6 @@
 {
   "team": "daevn",
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -46,12 +46,12 @@
       "author_verified": true
     },
     {
-      "url": "https://www.espn.com/video/clip/_/id/50101646/jalen-hurts-connects-darius-cooper-late-first-half-td",
+      "url": "https://www.espn.com/video/clip/_/id/50101218/jalen-hurts-int-ends-darius-cooper-unbelievable-eagles-td",
       "player": "Jalen Hurts",
       "meta": "QB \u00b7 PHI",
       "date": "2026-10-04",
       "author": "ESPN",
-      "text": "Jalen Hurts connects with Darius Cooper for late first-half TD",
+      "text": "Jalen Hurts' near INT ends up with Darius Cooper for an unbelievable Eagles TD",
       "verified": true,
       "faves": 0,
       "secs": 0,
@@ -60,9 +60,9 @@
       "game_time": "Q2 5:44",
       "play_key": "401872970:4018729701605",
       "played_at": "2026-10-04T18:04:18Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1004/e1af4601-c4a6-4aea-8569-2792c0e33a5e/e1af4601-c4a6-4aea-8569-2792c0e33a5e.jpg",
-      "published": "2026-10-04T18:47:30Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1004/e1af4601-c4a6-4aea-8569-2792c0e33a5e/e1af4601-c4a6-4aea-8569-2792c0e33a5e.mp4"
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/1bceda52fc024ae183db624284d54f1a1009/1bceda52fc024ae183db624284d54f1a1009.jpg",
+      "published": "2026-10-04T18:14:19Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1004/1bceda52-fc02-4ae1-83db-624284d54f1a/1bceda52-fc02-4ae1-83db-624284d54f1a.mp4"
     },
     {
       "url": "https://x.com/Ravens/status/2106807352884097375",
@@ -91,7 +91,7 @@
       "meta": "WR \u00b7 BAL",
       "date": "2026-10-04",
       "author": "ESPN",
-      "text": "Live on CBS: Lamar Jackson finds Zay Flowers for a 19-yard TD",
+      "text": "Lamar Jackson finds Zay Flowers for a 19-yard TD",
       "verified": true,
       "faves": 0,
       "secs": 0,
@@ -105,25 +105,23 @@
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1004/958a130a-3534-46fc-9de4-462ba28623c8/958a130a-3534-46fc-9de4-462ba28623c8.mp4"
     },
     {
-      "url": "https://x.com/NFL/status/2106799705078235512",
+      "url": "https://www.espn.com/video/clip/_/id/50100927/james-cook-iii-leaps-defender-bills-td",
       "player": "James Cook",
       "meta": "RB \u00b7 BUF",
       "date": "2026-10-04",
-      "author": "NFL",
-      "text": "James Cook, back in the end zone again\n\n@NEvsBUF on CBS/Paramount+\nStream on @NFLPlus",
+      "author": "ESPN",
+      "text": "James Cook III leaps over a defender for a Bills TD",
       "verified": true,
-      "faves": 580,
-      "secs": 8,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401872971",
       "game_id": "401872971",
       "game_time": "Q2 14:15",
       "play_key": "401872971:401872971967",
       "played_at": "2026-10-04T17:31:44Z",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2106799557371744256/img/a6c-as9t8cd-Jm6w.jpg",
-      "published": "2026-10-04T17:32:46Z",
-      "video": "https://video.twimg.com/amplify_video/2106799557371744256/vid/avc1/1920x1080/hgPxaZqGBQgqmWTg.mp4",
-      "author_name": "NFL",
-      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
-      "author_verified": true
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/3c741edac1054922b5cea549041a4203988/3c741edac1054922b5cea549041a4203988.jpg",
+      "published": "2026-10-04T17:44:26Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1004/3c741eda-c105-4922-b5ce-a549041a4203/3c741eda-c105-4922-b5ce-a549041a4203.mp4"
     },
     {
       "url": "https://x.com/NFL/status/2106798523953881254",
@@ -208,63 +206,6 @@
       "author_verified": true
     },
     {
-      "url": "https://www.espn.com/video/clip/_/id/50044758/cam-ward-puts-titans-board-td-pass-wandale-robinson",
-      "player": "Cam Ward",
-      "meta": "QB \u00b7 TEN",
-      "date": "2026-09-27",
-      "author": "ESPN",
-      "text": "Cam Ward puts Titans on the board with TD pass to Wan'Dale Robinson",
-      "verified": true,
-      "faves": 0,
-      "secs": 0,
-      "espn_game": "401872956",
-      "game_id": "401872956",
-      "game_time": "Q4 5:35",
-      "play_key": "401872956:4018729563412",
-      "played_at": "2026-09-27T19:30:53Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0927/88d16dec-8a1f-466f-bd9f-e5a9a6fda881/88d16dec-8a1f-466f-bd9f-e5a9a6fda881.jpg",
-      "published": "2026-09-27T19:45:23Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/0927/88d16dec-8a1f-466f-bd9f-e5a9a6fda881/88d16dec-8a1f-466f-bd9f-e5a9a6fda881.mp4"
-    },
-    {
-      "url": "https://www.espn.com/video/clip/_/id/50044393/marcus-mariota-lofts-td-pass-terry-mclaurin",
-      "player": "Terry McLaurin",
-      "meta": "WR \u00b7 WAS",
-      "date": "2026-09-27",
-      "author": "ESPN",
-      "text": "Marcus Mariota lofts a TD pass to Terry McLaurin",
-      "verified": true,
-      "faves": 0,
-      "secs": 0,
-      "espn_game": "401872955",
-      "game_id": "401872955",
-      "game_time": "Q3 10:43",
-      "play_key": "401872955:4018729552739",
-      "played_at": "2026-09-27T19:10:55Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/1a204aa77bc6461b926fb0bd43a544641007/1a204aa77bc6461b926fb0bd43a544641007.jpg",
-      "published": "2026-09-27T19:22:13Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/0927/1a204aa7-7bc6-461b-926f-b0bd43a54464/1a204aa7-7bc6-461b-926f-b0bd43a54464.mp4"
-    },
-    {
-      "url": "https://www.espn.com/video/clip/_/id/50043539/rachaad-white-scores-first-td-commander",
-      "player": "Rachaad White",
-      "meta": "RB \u00b7 WAS",
-      "date": "2026-09-27",
-      "author": "ESPN",
-      "text": "Rachaad White scores first TD as a Commander",
-      "verified": true,
-      "faves": 0,
-      "secs": 0,
-      "espn_game": "401872955",
-      "game_id": "401872955",
-      "game_time": "Q1 9:08",
-      "play_key": "401872955:401872955445",
-      "played_at": "2026-09-27T17:19:53Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/cd16a3de13ec4c82ad8fa7a58d8118aa997/cd16a3de13ec4c82ad8fa7a58d8118aa997.jpg",
-      "published": "2026-09-27T17:36:22Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/0927/cd16a3de-13ec-4c82-ad8f-a7a58d8118aa/cd16a3de-13ec-4c82-ad8f-a7a58d8118aa.mp4"
-    },
-    {
       "url": "https://x.com/NFL/status/2106858382653317557",
       "player": "Jordan Addison",
       "meta": "WR \u00b7 MIN",
@@ -280,38 +221,6 @@
       "author_name": "NFL",
       "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
       "author_verified": true
-    },
-    {
-      "url": "https://www.youtube.com/shorts/nKtUzMOTabA",
-      "player": "Jordan Addison",
-      "meta": "WR \u00b7 MIN",
-      "date": "2026-09-27",
-      "author": "Vikings",
-      "text": "KYLER MURRAY DEEP BALL TO JORDAN ADDISON FOR 41-YARD TOUCHDOWN \ud83d\udd25 | \ud83d\udcfa: NFL on FOX",
-      "verified": false,
-      "faves": 1608,
-      "secs": 15,
-      "poster": "https://i.ytimg.com/vi/nKtUzMOTabA/hqdefault.jpg",
-      "published": "2026-09-27T21:29:41Z",
-      "youtube": "nKtUzMOTabA",
-      "author_name": "Minnesota Vikings",
-      "avatar": "",
-      "author_verified": true
-    },
-    {
-      "url": "https://www.espn.com/video/clip/_/id/50046929/kyler-murray-throws-41-yard-touchdown-pass-jordan-addison",
-      "player": "Jordan Addison",
-      "meta": "WR \u00b7 MIN",
-      "date": "2026-09-27",
-      "author": "ESPN",
-      "text": "Kyler Murray throws a 41-yard touchdown pass to Jordan Addison",
-      "verified": true,
-      "faves": 0,
-      "secs": 0,
-      "espn_game": "401872959",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0927/64d96666-a5fc-4baf-85e1-04503bac919c/64d96666-a5fc-4baf-85e1-04503bac919c.jpg",
-      "published": "2026-09-27T22:31:03Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/0927/64d96666-a5fc-4baf-85e1-04503bac919c/64d96666-a5fc-4baf-85e1-04503bac919c.mp4"
     }
   ]
 }
