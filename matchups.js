@@ -3,7 +3,7 @@ import { renderNav } from "./components/nav.js?v=202609290715";
 
 renderNav();
 
-const YEARS = ["2025"];
+const YEARS = ["2026", "2025"];
 const PLAYOFF_START = 15;
 
 const POS_COLORS = { QB:"#e74c82", RB:"#3ecf8e", WR:"#4299e1", TE:"#f6ad55", K:"#9f7aea", DEF:"#64748b" };
