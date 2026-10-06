@@ -4,6 +4,27 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://x.com/AtlantaFalcons/status/2107298516699623878",
+      "player": "Drake London",
+      "meta": "WR \u00b7 ATL",
+      "date": "2026-10-06",
+      "author": "AtlantaFalcons",
+      "text": "9 to 5 on a Monday \n\n@themikepenix x @DrakeLondon_ \n\nESPN | ANF",
+      "verified": true,
+      "faves": 583,
+      "secs": 10,
+      "game_id": "401872979",
+      "game_time": "Q3 3:40",
+      "play_key": "401872979:4018729792919",
+      "played_at": "2026-10-06T02:30:18Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2107298499486257152/img/XtcQ5wOyzAlXSNlZ.jpg",
+      "published": "2026-10-06T02:34:52Z",
+      "video": "https://video.twimg.com/amplify_video/2107298499486257152/vid/avc1/576x720/kMrHqw_6xWc62SJs.mp4?tag=16",
+      "author_name": "Atlanta Falcons",
+      "avatar": "",
+      "author_verified": true
+    },
+    {
       "url": "https://x.com/NFL/status/2107279852474880485",
       "player": "Drake London",
       "meta": "WR \u00b7 ATL",
