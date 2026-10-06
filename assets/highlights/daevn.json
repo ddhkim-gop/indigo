@@ -1,6 +1,6 @@
 {
   "team": "daevn",
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -205,46 +205,6 @@
       "video": "https://video.twimg.com/amplify_video/2104747319404990466/vid/avc1/1920x1080/hMQEH_mB6axMZ5-p.mp4",
       "author_name": "Philadelphia Eagles",
       "avatar": "https://pbs.twimg.com/profile_images/2097678958909415424/CUZFsXqV_normal.jpg",
-      "author_verified": true
-    },
-    {
-      "url": "https://www.espn.com/video/clip/_/id/50049686/matthew-stafford-airs-konata-mumpfield-48-yard-td",
-      "player": "Matthew Stafford",
-      "meta": "QB \u00b7 LAR",
-      "date": "2026-09-28",
-      "author": "ESPN",
-      "text": "Matthew Stafford airs it out to Konata Mumpfield for a 48-yard TD",
-      "verified": true,
-      "faves": 0,
-      "secs": 0,
-      "espn_game": "401872962",
-      "game_id": "401872962",
-      "game_time": "Q4 3:38",
-      "play_key": "401872962:4018729624246",
-      "played_at": "2026-09-28T03:21:02Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0928/085762abb407446b8d00e3ed846a9d6b17/085762abb407446b8d00e3ed846a9d6b17.jpg",
-      "published": "2026-09-28T03:28:48Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/0928/085762ab-b407-446b-8d00-e3ed846a9d6b/085762ab-b407-446b-8d00-e3ed846a9d6b.mp4"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/SaAhntjLK94",
-      "player": "Matthew Stafford",
-      "meta": "QB \u00b7 LAR",
-      "date": "2026-09-28",
-      "author": "LARams",
-      "text": "BIG RIG HIGS TOUCHDOWN \u203c\ufe0f  #rams #nfl #shorts",
-      "verified": true,
-      "faves": 435,
-      "secs": 18,
-      "game_id": "401872962",
-      "game_time": "Q1 4:55",
-      "play_key": "401872962:401872962632",
-      "played_at": "2026-09-28T00:47:53Z",
-      "poster": "https://i.ytimg.com/vi/SaAhntjLK94/hqdefault.jpg",
-      "published": "2026-09-28T01:04:03Z",
-      "youtube": "SaAhntjLK94",
-      "author_name": "Los Angeles Rams",
-      "avatar": "",
       "author_verified": true
     },
     {
