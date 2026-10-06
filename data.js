@@ -5175,8 +5175,8 @@ window.__STATIC_DATA__ = {
           "height": "70",
           "weight": "196",
           "years_exp": 1,
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "search_rank": 691
         },
         {
@@ -5722,7 +5722,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 3,
           "status": "Inactive",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "search_rank": 147
         },
         {
@@ -5953,7 +5953,7 @@ window.__STATIC_DATA__ = {
           "weight": "190",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 199
         },
         {
@@ -10855,7 +10855,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Joe Mixon",
           "position": "RB",
-          "team": "SEA"
+          "team": null
         }
       ],
       "faab": 0,
