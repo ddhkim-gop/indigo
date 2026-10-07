@@ -1,6 +1,6 @@
 {
   "team": "natepark99",
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -21,6 +21,27 @@
       "published": "2026-10-04T23:36:03Z",
       "youtube": "YqsAbT6MQg4",
       "author_name": "Los Angeles Chargers",
+      "avatar": "",
+      "author_verified": true
+    },
+    {
+      "url": "https://www.youtube.com/shorts/bY3hSbjueho",
+      "player": "Jordan Addison",
+      "meta": "WR \u00b7 MIN",
+      "date": "2026-10-04",
+      "author": "Vikings",
+      "text": "Jordan Addison makes the play for 27-yard gain \ud83d\udcaa | \ud83d\udcfa: NFL on FOX",
+      "verified": true,
+      "faves": 268,
+      "secs": 12,
+      "game_id": "401872974",
+      "game_time": "Q4 4:22",
+      "play_key": "401872974:4018729743792",
+      "played_at": "2026-10-04T22:47:56Z",
+      "poster": "https://i.ytimg.com/vi/bY3hSbjueho/hqdefault.jpg",
+      "published": "2026-10-04T22:56:43Z",
+      "youtube": "bY3hSbjueho",
+      "author_name": "Minnesota Vikings",
       "avatar": "",
       "author_verified": true
     },
@@ -142,6 +163,23 @@
       "video": "https://video.twimg.com/amplify_video/2106795154271035393/vid/avc1/1920x1080/eFhxqU9hrOwYmy-k.mp4",
       "author_name": "New England Patriots",
       "avatar": "",
+      "author_verified": true
+    },
+    {
+      "url": "https://x.com/NFL/status/2106858382653317557",
+      "player": "Jordan Addison",
+      "meta": "WR \u00b7 MIN",
+      "date": "2026-10-04",
+      "author": "NFL",
+      "text": "Jordan Addison makes it look easy down the sideline \ud83d\udc40\n\nMIAvsMIN on FOX/FOX One\nStream on @NFLPlus",
+      "verified": false,
+      "faves": 118,
+      "secs": 11,
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2106858260418732032/img/gRUXMDgWZnhsC-5r.jpg",
+      "published": "2026-10-04T21:25:56Z",
+      "video": "https://video.twimg.com/amplify_video/2106858260418732032/vid/avc1/1920x1080/_zdkZ9R8Orwg7ewU.mp4",
+      "author_name": "NFL",
+      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
       "author_verified": true
     },
     {
