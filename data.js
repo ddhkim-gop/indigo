@@ -5606,19 +5606,19 @@ window.__STATIC_DATA__ = {
           "search_rank": 177
         },
         {
-          "player_id": "4227",
-          "espn_id": 3055899,
-          "name": "Harrison Butker",
+          "player_id": "13833",
+          "espn_id": null,
+          "name": "Dominic Zvada",
           "position": "K",
-          "team": "KC",
-          "birth_date": "1995-07-14",
-          "college": "Georgia Tech",
-          "height": "76",
-          "weight": "205",
-          "years_exp": 9,
+          "team": "NYG",
+          "birth_date": "2003-10-25",
+          "college": "Michigan",
+          "height": "75",
+          "weight": "187",
+          "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 155
+          "search_rank": 330
         },
         {
           "player_id": "4892",
@@ -5737,7 +5737,7 @@ window.__STATIC_DATA__ = {
           "weight": "179",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 99
         },
         {
@@ -5938,7 +5938,7 @@ window.__STATIC_DATA__ = {
           "weight": "190",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 199
         },
         {
@@ -5968,7 +5968,7 @@ window.__STATIC_DATA__ = {
           "weight": "223",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 107
         },
         {
@@ -6043,7 +6043,7 @@ window.__STATIC_DATA__ = {
           "weight": "227",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 58
         },
         {
@@ -6274,7 +6274,7 @@ window.__STATIC_DATA__ = {
           "weight": "256",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Questionable",
           "search_rank": 94
         },
         {
@@ -7387,7 +7387,7 @@ window.__STATIC_DATA__ = {
           "weight": "183",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 40
         },
         {
@@ -7528,7 +7528,7 @@ window.__STATIC_DATA__ = {
           "weight": "191",
           "years_exp": 11,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 104
         },
         {
@@ -8061,6 +8061,34 @@ window.__STATIC_DATA__ = {
   "transactions": [
     {
       "season": "2026",
+      "week": 5,
+      "created": "Oct 7, 2026 • 6:17 AM PT",
+      "transaction_id": "1413564870057635840",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [
+        {
+          "name": "Dominic Zvada",
+          "position": "K",
+          "team": "NYG"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Harrison Butker",
+          "position": "K",
+          "team": "KC"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
       "week": 4,
       "created": "Oct 6, 2026 • 9:26 PM PT",
       "transaction_id": "1413431185203322880",
@@ -8196,7 +8224,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Devin Neal",
           "position": "RB",
-          "team": "MIN"
+          "team": null
         }
       ],
       "faab": 0,
@@ -8748,7 +8776,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Devin Neal",
           "position": "RB",
-          "team": "MIN"
+          "team": null
         }
       ],
       "dropped": [],
@@ -10677,7 +10705,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Devin Neal",
           "position": "RB",
-          "team": "MIN"
+          "team": null
         }
       ],
       "faab": 0,
@@ -11899,7 +11927,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Odell Beckham",
           "position": "WR",
-          "team": null
+          "team": "MIN"
         }
       ],
       "faab": 0,
@@ -13114,7 +13142,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Odell Beckham",
           "position": "WR",
-          "team": null
+          "team": "MIN"
         }
       ],
       "dropped": [],
