@@ -4598,21 +4598,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 64
         },
         {
-          "player_id": "8180",
-          "espn_id": null,
-          "name": "Jalen Nailor",
-          "position": "WR",
-          "team": "LV",
-          "birth_date": "1999-03-02",
-          "college": "Michigan State",
-          "height": "72",
-          "weight": "190",
-          "years_exp": 4,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 171
-        },
-        {
           "player_id": "8228",
           "espn_id": null,
           "name": "Jaylen Warren",
@@ -4706,7 +4691,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 176
+          "search_rank": 177
         },
         {
           "player_id": "11625",
@@ -5528,7 +5513,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 47
+          "search_rank": 49
         },
         {
           "player_id": "13285",
@@ -5924,7 +5909,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 130
+          "search_rank": 131
         },
         {
           "player_id": "5967",
@@ -8059,6 +8044,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 4,
+      "created": "Oct 6, 2026 • 8:15 PM PT",
+      "transaction_id": "1413413535806988288",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Jalen Nailor",
+          "position": "WR",
+          "team": "LV"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 4,
