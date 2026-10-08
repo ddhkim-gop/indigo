@@ -5968,7 +5968,7 @@ window.__STATIC_DATA__ = {
           "weight": "223",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 107
         },
         {
@@ -6637,7 +6637,7 @@ window.__STATIC_DATA__ = {
           "birth_date": "2001-12-31",
           "college": "UTSA",
           "height": "69",
-          "weight": "196",
+          "weight": "199",
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
