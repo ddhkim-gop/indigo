@@ -4082,21 +4082,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 37
         },
         {
-          "player_id": "12718",
-          "espn_id": null,
-          "name": "Konata Mumpfield",
-          "position": "WR",
-          "team": "LAR",
-          "birth_date": "2002-10-24",
-          "college": "Pittsburgh",
-          "height": "73",
-          "weight": "188",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 678
-        },
-        {
           "player_id": "13150",
           "espn_id": null,
           "name": "Darius Cooper",
@@ -4244,7 +4229,22 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 155
+          "search_rank": 154
+        },
+        {
+          "player_id": "8129",
+          "espn_id": null,
+          "name": "Dameon Pierce",
+          "position": "RB",
+          "team": "PHI",
+          "birth_date": "2000-02-19",
+          "college": "Florida",
+          "height": "70",
+          "weight": "218",
+          "years_exp": 4,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 666
         },
         {
           "player_id": "8130",
@@ -4751,7 +4751,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 133
+          "search_rank": 131
         },
         {
           "player_id": "12472",
@@ -5132,7 +5132,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 170
+          "search_rank": 172
         },
         {
           "player_id": "12469",
@@ -5252,7 +5252,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 44
+          "search_rank": 46
         },
         {
           "player_id": "6801",
@@ -5498,7 +5498,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 49
+          "search_rank": 47
         },
         {
           "player_id": "13285",
@@ -5573,7 +5573,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 110
+          "search_rank": 111
         },
         {
           "player_id": "13349",
@@ -7514,7 +7514,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 13,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 90
+          "search_rank": 89
         },
         {
           "player_id": "2449",
@@ -7529,7 +7529,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 11,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 104
+          "search_rank": 105
         },
         {
           "player_id": "3198",
@@ -8059,6 +8059,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 5,
+      "created": "Oct 7, 2026 • 7:17 PM PT",
+      "transaction_id": "1413761093175726080",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Dameon Pierce",
+          "position": "RB",
+          "team": "PHI"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "team": "LAR"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 5,
