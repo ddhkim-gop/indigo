@@ -3727,7 +3727,7 @@ window.__STATIC_DATA__ = {
           "weight": "207",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 61
         },
         {
@@ -3922,7 +3922,7 @@ window.__STATIC_DATA__ = {
           "weight": "217",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 27
         },
         {
@@ -4519,7 +4519,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 10
         },
         {
@@ -4720,7 +4720,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 162
         },
         {
@@ -5311,7 +5311,7 @@ window.__STATIC_DATA__ = {
           "weight": "187",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 30
         },
         {
@@ -6618,7 +6618,7 @@ window.__STATIC_DATA__ = {
           "espn_id": null,
           "name": "Kaytron Allen",
           "position": "RB",
-          "team": "WAS",
+          "team": null,
           "birth_date": "2003-01-08",
           "college": "Penn State",
           "height": "71",
@@ -6931,7 +6931,7 @@ window.__STATIC_DATA__ = {
           "weight": "192",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 61
         },
         {
@@ -7502,6 +7502,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 677
         },
         {
+          "player_id": "12711",
+          "espn_id": null,
+          "name": "Tyler Loop",
+          "position": "K",
+          "team": "BAL",
+          "birth_date": "2001-08-04",
+          "college": "Arizona",
+          "height": "71",
+          "weight": "191",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 150
+        },
+        {
           "player_id": "13275",
           "espn_id": null,
           "name": "Ty Simpson",
@@ -7725,21 +7740,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 56
-        },
-        {
-          "player_id": "8259",
-          "espn_id": null,
-          "name": "Cameron Dicker",
-          "position": "K",
-          "team": "LAC",
-          "birth_date": "2000-05-06",
-          "college": "Texas",
-          "height": "73",
-          "weight": "216",
-          "years_exp": 4,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 119
         },
         {
           "player_id": "9487",
@@ -8089,6 +8089,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 5,
+      "created": "Oct 9, 2026 • 6:11 AM PT",
+      "transaction_id": "1414288109541040128",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jay0jay1jay2"
+      ],
+      "added": [
+        {
+          "name": "Tyler Loop",
+          "position": "K",
+          "team": "BAL"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Cameron Dicker",
+          "position": "K",
+          "team": "LAC"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 5,
@@ -10460,7 +10488,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Emari Demercado",
           "position": "RB",
-          "team": "DAL"
+          "team": null
         }
       ],
       "faab": 0,
@@ -10564,7 +10592,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Emari Demercado",
           "position": "RB",
-          "team": "DAL"
+          "team": null
         }
       ],
       "dropped": [],
