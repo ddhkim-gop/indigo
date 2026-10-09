@@ -1,6 +1,6 @@
 {
   "team": "willie425",
-  "updated": "2026-10-07",
+  "updated": "2026-10-09",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -192,23 +192,6 @@
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/60ef80ab5d594b75af0ecc49ecce98561013/60ef80ab5d594b75af0ecc49ecce98561013.jpg",
       "published": "2026-10-04T18:29:47Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1004/60ef80ab-5d59-4b75-af0e-cc49ecce9856/60ef80ab-5d59-4b75-af0e-cc49ecce9856.mp4"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/oYKXmy32wcw",
-      "player": "Trey McBride",
-      "meta": "TE \u00b7 ARI",
-      "date": "2026-09-30",
-      "author": "AZCardinals",
-      "text": "ALERT: Trey McBride is the week 3 Angry Runs winner \ud83d\udea8  #nfl #football #azcardinals #run",
-      "verified": false,
-      "faves": 155,
-      "secs": 56,
-      "poster": "https://i.ytimg.com/vi/oYKXmy32wcw/hqdefault.jpg",
-      "published": "2026-09-30T01:16:05Z",
-      "youtube": "oYKXmy32wcw",
-      "author_name": "Arizona Cardinals",
-      "avatar": "https://pbs.twimg.com/profile_images/2102075156814565376/cJ_gXOLr_normal.png",
-      "author_verified": true
     }
   ]
 }
