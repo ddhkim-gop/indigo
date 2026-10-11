@@ -4728,7 +4728,7 @@ window.__STATIC_DATA__ = {
           "espn_id": null,
           "name": "Marvin Harrison",
           "position": "WR",
-          "team": "ARI",
+          "team": "HOU",
           "birth_date": "2002-08-11",
           "college": "Ohio State",
           "height": "75",
@@ -4840,7 +4840,7 @@ window.__STATIC_DATA__ = {
           "weight": "221",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 45
         },
         {
@@ -5923,7 +5923,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 131
         },
         {
@@ -6169,7 +6169,7 @@ window.__STATIC_DATA__ = {
           "weight": "210",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 179
         },
         {
@@ -6901,7 +6901,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 201
         },
         {
@@ -7417,7 +7417,7 @@ window.__STATIC_DATA__ = {
           "weight": "183",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 40
         },
         {
@@ -13229,7 +13229,7 @@ window.__STATIC_DATA__ = {
           {
             "name": "Marvin Harrison",
             "position": "WR",
-            "team": "ARI"
+            "team": "HOU"
           }
         ],
         "natepark99": [
