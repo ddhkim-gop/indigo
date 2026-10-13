@@ -8382,7 +8382,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Devin Neal",
           "position": "RB",
-          "team": null
+          "team": "WAS"
         }
       ],
       "faab": 0,
@@ -8934,7 +8934,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Devin Neal",
           "position": "RB",
-          "team": null
+          "team": "WAS"
         }
       ],
       "dropped": [],
@@ -9532,7 +9532,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Audric Estime",
           "position": "RB",
-          "team": "MIN"
+          "team": "CLE"
         }
       ],
       "faab": 0,
@@ -10488,7 +10488,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Emari Demercado",
           "position": "RB",
-          "team": null
+          "team": "DAL"
         }
       ],
       "faab": 0,
@@ -10592,7 +10592,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Emari Demercado",
           "position": "RB",
-          "team": null
+          "team": "DAL"
         }
       ],
       "dropped": [],
@@ -10863,7 +10863,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Devin Neal",
           "position": "RB",
-          "team": null
+          "team": "WAS"
         }
       ],
       "faab": 0,
@@ -11656,7 +11656,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Jarquez Hunter",
           "position": "RB",
-          "team": "MIA"
+          "team": null
         }
       ],
       "faab": 0,
@@ -12834,7 +12834,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Audric Estime",
           "position": "RB",
-          "team": "MIN"
+          "team": "CLE"
         }
       ],
       "dropped": [],
@@ -13074,7 +13074,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Audric Estime",
           "position": "RB",
-          "team": "MIN"
+          "team": "CLE"
         }
       ],
       "faab": 0,
