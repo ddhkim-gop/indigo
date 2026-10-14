@@ -3907,7 +3907,7 @@ window.__STATIC_DATA__ = {
           "weight": "217",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "search_rank": 27
         },
         {
@@ -4343,21 +4343,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 141
         },
         {
-          "player_id": "12048",
-          "espn_id": null,
-          "name": "George Holani",
-          "position": "RB",
-          "team": "SEA",
-          "birth_date": "1999-12-16",
-          "college": "Boise State",
-          "height": "71",
-          "weight": "210",
-          "years_exp": 2,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 455
-        },
-        {
           "player_id": "12185",
           "espn_id": null,
           "name": "Spencer Shrader",
@@ -4431,6 +4416,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 457
+        },
+        {
+          "player_id": "12542",
+          "espn_id": null,
+          "name": "Efton Chism",
+          "position": "WR",
+          "team": "NE",
+          "birth_date": "2001-10-26",
+          "college": "Eastern Washington",
+          "height": "70",
+          "weight": "198",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 572
         },
         {
           "player_id": "12545",
@@ -4705,7 +4705,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "search_rank": 162
         },
         {
@@ -5632,7 +5632,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "search_rank": 74
         },
         {
@@ -5923,7 +5923,7 @@ window.__STATIC_DATA__ = {
           "weight": "209",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 63
         },
         {
@@ -8059,6 +8059,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 14, 2026 • 10:18 AM PT",
+      "transaction_id": "1416162292231335936",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [
+        {
+          "name": "Efton Chism",
+          "position": "WR",
+          "team": "NE"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "George Holani",
+          "position": "RB",
+          "team": "SEA"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 6,
