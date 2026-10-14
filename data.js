@@ -6229,7 +6229,7 @@ window.__STATIC_DATA__ = {
           "weight": "191",
           "years_exp": 10,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "",
           "search_rank": 145
         },
         {
