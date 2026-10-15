@@ -5471,21 +5471,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 118
         },
         {
-          "player_id": "12505",
-          "espn_id": null,
-          "name": "Jalen Royals",
-          "position": "WR",
-          "team": "KC",
-          "birth_date": "2003-02-18",
-          "college": "Utah State",
-          "height": "72",
-          "weight": "195",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 686
-        },
-        {
           "player_id": "12507",
           "espn_id": null,
           "name": "Omarion Hampton",
@@ -5754,6 +5739,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "Out",
           "search_rank": 99
+        },
+        {
+          "player_id": "CAR",
+          "espn_id": null,
+          "name": "Carolina Panthers",
+          "position": "DEF",
+          "team": "CAR",
+          "birth_date": null,
+          "college": null,
+          "height": null,
+          "weight": null,
+          "years_exp": null,
+          "status": null,
+          "injury_status": null,
+          "search_rank": null
         },
         {
           "player_id": "MIN",
@@ -7312,7 +7312,7 @@ window.__STATIC_DATA__ = {
           "weight": "223",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 26
         },
         {
@@ -8074,6 +8074,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 15, 2026 • 10:51 AM PT",
+      "transaction_id": "1416532998085517312",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [
+        {
+          "name": "Carolina Panthers",
+          "position": "DEF",
+          "team": "CAR"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Jalen Royals",
+          "position": "WR",
+          "team": "KC"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 6,
