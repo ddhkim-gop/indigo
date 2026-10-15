@@ -3821,6 +3821,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 50
         },
         {
+          "player_id": "5012",
+          "espn_id": 3116365,
+          "name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL",
+          "birth_date": "1995-09-06",
+          "college": "Oklahoma",
+          "height": "77",
+          "weight": "250",
+          "years_exp": 8,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 96
+        },
+        {
           "player_id": "8137",
           "espn_id": null,
           "name": "George Pickens",
@@ -3916,6 +3931,21 @@ window.__STATIC_DATA__ = {
           "name": "Cleveland Browns",
           "position": "DEF",
           "team": "CLE",
+          "birth_date": null,
+          "college": null,
+          "height": null,
+          "weight": null,
+          "years_exp": null,
+          "status": null,
+          "injury_status": null,
+          "search_rank": null
+        },
+        {
+          "player_id": "IND",
+          "espn_id": null,
+          "name": "Indianapolis Colts",
+          "position": "DEF",
+          "team": "IND",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -8044,6 +8074,50 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 15, 2026 • 5:19 AM PT",
+      "transaction_id": "1416449474091307008",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 15, 2026 • 5:18 AM PT",
+      "transaction_id": "1416449067361337344",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Indianapolis Colts",
+          "position": "DEF",
+          "team": "IND"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 6,
