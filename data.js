@@ -3922,7 +3922,7 @@ window.__STATIC_DATA__ = {
           "weight": "206",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 203
         },
         {
@@ -4324,7 +4324,7 @@ window.__STATIC_DATA__ = {
           "weight": "235",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 20
         },
         {
@@ -6394,7 +6394,7 @@ window.__STATIC_DATA__ = {
           "weight": "197",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 6
         },
         {
@@ -6961,7 +6961,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 153
         },
         {
@@ -12021,7 +12021,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Jarquez Hunter",
           "position": "RB",
-          "team": null
+          "team": "NO"
         }
       ],
       "faab": 0,
