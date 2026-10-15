@@ -3682,7 +3682,7 @@ window.__STATIC_DATA__ = {
           "weight": "208",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 95
         },
         {
@@ -4328,6 +4328,21 @@ window.__STATIC_DATA__ = {
       "roster_id": 3,
       "players": [
         {
+          "player_id": "11439",
+          "espn_id": null,
+          "name": "Jaleel McLaughlin",
+          "position": "RB",
+          "team": "CLE",
+          "birth_date": "2000-09-13",
+          "college": "Youngstown State",
+          "height": "67",
+          "weight": "187",
+          "years_exp": 3,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 698
+        },
+        {
           "player_id": "11604",
           "espn_id": null,
           "name": "Brock Bowers",
@@ -4431,21 +4446,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 457
-        },
-        {
-          "player_id": "12542",
-          "espn_id": null,
-          "name": "Efton Chism",
-          "position": "WR",
-          "team": "NE",
-          "birth_date": "2001-10-26",
-          "college": "Eastern Washington",
-          "height": "70",
-          "weight": "198",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 572
         },
         {
           "player_id": "12545",
@@ -4564,7 +4564,7 @@ window.__STATIC_DATA__ = {
           "weight": "218",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 65
         },
         {
@@ -5020,7 +5020,7 @@ window.__STATIC_DATA__ = {
           "weight": "183",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 40
         },
         {
@@ -5221,7 +5221,7 @@ window.__STATIC_DATA__ = {
           "weight": "231",
           "years_exp": 12,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 60
         },
         {
@@ -5371,7 +5371,7 @@ window.__STATIC_DATA__ = {
           "weight": "171",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 111
         },
         {
@@ -5501,6 +5501,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 48
         },
         {
+          "player_id": "13272",
+          "espn_id": null,
+          "name": "Carson Beck",
+          "position": "QB",
+          "team": "ARI",
+          "birth_date": "2002-11-19",
+          "college": "Miami (FL)",
+          "height": "76",
+          "weight": "233",
+          "years_exp": 0,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 287
+        },
+        {
           "player_id": "13285",
           "espn_id": null,
           "name": "Malachi Fields",
@@ -5529,6 +5544,21 @@ window.__STATIC_DATA__ = {
           "status": "Inactive",
           "injury_status": "IR",
           "search_rank": 53
+        },
+        {
+          "player_id": "13289",
+          "espn_id": null,
+          "name": "Drew Allar",
+          "position": "QB",
+          "team": "PIT",
+          "birth_date": "2004-03-08",
+          "college": "Penn State",
+          "height": "77",
+          "weight": "228",
+          "years_exp": 0,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 360
         },
         {
           "player_id": "13293",
@@ -5621,21 +5651,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 330
         },
         {
-          "player_id": "4892",
-          "espn_id": 3052587,
-          "name": "Baker Mayfield",
-          "position": "QB",
-          "team": "TB",
-          "birth_date": "1995-04-14",
-          "college": "Oklahoma",
-          "height": "73",
-          "weight": "215",
-          "years_exp": 8,
-          "status": "Active",
-          "injury_status": "Doubtful",
-          "search_rank": 74
-        },
-        {
           "player_id": "6797",
           "espn_id": 4038941,
           "name": "Justin Herbert",
@@ -5664,21 +5679,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 117
-        },
-        {
-          "player_id": "8161",
-          "espn_id": null,
-          "name": "Malik Willis",
-          "position": "QB",
-          "team": "MIA",
-          "birth_date": "1999-05-25",
-          "college": "Liberty",
-          "height": "73",
-          "weight": "225",
-          "years_exp": 4,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 121
         },
         {
           "player_id": "9225",
@@ -5741,11 +5741,11 @@ window.__STATIC_DATA__ = {
           "search_rank": 99
         },
         {
-          "player_id": "CAR",
+          "player_id": "ARI",
           "espn_id": null,
-          "name": "Carolina Panthers",
+          "name": "Arizona Cardinals",
           "position": "DEF",
-          "team": "CAR",
+          "team": "ARI",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -7282,7 +7282,7 @@ window.__STATIC_DATA__ = {
           "weight": "210",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 55
         },
         {
@@ -7618,7 +7618,7 @@ window.__STATIC_DATA__ = {
           "weight": "230",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 43
         },
         {
@@ -8074,6 +8074,178 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 15, 2026 • 12:50 PM PT",
+      "transaction_id": "1416562996808810496",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [
+        {
+          "name": "Jaleel McLaughlin",
+          "position": "RB",
+          "team": "CLE"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Eli Raridon",
+          "position": "TE",
+          "team": "NE"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 15, 2026 • 12:47 PM PT",
+      "transaction_id": "1416562198485975040",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [
+        {
+          "name": "Carson Beck",
+          "position": "QB",
+          "team": "ARI"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Malik Willis",
+          "position": "QB",
+          "team": "MIA"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 15, 2026 • 12:47 PM PT",
+      "transaction_id": "1416562074380689408",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [
+        {
+          "name": "Drew Allar",
+          "position": "QB",
+          "team": "PIT"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Baker Mayfield",
+          "position": "QB",
+          "team": "TB"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 15, 2026 • 12:46 PM PT",
+      "transaction_id": "1416561985943822336",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [
+        {
+          "name": "Eli Raridon",
+          "position": "TE",
+          "team": "NE"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 15, 2026 • 12:38 PM PT",
+      "transaction_id": "1416559935042465792",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [
+        {
+          "name": "Arizona Cardinals",
+          "position": "DEF",
+          "team": "ARI"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 15, 2026 • 12:38 PM PT",
+      "transaction_id": "1416559851672236032",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Carolina Panthers",
+          "position": "DEF",
+          "team": "CAR"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 15, 2026 • 12:14 PM PT",
+      "transaction_id": "1416553865624506368",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Efton Chism",
+          "position": "WR",
+          "team": "NE"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 6,
