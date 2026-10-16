@@ -3892,7 +3892,7 @@ window.__STATIC_DATA__ = {
           "weight": "217",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 27
         },
         {
@@ -4735,7 +4735,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 162
         },
         {
@@ -6644,19 +6644,34 @@ window.__STATIC_DATA__ = {
           "search_rank": 161
         },
         {
-          "player_id": "13545",
+          "player_id": "13421",
           "espn_id": null,
-          "name": "Trey Smack",
-          "position": "K",
-          "team": "GB",
-          "birth_date": "2003-06-12",
-          "college": "Florida",
-          "height": "73",
-          "weight": "188",
+          "name": "Eli Raridon",
+          "position": "TE",
+          "team": "NE",
+          "birth_date": "2004-02-12",
+          "college": "Notre Dame",
+          "height": "78",
+          "weight": "245",
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 194
+          "search_rank": 363
+        },
+        {
+          "player_id": "1945",
+          "espn_id": 17372,
+          "name": "Chris Boswell",
+          "position": "K",
+          "team": "PIT",
+          "birth_date": "1991-03-16",
+          "college": "Rice",
+          "height": "74",
+          "weight": "185",
+          "years_exp": 12,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 151
         },
         {
           "player_id": "4454",
@@ -8074,6 +8089,56 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 16, 2026 • 5:07 AM PT",
+      "transaction_id": "1416808850480214016",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "justinpark99"
+      ],
+      "added": [
+        {
+          "name": "Eli Raridon",
+          "position": "TE",
+          "team": "NE"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 16, 2026 • 4:58 AM PT",
+      "transaction_id": "1416806555361247232",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "justinpark99"
+      ],
+      "added": [
+        {
+          "name": "Chris Boswell",
+          "position": "K",
+          "team": "PIT"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Trey Smack",
+          "position": "K",
+          "team": "GB"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 6,
@@ -13920,7 +13985,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Darius Slayton",
           "position": "WR",
-          "team": "IND"
+          "team": null
         }
       ],
       "faab": 0,
