@@ -3907,7 +3907,7 @@ window.__STATIC_DATA__ = {
           "weight": "206",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 203
         },
         {
@@ -5020,7 +5020,7 @@ window.__STATIC_DATA__ = {
           "weight": "183",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 40
         },
         {
@@ -5497,7 +5497,7 @@ window.__STATIC_DATA__ = {
           "weight": "256",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 48
         },
         {
@@ -6289,7 +6289,7 @@ window.__STATIC_DATA__ = {
           "weight": "233",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 11
         },
         {
@@ -6689,6 +6689,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 673
         },
         {
+          "player_id": "4892",
+          "espn_id": 3052587,
+          "name": "Baker Mayfield",
+          "position": "QB",
+          "team": "TB",
+          "birth_date": "1995-04-14",
+          "college": "Oklahoma",
+          "height": "73",
+          "weight": "215",
+          "years_exp": 8,
+          "status": "Active",
+          "injury_status": "Out",
+          "search_rank": 74
+        },
+        {
           "player_id": "5844",
           "espn_id": 4036133,
           "name": "T.J. Hockenson",
@@ -6702,21 +6717,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "Out",
           "search_rank": 128
-        },
-        {
-          "player_id": "5870",
-          "espn_id": 3917792,
-          "name": "Daniel Jones",
-          "position": "QB",
-          "team": "IND",
-          "birth_date": "1997-05-27",
-          "college": "Duke",
-          "height": "77",
-          "weight": "230",
-          "years_exp": 7,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 131
         },
         {
           "player_id": "8188",
@@ -6991,7 +6991,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 153
         },
         {
@@ -7342,7 +7342,7 @@ window.__STATIC_DATA__ = {
           "weight": "170",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 34
         },
         {
@@ -7387,7 +7387,7 @@ window.__STATIC_DATA__ = {
           "weight": "214",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 125
         },
         {
@@ -8138,6 +8138,34 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 16, 2026 • 1:24 AM PT",
+      "transaction_id": "1416752709108789248",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "justinpark99"
+      ],
+      "added": [
+        {
+          "name": "Baker Mayfield",
+          "position": "QB",
+          "team": "TB"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Daniel Jones",
+          "position": "QB",
+          "team": "IND"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 21,
+      "notes": "Your waiver claim was processed successfully!"
     },
     {
       "season": "2026",
