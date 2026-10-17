@@ -3671,36 +3671,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 32
         },
         {
-          "player_id": "12533",
-          "espn_id": null,
-          "name": "Jacory Croskey-Merritt",
-          "position": "RB",
-          "team": "WAS",
-          "birth_date": "2001-04-12",
-          "college": "Arizona",
-          "height": "71",
-          "weight": "208",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 95
-        },
-        {
-          "player_id": "12534",
-          "espn_id": null,
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "team": "CHI",
-          "birth_date": "2002-06-06",
-          "college": "Rutgers",
-          "height": "68",
-          "weight": "207",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": "Out",
-          "search_rank": 61
-        },
-        {
           "player_id": "13278",
           "espn_id": null,
           "name": "Max Klare",
@@ -3834,6 +3804,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 96
+        },
+        {
+          "player_id": "5846",
+          "espn_id": 4047650,
+          "name": "DK Metcalf",
+          "position": "WR",
+          "team": "PIT",
+          "birth_date": "1997-12-14",
+          "college": "Ole Miss",
+          "height": "76",
+          "weight": "235",
+          "years_exp": 7,
+          "status": "Active",
+          "injury_status": "Questionable",
+          "search_rank": 73
         },
         {
           "player_id": "8137",
@@ -3974,7 +3959,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 22
+          "search_rank": 21
         },
         {
           "player_id": "11571",
@@ -4460,7 +4445,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 88
+          "search_rank": 89
         },
         {
           "player_id": "13269",
@@ -4475,7 +4460,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 109
+          "search_rank": 110
         },
         {
           "player_id": "13311",
@@ -4931,7 +4916,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 10,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 61
+          "search_rank": 62
         },
         {
           "player_id": "8112",
@@ -5006,7 +4991,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 21,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 188
+          "search_rank": 187
         },
         {
           "player_id": "9997",
@@ -5165,6 +5150,36 @@ window.__STATIC_DATA__ = {
           "search_rank": 129
         },
         {
+          "player_id": "12533",
+          "espn_id": null,
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS",
+          "birth_date": "2001-04-12",
+          "college": "Arizona",
+          "height": "71",
+          "weight": "208",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": "Questionable",
+          "search_rank": 95
+        },
+        {
+          "player_id": "12534",
+          "espn_id": null,
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI",
+          "birth_date": "2002-06-06",
+          "college": "Rutgers",
+          "height": "68",
+          "weight": "207",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": "Out",
+          "search_rank": 61
+        },
+        {
           "player_id": "12641",
           "espn_id": null,
           "name": "Jaylin Lane",
@@ -5192,7 +5207,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 387
+          "search_rank": 388
         },
         {
           "player_id": "13477",
@@ -5223,21 +5238,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "Questionable",
           "search_rank": 60
-        },
-        {
-          "player_id": "5846",
-          "espn_id": 4047650,
-          "name": "DK Metcalf",
-          "position": "WR",
-          "team": "PIT",
-          "birth_date": "1997-12-14",
-          "college": "Ole Miss",
-          "height": "76",
-          "weight": "235",
-          "years_exp": 7,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 73
         },
         {
           "player_id": "650",
@@ -5342,7 +5342,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 134
+          "search_rank": 133
         },
         {
           "player_id": "9480",
@@ -5513,7 +5513,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 287
+          "search_rank": 288
         },
         {
           "player_id": "13285",
@@ -5879,7 +5879,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 93
+          "search_rank": 92
         },
         {
           "player_id": "4984",
@@ -6536,7 +6536,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 461
+          "search_rank": 462
         },
         {
           "player_id": "12514",
@@ -7469,7 +7469,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 14,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 266
+          "search_rank": 265
         },
         {
           "player_id": "11834",
@@ -8394,6 +8394,68 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 15, 2026 • 10:49 AM PT",
+      "transaction_id": "1416532562519531520",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee",
+        "GibbyMyTD"
+      ],
+      "assets_received": {
+        "GibbyMyTD": [
+          {
+            "name": "Jacory Croskey-Merritt",
+            "position": "RB",
+            "team": "WAS"
+          },
+          {
+            "name": "Kyle Monangai",
+            "position": "RB",
+            "team": "CHI"
+          },
+          {
+            "name": "2028 Round 3",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "willie425"
+          },
+          {
+            "name": "2027 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "GibbyMyTD"
+          },
+          {
+            "name": "2027 Round 3",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "Paul_Yoon"
+          }
+        ],
+        "PattyMahomiee": [
+          {
+            "name": "DK Metcalf",
+            "position": "WR",
+            "team": "PIT"
+          },
+          {
+            "name": "2027 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "daevn"
+          },
+          {
+            "name": "$70 FAAB",
+            "position": "FAAB",
+            "team": null
+          }
+        ]
+      }
     },
     {
       "season": "2026",
@@ -29479,11 +29541,11 @@ window.__STATIC_DATA__ = {
       "season": "2028",
       "round": 3,
       "roster_id": "2",
-      "owner_id": "1",
-      "previous_owner_id": "6",
-      "owner_name": "PattyMahomiee",
+      "owner_id": "5",
+      "previous_owner_id": "1",
+      "owner_name": "GibbyMyTD",
       "original_owner_name": "willie425",
-      "previous_owner_name": "natepark99"
+      "previous_owner_name": "PattyMahomiee"
     },
     {
       "season": "2027",
@@ -29619,11 +29681,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 2,
       "roster_id": "5",
-      "owner_id": "1",
-      "previous_owner_id": "4",
-      "owner_name": "PattyMahomiee",
+      "owner_id": "5",
+      "previous_owner_id": "1",
+      "owner_name": "GibbyMyTD",
       "original_owner_name": "GibbyMyTD",
-      "previous_owner_name": "SeunghoSama"
+      "previous_owner_name": "PattyMahomiee"
     },
     {
       "season": "2027",
@@ -29729,11 +29791,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 3,
       "roster_id": "8",
-      "owner_id": "1",
-      "previous_owner_id": "4",
-      "owner_name": "PattyMahomiee",
+      "owner_id": "5",
+      "previous_owner_id": "1",
+      "owner_name": "GibbyMyTD",
       "original_owner_name": "Paul_Yoon",
-      "previous_owner_name": "SeunghoSama"
+      "previous_owner_name": "PattyMahomiee"
     },
     {
       "season": "2028",
@@ -29819,11 +29881,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 2,
       "roster_id": "11",
-      "owner_id": "5",
-      "previous_owner_id": "1",
-      "owner_name": "GibbyMyTD",
+      "owner_id": "1",
+      "previous_owner_id": "5",
+      "owner_name": "PattyMahomiee",
       "original_owner_name": "daevn",
-      "previous_owner_name": "PattyMahomiee"
+      "previous_owner_name": "GibbyMyTD"
     },
     {
       "season": "2029",
