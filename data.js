@@ -7542,7 +7542,7 @@ window.__STATIC_DATA__ = {
           "height": "72",
           "weight": "199",
           "years_exp": 0,
-          "status": "Inactive",
+          "status": "Active",
           "injury_status": "Questionable",
           "search_rank": 151
         },
