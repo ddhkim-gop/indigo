@@ -4244,7 +4244,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 318
+          "search_rank": 320
         },
         {
           "player_id": "8130",
@@ -4274,7 +4274,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 19
+          "search_rank": 17
         },
         {
           "player_id": "9226",
@@ -4445,7 +4445,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": "Doubtful",
-          "search_rank": 457
+          "search_rank": 458
         },
         {
           "player_id": "12545",
@@ -4460,7 +4460,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 87
+          "search_rank": 89
         },
         {
           "player_id": "13269",
@@ -4475,7 +4475,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 109
+          "search_rank": 108
         },
         {
           "player_id": "13311",
@@ -4520,7 +4520,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Inactive",
           "injury_status": "Out",
-          "search_rank": 10
+          "search_rank": 9
         },
         {
           "player_id": "5001",
@@ -4886,7 +4886,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 111
+          "search_rank": 113
         },
         {
           "player_id": "13424",
@@ -4901,7 +4901,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 389
+          "search_rank": 388
         },
         {
           "player_id": "13533",
@@ -5165,6 +5165,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 129
         },
         {
+          "player_id": "12495",
+          "espn_id": null,
+          "name": "Ollie Gordon",
+          "position": "RB",
+          "team": "MIA",
+          "birth_date": "2004-01-15",
+          "college": "Oklahoma State",
+          "height": "74",
+          "weight": "225",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": "Questionable",
+          "search_rank": 458
+        },
+        {
           "player_id": "12533",
           "espn_id": null,
           "name": "Jacory Croskey-Merritt",
@@ -5180,21 +5195,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 95
         },
         {
-          "player_id": "12534",
-          "espn_id": null,
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "team": "CHI",
-          "birth_date": "2002-06-06",
-          "college": "Rutgers",
-          "height": "68",
-          "weight": "207",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": "Out",
-          "search_rank": 61
-        },
-        {
           "player_id": "13402",
           "espn_id": null,
           "name": "Skyler Bell",
@@ -5207,7 +5207,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 388
+          "search_rank": 386
         },
         {
           "player_id": "13477",
@@ -5267,7 +5267,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 46
+          "search_rank": 44
         },
         {
           "player_id": "6801",
@@ -5342,7 +5342,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 134
+          "search_rank": 133
         },
         {
           "player_id": "9480",
@@ -5513,7 +5513,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 199
+          "search_rank": 201
         },
         {
           "player_id": "13286",
@@ -5543,7 +5543,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": "Out",
-          "search_rank": 360
+          "search_rank": 359
         },
         {
           "player_id": "13293",
@@ -5573,7 +5573,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 91
+          "search_rank": 89
         },
         {
           "player_id": "13298",
@@ -5618,7 +5618,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 181
+          "search_rank": 180
         },
         {
           "player_id": "13833",
@@ -5834,7 +5834,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 103
+          "search_rank": 104
         },
         {
           "player_id": "13330",
@@ -5864,7 +5864,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 92
+          "search_rank": 93
         },
         {
           "player_id": "4984",
@@ -6095,7 +6095,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 127
+          "search_rank": 126
         },
         {
           "player_id": "11563",
@@ -6350,7 +6350,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 68
+          "search_rank": 69
         },
         {
           "player_id": "8146",
@@ -6476,7 +6476,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 28
+          "search_rank": 26
         },
         {
           "player_id": "11635",
@@ -6509,21 +6509,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 56
         },
         {
-          "player_id": "12495",
-          "espn_id": null,
-          "name": "Ollie Gordon",
-          "position": "RB",
-          "team": "MIA",
-          "birth_date": "2004-01-15",
-          "college": "Oklahoma State",
-          "height": "74",
-          "weight": "225",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 460
-        },
-        {
           "player_id": "12514",
           "espn_id": null,
           "name": "Emeka Egbuka",
@@ -6552,6 +6537,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 39
+        },
+        {
+          "player_id": "12534",
+          "espn_id": null,
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI",
+          "birth_date": "2002-06-06",
+          "college": "Rutgers",
+          "height": "68",
+          "weight": "207",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": "Out",
+          "search_rank": 61
         },
         {
           "player_id": "12535",
@@ -6686,7 +6686,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": "Out",
-          "search_rank": 75
+          "search_rank": 74
         },
         {
           "player_id": "5844",
@@ -7313,7 +7313,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 27
+          "search_rank": 26
         },
         {
           "player_id": "7525",
@@ -8139,6 +8139,40 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 16, 2026 • 10:25 PM PT",
+      "transaction_id": "1417069912526000128",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "GibbyMyTD",
+        "justinpark99"
+      ],
+      "assets_received": {
+        "GibbyMyTD": [
+          {
+            "name": "Ollie Gordon",
+            "position": "RB",
+            "team": "MIA"
+          }
+        ],
+        "justinpark99": [
+          {
+            "name": "Kyle Monangai",
+            "position": "RB",
+            "team": "CHI"
+          },
+          {
+            "name": "2027 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "GibbyMyTD"
+          }
+        ]
+      }
     },
     {
       "season": "2026",
@@ -29732,11 +29766,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 2,
       "roster_id": "5",
-      "owner_id": "5",
-      "previous_owner_id": "1",
-      "owner_name": "GibbyMyTD",
+      "owner_id": "9",
+      "previous_owner_id": "5",
+      "owner_name": "justinpark99",
       "original_owner_name": "GibbyMyTD",
-      "previous_owner_name": "PattyMahomiee"
+      "previous_owner_name": "GibbyMyTD"
     },
     {
       "season": "2027",
