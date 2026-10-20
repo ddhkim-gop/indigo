@@ -5726,21 +5726,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 99
         },
         {
-          "player_id": "ARI",
-          "espn_id": null,
-          "name": "Arizona Cardinals",
-          "position": "DEF",
-          "team": "ARI",
-          "birth_date": null,
-          "college": null,
-          "height": null,
-          "weight": null,
-          "years_exp": null,
-          "status": null,
-          "injury_status": null,
-          "search_rank": null
-        },
-        {
           "player_id": "MIN",
           "espn_id": null,
           "name": "Minnesota Vikings",
@@ -7626,7 +7611,7 @@ window.__STATIC_DATA__ = {
           "espn_id": null,
           "name": "Najee Harris",
           "position": "RB",
-          "team": "NYG",
+          "team": null,
           "birth_date": "1998-03-09",
           "college": "Alabama",
           "height": "73",
@@ -8074,6 +8059,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 20, 2026 • 8:04 AM PT",
+      "transaction_id": "1418302838299168768",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Arizona Cardinals",
+          "position": "DEF",
+          "team": "ARI"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 6,
@@ -9685,7 +9692,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Najee Harris",
           "position": "RB",
-          "team": "NYG"
+          "team": null
         }
       ],
       "dropped": [
@@ -9861,7 +9868,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Najee Harris",
           "position": "RB",
-          "team": "NYG"
+          "team": null
         }
       ],
       "faab": 0,
@@ -10098,7 +10105,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Najee Harris",
           "position": "RB",
-          "team": "NYG"
+          "team": null
         }
       ],
       "dropped": [],
@@ -14204,7 +14211,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Najee Harris",
           "position": "RB",
-          "team": "NYG"
+          "team": null
         }
       ],
       "faab": 0,
