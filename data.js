@@ -4026,7 +4026,7 @@ window.__STATIC_DATA__ = {
           "espn_id": null,
           "name": "Jaydon Blue",
           "position": "RB",
-          "team": "PHI",
+          "team": null,
           "birth_date": "2004-01-08",
           "college": "Texas",
           "height": "69",
@@ -4735,7 +4735,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Questionable",
           "search_rank": 162
         },
         {
@@ -5005,7 +5005,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 122
         },
         {
@@ -7151,6 +7151,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 149
         },
         {
+          "player_id": "11783",
+          "espn_id": null,
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL",
+          "birth_date": "1999-10-27",
+          "college": "Southeast Missouri State",
+          "height": "73",
+          "weight": "205",
+          "years_exp": 2,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 199
+        },
+        {
           "player_id": "12481",
           "espn_id": null,
           "name": "Cam Skattebo",
@@ -7194,21 +7209,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 115
-        },
-        {
-          "player_id": "13264",
-          "espn_id": null,
-          "name": "Dohnte Meyers",
-          "position": "WR",
-          "team": "CIN",
-          "birth_date": "2000-07-06",
-          "college": "Delta State",
-          "height": "71",
-          "weight": "186",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 628
         },
         {
           "player_id": "13281",
@@ -8074,6 +8074,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 21, 2026 • 9:45 AM PT",
+      "transaction_id": "1418690625812922368",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "daevn"
+      ],
+      "added": [
+        {
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Dohnte Meyers",
+          "position": "WR",
+          "team": "CIN"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 7,
