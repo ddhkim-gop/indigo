@@ -3847,7 +3847,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 22
         },
         {
@@ -4026,7 +4026,7 @@ window.__STATIC_DATA__ = {
           "espn_id": null,
           "name": "Jaydon Blue",
           "position": "RB",
-          "team": null,
+          "team": "PHI",
           "birth_date": "2004-01-08",
           "college": "Texas",
           "height": "69",
@@ -4413,8 +4413,8 @@ window.__STATIC_DATA__ = {
           "height": "77",
           "weight": "254",
           "years_exp": 1,
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "search_rank": 460
         },
         {
@@ -6139,7 +6139,7 @@ window.__STATIC_DATA__ = {
           "weight": "230",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 466
         },
         {
@@ -6154,7 +6154,7 @@ window.__STATIC_DATA__ = {
           "weight": "212",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "search_rank": 15
         },
         {
@@ -6319,7 +6319,7 @@ window.__STATIC_DATA__ = {
           "weight": "219",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 69
         },
         {
@@ -7618,7 +7618,7 @@ window.__STATIC_DATA__ = {
           "weight": "230",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "search_rank": 43
         },
         {
@@ -7752,8 +7752,8 @@ window.__STATIC_DATA__ = {
           "height": "73",
           "weight": "220",
           "years_exp": 3,
-          "status": "Inactive",
-          "injury_status": "PUP",
+          "status": "Active",
+          "injury_status": "Questionable",
           "search_rank": 101
         },
         {
