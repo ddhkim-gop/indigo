@@ -4643,21 +4643,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 150
         },
         {
-          "player_id": "9504",
-          "espn_id": null,
-          "name": "Kayshon Boutte",
-          "position": "WR",
-          "team": "HOU",
-          "birth_date": "2002-05-07",
-          "college": "LSU",
-          "height": "72",
-          "weight": "203",
-          "years_exp": 3,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 164
-        },
-        {
           "player_id": "BAL",
           "espn_id": null,
           "name": "Baltimore Ravens",
@@ -5546,21 +5531,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 52
         },
         {
-          "player_id": "13289",
-          "espn_id": null,
-          "name": "Drew Allar",
-          "position": "QB",
-          "team": "PIT",
-          "birth_date": "2004-03-08",
-          "college": "Penn State",
-          "height": "77",
-          "weight": "228",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 360
-        },
-        {
           "player_id": "13293",
           "espn_id": null,
           "name": "Ja'Kobi Lane",
@@ -5709,6 +5679,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "IR",
           "search_rank": 187
+        },
+        {
+          "player_id": "9506",
+          "espn_id": null,
+          "name": "Sean Tucker",
+          "position": "RB",
+          "team": "TB",
+          "birth_date": "2001-10-25",
+          "college": "Syracuse",
+          "height": "70",
+          "weight": "205",
+          "years_exp": 3,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 155
         },
         {
           "player_id": "9754",
@@ -8074,6 +8059,56 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 22, 2026 • 5:22 AM PT",
+      "transaction_id": "1418986818669379584",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [
+        {
+          "name": "Sean Tucker",
+          "position": "RB",
+          "team": "TB"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Drew Allar",
+          "position": "QB",
+          "team": "PIT"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 22, 2026 • 4:57 AM PT",
+      "transaction_id": "1418980512449515520",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Kayshon Boutte",
+          "position": "WR",
+          "team": "HOU"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 7,
