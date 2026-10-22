@@ -3877,7 +3877,7 @@ window.__STATIC_DATA__ = {
           "weight": "225",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 80
         },
         {
@@ -4123,7 +4123,7 @@ window.__STATIC_DATA__ = {
           "weight": "228",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 123
         },
         {
@@ -4339,7 +4339,7 @@ window.__STATIC_DATA__ = {
           "weight": "235",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 21
         },
         {
@@ -4639,7 +4639,7 @@ window.__STATIC_DATA__ = {
           "weight": "180",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 150
         },
         {
@@ -4673,11 +4673,11 @@ window.__STATIC_DATA__ = {
           "search_rank": null
         },
         {
-          "player_id": "LV",
+          "player_id": "TEN",
           "espn_id": null,
-          "name": "Las Vegas Raiders",
+          "name": "Tennessee Titans",
           "position": "DEF",
-          "team": "LV",
+          "team": "TEN",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -5512,7 +5512,7 @@ window.__STATIC_DATA__ = {
           "weight": "233",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 288
         },
         {
@@ -6013,7 +6013,7 @@ window.__STATIC_DATA__ = {
           "weight": "185",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 42
         },
         {
@@ -7558,7 +7558,7 @@ window.__STATIC_DATA__ = {
           "weight": "250",
           "years_exp": 13,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 90
         },
         {
@@ -8089,6 +8089,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 21, 2026 • 3:01 PM PT",
+      "transaction_id": "1418770135325351936",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [
+        {
+          "name": "Tennessee Titans",
+          "position": "DEF",
+          "team": "TEN"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Las Vegas Raiders",
+          "position": "DEF",
+          "team": "LV"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 7,
