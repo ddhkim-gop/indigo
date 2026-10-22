@@ -3743,7 +3743,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 10,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 39
+          "search_rank": 38
         },
         {
           "player_id": "3634",
@@ -3788,7 +3788,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 9,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 40
+          "search_rank": 39
         },
         {
           "player_id": "4983",
@@ -3803,7 +3803,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": "Out",
-          "search_rank": 48
+          "search_rank": 50
         },
         {
           "player_id": "5012",
@@ -3908,7 +3908,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 202
+          "search_rank": 203
         },
         {
           "player_id": "9501",
@@ -4019,7 +4019,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 65
+          "search_rank": 64
         },
         {
           "player_id": "12457",
@@ -4127,21 +4127,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 123
         },
         {
-          "player_id": "1479",
-          "espn_id": 15818,
-          "name": "Keenan Allen",
-          "position": "WR",
-          "team": "IND",
-          "birth_date": "1992-04-27",
-          "college": "California",
-          "height": "74",
-          "weight": "211",
-          "years_exp": 13,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 180
-        },
-        {
           "player_id": "4034",
           "espn_id": 3117251,
           "name": "Christian McCaffrey",
@@ -4214,7 +4199,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 153
+          "search_rank": 155
         },
         {
           "player_id": "8129",
@@ -4430,7 +4415,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": "Out",
-          "search_rank": 459
+          "search_rank": 460
         },
         {
           "player_id": "12545",
@@ -4491,6 +4476,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 197
+        },
+        {
+          "player_id": "1479",
+          "espn_id": 15818,
+          "name": "Keenan Allen",
+          "position": "WR",
+          "team": "IND",
+          "birth_date": "1992-04-27",
+          "college": "California",
+          "height": "74",
+          "weight": "211",
+          "years_exp": 13,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 180
         },
         {
           "player_id": "3451",
@@ -4901,7 +4901,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 386
+          "search_rank": 385
         },
         {
           "player_id": "13533",
@@ -4916,7 +4916,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 466
+          "search_rank": 465
         },
         {
           "player_id": "13545",
@@ -4946,7 +4946,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 10,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 62
+          "search_rank": 61
         },
         {
           "player_id": "8112",
@@ -5177,7 +5177,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 457
+          "search_rank": 453
         },
         {
           "player_id": "12533",
@@ -5342,7 +5342,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 133
+          "search_rank": 134
         },
         {
           "player_id": "9480",
@@ -5396,19 +5396,19 @@ window.__STATIC_DATA__ = {
       "roster_id": 6,
       "players": [
         {
-          "player_id": "10235",
+          "player_id": "11563",
           "espn_id": null,
-          "name": "Roschon Johnson",
-          "position": "RB",
-          "team": "CHI",
-          "birth_date": "2001-01-31",
-          "college": "Texas",
-          "height": "72",
-          "weight": "227",
-          "years_exp": 3,
+          "name": "Bo Nix",
+          "position": "QB",
+          "team": "DEN",
+          "birth_date": "2000-02-25",
+          "college": "Oregon",
+          "height": "74",
+          "weight": "217",
+          "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 681
+          "search_rank": 45
         },
         {
           "player_id": "11638",
@@ -5513,7 +5513,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 288
+          "search_rank": 287
         },
         {
           "player_id": "13285",
@@ -5528,7 +5528,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 201
+          "search_rank": 199
         },
         {
           "player_id": "13286",
@@ -5819,7 +5819,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 36
+          "search_rank": 37
         },
         {
           "player_id": "12530",
@@ -5864,7 +5864,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 92
+          "search_rank": 93
         },
         {
           "player_id": "4984",
@@ -5879,7 +5879,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 4
+          "search_rank": 3
         },
         {
           "player_id": "5045",
@@ -6029,7 +6029,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 6
+          "search_rank": 7
         },
         {
           "player_id": "7611",
@@ -6095,7 +6095,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 125
+          "search_rank": 127
         },
         {
           "player_id": "11576",
@@ -6185,7 +6185,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 370
+          "search_rank": 368
         },
         {
           "player_id": "2747",
@@ -6214,7 +6214,7 @@ window.__STATIC_DATA__ = {
           "weight": "191",
           "years_exp": 10,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "",
           "search_rank": 145
         },
         {
@@ -6596,7 +6596,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 450
+          "search_rank": 451
         },
         {
           "player_id": "13347",
@@ -6656,7 +6656,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 362
+          "search_rank": 363
         },
         {
           "player_id": "1945",
@@ -6686,7 +6686,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 74
+          "search_rank": 75
         },
         {
           "player_id": "5844",
@@ -7007,7 +7007,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 9,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 196
+          "search_rank": 195
         },
         {
           "player_id": "4195",
@@ -7037,7 +7037,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 87
+          "search_rank": 88
         },
         {
           "player_id": "5947",
@@ -7082,7 +7082,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 104
+          "search_rank": 106
         },
         {
           "player_id": "9758",
@@ -7097,7 +7097,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 102
+          "search_rank": 101
         },
         {
           "player_id": "CHI",
@@ -7283,7 +7283,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": "Out",
-          "search_rank": 55
+          "search_rank": 56
         },
         {
           "player_id": "6083",
@@ -7313,7 +7313,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 27
+          "search_rank": 28
         },
         {
           "player_id": "7525",
@@ -7418,7 +7418,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 462
+          "search_rank": 463
         },
         {
           "player_id": "KC",
@@ -7469,7 +7469,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 14,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 265
+          "search_rank": 266
         },
         {
           "player_id": "11834",
@@ -7574,7 +7574,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 11,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 105
+          "search_rank": 104
         },
         {
           "player_id": "3198",
@@ -7634,22 +7634,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 41
-        },
-        {
-          "player_id": "7528",
-          "espn_id": null,
-          "name": "Najee Harris",
-          "position": "RB",
-          "team": null,
-          "birth_date": "1998-03-09",
-          "college": "Alabama",
-          "height": "73",
-          "weight": "232",
-          "years_exp": 5,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 170
+          "search_rank": 43
         },
         {
           "player_id": "7569",
@@ -7739,7 +7724,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 55
+          "search_rank": 56
         },
         {
           "player_id": "9487",
@@ -8092,6 +8077,28 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
+      "created": "Oct 21, 2026 • 7:52 PM PT",
+      "transaction_id": "1418843558600888320",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jay0jay1jay2"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Najee Harris",
+          "position": "RB",
+          "team": null
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 7,
       "created": "Oct 21, 2026 • 3:01 PM PT",
       "transaction_id": "1418770135325351936",
       "type": "free_agent",
@@ -8116,6 +8123,34 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 21, 2026 • 2:24 PM PT",
+      "transaction_id": "1418760815330238464",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [
+        {
+          "name": "Bo Nix",
+          "position": "QB",
+          "team": "DEN"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Roschon Johnson",
+          "position": "RB",
+          "team": "CHI"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 51,
+      "notes": "Your waiver claim was processed successfully!"
     },
     {
       "season": "2026",
@@ -8294,6 +8329,35 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 17,
       "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 6,
+      "created": "Oct 20, 2026 • 7:28 PM PT",
+      "transaction_id": "1418475105696100352",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "willie425",
+        "jamescho0829"
+      ],
+      "assets_received": {
+        "jamescho0829": [
+          {
+            "name": "Keenan Allen",
+            "position": "WR",
+            "team": "IND"
+          }
+        ],
+        "willie425": [
+          {
+            "name": "2028 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "jamescho0829"
+          }
+        ]
+      }
     },
     {
       "season": "2026",
@@ -30010,6 +30074,16 @@ window.__STATIC_DATA__ = {
       "owner_name": "jamescho0829",
       "original_owner_name": "jamescho0829",
       "previous_owner_name": "PattyMahomiee"
+    },
+    {
+      "season": "2028",
+      "round": 2,
+      "roster_id": "3",
+      "owner_id": "2",
+      "previous_owner_id": "3",
+      "owner_name": "willie425",
+      "original_owner_name": "jamescho0829",
+      "previous_owner_name": "jamescho0829"
     },
     {
       "season": "2026",
