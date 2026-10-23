@@ -3637,7 +3637,7 @@ window.__STATIC_DATA__ = {
           "weight": "204",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 29
         },
         {
@@ -3682,7 +3682,7 @@ window.__STATIC_DATA__ = {
           "weight": "195",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 32
         },
         {
@@ -3877,7 +3877,7 @@ window.__STATIC_DATA__ = {
           "weight": "225",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 80
         },
         {
@@ -4795,7 +4795,7 @@ window.__STATIC_DATA__ = {
           "weight": "221",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 45
         },
         {
@@ -5482,7 +5482,7 @@ window.__STATIC_DATA__ = {
           "weight": "256",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 48
         },
         {
@@ -5572,7 +5572,7 @@ window.__STATIC_DATA__ = {
           "weight": "190",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 110
         },
         {
@@ -5666,21 +5666,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 117
         },
         {
-          "player_id": "9225",
-          "espn_id": null,
-          "name": "Tank Bigsby",
-          "position": "RB",
-          "team": "PHI",
-          "birth_date": "2002-08-30",
-          "college": "Auburn",
-          "height": "71",
-          "weight": "215",
-          "years_exp": 3,
-          "status": "Inactive",
-          "injury_status": "IR",
-          "search_rank": 147
-        },
-        {
           "player_id": "9502",
           "espn_id": null,
           "name": "Tank Dell",
@@ -5691,7 +5676,7 @@ window.__STATIC_DATA__ = {
           "height": "70",
           "weight": "165",
           "years_exp": 3,
-          "status": "Active",
+          "status": "Inactive",
           "injury_status": "IR",
           "search_rank": 187
         },
@@ -5739,6 +5724,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 99
+        },
+        {
+          "player_id": "DET",
+          "espn_id": null,
+          "name": "Detroit Lions",
+          "position": "DEF",
+          "team": "DET",
+          "birth_date": null,
+          "college": null,
+          "height": null,
+          "weight": null,
+          "years_exp": null,
+          "status": null,
+          "injury_status": null,
+          "search_rank": null
         }
       ]
     },
@@ -6154,7 +6154,7 @@ window.__STATIC_DATA__ = {
           "weight": "212",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 15
         },
         {
@@ -6520,7 +6520,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 39
         },
         {
@@ -6961,7 +6961,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 153
         },
         {
@@ -8059,6 +8059,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 23, 2026 • 9:00 AM PT",
+      "transaction_id": "1419404124004352000",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [
+        {
+          "name": "Detroit Lions",
+          "position": "DEF",
+          "team": "DET"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Tank Bigsby",
+          "position": "RB",
+          "team": "PHI"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 7,
