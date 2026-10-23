@@ -3641,6 +3641,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 29
         },
         {
+          "player_id": "10235",
+          "espn_id": null,
+          "name": "Roschon Johnson",
+          "position": "RB",
+          "team": "CHI",
+          "birth_date": "2001-01-31",
+          "college": "Texas",
+          "height": "72",
+          "weight": "227",
+          "years_exp": 3,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 681
+        },
+        {
           "player_id": "11533",
           "espn_id": null,
           "name": "Brandon Aubrey",
@@ -3744,21 +3759,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 38
-        },
-        {
-          "player_id": "3634",
-          "espn_id": 2973405,
-          "name": "Kalif Raymond",
-          "position": "WR",
-          "team": "CHI",
-          "birth_date": "1994-08-08",
-          "college": "Holy Cross",
-          "height": "69",
-          "weight": "160",
-          "years_exp": 10,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 645
         },
         {
           "player_id": "4037",
@@ -3907,7 +3907,7 @@ window.__STATIC_DATA__ = {
           "weight": "206",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 203
         },
         {
@@ -4324,7 +4324,7 @@ window.__STATIC_DATA__ = {
           "weight": "235",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 21
         },
         {
@@ -4639,7 +4639,7 @@ window.__STATIC_DATA__ = {
           "weight": "180",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 150
         },
         {
@@ -6154,7 +6154,7 @@ window.__STATIC_DATA__ = {
           "weight": "212",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Questionable",
           "search_rank": 15
         },
         {
@@ -6259,7 +6259,7 @@ window.__STATIC_DATA__ = {
           "weight": "256",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 94
         },
         {
@@ -6304,7 +6304,7 @@ window.__STATIC_DATA__ = {
           "weight": "195",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 12
         },
         {
@@ -7312,7 +7312,7 @@ window.__STATIC_DATA__ = {
           "weight": "170",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 34
         },
         {
@@ -7738,7 +7738,7 @@ window.__STATIC_DATA__ = {
           "weight": "216",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 5
         },
         {
@@ -8059,6 +8059,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 22, 2026 • 2:12 PM PT",
+      "transaction_id": "1419120277324824576",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Roschon Johnson",
+          "position": "RB",
+          "team": "CHI"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Kalif Raymond",
+          "position": "WR",
+          "team": "CHI"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 7,
