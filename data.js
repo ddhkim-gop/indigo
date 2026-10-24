@@ -4022,6 +4022,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 65
         },
         {
+          "player_id": "11655",
+          "espn_id": null,
+          "name": "Tyrone Tracy Jr.",
+          "position": "RB",
+          "team": "NYG",
+          "birth_date": "1999-11-23",
+          "college": "Purdue",
+          "height": "71",
+          "weight": "210",
+          "years_exp": 2,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 110
+        },
+        {
           "player_id": "12457",
           "espn_id": null,
           "name": "Jaydon Blue",
@@ -4751,7 +4766,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 133
+          "search_rank": 131
         },
         {
           "player_id": "12506",
@@ -5162,7 +5177,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 452
+          "search_rank": 451
         },
         {
           "player_id": "12533",
@@ -5252,7 +5267,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 44
+          "search_rank": 46
         },
         {
           "player_id": "6801",
@@ -5393,7 +5408,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 44
+          "search_rank": 46
         },
         {
           "player_id": "11638",
@@ -6143,21 +6158,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 466
         },
         {
-          "player_id": "13287",
-          "espn_id": null,
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "team": "ARI",
-          "birth_date": "2005-05-31",
-          "college": "Notre Dame",
-          "height": "72",
-          "weight": "212",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": "Out",
-          "search_rank": 15
-        },
-        {
           "player_id": "13411",
           "espn_id": null,
           "name": "Zavion Thomas",
@@ -6290,7 +6290,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 12
+          "search_rank": 11
         },
         {
           "player_id": "6804",
@@ -6306,6 +6306,36 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 69
+        },
+        {
+          "player_id": "7525",
+          "espn_id": null,
+          "name": "DeVonta Smith",
+          "position": "WR",
+          "team": "PHI",
+          "birth_date": "1998-11-14",
+          "college": "Alabama",
+          "height": "72",
+          "weight": "170",
+          "years_exp": 5,
+          "status": "Active",
+          "injury_status": "Questionable",
+          "search_rank": 34
+        },
+        {
+          "player_id": "8138",
+          "espn_id": null,
+          "name": "James Cook III",
+          "position": "RB",
+          "team": "BUF",
+          "birth_date": "1999-09-25",
+          "college": "Georgia",
+          "height": "71",
+          "weight": "190",
+          "years_exp": 4,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 5
         },
         {
           "player_id": "8146",
@@ -6350,7 +6380,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 6
+          "search_rank": 5
         },
         {
           "player_id": "MIN",
@@ -6461,7 +6491,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 26
+          "search_rank": 28
         },
         {
           "player_id": "11635",
@@ -6477,21 +6507,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "Out",
           "search_rank": 35
-        },
-        {
-          "player_id": "11655",
-          "espn_id": null,
-          "name": "Tyrone Tracy Jr.",
-          "position": "RB",
-          "team": "NYG",
-          "birth_date": "1999-11-23",
-          "college": "Purdue",
-          "height": "71",
-          "weight": "210",
-          "years_exp": 2,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 110
         },
         {
           "player_id": "12489",
@@ -7022,7 +7037,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 87
+          "search_rank": 88
         },
         {
           "player_id": "5947",
@@ -7226,6 +7241,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 62
         },
         {
+          "player_id": "13287",
+          "espn_id": null,
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI",
+          "birth_date": "2005-05-31",
+          "college": "Notre Dame",
+          "height": "72",
+          "weight": "212",
+          "years_exp": 0,
+          "status": "Active",
+          "injury_status": "Out",
+          "search_rank": 15
+        },
+        {
           "player_id": "13353",
           "espn_id": null,
           "name": "Chris Brazzell II",
@@ -7298,22 +7328,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 26
-        },
-        {
-          "player_id": "7525",
-          "espn_id": null,
-          "name": "DeVonta Smith",
-          "position": "WR",
-          "team": "PHI",
-          "birth_date": "1998-11-14",
-          "college": "Alabama",
-          "height": "72",
-          "weight": "170",
-          "years_exp": 5,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 34
+          "search_rank": 28
         },
         {
           "player_id": "7553",
@@ -7361,21 +7376,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 125
         },
         {
-          "player_id": "8138",
-          "espn_id": null,
-          "name": "James Cook III",
-          "position": "RB",
-          "team": "BUF",
-          "birth_date": "1999-09-25",
-          "college": "Georgia",
-          "height": "71",
-          "weight": "190",
-          "years_exp": 4,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 5
-        },
-        {
           "player_id": "8408",
           "espn_id": null,
           "name": "Jordan Mason",
@@ -7403,7 +7403,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 461
+          "search_rank": 462
         },
         {
           "player_id": "KC",
@@ -7619,7 +7619,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": "Out",
-          "search_rank": 43
+          "search_rank": 41
         },
         {
           "player_id": "7569",
@@ -8114,6 +8114,98 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 22, 2026 • 11:42 AM PT",
+      "transaction_id": "1419082419339837440",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "willie425",
+        "justinpark99"
+      ],
+      "assets_received": {
+        "willie425": [
+          {
+            "name": "Tyrone Tracy Jr.",
+            "position": "RB",
+            "team": "NYG"
+          }
+        ],
+        "justinpark99": [
+          {
+            "name": "2029 Round 3",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "willie425"
+          },
+          {
+            "name": "2027 Round 3",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "cheigh"
+          }
+        ]
+      }
+    },
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 22, 2026 • 11:13 AM PT",
+      "transaction_id": "1419075315916943360",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "Paul_Yoon",
+        "daevn"
+      ],
+      "assets_received": {
+        "daevn": [
+          {
+            "name": "Jeremiyah Love",
+            "position": "RB",
+            "team": "ARI"
+          },
+          {
+            "name": "2028 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "SeunghoSama"
+          },
+          {
+            "name": "2027 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "natepark99"
+          },
+          {
+            "name": "2029 Round 1",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "Paul_Yoon"
+          }
+        ],
+        "Paul_Yoon": [
+          {
+            "name": "DeVonta Smith",
+            "position": "WR",
+            "team": "PHI"
+          },
+          {
+            "name": "James Cook III",
+            "position": "RB",
+            "team": "BUF"
+          },
+          {
+            "name": "2027 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "Paul_Yoon"
+          }
+        ]
+      }
     },
     {
       "season": "2026",
@@ -30170,6 +30262,16 @@ window.__STATIC_DATA__ = {
       "previous_owner_name": "PattyMahomiee"
     },
     {
+      "season": "2029",
+      "round": 3,
+      "roster_id": "2",
+      "owner_id": "9",
+      "previous_owner_id": "2",
+      "owner_name": "justinpark99",
+      "original_owner_name": "willie425",
+      "previous_owner_name": "willie425"
+    },
+    {
       "season": "2027",
       "round": 2,
       "roster_id": "3",
@@ -30263,11 +30365,11 @@ window.__STATIC_DATA__ = {
       "season": "2028",
       "round": 2,
       "roster_id": "4",
-      "owner_id": "8",
-      "previous_owner_id": "4",
-      "owner_name": "Paul_Yoon",
+      "owner_id": "11",
+      "previous_owner_id": "8",
+      "owner_name": "daevn",
       "original_owner_name": "SeunghoSama",
-      "previous_owner_name": "SeunghoSama"
+      "previous_owner_name": "Paul_Yoon"
     },
     {
       "season": "2028",
@@ -30343,11 +30445,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 2,
       "roster_id": "6",
-      "owner_id": "8",
-      "previous_owner_id": "4",
-      "owner_name": "Paul_Yoon",
+      "owner_id": "11",
+      "previous_owner_id": "8",
+      "owner_name": "daevn",
       "original_owner_name": "natepark99",
-      "previous_owner_name": "SeunghoSama"
+      "previous_owner_name": "Paul_Yoon"
     },
     {
       "season": "2028",
@@ -30383,11 +30485,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 3,
       "roster_id": "7",
-      "owner_id": "2",
-      "previous_owner_id": "1",
-      "owner_name": "willie425",
+      "owner_id": "9",
+      "previous_owner_id": "2",
+      "owner_name": "justinpark99",
       "original_owner_name": "cheigh",
-      "previous_owner_name": "PattyMahomiee"
+      "previous_owner_name": "willie425"
     },
     {
       "season": "2026",
@@ -30413,11 +30515,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 2,
       "roster_id": "8",
-      "owner_id": "11",
-      "previous_owner_id": "4",
-      "owner_name": "daevn",
+      "owner_id": "8",
+      "previous_owner_id": "11",
+      "owner_name": "Paul_Yoon",
       "original_owner_name": "Paul_Yoon",
-      "previous_owner_name": "SeunghoSama"
+      "previous_owner_name": "daevn"
     },
     {
       "season": "2027",
@@ -30458,6 +30560,16 @@ window.__STATIC_DATA__ = {
       "owner_name": "bsohn00",
       "original_owner_name": "Paul_Yoon",
       "previous_owner_name": "PattyMahomiee"
+    },
+    {
+      "season": "2029",
+      "round": 1,
+      "roster_id": "8",
+      "owner_id": "11",
+      "previous_owner_id": "8",
+      "owner_name": "daevn",
+      "original_owner_name": "Paul_Yoon",
+      "previous_owner_name": "Paul_Yoon"
     },
     {
       "season": "2029",
