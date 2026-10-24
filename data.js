@@ -3992,21 +3992,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 518
         },
         {
-          "player_id": "11581",
-          "espn_id": null,
-          "name": "MarShawn Lloyd",
-          "position": "RB",
-          "team": "GB",
-          "birth_date": "2001-01-05",
-          "college": "USC",
-          "height": "69",
-          "weight": "220",
-          "years_exp": 2,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 98
-        },
-        {
           "player_id": "11620",
           "espn_id": null,
           "name": "Rome Odunze",
@@ -4275,6 +4260,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 17
+        },
+        {
+          "player_id": "9225",
+          "espn_id": null,
+          "name": "Tank Bigsby",
+          "position": "RB",
+          "team": "PHI",
+          "birth_date": "2002-08-30",
+          "college": "Auburn",
+          "height": "71",
+          "weight": "215",
+          "years_exp": 3,
+          "status": "Inactive",
+          "injury_status": "IR",
+          "search_rank": 147
         },
         {
           "player_id": "9226",
@@ -5160,8 +5160,8 @@ window.__STATIC_DATA__ = {
           "height": "68",
           "weight": "200",
           "years_exp": 1,
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": null,
           "search_rank": 129
         },
         {
@@ -8095,6 +8095,34 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 23, 2026 • 9:15 AM PT",
+      "transaction_id": "1419407996227727360",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Tank Bigsby",
+          "position": "RB",
+          "team": "PHI"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "MarShawn Lloyd",
+          "position": "RB",
+          "team": "GB"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 35,
+      "notes": "Your waiver claim was processed successfully!"
     },
     {
       "season": "2026",
