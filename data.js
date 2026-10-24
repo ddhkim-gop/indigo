@@ -6764,6 +6764,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 148
         },
         {
+          "player_id": "DAL",
+          "espn_id": null,
+          "name": "Dallas Cowboys",
+          "position": "DEF",
+          "team": "DAL",
+          "birth_date": null,
+          "college": null,
+          "height": null,
+          "weight": null,
+          "years_exp": null,
+          "status": null,
+          "injury_status": null,
+          "search_rank": null
+        },
+        {
           "player_id": "JAX",
           "espn_id": null,
           "name": "Jacksonville Jaguars",
@@ -8059,6 +8074,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 23, 2026 • 10:35 PM PT",
+      "transaction_id": "1419609281958797312",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "justinpark99"
+      ],
+      "added": [
+        {
+          "name": "Dallas Cowboys",
+          "position": "DEF",
+          "team": "DAL"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 7,
