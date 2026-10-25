@@ -4579,7 +4579,7 @@ window.__STATIC_DATA__ = {
           "weight": "218",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 65
         },
         {
@@ -6398,21 +6398,6 @@ window.__STATIC_DATA__ = {
           "search_rank": null
         },
         {
-          "player_id": "NYJ",
-          "espn_id": null,
-          "name": "New York Jets",
-          "position": "DEF",
-          "team": "NYJ",
-          "birth_date": null,
-          "college": null,
-          "height": null,
-          "weight": null,
-          "years_exp": null,
-          "status": null,
-          "injury_status": null,
-          "search_rank": null
-        },
-        {
           "player_id": "SEA",
           "espn_id": null,
           "name": "Seattle Seahawks",
@@ -8089,6 +8074,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 25, 2026 • 2:37 AM PT",
+      "transaction_id": "1420032624851714048",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "Paul_Yoon"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "New York Jets",
+          "position": "DEF",
+          "team": "NYJ"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 7,
