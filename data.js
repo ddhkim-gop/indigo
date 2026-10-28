@@ -3637,7 +3637,7 @@ window.__STATIC_DATA__ = {
           "weight": "204",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 29
         },
         {
@@ -3697,7 +3697,7 @@ window.__STATIC_DATA__ = {
           "weight": "243",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": null,
           "search_rank": 212
         },
         {
@@ -3787,7 +3787,7 @@ window.__STATIC_DATA__ = {
           "weight": "213",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 50
         },
         {
@@ -3862,7 +3862,7 @@ window.__STATIC_DATA__ = {
           "weight": "225",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 80
         },
         {
@@ -3877,7 +3877,7 @@ window.__STATIC_DATA__ = {
           "weight": "217",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 27
         },
         {
@@ -3892,7 +3892,7 @@ window.__STATIC_DATA__ = {
           "weight": "206",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 203
         },
         {
@@ -3960,21 +3960,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 22
-        },
-        {
-          "player_id": "11571",
-          "espn_id": null,
-          "name": "Isaiah Davis",
-          "position": "RB",
-          "team": "NYJ",
-          "birth_date": "2002-02-21",
-          "college": "South Dakota State",
-          "height": "73",
-          "weight": "220",
-          "years_exp": 2,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 518
         },
         {
           "player_id": "11620",
@@ -4305,6 +4290,21 @@ window.__STATIC_DATA__ = {
           "status": null,
           "injury_status": null,
           "search_rank": null
+        },
+        {
+          "player_id": "WAS",
+          "espn_id": null,
+          "name": "Washington Commanders",
+          "position": "DEF",
+          "team": "WAS",
+          "birth_date": null,
+          "college": null,
+          "height": null,
+          "weight": null,
+          "years_exp": null,
+          "status": null,
+          "injury_status": null,
+          "search_rank": null
         }
       ]
     },
@@ -4519,7 +4519,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 9
         },
         {
@@ -4639,7 +4639,7 @@ window.__STATIC_DATA__ = {
           "weight": "180",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 150
         },
         {
@@ -4658,11 +4658,11 @@ window.__STATIC_DATA__ = {
           "search_rank": null
         },
         {
-          "player_id": "TEN",
+          "player_id": "TB",
           "espn_id": null,
-          "name": "Tennessee Titans",
+          "name": "Tampa Bay Buccaneers",
           "position": "DEF",
-          "team": "TEN",
+          "team": "TB",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -4810,7 +4810,7 @@ window.__STATIC_DATA__ = {
           "weight": "219",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": null,
           "search_rank": 167
         },
         {
@@ -4904,21 +4904,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 466
         },
         {
-          "player_id": "13545",
-          "espn_id": null,
-          "name": "Trey Smack",
-          "position": "K",
-          "team": "GB",
-          "birth_date": "2003-06-12",
-          "college": "Florida",
-          "height": "73",
-          "weight": "188",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 194
-        },
-        {
           "player_id": "3163",
           "espn_id": 3046779,
           "name": "Jared Goff",
@@ -4945,7 +4930,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 19
         },
         {
@@ -4979,6 +4964,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 120
         },
         {
+          "player_id": "9479",
+          "espn_id": null,
+          "name": "Darnell Washington",
+          "position": "TE",
+          "team": "PIT",
+          "birth_date": "2001-08-17",
+          "college": "Georgia",
+          "height": "79",
+          "weight": "264",
+          "years_exp": 3,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 472
+        },
+        {
           "player_id": "9508",
           "espn_id": null,
           "name": "Tyjae Spears",
@@ -4990,7 +4990,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 122
         },
         {
@@ -5422,7 +5422,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 132
         },
         {
@@ -5482,7 +5482,7 @@ window.__STATIC_DATA__ = {
           "weight": "256",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 48
         },
         {
@@ -5497,7 +5497,7 @@ window.__STATIC_DATA__ = {
           "weight": "233",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 287
         },
         {
@@ -5606,21 +5606,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 179
         },
         {
-          "player_id": "13833",
-          "espn_id": null,
-          "name": "Dominic Zvada",
-          "position": "K",
-          "team": "NYG",
-          "birth_date": "2003-10-25",
-          "college": "Michigan",
-          "height": "75",
-          "weight": "187",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 330
-        },
-        {
           "player_id": "3321",
           "espn_id": 3116406,
           "name": "Tyreek Hill",
@@ -5632,8 +5617,23 @@ window.__STATIC_DATA__ = {
           "weight": "191",
           "years_exp": 10,
           "status": "Active",
-          "injury_status": "",
+          "injury_status": "Questionable",
           "search_rank": 145
+        },
+        {
+          "player_id": "4233",
+          "espn_id": 3043234,
+          "name": "Zane Gonzalez",
+          "position": "K",
+          "team": "MIA",
+          "birth_date": "1995-05-07",
+          "college": "Arizona State",
+          "height": "72",
+          "weight": "200",
+          "years_exp": 9,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 298
         },
         {
           "player_id": "6797",
@@ -5726,11 +5726,11 @@ window.__STATIC_DATA__ = {
           "search_rank": 99
         },
         {
-          "player_id": "DET",
+          "player_id": "IND",
           "espn_id": null,
-          "name": "Detroit Lions",
+          "name": "Indianapolis Colts",
           "position": "DEF",
-          "team": "DET",
+          "team": "IND",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -5788,7 +5788,7 @@ window.__STATIC_DATA__ = {
           "weight": "224",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": null,
           "search_rank": 173
         },
         {
@@ -6124,7 +6124,7 @@ window.__STATIC_DATA__ = {
           "weight": "210",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 179
         },
         {
@@ -6304,7 +6304,7 @@ window.__STATIC_DATA__ = {
           "weight": "170",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 34
         },
         {
@@ -6475,8 +6475,23 @@ window.__STATIC_DATA__ = {
           "weight": "185",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 35
+        },
+        {
+          "player_id": "12048",
+          "espn_id": null,
+          "name": "George Holani",
+          "position": "RB",
+          "team": "SEA",
+          "birth_date": "1999-12-16",
+          "college": "Boise State",
+          "height": "71",
+          "weight": "210",
+          "years_exp": 2,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 458
         },
         {
           "player_id": "12489",
@@ -6505,7 +6520,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 39
         },
         {
@@ -6535,23 +6550,8 @@ window.__STATIC_DATA__ = {
           "weight": "207",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 61
-        },
-        {
-          "player_id": "12535",
-          "espn_id": null,
-          "name": "Isaac TeSlaa",
-          "position": "WR",
-          "team": "DET",
-          "birth_date": "2002-02-20",
-          "college": "Arkansas",
-          "height": "76",
-          "weight": "214",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 184
         },
         {
           "player_id": "13319",
@@ -6580,7 +6580,7 @@ window.__STATIC_DATA__ = {
           "weight": "188",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": null,
           "search_rank": 176
         },
         {
@@ -6674,6 +6674,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 128
         },
         {
+          "player_id": "8161",
+          "espn_id": null,
+          "name": "Malik Willis",
+          "position": "QB",
+          "team": "MIA",
+          "birth_date": "1999-05-25",
+          "college": "Liberty",
+          "height": "73",
+          "weight": "225",
+          "years_exp": 4,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 122
+        },
+        {
           "player_id": "8188",
           "espn_id": null,
           "name": "Tyquan Thornton",
@@ -6732,21 +6747,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 148
-        },
-        {
-          "player_id": "DAL",
-          "espn_id": null,
-          "name": "Dallas Cowboys",
-          "position": "DEF",
-          "team": "DAL",
-          "birth_date": null,
-          "college": null,
-          "height": null,
-          "weight": null,
-          "years_exp": null,
-          "status": null,
-          "injury_status": null,
-          "search_rank": null
         },
         {
           "player_id": "JAX",
@@ -6886,7 +6886,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": null,
           "search_rank": 201
         },
         {
@@ -7051,7 +7051,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 86
         },
         {
@@ -7132,7 +7132,7 @@ window.__STATIC_DATA__ = {
           "weight": "246",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 81
         },
         {
@@ -7252,7 +7252,7 @@ window.__STATIC_DATA__ = {
           "weight": "212",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 15
         },
         {
@@ -7483,7 +7483,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "IR",
+          "injury_status": null,
           "search_rank": 677
         },
         {
@@ -7513,7 +7513,7 @@ window.__STATIC_DATA__ = {
           "weight": "208",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": null,
           "search_rank": 242
         },
         {
@@ -7753,7 +7753,7 @@ window.__STATIC_DATA__ = {
           "weight": "220",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "search_rank": 101
         },
         {
@@ -8062,6 +8062,28 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
+      "created": "Oct 27, 2026 • 9:44 PM PT",
+      "transaction_id": "1421045891715825664",
+      "type": "waiver",
+      "status": "failed",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Washington Commanders",
+          "position": "DEF",
+          "team": "WAS"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "This player was claimed by another owner."
+    },
+    {
+      "season": "2026",
+      "week": 7,
       "created": "Oct 27, 2026 • 6:17 PM PT",
       "transaction_id": "1420993811340931072",
       "type": "commissioner",
@@ -8124,6 +8146,268 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 27, 2026 • 5:32 PM PT",
+      "transaction_id": "1420982456802193408",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [
+        {
+          "name": "Indianapolis Colts",
+          "position": "DEF",
+          "team": "IND"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Detroit Lions",
+          "position": "DEF",
+          "team": "DET"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 27, 2026 • 5:31 PM PT",
+      "transaction_id": "1420982342113132544",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [
+        {
+          "name": "Zane Gonzalez",
+          "position": "K",
+          "team": "MIA"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Dominic Zvada",
+          "position": "K",
+          "team": "NYG"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 27, 2026 • 3:26 PM PT",
+      "transaction_id": "1420950740179976192",
+      "type": "waiver",
+      "status": "failed",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [
+        {
+          "name": "Las Vegas Raiders",
+          "position": "DEF",
+          "team": "LV"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "Unfortunately, your roster will have too many players after this transaction."
+    },
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 27, 2026 • 3:25 PM PT",
+      "transaction_id": "1420950666184073216",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [
+        {
+          "name": "Tampa Bay Buccaneers",
+          "position": "DEF",
+          "team": "TB"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Tennessee Titans",
+          "position": "DEF",
+          "team": "TEN"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 27, 2026 • 10:27 AM PT",
+      "transaction_id": "1420875656878649344",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "justinpark99"
+      ],
+      "added": [
+        {
+          "name": "George Holani",
+          "position": "RB",
+          "team": "SEA"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Isaac TeSlaa",
+          "position": "WR",
+          "team": "DET"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 27, 2026 • 10:27 AM PT",
+      "transaction_id": "1420875503186800640",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "justinpark99"
+      ],
+      "added": [
+        {
+          "name": "Malik Willis",
+          "position": "QB",
+          "team": "MIA"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Dallas Cowboys",
+          "position": "DEF",
+          "team": "DAL"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 1,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 27, 2026 • 5:43 AM PT",
+      "transaction_id": "1420804063401926656",
+      "type": "waiver",
+      "status": "failed",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Washington Commanders",
+          "position": "DEF",
+          "team": "WAS"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "This player was claimed by another owner."
+    },
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 26, 2026 • 7:35 PM PT",
+      "transaction_id": "1420651124213493760",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "SeunghoSama"
+      ],
+      "added": [
+        {
+          "name": "Darnell Washington",
+          "position": "TE",
+          "team": "PIT"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Trey Smack",
+          "position": "K",
+          "team": "GB"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 2,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 26, 2026 • 7:18 PM PT",
+      "transaction_id": "1420646911550996480",
+      "type": "waiver",
+      "status": "failed",
+      "teams": [
+        "GibbyMyTD"
+      ],
+      "added": [
+        {
+          "name": "Washington Commanders",
+          "position": "DEF",
+          "team": "WAS"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "This player was claimed by another owner."
+    },
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 26, 2026 • 5:57 PM PT",
+      "transaction_id": "1420626351198638080",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Washington Commanders",
+          "position": "DEF",
+          "team": "WAS"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Isaiah Davis",
+          "position": "RB",
+          "team": "NYJ"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 6,
+      "notes": "Your waiver claim was processed successfully!"
     },
     {
       "season": "2026",
