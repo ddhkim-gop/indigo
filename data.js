@@ -3832,7 +3832,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 22
         },
         {
@@ -4123,7 +4123,7 @@ window.__STATIC_DATA__ = {
           "weight": "226",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 17
         },
         {
@@ -4153,7 +4153,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 3
         },
         {
@@ -4182,8 +4182,8 @@ window.__STATIC_DATA__ = {
           "height": "70",
           "weight": "218",
           "years_exp": 4,
-          "status": "Active",
-          "injury_status": "Questionable",
+          "status": "Inactive",
+          "injury_status": "IR",
           "search_rank": 627
         },
         {
@@ -4213,7 +4213,7 @@ window.__STATIC_DATA__ = {
           "weight": "225",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 679
         },
         {
@@ -4324,7 +4324,7 @@ window.__STATIC_DATA__ = {
           "weight": "235",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 21
         },
         {
@@ -4690,7 +4690,7 @@ window.__STATIC_DATA__ = {
           "weight": "192",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 176
         },
         {
@@ -5131,7 +5131,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 129
         },
         {
@@ -5296,7 +5296,7 @@ window.__STATIC_DATA__ = {
           "weight": "202",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 1
         },
         {
@@ -6870,8 +6870,8 @@ window.__STATIC_DATA__ = {
           "height": "71",
           "weight": "201",
           "years_exp": 1,
-          "status": "Active",
-          "injury_status": "Questionable",
+          "status": "Inactive",
+          "injury_status": "IR",
           "search_rank": 190
         },
         {
@@ -7036,7 +7036,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 77
         },
         {
@@ -7051,7 +7051,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 86
         },
         {
@@ -7132,7 +7132,7 @@ window.__STATIC_DATA__ = {
           "weight": "246",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 81
         },
         {
@@ -7543,7 +7543,7 @@ window.__STATIC_DATA__ = {
           "weight": "191",
           "years_exp": 11,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 105
         },
         {
@@ -12638,7 +12638,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Emari Demercado",
           "position": "RB",
-          "team": null
+          "team": "HOU"
         }
       ],
       "faab": 0,
@@ -12742,7 +12742,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Emari Demercado",
           "position": "RB",
-          "team": null
+          "team": "HOU"
         }
       ],
       "dropped": [],
