@@ -1,6 +1,6 @@
 {
   "team": "justinpark99",
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -42,23 +42,25 @@
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1025/0325b38d-fb4c-415a-92dc-5276edc7612d/0325b38d-fb4c-415a-92dc-5276edc7612d.mp4"
     },
     {
-      "url": "https://www.espn.com/video/clip/_/id/50279103/kyler-murray-connects-tj-hockenson-vikings-td",
+      "url": "https://x.com/NFL/status/2114433961275629893",
       "player": "T.J. Hockenson",
       "meta": "TE \u00b7 MIN",
       "date": "2026-10-25",
-      "author": "ESPN",
-      "text": "Kyler Murray connects with T.J. Hockenson for a Vikings TD",
+      "author": "NFL",
+      "text": "A TD for T.J. Hockenson on National Tight Ends Day \ud83d\ude0c\n\nINDvsMIN on CBS/Paramount+\nStream on @NFLPlus",
       "verified": true,
-      "faves": 0,
-      "secs": 0,
-      "espn_game": "401873014",
+      "faves": 448,
+      "secs": 15,
       "game_id": "401873014",
       "game_time": "Q4 14:36",
       "play_key": "401873014:4018730142783",
       "played_at": "2026-10-25T19:06:26Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/a89d6fcc-87cd-4f1c-89d2-1f1fc0d24653/a89d6fcc-87cd-4f1c-89d2-1f1fc0d24653.jpg",
-      "published": "2026-10-25T19:22:56Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1025/a89d6fcc-87cd-4f1c-89d2-1f1fc0d24653/a89d6fcc-87cd-4f1c-89d2-1f1fc0d24653.mp4"
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2114433660766277632/img/Vr6a3jK66R410CSQ.jpg",
+      "published": "2026-10-25T19:08:35Z",
+      "video": "https://video.twimg.com/amplify_video/2114433660766277632/vid/avc1/1920x1080/jupgBIbN0kdcZkb6.mp4",
+      "author_name": "NFL",
+      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "author_verified": true
     },
     {
       "url": "https://www.espn.com/video/clip/_/id/50278754/baker-mayfield-caps-bucs-monster-half-td-pass-tez-johnson",
@@ -195,6 +197,40 @@
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2113446624173174784/img/J-2KEYTAqJ7F1a6g.jpg",
       "published": "2026-10-23T01:46:01Z",
       "video": "https://video.twimg.com/amplify_video/2113446624173174784/vid/avc1/1920x1080/ybrVYklhrPL6vozK.mp4",
+      "author_name": "New England Patriots",
+      "avatar": "",
+      "author_verified": true
+    },
+    {
+      "url": "https://www.youtube.com/shorts/fbLyKclLw_A",
+      "player": "Malik Nabers",
+      "meta": "WR \u00b7 NYG",
+      "date": "2026-10-27",
+      "author": "NYGiants",
+      "text": "H1M #giants #maliknabers #highlights #nabers #nfl #football #shorts #newyorkgiants",
+      "verified": false,
+      "faves": 930,
+      "secs": 113,
+      "poster": "https://i.ytimg.com/vi/fbLyKclLw_A/hqdefault.jpg",
+      "published": "2026-10-27T19:30:39Z",
+      "youtube": "fbLyKclLw_A",
+      "author_name": "New York Giants",
+      "avatar": "",
+      "author_verified": true
+    },
+    {
+      "url": "https://www.youtube.com/shorts/HPjk6lsoFPM",
+      "player": "Eli Raridon",
+      "meta": "TE \u00b7 NE",
+      "date": "2026-10-27",
+      "author": "Patriots",
+      "text": "Eli Raridon vs. Chicago film breakdown \ud83c\udfa5\ud83d\udc40 #patriots #nfl #shorts",
+      "verified": false,
+      "faves": 287,
+      "secs": 97,
+      "poster": "https://i.ytimg.com/vi/HPjk6lsoFPM/hqdefault.jpg",
+      "published": "2026-10-27T13:30:11Z",
+      "youtube": "HPjk6lsoFPM",
       "author_name": "New England Patriots",
       "avatar": "",
       "author_verified": true
