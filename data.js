@@ -5045,21 +5045,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 58
         },
         {
-          "player_id": "11435",
-          "espn_id": null,
-          "name": "Emanuel Wilson",
-          "position": "RB",
-          "team": "SEA",
-          "birth_date": "1999-05-08",
-          "college": "Fort Valley State",
-          "height": "70",
-          "weight": "226",
-          "years_exp": 3,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 161
-        },
-        {
           "player_id": "11566",
           "espn_id": null,
           "name": "Jayden Daniels",
@@ -5358,6 +5343,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 111
+        },
+        {
+          "player_id": "LV",
+          "espn_id": null,
+          "name": "Las Vegas Raiders",
+          "position": "DEF",
+          "team": "LV",
+          "birth_date": null,
+          "college": null,
+          "height": null,
+          "weight": null,
+          "years_exp": null,
+          "status": null,
+          "injury_status": null,
+          "search_rank": null
         },
         {
           "player_id": "SF",
@@ -6094,7 +6094,7 @@ window.__STATIC_DATA__ = {
           "weight": "235",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 135
         },
         {
@@ -6916,7 +6916,7 @@ window.__STATIC_DATA__ = {
           "weight": "192",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 61
         },
         {
@@ -7296,24 +7296,9 @@ window.__STATIC_DATA__ = {
           "height": "72",
           "weight": "210",
           "years_exp": 7,
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "search_rank": 56
-        },
-        {
-          "player_id": "6083",
-          "espn_id": 4249087,
-          "name": "Matt Gay",
-          "position": "K",
-          "team": "LV",
-          "birth_date": "1994-03-15",
-          "college": "Utah",
-          "height": "72",
-          "weight": "232",
-          "years_exp": 7,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 239
         },
         {
           "player_id": "6904",
@@ -8059,6 +8044,56 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 8,
+      "created": "Oct 28, 2026 • 9:43 AM PT",
+      "transaction_id": "1421226901988478976",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "daevn"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Matt Gay",
+          "position": "K",
+          "team": "LV"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 8,
+      "created": "Oct 28, 2026 • 8:41 AM PT",
+      "transaction_id": "1421211273562972160",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "GibbyMyTD"
+      ],
+      "added": [
+        {
+          "name": "Las Vegas Raiders",
+          "position": "DEF",
+          "team": "LV"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 7,
@@ -12603,7 +12638,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Emari Demercado",
           "position": "RB",
-          "team": "DAL"
+          "team": null
         }
       ],
       "faab": 0,
@@ -12707,7 +12742,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Emari Demercado",
           "position": "RB",
-          "team": "DAL"
+          "team": null
         }
       ],
       "dropped": [],
