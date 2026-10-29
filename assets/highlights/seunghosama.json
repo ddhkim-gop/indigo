@@ -1,6 +1,6 @@
 {
   "team": "SeunghoSama",
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -166,27 +166,6 @@
       "author_verified": true
     },
     {
-      "url": "https://x.com/MiamiDolphins/status/2114421777975697757",
-      "player": "Malik Washington",
-      "meta": "WR \u00b7 MIA",
-      "date": "2026-10-25",
-      "author": "MiamiDolphins",
-      "text": "Malik on the move! \ud83c\udfc3\u200d\u2642\ufe0f\n\n\ud83d\udcfa @NFLonCBS",
-      "verified": true,
-      "faves": 322,
-      "secs": 50,
-      "game_id": "401873015",
-      "game_time": "Q2 0:20",
-      "play_key": "401873015:4018730151739",
-      "played_at": "2026-10-25T18:13:37Z",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2114420983712944129/img/s0mnGJxN8CvajuJw.jpg",
-      "published": "2026-10-25T18:20:10Z",
-      "video": "https://video.twimg.com/amplify_video/2114420983712944129/vid/avc1/1920x1080/3PXZuYAfqn9llUhr.mp4",
-      "author_name": "Miami Dolphins",
-      "avatar": "https://pbs.twimg.com/profile_images/2003476192737857536/3trK5_DF_normal.jpg",
-      "author_verified": true
-    },
-    {
       "url": "https://x.com/Ravens/status/2114417741922713653",
       "player": "Zay Flowers",
       "meta": "WR \u00b7 BAL",
@@ -304,6 +283,27 @@
       "video": "https://video.twimg.com/amplify_video/2114364948558270464/vid/avc1/1920x1080/z_UKD4_oR-bStH0M.mp4",
       "author_name": "New Orleans Saints",
       "avatar": "https://pbs.twimg.com/profile_images/2056742674477035520/4azt0iTz_normal.jpg",
+      "author_verified": true
+    },
+    {
+      "url": "https://x.com/NFL/status/2114363926326702569",
+      "player": "Darnell Washington",
+      "meta": "TE \u00b7 PIT",
+      "date": "2026-10-25",
+      "author": "NFL",
+      "text": "Darnell Washington makes the STRONG catch for the touchdown!\n\nPITvsNO on NFL Network\nStream on @NFLPlus",
+      "verified": true,
+      "faves": 967,
+      "secs": 8,
+      "game_id": "401873011",
+      "game_time": "Q2 6:45",
+      "play_key": "401873011:4018730111426",
+      "played_at": "2026-10-25T14:29:15Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2114363799339728896/img/TRTpb8sws36vPR3k.jpg",
+      "published": "2026-10-25T14:30:17Z",
+      "video": "https://video.twimg.com/amplify_video/2114363799339728896/vid/avc1/1920x1080/-DHAKqsUOw9Pfks7.mp4",
+      "author_name": "NFL",
+      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
       "author_verified": true
     },
     {
