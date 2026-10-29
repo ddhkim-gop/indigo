@@ -3668,7 +3668,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 89
+          "search_rank": 91
         },
         {
           "player_id": "11584",
@@ -3731,6 +3731,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 92
         },
         {
+          "player_id": "3271",
+          "espn_id": 2573401,
+          "name": "Tyler Higbee",
+          "position": "TE",
+          "team": "LAR",
+          "birth_date": "1993-01-01",
+          "college": "Western Kentucky",
+          "height": "78",
+          "weight": "253",
+          "years_exp": 10,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 634
+        },
+        {
           "player_id": "3294",
           "espn_id": 2577417,
           "name": "Dak Prescott",
@@ -3773,7 +3788,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 9,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 40
+          "search_rank": 39
         },
         {
           "player_id": "4983",
@@ -3788,7 +3803,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 50
+          "search_rank": 48
         },
         {
           "player_id": "5012",
@@ -3959,7 +3974,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 22
+          "search_rank": 20
         },
         {
           "player_id": "11620",
@@ -4064,7 +4079,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 197
+          "search_rank": 199
         },
         {
           "player_id": "13302",
@@ -4169,7 +4184,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 155
+          "search_rank": 153
         },
         {
           "player_id": "8129",
@@ -4229,7 +4244,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 17
+          "search_rank": 19
         },
         {
           "player_id": "9225",
@@ -4595,7 +4610,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 30
+          "search_rank": 31
         },
         {
           "player_id": "8167",
@@ -4751,7 +4766,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 131
+          "search_rank": 133
         },
         {
           "player_id": "12506",
@@ -4781,7 +4796,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 44
+          "search_rank": 43
         },
         {
           "player_id": "12512",
@@ -4871,7 +4886,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 113
+          "search_rank": 112
         },
         {
           "player_id": "13424",
@@ -4886,7 +4901,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 384
+          "search_rank": 382
         },
         {
           "player_id": "13533",
@@ -5057,7 +5072,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 22
+          "search_rank": 23
         },
         {
           "player_id": "11618",
@@ -5312,7 +5327,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 133
+          "search_rank": 132
         },
         {
           "player_id": "9480",
@@ -5498,7 +5513,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 287
+          "search_rank": 289
         },
         {
           "player_id": "13285",
@@ -5558,7 +5573,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 89
+          "search_rank": 91
         },
         {
           "player_id": "13298",
@@ -5603,7 +5618,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 179
+          "search_rank": 181
         },
         {
           "player_id": "3321",
@@ -5648,7 +5663,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 35
+          "search_rank": 34
         },
         {
           "player_id": "8121",
@@ -5819,7 +5834,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 105
+          "search_rank": 104
         },
         {
           "player_id": "13330",
@@ -6014,7 +6029,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 7
+          "search_rank": 6
         },
         {
           "player_id": "7611",
@@ -6155,7 +6170,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 367
+          "search_rank": 366
         },
         {
           "player_id": "2747",
@@ -6275,7 +6290,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 11
+          "search_rank": 12
         },
         {
           "player_id": "6804",
@@ -6290,7 +6305,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 65
+          "search_rank": 67
         },
         {
           "player_id": "7525",
@@ -6365,7 +6380,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 5
+          "search_rank": 7
         },
         {
           "player_id": "MIN",
@@ -6461,7 +6476,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 28
+          "search_rank": 27
         },
         {
           "player_id": "11635",
@@ -6476,7 +6491,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 35
+          "search_rank": 34
         },
         {
           "player_id": "12048",
@@ -6491,7 +6506,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 458
+          "search_rank": 456
         },
         {
           "player_id": "12489",
@@ -7067,7 +7082,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 106
+          "search_rank": 105
         },
         {
           "player_id": "9758",
@@ -7208,7 +7223,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 116
+          "search_rank": 115
         },
         {
           "player_id": "13150",
@@ -8044,6 +8059,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 8,
+      "created": "Oct 28, 2026 • 8:24 PM PT",
+      "transaction_id": "1421388160113389568",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Tyler Higbee",
+          "position": "TE",
+          "team": "LAR"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 8,
