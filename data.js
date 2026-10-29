@@ -4168,7 +4168,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 3
         },
         {
@@ -4324,7 +4324,7 @@ window.__STATIC_DATA__ = {
           "weight": "235",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 21
         },
         {
@@ -5131,7 +5131,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 129
         },
         {
@@ -5296,7 +5296,7 @@ window.__STATIC_DATA__ = {
           "weight": "202",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 1
         },
         {
@@ -6013,7 +6013,7 @@ window.__STATIC_DATA__ = {
           "weight": "202",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 6
         },
         {
@@ -6094,7 +6094,7 @@ window.__STATIC_DATA__ = {
           "weight": "235",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 135
         },
         {
@@ -6479,21 +6479,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 34
         },
         {
-          "player_id": "12048",
-          "espn_id": null,
-          "name": "George Holani",
-          "position": "RB",
-          "team": "SEA",
-          "birth_date": "1999-12-16",
-          "college": "Boise State",
-          "height": "71",
-          "weight": "210",
-          "years_exp": 2,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 456
-        },
-        {
           "player_id": "12489",
           "espn_id": null,
           "name": "RJ Harvey",
@@ -6505,7 +6490,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 56
         },
         {
@@ -6535,7 +6520,7 @@ window.__STATIC_DATA__ = {
           "weight": "202",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 39
         },
         {
@@ -6674,6 +6659,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 128
         },
         {
+          "player_id": "6083",
+          "espn_id": 4249087,
+          "name": "Matt Gay",
+          "position": "K",
+          "team": "LV",
+          "birth_date": "1994-03-15",
+          "college": "Utah",
+          "height": "72",
+          "weight": "232",
+          "years_exp": 7,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 239
+        },
+        {
           "player_id": "8161",
           "espn_id": null,
           "name": "Malik Willis",
@@ -6796,7 +6796,7 @@ window.__STATIC_DATA__ = {
           "weight": "211",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 167
         },
         {
@@ -7528,7 +7528,7 @@ window.__STATIC_DATA__ = {
           "weight": "250",
           "years_exp": 13,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 90
         },
         {
@@ -8137,6 +8137,34 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": "This player was claimed by another owner."
+    },
+    {
+      "season": "2026",
+      "week": 8,
+      "created": "Oct 28, 2026 • 10:36 AM PT",
+      "transaction_id": "1421240229943144448",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "justinpark99"
+      ],
+      "added": [
+        {
+          "name": "Matt Gay",
+          "position": "K",
+          "team": "LV"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "George Holani",
+          "position": "RB",
+          "team": "SEA"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "Your waiver claim was processed successfully!"
     },
     {
       "season": "2026",
