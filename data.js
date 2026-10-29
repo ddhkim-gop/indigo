@@ -3641,19 +3641,19 @@ window.__STATIC_DATA__ = {
           "search_rank": 29
         },
         {
-          "player_id": "10235",
+          "player_id": "11435",
           "espn_id": null,
-          "name": "Roschon Johnson",
+          "name": "Emanuel Wilson",
           "position": "RB",
-          "team": "CHI",
-          "birth_date": "2001-01-31",
-          "college": "Texas",
-          "height": "72",
-          "weight": "227",
+          "team": "SEA",
+          "birth_date": "1999-05-08",
+          "college": "Fort Valley State",
+          "height": "70",
+          "weight": "226",
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 681
+          "search_rank": 161
         },
         {
           "player_id": "11533",
@@ -4185,21 +4185,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 153
-        },
-        {
-          "player_id": "8129",
-          "espn_id": null,
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "team": "PHI",
-          "birth_date": "2000-02-19",
-          "college": "Florida",
-          "height": "70",
-          "weight": "218",
-          "years_exp": 4,
-          "status": "Inactive",
-          "injury_status": "IR",
-          "search_rank": 627
         },
         {
           "player_id": "8130",
@@ -8062,6 +8047,28 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 8,
+      "created": "Oct 29, 2026 • 7:05 AM PT",
+      "transaction_id": "1421549633267568640",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Dameon Pierce",
+          "position": "RB",
+          "team": "PHI"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 8,
       "created": "Oct 28, 2026 • 8:24 PM PT",
       "transaction_id": "1421388160113389568",
       "type": "free_agent",
@@ -8080,6 +8087,56 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 8,
+      "created": "Oct 28, 2026 • 8:22 PM PT",
+      "transaction_id": "1421387801970098176",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Roschon Johnson",
+          "position": "RB",
+          "team": "CHI"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 2,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 8,
+      "created": "Oct 28, 2026 • 11:08 AM PT",
+      "transaction_id": "1421248406461890560",
+      "type": "waiver",
+      "status": "failed",
+      "teams": [
+        "justinpark99"
+      ],
+      "added": [
+        {
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "This player was claimed by another owner."
     },
     {
       "season": "2026",
