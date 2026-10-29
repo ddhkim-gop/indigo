@@ -6781,7 +6781,7 @@ window.__STATIC_DATA__ = {
           "weight": "213",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 75
         },
         {
@@ -7342,7 +7342,7 @@ window.__STATIC_DATA__ = {
           "weight": "225",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 89
         },
         {
@@ -8137,6 +8137,28 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 7,
+      "created": "Oct 27, 2026 • 6:16 PM PT",
+      "transaction_id": "1420993547905015808",
+      "type": "waiver",
+      "status": "failed",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Brian Robinson Jr.",
+          "position": "RB",
+          "team": "ATL"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "This player was claimed by another owner."
     },
     {
       "season": "2026",
