@@ -278,9 +278,7 @@ https://www.youtube.com/shorts/7hUbKaEqO8A
 https://www.youtube.com/shorts/7vs6wqfSmqw
 https://www.youtube.com/shorts/88EVAxHy4Io
 https://www.youtube.com/shorts/8ALV697Fsa4
-https://www.youtube.com/shorts/8D8g7RpiCQY
 https://www.youtube.com/shorts/8EYESSgrlmk
-https://www.youtube.com/shorts/8bnc9e8zU-k
 https://www.youtube.com/shorts/8u7nzamh0uU
 https://www.youtube.com/shorts/97t5SpaZhug
 https://www.youtube.com/shorts/9F-fAWH1Xkw
@@ -388,6 +386,7 @@ https://www.youtube.com/shorts/ZIQ_Wtjv0Zo
 https://www.youtube.com/shorts/ZoPNFrO5iRk
 https://www.youtube.com/shorts/_2ql4bLK8EM
 https://www.youtube.com/shorts/_N5mxg3-Mrw
+https://www.youtube.com/shorts/_RNa3WMcEwg
 https://www.youtube.com/shorts/_SuMsv1VPio
 https://www.youtube.com/shorts/_fdjmL6rMnw
 https://www.youtube.com/shorts/_gqbeBFNxes
@@ -472,7 +471,6 @@ https://www.youtube.com/shorts/q_IuoCci8w0
 https://www.youtube.com/shorts/qbGeiIjJhYI
 https://www.youtube.com/shorts/rZK2zYip9GY
 https://www.youtube.com/shorts/rv3P5E1PMek
-https://www.youtube.com/shorts/swrc6FKDK48
 https://www.youtube.com/shorts/tI0d1QAMh94
 https://www.youtube.com/shorts/tl6xypKK3Y8
 https://www.youtube.com/shorts/tmX8nyYlZgQ
@@ -539,7 +537,6 @@ https://x.com/Eagles/status/2106796955250700382
 https://x.com/Eagles/status/2106808014783066164
 https://x.com/Eagles/status/2106814970218324450
 https://x.com/Eagles/status/2114877003849781587
-https://x.com/Eagles/status/2114884274172084295
 https://x.com/Eagles/status/2114903551575011375
 https://x.com/FFPhinest/status/2095346301269357032
 https://x.com/FantasyInjuryT/status/2099242235669708959
@@ -770,9 +767,9 @@ https://x.com/NFL/status/2114525041945968995
 https://x.com/NFL/status/2114526503212093747
 https://x.com/NFL/status/2114527370019541294
 https://x.com/NFL/status/2114529513069806076
-https://x.com/NFL/status/2114538621453963545
 https://x.com/NFL/status/2114543234684977447
 https://x.com/NFL/status/2114548194222973364
+https://x.com/NFL/status/2114552691947123005
 https://x.com/NFL/status/2114556780114305448
 https://x.com/NFL/status/2114571311511175189
 https://x.com/NFL/status/2114809946000818212
@@ -780,13 +777,19 @@ https://x.com/NFL/status/2114849524787167422
 https://x.com/NFL/status/2114867315515052514
 https://x.com/NFL/status/2114878647882633495
 https://x.com/NFL/status/2114882602540880258
-https://x.com/NFL/status/2114884226730647573
 https://x.com/NFL/status/2114888124719567070
 https://x.com/NFL/status/2114896040847720618
 https://x.com/NFL/status/2114896161463304201
 https://x.com/NFL/status/2114903680369692803
 https://x.com/NFL/status/2114910732173341177
 https://x.com/NFL/status/2114917676921548897
+https://x.com/NFL/status/2115949473058980198
+https://x.com/NFL/status/2115966333376753695
+https://x.com/NFL/status/2115966945283735582
+https://x.com/NFL/status/2115968988731875547
+https://x.com/NFL/status/2115971062190223735
+https://x.com/NFL/status/2115974949026640067
+https://x.com/NFL/status/2115975482902790192
 https://x.com/NFLTDsVideos/status/2098243863588540602
 https://x.com/NFLTDsVideos/status/2099189736858419294
 https://x.com/NFLTDsVideos/status/2099201418368262610
@@ -880,6 +883,7 @@ https://x.com/Nate_Tice/status/2095691914121265331
 https://x.com/NotJustFootball/status/2095953794605645913
 https://x.com/OwenGregorian/status/2096200858102813005
 https://x.com/PPRFantasyTips/status/2095984130152628571
+https://x.com/Panthers/status/2115971009752777197
 https://x.com/Patriots/status/2090450125705416940
 https://x.com/Patriots/status/2106795030249873650
 https://x.com/Patriots/status/2106795255508914649
@@ -941,6 +945,7 @@ https://x.com/Seahawks/status/2114510771048919254
 https://x.com/Seahawks/status/2114523562996551965
 https://x.com/Seahawks/status/2114528791418876126
 https://x.com/Seahawks/status/2114529142976966928
+https://x.com/Seahawks/status/2114553017680965803
 https://x.com/SleeperNFL/status/2095982885870408110
 https://x.com/SleeperNFL/status/2095994367551172832
 https://x.com/SleeperNFL/status/2096049173191922038
