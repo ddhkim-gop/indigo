@@ -3743,7 +3743,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 10,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 634
+          "search_rank": 636
         },
         {
           "player_id": "3294",
@@ -3803,7 +3803,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 48
+          "search_rank": 50
         },
         {
           "player_id": "5012",
@@ -3848,7 +3848,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 22
+          "search_rank": 23
         },
         {
           "player_id": "8142",
@@ -3923,7 +3923,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 490
+          "search_rank": 489
         },
         {
           "player_id": "9509",
@@ -3974,7 +3974,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 20
+          "search_rank": 22
         },
         {
           "player_id": "11620",
@@ -3989,7 +3989,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 65
+          "search_rank": 64
         },
         {
           "player_id": "11655",
@@ -4094,7 +4094,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 410
+          "search_rank": 409
         },
         {
           "player_id": "13305",
@@ -4184,7 +4184,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 153
+          "search_rank": 155
         },
         {
           "player_id": "8130",
@@ -4217,6 +4217,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 679
         },
         {
+          "player_id": "8136",
+          "espn_id": null,
+          "name": "Rachaad White",
+          "position": "RB",
+          "team": "WAS",
+          "birth_date": "1999-01-12",
+          "college": "Arizona State",
+          "height": "72",
+          "weight": "214",
+          "years_exp": 4,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 125
+        },
+        {
           "player_id": "8151",
           "espn_id": null,
           "name": "Kenneth Walker III",
@@ -4230,6 +4245,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 19
+        },
+        {
+          "player_id": "8408",
+          "espn_id": null,
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN",
+          "birth_date": "1999-05-24",
+          "college": "Georgia Tech",
+          "height": "71",
+          "weight": "230",
+          "years_exp": 4,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 91
         },
         {
           "player_id": "9225",
@@ -4460,7 +4490,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 108
+          "search_rank": 109
         },
         {
           "player_id": "13311",
@@ -4595,7 +4625,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 31
+          "search_rank": 30
         },
         {
           "player_id": "8167",
@@ -4781,7 +4811,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 43
+          "search_rank": 44
         },
         {
           "player_id": "12512",
@@ -4886,7 +4916,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 382
+          "search_rank": 380
         },
         {
           "player_id": "13533",
@@ -5147,7 +5177,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 449
+          "search_rank": 451
         },
         {
           "player_id": "12533",
@@ -5177,7 +5207,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 388
+          "search_rank": 389
         },
         {
           "player_id": "13477",
@@ -5312,7 +5342,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 132
+          "search_rank": 133
         },
         {
           "player_id": "9480",
@@ -5393,7 +5423,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 46
+          "search_rank": 45
         },
         {
           "player_id": "11638",
@@ -5498,7 +5528,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 289
+          "search_rank": 287
         },
         {
           "player_id": "13285",
@@ -5513,7 +5543,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 201
+          "search_rank": 199
         },
         {
           "player_id": "13286",
@@ -5708,7 +5738,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 103
+          "search_rank": 104
         },
         {
           "player_id": "9756",
@@ -6014,7 +6044,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 6
+          "search_rank": 7
         },
         {
           "player_id": "7611",
@@ -6080,7 +6110,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 125
+          "search_rank": 127
         },
         {
           "player_id": "11576",
@@ -6461,7 +6491,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 27
+          "search_rank": 28
         },
         {
           "player_id": "11635",
@@ -6476,7 +6506,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 34
+          "search_rank": 35
         },
         {
           "player_id": "12489",
@@ -6551,7 +6581,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 451
+          "search_rank": 453
         },
         {
           "player_id": "13347",
@@ -6596,7 +6626,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 161
+          "search_rank": 162
         },
         {
           "player_id": "13421",
@@ -6611,7 +6641,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 364
+          "search_rank": 363
         },
         {
           "player_id": "1945",
@@ -6641,7 +6671,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 75
+          "search_rank": 74
         },
         {
           "player_id": "5844",
@@ -6686,7 +6716,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 122
+          "search_rank": 121
         },
         {
           "player_id": "8188",
@@ -7067,7 +7097,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 105
+          "search_rank": 106
         },
         {
           "player_id": "9758",
@@ -7271,6 +7301,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 400
         },
         {
+          "player_id": "167",
+          "espn_id": 2330,
+          "name": "Tom Brady",
+          "position": "QB",
+          "team": null,
+          "birth_date": "1977-08-03",
+          "college": "Michigan",
+          "height": "76",
+          "weight": "225",
+          "years_exp": 23,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 74
+        },
+        {
           "player_id": "421",
           "espn_id": 12483,
           "name": "Matthew Stafford",
@@ -7313,7 +7358,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 27
+          "search_rank": 28
         },
         {
           "player_id": "7553",
@@ -7346,36 +7391,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 89
         },
         {
-          "player_id": "8136",
-          "espn_id": null,
-          "name": "Rachaad White",
-          "position": "RB",
-          "team": "WAS",
-          "birth_date": "1999-01-12",
-          "college": "Arizona State",
-          "height": "72",
-          "weight": "214",
-          "years_exp": 4,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 125
-        },
-        {
-          "player_id": "8408",
-          "espn_id": null,
-          "name": "Jordan Mason",
-          "position": "RB",
-          "team": "MIN",
-          "birth_date": "1999-05-24",
-          "college": "Georgia Tech",
-          "height": "71",
-          "weight": "230",
-          "years_exp": 4,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 91
-        },
-        {
           "player_id": "9482",
           "espn_id": null,
           "name": "Michael Mayer",
@@ -7388,7 +7403,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 462
+          "search_rank": 423
         },
         {
           "player_id": "KC",
@@ -7439,7 +7454,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 14,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 265
+          "search_rank": 263
         },
         {
           "player_id": "11834",
@@ -7529,7 +7544,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 13,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 90
+          "search_rank": 89
         },
         {
           "player_id": "2449",
@@ -7544,7 +7559,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 11,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 105
+          "search_rank": 104
         },
         {
           "player_id": "3198",
@@ -7604,7 +7619,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": "Out",
-          "search_rank": 41
+          "search_rank": 43
         },
         {
           "player_id": "7569",
@@ -8047,6 +8062,28 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 8,
+      "created": "Oct 29, 2026 • 10:25 PM PT",
+      "transaction_id": "1421781019744309248",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "daevn"
+      ],
+      "added": [
+        {
+          "name": "Tom Brady",
+          "position": "QB",
+          "team": null
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 8,
       "created": "Oct 29, 2026 • 7:05 AM PT",
       "transaction_id": "1421549633267568640",
       "type": "free_agent",
@@ -8215,6 +8252,40 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 8,
+      "created": "Oct 28, 2026 • 8:39 AM PT",
+      "transaction_id": "1421210702147858432",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "willie425",
+        "daevn"
+      ],
+      "assets_received": {
+        "willie425": [
+          {
+            "name": "Rachaad White",
+            "position": "RB",
+            "team": "WAS"
+          },
+          {
+            "name": "Jordan Mason",
+            "position": "RB",
+            "team": "MIN"
+          }
+        ],
+        "daevn": [
+          {
+            "name": "2027 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "cheigh"
+          }
+        ]
+      }
     },
     {
       "season": "2026",
@@ -31142,11 +31213,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 2,
       "roster_id": "7",
-      "owner_id": "2",
-      "previous_owner_id": "1",
-      "owner_name": "willie425",
+      "owner_id": "11",
+      "previous_owner_id": "2",
+      "owner_name": "daevn",
       "original_owner_name": "cheigh",
-      "previous_owner_name": "PattyMahomiee"
+      "previous_owner_name": "willie425"
     },
     {
       "season": "2027",
