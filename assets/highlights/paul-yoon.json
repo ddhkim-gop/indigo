@@ -1,6 +1,6 @@
 {
   "team": "Paul_Yoon",
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -21,7 +21,7 @@
       "published": "2026-10-30T01:32:45Z",
       "video": "https://video.twimg.com/amplify_video/2115980100864798720/vid/avc1/1920x1080/mUSKo_34sMYSElSf.mp4",
       "author_name": "Green Bay Packers",
-      "avatar": "https://pbs.twimg.com/profile_images/2110091159766802432/OF5urpIt_normal.jpg",
+      "avatar": "",
       "author_verified": true
     },
     {
@@ -63,7 +63,7 @@
       "published": "2026-10-30T00:38:39Z",
       "video": "https://video.twimg.com/amplify_video/2115966495125602304/vid/avc1/1920x1080/kcqRDe3rMMPU4cxV.mp4",
       "author_name": "Green Bay Packers",
-      "avatar": "https://pbs.twimg.com/profile_images/2110091159766802432/OF5urpIt_normal.jpg",
+      "avatar": "",
       "author_verified": true
     },
     {

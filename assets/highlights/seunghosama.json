@@ -1,6 +1,6 @@
 {
   "team": "SeunghoSama",
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -339,23 +339,6 @@
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_Broncos_Jonah_Coleman_IA/dm_261025_Broncos_Jonah_Coleman_IA.jpg",
       "published": "2026-10-26T02:55:32Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/2026/1025/dm_261025_Broncos_Jonah_Coleman_IA/dm_261025_Broncos_Jonah_Coleman_IA.mp4"
-    },
-    {
-      "url": "https://x.com/NFL/status/2113455633634885988",
-      "player": "Jaxson Dart",
-      "meta": "QB \u00b7 NYG",
-      "date": "2026-10-23",
-      "author": "NFL",
-      "text": "DRAKE MAYE DART.\n\nPatriots respond!\n\nNEvsCHI on Prime Video\nStream on @NFLPlus",
-      "verified": false,
-      "faves": 1737,
-      "secs": 9,
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2113455548771520512/img/rBhWhzxucSZfoiBB.jpg",
-      "published": "2026-10-23T02:21:03Z",
-      "video": "https://video.twimg.com/amplify_video/2113455548771520512/vid/avc1/1920x1080/f6lNsbhGZ9pw2nFJ.mp4",
-      "author_name": "NFL",
-      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
-      "author_verified": true
     }
   ]
 }
