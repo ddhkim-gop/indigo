@@ -4,6 +4,27 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://x.com/NFL/status/2117014936572633431",
+      "player": "Quentin Johnston",
+      "meta": "WR \u00b7 LAC",
+      "date": "2026-11-01",
+      "author": "NFL",
+      "text": "Quentin Johnston with the diving catch to move the chains!\n\nLACvsLAR on FOX/FOX One\nStream on @NFLPlus",
+      "verified": true,
+      "faves": 91,
+      "secs": 11,
+      "game_id": "401873032",
+      "game_time": "Q2 8:26",
+      "play_key": "401873032:4018730321439",
+      "played_at": "2026-11-01T22:02:40Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117014739729702912/img/pFYCGTnLy8tWHeJN.jpg",
+      "published": "2026-11-01T22:04:27Z",
+      "video": "https://video.twimg.com/amplify_video/2117014739729702912/vid/avc1/1920x1080/iqFHeX1EYUEFl5p0.mp4",
+      "author_name": "NFL",
+      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "author_verified": true
+    },
+    {
       "url": "https://x.com/packers/status/2115980193550536714",
       "player": "Matthew Golden",
       "meta": "WR \u00b7 GB",

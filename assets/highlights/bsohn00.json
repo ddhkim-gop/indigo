@@ -4,6 +4,27 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://x.com/NFL/status/2116998552908132801",
+      "player": "Mike Gesicki",
+      "meta": "TE \u00b7 CIN",
+      "date": "2026-11-01",
+      "author": "NFL",
+      "text": "5th straight game with a TD for Mike Gesicki! Bengals retake the lead.\n\nTENvsCIN on CBS/Paramount+\nStream on @NFLPlus",
+      "verified": true,
+      "faves": 316,
+      "secs": 13,
+      "game_id": "401873031",
+      "game_time": "Q4 7:13",
+      "play_key": "401873031:4018730314047",
+      "played_at": "2026-11-01T20:57:25Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2116998211483439104/img/xe9XfAiDysoB6tOB.jpg",
+      "published": "2026-11-01T20:59:21Z",
+      "video": "https://video.twimg.com/amplify_video/2116998211483439104/vid/avc1/1920x1080/ZaAaHKDyE8jSFT-I.mp4",
+      "author_name": "NFL",
+      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "author_verified": true
+    },
+    {
       "url": "https://www.youtube.com/shorts/fm1Q2paAtLE",
       "player": "Kyler Murray",
       "meta": "QB \u00b7 MIN",
@@ -128,27 +149,6 @@
       "author_verified": true
     },
     {
-      "url": "https://www.youtube.com/shorts/pxI7tg8lms0",
-      "player": "Kyler Murray",
-      "meta": "QB \u00b7 MIN",
-      "date": "2026-10-27",
-      "author": "Vikings",
-      "text": "Kyler Murray Scramble \u23ed\ufe0f T.J. Hockenson Touchdown",
-      "verified": false,
-      "faves": 378,
-      "secs": 88,
-      "poster": "https://i.ytimg.com/vi/pxI7tg8lms0/hqdefault.jpg",
-      "published": "2026-10-27T21:00:07Z",
-      "youtube": "pxI7tg8lms0",
-      "played_at": "2026-10-25T19:06:26Z",
-      "game_time": "Q4 14:36",
-      "play_key": "401873014:4018730142783",
-      "game_id": "401873014",
-      "author_name": "Minnesota Vikings",
-      "avatar": "",
-      "author_verified": true
-    },
-    {
       "url": "https://x.com/NFL/status/2114424297334673608",
       "player": "C.J. Stroud",
       "meta": "QB \u00b7 HOU",
@@ -210,6 +210,21 @@
       "author_name": "NFL",
       "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
       "author_verified": true
+    },
+    {
+      "url": "https://www.espn.com/video/clip/_/id/50349985/dj-reed-makes-impressive-diving-int-kyler-murray",
+      "player": "Kyler Murray",
+      "meta": "QB \u00b7 MIN",
+      "date": "2026-11-01",
+      "author": "ESPN",
+      "text": "Live on FOX: D.J. Reed makes impressive diving INT off Kyler Murray. Live on FOX: D.J. Reed makes impressive diving INT off Kyler Murray ",
+      "verified": true,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401873030",
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/942d90ad28fd40668384efa031310c7f940/942d90ad28fd40668384efa031310c7f940.jpg",
+      "published": "2026-11-01T19:46:07Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1101/942d90ad-28fd-4066-8384-efa031310c7f/942d90ad-28fd-4066-8384-efa031310c7f.mp4"
     },
     {
       "url": "https://www.youtube.com/shorts/9i95tBPcg4w",
