@@ -1,6 +1,6 @@
 {
   "team": "justinpark99",
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -242,6 +242,23 @@
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/770a4176-948d-4d59-89cf-f7023ecae089/770a4176-948d-4d59-89cf-f7023ecae089.jpg",
       "published": "2026-10-25T15:22:28Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1025/770a4176-948d-4d59-89cf-f7023ecae089/770a4176-948d-4d59-89cf-f7023ecae089.mp4"
+    },
+    {
+      "url": "https://www.youtube.com/shorts/w2MxMoV0VAc",
+      "player": "Baker Mayfield",
+      "meta": "QB \u00b7 TB",
+      "date": "2026-10-31",
+      "author": "Buccaneers",
+      "text": "Tampa Terrence & Baker Mayfield would run the pong table \ud83d\ude2e\u200d\ud83d\udca8\ud83c\udfd3\ud83c\udf89: Bud Light #bakermayfield",
+      "verified": false,
+      "faves": 217,
+      "secs": 45,
+      "poster": "https://i.ytimg.com/vi/w2MxMoV0VAc/hqdefault.jpg",
+      "published": "2026-10-31T19:00:17Z",
+      "youtube": "w2MxMoV0VAc",
+      "author_name": "Tampa Bay Buccaneers",
+      "avatar": "",
+      "author_verified": true
     },
     {
       "url": "https://x.com/NFLonFOX/status/2115894908271894922",
