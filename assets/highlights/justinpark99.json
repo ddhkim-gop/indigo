@@ -4,6 +4,27 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://www.youtube.com/shorts/fm1Q2paAtLE",
+      "player": "T.J. Hockenson",
+      "meta": "TE \u00b7 MIN",
+      "date": "2026-11-01",
+      "author": "Vikings",
+      "text": "Kyler Murray to T.J. Hockenson for a TOUCHDOWN \ud83d\ude4c | \ud83d\udcfa: NFL on FOX",
+      "verified": true,
+      "faves": 11,
+      "secs": 21,
+      "game_id": "401873030",
+      "game_time": "Q4 8:44",
+      "play_key": "401873030:4018730303536",
+      "played_at": "2026-11-01T20:44:07Z",
+      "poster": "https://i.ytimg.com/vi/fm1Q2paAtLE/hqdefault.jpg",
+      "published": "2026-11-01T20:55:01Z",
+      "youtube": "fm1Q2paAtLE",
+      "author_name": "Minnesota Vikings",
+      "avatar": "",
+      "author_verified": true
+    },
+    {
       "url": "https://www.espn.com/video/clip/_/id/50323486/jordan-love-zips-tucker-kraft-packers-td",
       "player": "Tucker Kraft",
       "meta": "TE \u00b7 GB",
