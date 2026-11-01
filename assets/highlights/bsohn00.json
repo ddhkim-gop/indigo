@@ -4,6 +4,27 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://x.com/Chiefs/status/2117022737596047658",
+      "player": "Emmett Johnson",
+      "meta": "RB \u00b7 KC",
+      "date": "2026-11-01",
+      "author": "Chiefs",
+      "text": "EMMETT JOHNSON ARE YOU KIDDING ME \ud83e\udd2f",
+      "verified": true,
+      "faves": 1474,
+      "secs": 28,
+      "game_id": "401873033",
+      "game_time": "Q2 7:40",
+      "play_key": "401873033:4018730331780",
+      "played_at": "2026-11-01T22:31:03Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117022641802608640/img/4j-2kVQPNiKyylDd.jpg",
+      "published": "2026-11-01T22:35:27Z",
+      "video": "https://video.twimg.com/amplify_video/2117022641802608640/vid/avc1/1920x1080/TYwDsxoQhtx1gsDu.mp4",
+      "author_name": "Kansas City Chiefs",
+      "avatar": "https://pbs.twimg.com/profile_images/2007106813859184640/FWg8XWsT_normal.jpg",
+      "author_verified": true
+    },
+    {
       "url": "https://x.com/NFL/status/2116998552908132801",
       "player": "Mike Gesicki",
       "meta": "TE \u00b7 CIN",
