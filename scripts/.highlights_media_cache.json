@@ -3369,6 +3369,15 @@
   "published": "2026-10-04T18:32:27Z",
   "youtube": "FvdjEnK4yjM"
  },
+ "https://www.youtube.com/shorts/GUKs0HfwBQA": {
+  "game_id": "401873035",
+  "game_time": "Q1 4:27",
+  "play_key": "401873035:401873035906",
+  "played_at": "2026-11-02T01:55:13Z",
+  "poster": "https://i.ytimg.com/vi/GUKs0HfwBQA/hqdefault.jpg",
+  "published": "2026-11-02T02:09:04Z",
+  "youtube": "GUKs0HfwBQA"
+ },
  "https://www.youtube.com/shorts/GgM3b9b0F34": {
   "game_id": "401872950",
   "game_time": "Q1 5:50",
@@ -4050,6 +4059,11 @@
   "poster": "https://i.ytimg.com/vi/Um-deoXMRwo/hqdefault.jpg",
   "published": "2026-10-04T15:09:54Z",
   "youtube": "Um-deoXMRwo"
+ },
+ "https://www.youtube.com/shorts/UtQ2u-wo2Go": {
+  "poster": "https://i.ytimg.com/vi/UtQ2u-wo2Go/hqdefault.jpg",
+  "published": "2026-11-01T22:45:42Z",
+  "youtube": "UtQ2u-wo2Go"
  },
  "https://www.youtube.com/shorts/V2-AvBNV_Eg": {
   "game_id": "401872970",
