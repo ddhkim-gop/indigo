@@ -4,25 +4,23 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
-      "url": "https://x.com/MiamiDolphins/status/2117048766712754243",
+      "url": "https://www.espn.com/video/clip/_/id/50353608/kevin-coleman-jr-scores-deep-td-make-1-possetion-game",
       "player": "Kevin Coleman Jr.",
       "meta": "WR \u00b7 MIA",
       "date": "2026-11-02",
-      "author": "MiamiDolphins",
-      "text": "Kevin Coleman in the end zone!",
+      "author": "ESPN",
+      "text": "Kevin Coleman Jr. scores deep TD to make it a 1 possetion game",
       "verified": true,
-      "faves": 117,
-      "secs": 6,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401873034",
       "game_id": "401873034",
       "game_time": "Q4 2:04",
       "play_key": "401873034:4018730344021",
       "played_at": "2026-11-02T00:17:21Z",
-      "poster": "https://pbs.twimg.com/media/HSrWBNTagAAZ6Hj.jpg",
-      "published": "2026-11-02T00:18:53Z",
-      "video": "https://video.twimg.com/amplify_video/2101726990688768000/vid/avc1/1080x1080/FQP1lcO00kiblVxW.mp4",
-      "author_name": "Miami Dolphins",
-      "avatar": "https://pbs.twimg.com/profile_images/2003476192737857536/3trK5_DF_normal.jpg",
-      "author_verified": true
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/64fb6e9b37fc4b888681eaead43e5d791181/64fb6e9b37fc4b888681eaead43e5d791181.jpg",
+      "published": "2026-11-02T00:35:19Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1102/64fb6e9b-37fc-4b88-8681-eaead43e5d79/64fb6e9b-37fc-4b88-8681-eaead43e5d79.mp4"
     },
     {
       "url": "https://www.espn.com/video/clip/_/id/50353073/demario-douglas-splits-defense-48-yard-td",
@@ -49,7 +47,7 @@
       "meta": "QB \u00b7 KC",
       "date": "2026-11-01",
       "author": "ESPN",
-      "text": "Live on CBS: Noah Gray hauls in Patrick Mahomes' pass for Chiefs TD. Live on CBS: Noah Gray hauls in Patrick Mahomes' pass for Chiefs TD ",
+      "text": "Noah Gray hauls in Patrick Mahomes' pass for Chiefs TD. Noah Gray hauls in Patrick Mahomes' pass for Chiefs TD ",
       "verified": true,
       "faves": 0,
       "secs": 0,
@@ -82,12 +80,12 @@
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1101/68c485a3-154f-4b27-af60-d5f6013352db/68c485a3-154f-4b27-af60-d5f6013352db.mp4"
     },
     {
-      "url": "https://www.espn.com/video/clip/_/id/50351514/rashee-rice-rushes-chiefs-opening-td",
-      "player": "Rashee Rice & Patrick Mahomes",
-      "meta": "WR \u00b7 KC",
-      "date": "2026-11-01",
+      "url": "https://www.espn.com/video/clip/_/id/50353729/broncos-stop-mahomes-chiefs-goal-line-win",
+      "player": "Patrick Mahomes",
+      "meta": "QB \u00b7 KC",
+      "date": "2026-11-02",
       "author": "ESPN",
-      "text": "Live on CBS: Rashee Rice rushes in for Chiefs' opening TD",
+      "text": "Broncos stop Mahomes, Chiefs at goal line for the win. Broncos stop Mahomes, Chiefs at goal line for the win ",
       "verified": true,
       "faves": 0,
       "secs": 0,
@@ -96,9 +94,9 @@
       "game_time": "Q1 6:04",
       "play_key": "401873033:401873033599",
       "played_at": "2026-11-01T21:43:04Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/e5af766212df4b8ea861bc4a19d029f41017/e5af766212df4b8ea861bc4a19d029f41017.jpg",
-      "published": "2026-11-01T21:51:25Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1101/e5af7662-12df-4b8e-a861-bc4a19d029f4/e5af7662-12df-4b8e-a861-bc4a19d029f4.mp4"
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/d038f0ff7de54a7f91ea4e1a3b4c25d51193/d038f0ff7de54a7f91ea4e1a3b4c25d51193.jpg",
+      "published": "2026-11-02T00:48:46Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1102/d038f0ff-7de5-4a7f-91ea-4e1a3b4c25d5/d038f0ff-7de5-4a7f-91ea-4e1a3b4c25d5.mp4"
     },
     {
       "url": "https://x.com/NFL/status/2116996772501565462",
@@ -257,23 +255,6 @@
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/9979175130cb473e8fbb07968417d15e1410/9979175130cb473e8fbb07968417d15e1410.jpg",
       "published": "2026-10-26T03:10:28Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1026/99791751-30cb-473e-8fbb-07968417d15e/99791751-30cb-473e-8fbb-07968417d15e.mp4"
-    },
-    {
-      "url": "https://x.com/NFL/status/2114526503212093747",
-      "player": "Patrick Mahomes",
-      "meta": "QB \u00b7 KC",
-      "date": "2026-10-26",
-      "author": "NFL",
-      "text": "Nick Emmanwori put the athleticism on display to put the pressure on Mahomes \ud83d\ude24\n\nKCvsSEA on NBC/Peacock\nStream on @NFLPlus",
-      "verified": false,
-      "faves": 534,
-      "secs": 14,
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2114526322328477696/img/nne7Ud34jLkCGGOy.jpg",
-      "published": "2026-10-26T01:16:19Z",
-      "video": "https://video.twimg.com/amplify_video/2114526322328477696/vid/avc1/1920x1080/F3qoqUtMgn0VE1tj.mp4",
-      "author_name": "NFL",
-      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
-      "author_verified": true
     }
   ]
 }
