@@ -1,6 +1,6 @@
 {
   "team": "Paul_Yoon",
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -368,27 +368,6 @@
       "published": "2026-10-26T01:04:38Z",
       "video": "https://video.twimg.com/amplify_video/2114522243153928192/vid/avc1/1920x1080/YPtVoVIChubo_ua3.mp4",
       "author_name": "Seattle Seahawks",
-      "avatar": "",
-      "author_verified": true
-    },
-    {
-      "url": "https://x.com/nyjets/status/2114411312855867551",
-      "player": "Braelon Allen",
-      "meta": "RB \u00b7 NYJ",
-      "date": "2026-10-25",
-      "author": "nyjets",
-      "text": "Braelon Allen movin' the chains",
-      "verified": true,
-      "faves": 94,
-      "secs": 7,
-      "game_id": "401873015",
-      "game_time": "Q2 13:52",
-      "play_key": "401873015:401873015968",
-      "played_at": "2026-10-25T17:38:26Z",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2114411182530375680/img/Z1iiF3nlb77lkAnv.jpg",
-      "published": "2026-10-25T17:38:35Z",
-      "video": "https://video.twimg.com/amplify_video/2114411182530375680/vid/avc1/1100x1080/JDkqQK1SRvlEDswY.mp4",
-      "author_name": "New York Jets",
       "avatar": "",
       "author_verified": true
     },
