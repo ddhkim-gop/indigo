@@ -3668,7 +3668,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 91
+          "search_rank": 89
         },
         {
           "player_id": "11584",
@@ -3989,7 +3989,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 63
+          "search_rank": 65
         },
         {
           "player_id": "11655",
@@ -4079,7 +4079,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 199
+          "search_rank": 197
         },
         {
           "player_id": "13302",
@@ -4244,7 +4244,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 19
+          "search_rank": 17
         },
         {
           "player_id": "8408",
@@ -5162,7 +5162,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 450
+          "search_rank": 449
         },
         {
           "player_id": "12533",
@@ -5237,7 +5237,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 46
+          "search_rank": 44
         },
         {
           "player_id": "6801",
@@ -5343,21 +5343,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 104
-        },
-        {
-          "player_id": "9500",
-          "espn_id": null,
-          "name": "Josh Downs",
-          "position": "WR",
-          "team": "IND",
-          "birth_date": "2001-08-12",
-          "college": "North Carolina",
-          "height": "69",
-          "weight": "171",
-          "years_exp": 3,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 111
         },
         {
           "player_id": "LV",
@@ -5528,7 +5513,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 199
+          "search_rank": 201
         },
         {
           "player_id": "13286",
@@ -5573,7 +5558,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 91
+          "search_rank": 89
         },
         {
           "player_id": "13298",
@@ -5618,7 +5603,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 181
+          "search_rank": 179
         },
         {
           "player_id": "3321",
@@ -5648,7 +5633,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 9,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 298
+          "search_rank": 296
         },
         {
           "player_id": "6797",
@@ -5679,6 +5664,21 @@ window.__STATIC_DATA__ = {
           "status": "Inactive",
           "injury_status": "IR",
           "search_rank": 117
+        },
+        {
+          "player_id": "9500",
+          "espn_id": null,
+          "name": "Josh Downs",
+          "position": "WR",
+          "team": "IND",
+          "birth_date": "2001-08-12",
+          "college": "North Carolina",
+          "height": "69",
+          "weight": "171",
+          "years_exp": 3,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 111
         },
         {
           "player_id": "9502",
@@ -5834,7 +5834,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 103
+          "search_rank": 104
         },
         {
           "player_id": "13330",
@@ -5864,7 +5864,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 93
+          "search_rank": 92
         },
         {
           "player_id": "4984",
@@ -6095,7 +6095,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 127
+          "search_rank": 125
         },
         {
           "player_id": "11576",
@@ -6170,7 +6170,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 366
+          "search_rank": 367
         },
         {
           "player_id": "2747",
@@ -6476,7 +6476,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 28
+          "search_rank": 26
         },
         {
           "player_id": "11635",
@@ -6656,7 +6656,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 75
+          "search_rank": 74
         },
         {
           "player_id": "5844",
@@ -6701,7 +6701,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 121
+          "search_rank": 122
         },
         {
           "player_id": "8188",
@@ -7037,7 +7037,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 87
+          "search_rank": 88
         },
         {
           "player_id": "5947",
@@ -7313,7 +7313,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 17,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 64
+          "search_rank": 66
         },
         {
           "player_id": "5927",
@@ -7529,7 +7529,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 11,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 104
+          "search_rank": 105
         },
         {
           "player_id": "3198",
@@ -8316,6 +8316,47 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 8,
+      "created": "Oct 28, 2026 • 9:42 AM PT",
+      "transaction_id": "1421226665266196480",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "GibbyMyTD",
+        "natepark99"
+      ],
+      "assets_received": {
+        "natepark99": [
+          {
+            "name": "Josh Downs",
+            "position": "WR",
+            "team": "IND"
+          }
+        ],
+        "GibbyMyTD": [
+          {
+            "name": "2027 Round 2",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "PattyMahomiee"
+          },
+          {
+            "name": "2027 Round 3",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "GibbyMyTD"
+          },
+          {
+            "name": "2027 Round 3",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "natepark99"
+          }
+        ]
+      }
     },
     {
       "season": "2026",
@@ -30965,11 +31006,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 2,
       "roster_id": "1",
-      "owner_id": "6",
-      "previous_owner_id": "1",
-      "owner_name": "natepark99",
+      "owner_id": "5",
+      "previous_owner_id": "6",
+      "owner_name": "GibbyMyTD",
       "original_owner_name": "PattyMahomiee",
-      "previous_owner_name": "PattyMahomiee"
+      "previous_owner_name": "natepark99"
     },
     {
       "season": "2027",
@@ -31255,11 +31296,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 3,
       "roster_id": "5",
-      "owner_id": "6",
-      "previous_owner_id": "1",
-      "owner_name": "natepark99",
+      "owner_id": "5",
+      "previous_owner_id": "6",
+      "owner_name": "GibbyMyTD",
       "original_owner_name": "GibbyMyTD",
-      "previous_owner_name": "PattyMahomiee"
+      "previous_owner_name": "natepark99"
     },
     {
       "season": "2028",
@@ -31280,6 +31321,16 @@ window.__STATIC_DATA__ = {
       "owner_name": "daevn",
       "original_owner_name": "natepark99",
       "previous_owner_name": "Paul_Yoon"
+    },
+    {
+      "season": "2027",
+      "round": 3,
+      "roster_id": "6",
+      "owner_id": "5",
+      "previous_owner_id": "6",
+      "owner_name": "GibbyMyTD",
+      "original_owner_name": "natepark99",
+      "previous_owner_name": "natepark99"
     },
     {
       "season": "2028",
