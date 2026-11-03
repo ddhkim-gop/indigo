@@ -4,6 +4,25 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://www.espn.com/video/clip/_/id/50364750/darnold-kupp-td-2-point-conversion-pull-seahawks-closer",
+      "player": "Cooper Kupp",
+      "meta": "WR \u00b7 SEA",
+      "date": "2026-11-03",
+      "author": "ESPN",
+      "text": "Darnold-Kupp TD, 2-point conversion pull Seahawks closer. Darnold-Kupp TD, 2-point conversion pull Seahawks closer ",
+      "verified": true,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401873036",
+      "game_id": "401873036",
+      "game_time": "Q4 11:46",
+      "play_key": "401873036:4018730363231",
+      "played_at": "2026-11-03T03:41:17Z",
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1103/581a3db4-3f8d-4685-b3f6-079753b43f9c/581a3db4-3f8d-4685-b3f6-079753b43f9c.jpg",
+      "published": "2026-11-03T03:51:35Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1103/581a3db4-3f8d-4685-b3f6-079753b43f9c/581a3db4-3f8d-4685-b3f6-079753b43f9c.mp4"
+    },
+    {
       "url": "https://www.espn.com/video/clip/_/id/50352104/patrick-mahomes-finds-emmett-johnson-takes-73-yard-td",
       "player": "Emmett Johnson",
       "meta": "RB \u00b7 KC",
