@@ -302,6 +302,8 @@ https://www.espn.com/video/clip/_/id/50362941/caleb-williams-fires-dart-luther-b
 https://www.espn.com/video/clip/_/id/50363885/sam-darnold-launches-beauty-wide-open-jsn-seahawks-td
 https://www.espn.com/video/clip/_/id/50363885/sam-darnold-launches-beauty-wide-open-jsn-td
 https://www.espn.com/video/clip/_/id/50364750/darnold-kupp-td-2-point-conversion-pull-seahawks-closer
+https://www.espn.com/video/clip/_/id/50364968/dandre-swift-finds-corner-2nd-td-game
+https://www.espn.com/video/clip/_/id/50365027/dandre-swift-breaks-plane-3rd-td
 https://www.youtube.com/shorts/-Prt969WqGo
 https://www.youtube.com/shorts/-aXN1B6dMcU
 https://www.youtube.com/shorts/01TyFCUUHwE
@@ -379,7 +381,6 @@ https://www.youtube.com/shorts/I6UuzZ4G4iQ
 https://www.youtube.com/shorts/I8FoIvIx3JQ
 https://www.youtube.com/shorts/IG-d47I-4WQ
 https://www.youtube.com/shorts/IL_H1Z4gpFg
-https://www.youtube.com/shorts/INMTs-iPIXs
 https://www.youtube.com/shorts/ITu7Pn36tuQ
 https://www.youtube.com/shorts/IVKONWbR3nE
 https://www.youtube.com/shorts/J1IQPbmllk0
@@ -438,7 +439,6 @@ https://www.youtube.com/shorts/WrWLqc9rhEs
 https://www.youtube.com/shorts/X0pR1DAX4Oc
 https://www.youtube.com/shorts/Y5Kg47jkF_M
 https://www.youtube.com/shorts/Y7sFLyQXYxE
-https://www.youtube.com/shorts/YKI2KDxTHTg
 https://www.youtube.com/shorts/YSLVsWzInlU
 https://www.youtube.com/shorts/YqsAbT6MQg4
 https://www.youtube.com/shorts/Z52V0m1_Bto
@@ -588,6 +588,9 @@ https://x.com/BuffaloBills/status/2106834704028635476
 https://x.com/ChiSportsTracks/status/2095307339750404405
 https://x.com/ChicagoBears/status/2106801196447019476
 https://x.com/ChicagoBears/status/2106812813222011267
+https://x.com/ChicagoBears/status/2117454133448044738
+https://x.com/ChicagoBears/status/2117455480151007738
+https://x.com/ChicagoBears/status/2117464999551754469
 https://x.com/Chiefs/status/2106851118496006565
 https://x.com/Chiefs/status/2116991165333397651
 https://x.com/Chiefs/status/2117012651368935518
@@ -603,7 +606,6 @@ https://x.com/DreareaSports/status/2091624681573146837
 https://x.com/Eagles/status/2106796955250700382
 https://x.com/Eagles/status/2106808014783066164
 https://x.com/Eagles/status/2106814970218324450
-https://x.com/Eagles/status/2114877003849781587
 https://x.com/Eagles/status/2114903551575011375
 https://x.com/Eagles/status/2117073707659133203
 https://x.com/Eagles/status/2117074716762522079
@@ -824,6 +826,7 @@ https://x.com/NFL/status/2117443019767267829
 https://x.com/NFL/status/2117455429139837073
 https://x.com/NFL/status/2117462399058141279
 https://x.com/NFL/status/2117462720207597939
+https://x.com/NFL/status/2117465168498282877
 https://x.com/NFLTDsVideos/status/2098243863588540602
 https://x.com/NFLTDsVideos/status/2099189736858419294
 https://x.com/NFLTDsVideos/status/2099201418368262610
@@ -990,10 +993,7 @@ https://x.com/bet_105/status/2095896428786684321
 https://x.com/burgermanders/status/2096208530218811728
 https://x.com/cooterdoodle/status/2095888393615904800
 https://x.com/dallascowboys/status/2095949595217932480
-https://x.com/dallascowboys/status/2114879808387588107
 https://x.com/dallascowboys/status/2114888292881592733
-https://x.com/dallascowboys/status/2114906789313421336
-https://x.com/dallascowboys/status/2114917956597465376
 https://x.com/dawhitehousepod/status/2096011194247069748
 https://x.com/fantasyfocus/status/2095998338160108030
 https://x.com/gbellseattle/status/2095753484431933695
