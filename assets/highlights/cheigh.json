@@ -1,8 +1,27 @@
 {
   "team": "cheigh",
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
+    {
+      "url": "https://www.espn.com/video/clip/_/id/50363885/sam-darnold-launches-beauty-wide-open-jsn-seahawks-td",
+      "player": "Sam Darnold",
+      "meta": "QB \u00b7 SEA",
+      "date": "2026-11-03",
+      "author": "ESPN",
+      "text": "Sam Darnold launches a beauty to a wide-open JSN for a Seahawks TD",
+      "verified": true,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401873036",
+      "game_id": "401873036",
+      "game_time": "Q2 0:30",
+      "play_key": "401873036:4018730361939",
+      "played_at": "2026-11-03T02:35:59Z",
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1103/b5ed609e-d5b2-4055-a9ce-a689b046ba71/b5ed609e-d5b2-4055-a9ce-a689b046ba71.jpg",
+      "published": "2026-11-03T02:52:24Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1103/b5ed609e-d5b2-4055-a9ce-a689b046ba71/b5ed609e-d5b2-4055-a9ce-a689b046ba71.mp4"
+    },
     {
       "url": "https://www.espn.com/video/clip/_/id/50352326/bo-nix-finds-jaylen-waddle-broncos-1st-td",
       "player": "Jaylen Waddle",
@@ -219,27 +238,6 @@
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/69d2ab832d0c44618b731d66003a3af6949/69d2ab832d0c44618b731d66003a3af6949.jpg",
       "published": "2026-11-01T18:18:52Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1101/69d2ab83-2d0c-4461-8b73-1d66003a3af6/69d2ab83-2d0c-4461-8b73-1d66003a3af6.mp4"
-    },
-    {
-      "url": "https://x.com/Seahawks/status/2114528791418876126",
-      "player": "Sam Darnold",
-      "meta": "QB \u00b7 SEA",
-      "date": "2026-10-26",
-      "author": "Seahawks",
-      "text": "*clears throat* TOUCHDOWN JSN \ud83d\udde3\ufe0f @jaxon_smith1",
-      "verified": true,
-      "faves": 1407,
-      "secs": 0,
-      "game_id": "401873022",
-      "game_time": "Q2 1:44",
-      "play_key": "401873022:4018730221637",
-      "played_at": "2026-10-26T01:23:40Z",
-      "poster": "https://pbs.twimg.com/tweet_video_thumb/HVhQrveakAAqEjs.jpg",
-      "published": "2026-10-26T01:25:24Z",
-      "video": "https://video.twimg.com/tweet_video/HVhQrveakAAqEjs.mp4",
-      "author_name": "Seattle Seahawks",
-      "avatar": "",
-      "author_verified": true
     }
   ]
 }

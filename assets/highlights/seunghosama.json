@@ -1,8 +1,27 @@
 {
   "team": "SeunghoSama",
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
+    {
+      "url": "https://www.espn.com/video/clip/_/id/50362941/caleb-williams-fires-dart-luther-burden-iii-bears-td",
+      "player": "Jaxson Dart",
+      "meta": "QB \u00b7 NYG",
+      "date": "2026-11-03",
+      "author": "ESPN",
+      "text": "Caleb Williams fires a dart to Luther Burden III for a Bears TD",
+      "verified": true,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401873036",
+      "game_id": "401873036",
+      "game_time": "Q1 5:25",
+      "play_key": "401873036:401873036542",
+      "played_at": "2026-11-03T01:30:21Z",
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/035a5e076b854830b733e7419e4faab41242/035a5e076b854830b733e7419e4faab41242.jpg",
+      "published": "2026-11-03T01:39:04Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1103/035a5e07-6b85-4830-b733-e7419e4faab4/035a5e07-6b85-4830-b733-e7419e4faab4.mp4"
+    },
     {
       "url": "https://www.espn.com/video/clip/_/id/50354769/jayden-daniels-fires-dart-stefon-diggs-commanders-td",
       "player": "Jaxson Dart",
@@ -160,21 +179,6 @@
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1101/0f1ef048-61d3-409a-a2a7-18df3bcd3a18/0f1ef048-61d3-409a-a2a7-18df3bcd3a18.jpg",
       "published": "2026-11-01T19:12:11Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1101/0f1ef048-61d3-409a-a2a7-18df3bcd3a18/0f1ef048-61d3-409a-a2a7-18df3bcd3a18.mp4"
-    },
-    {
-      "url": "https://www.espn.com/video/clip/_/id/50284231/jonah-coleman-difference-maker-broncos-win",
-      "player": "Jonah Coleman",
-      "meta": "RB \u00b7 DEN",
-      "date": "2026-10-26",
-      "author": "ESPN",
-      "text": "Jonah Coleman a difference maker for Broncos in win. Jeff Legwold breaks down how big Jonah Coleman was for the Broncos in their win over the Cardinals.",
-      "verified": true,
-      "faves": 0,
-      "secs": 0,
-      "espn_game": "401873019",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_Broncos_Jonah_Coleman_IA/dm_261025_Broncos_Jonah_Coleman_IA.jpg",
-      "published": "2026-10-26T02:55:32Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/2026/1025/dm_261025_Broncos_Jonah_Coleman_IA/dm_261025_Broncos_Jonah_Coleman_IA.mp4"
     }
   ]
 }
