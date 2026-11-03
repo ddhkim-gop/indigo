@@ -5696,21 +5696,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 187
         },
         {
-          "player_id": "9506",
-          "espn_id": null,
-          "name": "Sean Tucker",
-          "position": "RB",
-          "team": "TB",
-          "birth_date": "2001-10-25",
-          "college": "Syracuse",
-          "height": "70",
-          "weight": "205",
-          "years_exp": 3,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 155
-        },
-        {
           "player_id": "9754",
           "espn_id": null,
           "name": "Quentin Johnston",
@@ -8029,6 +8014,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 8,
+      "created": "Nov 3, 2026 • 7:32 AM PT",
+      "transaction_id": "1423368388847104000",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Sean Tucker",
+          "position": "RB",
+          "team": "TB"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 8,
@@ -10457,7 +10464,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Robert Henry Jr.",
           "position": "RB",
-          "team": "SEA"
+          "team": null
         }
       ],
       "faab": 0,
@@ -10873,7 +10880,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Robert Henry Jr.",
           "position": "RB",
-          "team": "SEA"
+          "team": null
         }
       ],
       "dropped": [
@@ -12030,7 +12037,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Audric Estime",
           "position": "RB",
-          "team": "CLE"
+          "team": null
         }
       ],
       "faab": 0,
@@ -15332,7 +15339,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Audric Estime",
           "position": "RB",
-          "team": "CLE"
+          "team": null
         }
       ],
       "dropped": [],
@@ -15572,7 +15579,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Audric Estime",
           "position": "RB",
-          "team": "CLE"
+          "team": null
         }
       ],
       "faab": 0,
