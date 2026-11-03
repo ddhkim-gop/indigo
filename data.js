@@ -7251,8 +7251,8 @@ window.__STATIC_DATA__ = {
           "height": "72",
           "weight": "212",
           "years_exp": 0,
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "search_rank": 15
         },
         {
@@ -7452,8 +7452,8 @@ window.__STATIC_DATA__ = {
           "height": "71",
           "weight": "191",
           "years_exp": 1,
-          "status": "Active",
-          "injury_status": "Questionable",
+          "status": "Inactive",
+          "injury_status": "IR",
           "search_rank": 150
         },
         {
@@ -10464,7 +10464,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Robert Henry Jr.",
           "position": "RB",
-          "team": null
+          "team": "WAS"
         }
       ],
       "faab": 0,
@@ -10880,7 +10880,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Robert Henry Jr.",
           "position": "RB",
-          "team": null
+          "team": "WAS"
         }
       ],
       "dropped": [
@@ -12037,7 +12037,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Audric Estime",
           "position": "RB",
-          "team": null
+          "team": "NO"
         }
       ],
       "faab": 0,
@@ -15339,7 +15339,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Audric Estime",
           "position": "RB",
-          "team": null
+          "team": "NO"
         }
       ],
       "dropped": [],
@@ -15579,7 +15579,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Audric Estime",
           "position": "RB",
-          "team": null
+          "team": "NO"
         }
       ],
       "faab": 0,
