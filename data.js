@@ -3806,19 +3806,19 @@ window.__STATIC_DATA__ = {
           "search_rank": 73
         },
         {
-          "player_id": "6783",
-          "espn_id": 4241463,
-          "name": "Jerry Jeudy",
+          "player_id": "6803",
+          "espn_id": 4360438,
+          "name": "Brandon Aiyuk",
           "position": "WR",
-          "team": "CLE",
-          "birth_date": "1999-04-24",
-          "college": "Alabama",
-          "height": "73",
-          "weight": "195",
+          "team": "SF",
+          "birth_date": "1998-03-17",
+          "college": "Arizona State",
+          "height": "72",
+          "weight": "200",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": null,
-          "search_rank": 160
+          "injury_status": "DNR",
+          "search_rank": 177
         },
         {
           "player_id": "8137",
@@ -6349,7 +6349,7 @@ window.__STATIC_DATA__ = {
           "weight": "183",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 38
         },
         {
@@ -8014,6 +8014,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 9,
+      "created": "Nov 4, 2026 • 7:14 AM PT",
+      "transaction_id": "1423726206548725760",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Brandon Aiyuk",
+          "position": "WR",
+          "team": "SF"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Jerry Jeudy",
+          "position": "WR",
+          "team": "CLE"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 9,
