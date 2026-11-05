@@ -28633,6 +28633,104 @@ window.__STATIC_DATA__ = {
         "pf": 1441.54,
         "pa": 1709.08
       }
+    ],
+    "2026": [
+      {
+        "name": "willie425",
+        "wins": 7,
+        "losses": 1,
+        "ties": 0,
+        "pf": 1059.79,
+        "pa": 794.71
+      },
+      {
+        "name": "GibbyMyTD",
+        "wins": 6,
+        "losses": 2,
+        "ties": 0,
+        "pf": 1151.7,
+        "pa": 1033.67
+      },
+      {
+        "name": "Paul_Yoon",
+        "wins": 6,
+        "losses": 2,
+        "ties": 0,
+        "pf": 1145.79,
+        "pa": 1023.02
+      },
+      {
+        "name": "cheigh",
+        "wins": 5,
+        "losses": 3,
+        "ties": 0,
+        "pf": 1035.84,
+        "pa": 974.34
+      },
+      {
+        "name": "jay0jay1jay2",
+        "wins": 5,
+        "losses": 3,
+        "ties": 0,
+        "pf": 985.26,
+        "pa": 992.37
+      },
+      {
+        "name": "jamescho0829",
+        "wins": 4,
+        "losses": 4,
+        "ties": 0,
+        "pf": 961.79,
+        "pa": 894.04
+      },
+      {
+        "name": "PattyMahomiee",
+        "wins": 4,
+        "losses": 4,
+        "ties": 0,
+        "pf": 931.1,
+        "pa": 944.85
+      },
+      {
+        "name": "bsohn00",
+        "wins": 3,
+        "losses": 5,
+        "ties": 0,
+        "pf": 842.9,
+        "pa": 925.22
+      },
+      {
+        "name": "SeunghoSama",
+        "wins": 3,
+        "losses": 5,
+        "ties": 0,
+        "pf": 781.04,
+        "pa": 910.43
+      },
+      {
+        "name": "justinpark99",
+        "wins": 3,
+        "losses": 5,
+        "ties": 0,
+        "pf": 759.11,
+        "pa": 902.14
+      },
+      {
+        "name": "daevn",
+        "wins": 2,
+        "losses": 6,
+        "ties": 0,
+        "pf": 930.84,
+        "pa": 944.78
+      },
+      {
+        "name": "natepark99",
+        "wins": 0,
+        "losses": 8,
+        "ties": 0,
+        "pf": 722.52,
+        "pa": 968.11
+      }
     ]
   },
   "head_to_head": {
