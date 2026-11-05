@@ -3716,21 +3716,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 523
         },
         {
-          "player_id": "3214",
-          "espn_id": 3046439,
-          "name": "Hunter Henry",
-          "position": "TE",
-          "team": "NE",
-          "birth_date": "1994-12-07",
-          "college": "Arkansas",
-          "height": "77",
-          "weight": "249",
-          "years_exp": 10,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 92
-        },
-        {
           "player_id": "3294",
           "espn_id": 2577417,
           "name": "Dak Prescott",
@@ -3789,6 +3774,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "Questionable",
           "search_rank": 48
+        },
+        {
+          "player_id": "5012",
+          "espn_id": 3116365,
+          "name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL",
+          "birth_date": "1995-09-06",
+          "college": "Oklahoma",
+          "height": "77",
+          "weight": "250",
+          "years_exp": 8,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 96
         },
         {
           "player_id": "5846",
@@ -8050,6 +8050,34 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 9,
+      "created": "Nov 4, 2026 • 11:56 AM PT",
+      "transaction_id": "1423797080559747072",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Hunter Henry",
+          "position": "TE",
+          "team": "NE"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 3,
+      "notes": "Your waiver claim was processed successfully!"
     },
     {
       "season": "2026",
