@@ -8566,7 +8566,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 8,
-      "created": "Oct 31, 2026 • 11:50 PM PT",
+      "created": "Nov 1, 2026 • 12:50 AM PT",
       "transaction_id": "1422527164988817408",
       "type": "free_agent",
       "status": "complete",
@@ -8594,7 +8594,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 8,
-      "created": "Oct 31, 2026 • 11:49 PM PT",
+      "created": "Nov 1, 2026 • 12:49 AM PT",
       "transaction_id": "1422527030045450240",
       "type": "free_agent",
       "status": "complete",
@@ -8622,7 +8622,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 8,
-      "created": "Oct 31, 2026 • 10:34 AM PT",
+      "created": "Oct 31, 2026 • 11:34 AM PT",
       "transaction_id": "1422326814038106112",
       "type": "waiver",
       "status": "complete",
@@ -8650,7 +8650,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 8,
-      "created": "Oct 30, 2026 • 2:30 PM PT",
+      "created": "Oct 30, 2026 • 3:30 PM PT",
       "transaction_id": "1422023858231250944",
       "type": "free_agent",
       "status": "complete",
@@ -8672,7 +8672,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 8,
-      "created": "Oct 29, 2026 • 10:25 PM PT",
+      "created": "Oct 29, 2026 • 11:25 PM PT",
       "transaction_id": "1421781019744309248",
       "type": "free_agent",
       "status": "complete",
@@ -8694,7 +8694,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 8,
-      "created": "Oct 29, 2026 • 7:05 AM PT",
+      "created": "Oct 29, 2026 • 8:05 AM PT",
       "transaction_id": "1421549633267568640",
       "type": "free_agent",
       "status": "complete",
@@ -8716,7 +8716,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 8,
-      "created": "Oct 28, 2026 • 8:24 PM PT",
+      "created": "Oct 28, 2026 • 9:24 PM PT",
       "transaction_id": "1421388160113389568",
       "type": "free_agent",
       "status": "complete",
@@ -8738,7 +8738,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 8,
-      "created": "Oct 28, 2026 • 8:22 PM PT",
+      "created": "Oct 28, 2026 • 9:22 PM PT",
       "transaction_id": "1421387801970098176",
       "type": "waiver",
       "status": "complete",
@@ -8766,7 +8766,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 8,
-      "created": "Oct 28, 2026 • 11:08 AM PT",
+      "created": "Oct 28, 2026 • 12:08 PM PT",
       "transaction_id": "1421248406461890560",
       "type": "waiver",
       "status": "failed",
@@ -8788,7 +8788,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 8,
-      "created": "Oct 28, 2026 • 10:36 AM PT",
+      "created": "Oct 28, 2026 • 11:36 AM PT",
       "transaction_id": "1421240229943144448",
       "type": "waiver",
       "status": "complete",
@@ -8816,7 +8816,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 8,
-      "created": "Oct 28, 2026 • 9:43 AM PT",
+      "created": "Oct 28, 2026 • 10:43 AM PT",
       "transaction_id": "1421226901988478976",
       "type": "free_agent",
       "status": "complete",
@@ -8838,7 +8838,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 8,
-      "created": "Oct 28, 2026 • 9:42 AM PT",
+      "created": "Oct 28, 2026 • 10:42 AM PT",
       "transaction_id": "1421226665266196480",
       "type": "trade",
       "status": "complete",
@@ -8879,7 +8879,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 8,
-      "created": "Oct 28, 2026 • 8:41 AM PT",
+      "created": "Oct 28, 2026 • 9:41 AM PT",
       "transaction_id": "1421211273562972160",
       "type": "free_agent",
       "status": "complete",
@@ -8907,7 +8907,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 8,
-      "created": "Oct 28, 2026 • 8:39 AM PT",
+      "created": "Oct 28, 2026 • 9:39 AM PT",
       "transaction_id": "1421210702147858432",
       "type": "trade",
       "status": "complete",
@@ -8941,7 +8941,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 27, 2026 • 9:44 PM PT",
+      "created": "Oct 27, 2026 • 10:44 PM PT",
       "transaction_id": "1421045891715825664",
       "type": "waiver",
       "status": "failed",
@@ -8963,7 +8963,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 27, 2026 • 6:17 PM PT",
+      "created": "Oct 27, 2026 • 7:17 PM PT",
       "transaction_id": "1420993811340931072",
       "type": "commissioner",
       "status": "complete",
@@ -8985,7 +8985,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 27, 2026 • 6:16 PM PT",
+      "created": "Oct 27, 2026 • 7:16 PM PT",
       "transaction_id": "1420993547905015808",
       "type": "waiver",
       "status": "failed",
@@ -9007,7 +9007,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 27, 2026 • 6:15 PM PT",
+      "created": "Oct 27, 2026 • 7:15 PM PT",
       "transaction_id": "1420993300806017024",
       "type": "free_agent",
       "status": "complete",
@@ -9029,7 +9029,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 27, 2026 • 6:14 PM PT",
+      "created": "Oct 27, 2026 • 7:14 PM PT",
       "transaction_id": "1420993239711756288",
       "type": "free_agent",
       "status": "complete",
@@ -9051,7 +9051,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 27, 2026 • 5:32 PM PT",
+      "created": "Oct 27, 2026 • 6:32 PM PT",
       "transaction_id": "1420982456802193408",
       "type": "waiver",
       "status": "complete",
@@ -9079,7 +9079,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 27, 2026 • 5:31 PM PT",
+      "created": "Oct 27, 2026 • 6:31 PM PT",
       "transaction_id": "1420982342113132544",
       "type": "waiver",
       "status": "complete",
@@ -9107,7 +9107,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 27, 2026 • 3:26 PM PT",
+      "created": "Oct 27, 2026 • 4:26 PM PT",
       "transaction_id": "1420950740179976192",
       "type": "waiver",
       "status": "failed",
@@ -9129,7 +9129,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 27, 2026 • 3:25 PM PT",
+      "created": "Oct 27, 2026 • 4:25 PM PT",
       "transaction_id": "1420950666184073216",
       "type": "waiver",
       "status": "complete",
@@ -9157,7 +9157,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 27, 2026 • 10:27 AM PT",
+      "created": "Oct 27, 2026 • 11:27 AM PT",
       "transaction_id": "1420875656878649344",
       "type": "waiver",
       "status": "complete",
@@ -9185,7 +9185,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 27, 2026 • 10:27 AM PT",
+      "created": "Oct 27, 2026 • 11:27 AM PT",
       "transaction_id": "1420875503186800640",
       "type": "waiver",
       "status": "complete",
@@ -9213,7 +9213,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 27, 2026 • 5:43 AM PT",
+      "created": "Oct 27, 2026 • 6:43 AM PT",
       "transaction_id": "1420804063401926656",
       "type": "waiver",
       "status": "failed",
@@ -9235,7 +9235,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 26, 2026 • 7:35 PM PT",
+      "created": "Oct 26, 2026 • 8:35 PM PT",
       "transaction_id": "1420651124213493760",
       "type": "waiver",
       "status": "complete",
@@ -9263,7 +9263,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 26, 2026 • 7:18 PM PT",
+      "created": "Oct 26, 2026 • 8:18 PM PT",
       "transaction_id": "1420646911550996480",
       "type": "waiver",
       "status": "failed",
@@ -9285,7 +9285,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 26, 2026 • 5:57 PM PT",
+      "created": "Oct 26, 2026 • 6:57 PM PT",
       "transaction_id": "1420626351198638080",
       "type": "waiver",
       "status": "complete",
@@ -9313,7 +9313,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 25, 2026 • 2:37 AM PT",
+      "created": "Oct 25, 2026 • 3:37 AM PT",
       "transaction_id": "1420032624851714048",
       "type": "free_agent",
       "status": "complete",
@@ -9335,7 +9335,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 25, 2026 • 12:06 AM PT",
+      "created": "Oct 25, 2026 • 1:06 AM PT",
       "transaction_id": "1419994591263719424",
       "type": "free_agent",
       "status": "complete",
@@ -9357,7 +9357,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 25, 2026 • 12:06 AM PT",
+      "created": "Oct 25, 2026 • 1:06 AM PT",
       "transaction_id": "1419994533806018560",
       "type": "free_agent",
       "status": "complete",
@@ -9379,7 +9379,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 24, 2026 • 9:19 PM PT",
+      "created": "Oct 24, 2026 • 10:19 PM PT",
       "transaction_id": "1419952448008736768",
       "type": "free_agent",
       "status": "complete",
@@ -9401,7 +9401,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 23, 2026 • 10:35 PM PT",
+      "created": "Oct 23, 2026 • 11:35 PM PT",
       "transaction_id": "1419609281958797312",
       "type": "free_agent",
       "status": "complete",
@@ -9423,7 +9423,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 23, 2026 • 9:15 AM PT",
+      "created": "Oct 23, 2026 • 10:15 AM PT",
       "transaction_id": "1419407996227727360",
       "type": "waiver",
       "status": "complete",
@@ -9451,7 +9451,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 23, 2026 • 9:00 AM PT",
+      "created": "Oct 23, 2026 • 10:00 AM PT",
       "transaction_id": "1419404124004352000",
       "type": "free_agent",
       "status": "complete",
@@ -9479,7 +9479,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 22, 2026 • 2:12 PM PT",
+      "created": "Oct 22, 2026 • 3:12 PM PT",
       "transaction_id": "1419120277324824576",
       "type": "free_agent",
       "status": "complete",
@@ -9507,7 +9507,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 22, 2026 • 11:42 AM PT",
+      "created": "Oct 22, 2026 • 12:42 PM PT",
       "transaction_id": "1419082419339837440",
       "type": "trade",
       "status": "complete",
@@ -9542,7 +9542,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 22, 2026 • 11:13 AM PT",
+      "created": "Oct 22, 2026 • 12:13 PM PT",
       "transaction_id": "1419075315916943360",
       "type": "trade",
       "status": "complete",
@@ -9599,7 +9599,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 22, 2026 • 5:22 AM PT",
+      "created": "Oct 22, 2026 • 6:22 AM PT",
       "transaction_id": "1418986818669379584",
       "type": "free_agent",
       "status": "complete",
@@ -9627,7 +9627,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 22, 2026 • 4:57 AM PT",
+      "created": "Oct 22, 2026 • 5:57 AM PT",
       "transaction_id": "1418980512449515520",
       "type": "free_agent",
       "status": "complete",
@@ -9649,7 +9649,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 21, 2026 • 7:52 PM PT",
+      "created": "Oct 21, 2026 • 8:52 PM PT",
       "transaction_id": "1418843558600888320",
       "type": "free_agent",
       "status": "complete",
@@ -9671,7 +9671,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 21, 2026 • 3:01 PM PT",
+      "created": "Oct 21, 2026 • 4:01 PM PT",
       "transaction_id": "1418770135325351936",
       "type": "free_agent",
       "status": "complete",
@@ -9699,7 +9699,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 21, 2026 • 2:24 PM PT",
+      "created": "Oct 21, 2026 • 3:24 PM PT",
       "transaction_id": "1418760815330238464",
       "type": "waiver",
       "status": "complete",
@@ -9727,7 +9727,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 21, 2026 • 2:22 PM PT",
+      "created": "Oct 21, 2026 • 3:22 PM PT",
       "transaction_id": "1418760441655521280",
       "type": "free_agent",
       "status": "complete",
@@ -9749,7 +9749,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 21, 2026 • 2:20 PM PT",
+      "created": "Oct 21, 2026 • 3:20 PM PT",
       "transaction_id": "1418760003782725632",
       "type": "trade",
       "status": "complete",
@@ -9782,7 +9782,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 21, 2026 • 9:45 AM PT",
+      "created": "Oct 21, 2026 • 10:45 AM PT",
       "transaction_id": "1418690625812922368",
       "type": "free_agent",
       "status": "complete",
@@ -9810,7 +9810,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 7,
-      "created": "Oct 20, 2026 • 11:11 PM PT",
+      "created": "Oct 21, 2026 • 12:11 AM PT",
       "transaction_id": "1418531090196389888",
       "type": "free_agent",
       "status": "complete",
@@ -9838,7 +9838,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 20, 2026 • 9:36 PM PT",
+      "created": "Oct 20, 2026 • 10:36 PM PT",
       "transaction_id": "1418507347906568192",
       "type": "waiver",
       "status": "complete",
@@ -9866,7 +9866,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 20, 2026 • 8:57 PM PT",
+      "created": "Oct 20, 2026 • 9:57 PM PT",
       "transaction_id": "1418497531444277248",
       "type": "waiver",
       "status": "complete",
@@ -9888,7 +9888,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 20, 2026 • 8:57 PM PT",
+      "created": "Oct 20, 2026 • 9:57 PM PT",
       "transaction_id": "1418497487743791104",
       "type": "waiver",
       "status": "failed",
@@ -9910,7 +9910,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 20, 2026 • 7:35 PM PT",
+      "created": "Oct 20, 2026 • 8:35 PM PT",
       "transaction_id": "1418476848764973056",
       "type": "waiver",
       "status": "complete",
@@ -9938,7 +9938,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 20, 2026 • 7:28 PM PT",
+      "created": "Oct 20, 2026 • 8:28 PM PT",
       "transaction_id": "1418475105696100352",
       "type": "trade",
       "status": "complete",
@@ -9967,7 +9967,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 20, 2026 • 10:23 AM PT",
+      "created": "Oct 20, 2026 • 11:23 AM PT",
       "transaction_id": "1418337776478257152",
       "type": "waiver",
       "status": "complete",
@@ -9995,7 +9995,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 20, 2026 • 8:04 AM PT",
+      "created": "Oct 20, 2026 • 9:04 AM PT",
       "transaction_id": "1418302838299168768",
       "type": "free_agent",
       "status": "complete",
@@ -10017,7 +10017,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 20, 2026 • 6:12 AM PT",
+      "created": "Oct 20, 2026 • 7:12 AM PT",
       "transaction_id": "1418274684042014720",
       "type": "waiver",
       "status": "failed",
@@ -10039,7 +10039,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 20, 2026 • 12:50 AM PT",
+      "created": "Oct 20, 2026 • 1:50 AM PT",
       "transaction_id": "1418193675917246464",
       "type": "waiver",
       "status": "complete",
@@ -10067,7 +10067,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 19, 2026 • 7:33 PM PT",
+      "created": "Oct 19, 2026 • 8:33 PM PT",
       "transaction_id": "1418113971319234560",
       "type": "waiver",
       "status": "complete",
@@ -10095,7 +10095,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 18, 2026 • 6:49 AM PT",
+      "created": "Oct 18, 2026 • 7:49 AM PT",
       "transaction_id": "1417559226343047168",
       "type": "free_agent",
       "status": "complete",
@@ -10117,7 +10117,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 17, 2026 • 9:24 PM PT",
+      "created": "Oct 17, 2026 • 10:24 PM PT",
       "transaction_id": "1417416937931042816",
       "type": "free_agent",
       "status": "complete",
@@ -10139,7 +10139,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 17, 2026 • 9:22 PM PT",
+      "created": "Oct 17, 2026 • 10:22 PM PT",
       "transaction_id": "1417416508648284160",
       "type": "free_agent",
       "status": "complete",
@@ -10161,7 +10161,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 16, 2026 • 10:25 PM PT",
+      "created": "Oct 16, 2026 • 11:25 PM PT",
       "transaction_id": "1417069912526000128",
       "type": "trade",
       "status": "complete",
@@ -10195,7 +10195,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 16, 2026 • 5:07 AM PT",
+      "created": "Oct 16, 2026 • 6:07 AM PT",
       "transaction_id": "1416808850480214016",
       "type": "free_agent",
       "status": "complete",
@@ -10217,7 +10217,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 16, 2026 • 4:58 AM PT",
+      "created": "Oct 16, 2026 • 5:58 AM PT",
       "transaction_id": "1416806555361247232",
       "type": "free_agent",
       "status": "complete",
@@ -10245,7 +10245,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 16, 2026 • 1:24 AM PT",
+      "created": "Oct 16, 2026 • 2:24 AM PT",
       "transaction_id": "1416752709108789248",
       "type": "waiver",
       "status": "complete",
@@ -10273,7 +10273,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 15, 2026 • 6:31 PM PT",
+      "created": "Oct 15, 2026 • 7:31 PM PT",
       "transaction_id": "1416648754152443904",
       "type": "free_agent",
       "status": "complete",
@@ -10301,7 +10301,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 15, 2026 • 12:50 PM PT",
+      "created": "Oct 15, 2026 • 1:50 PM PT",
       "transaction_id": "1416562996808810496",
       "type": "free_agent",
       "status": "complete",
@@ -10329,7 +10329,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 15, 2026 • 12:47 PM PT",
+      "created": "Oct 15, 2026 • 1:47 PM PT",
       "transaction_id": "1416562198485975040",
       "type": "free_agent",
       "status": "complete",
@@ -10357,7 +10357,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 15, 2026 • 12:47 PM PT",
+      "created": "Oct 15, 2026 • 1:47 PM PT",
       "transaction_id": "1416562074380689408",
       "type": "free_agent",
       "status": "complete",
@@ -10385,7 +10385,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 15, 2026 • 12:46 PM PT",
+      "created": "Oct 15, 2026 • 1:46 PM PT",
       "transaction_id": "1416561985943822336",
       "type": "free_agent",
       "status": "complete",
@@ -10407,7 +10407,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 15, 2026 • 12:38 PM PT",
+      "created": "Oct 15, 2026 • 1:38 PM PT",
       "transaction_id": "1416559935042465792",
       "type": "free_agent",
       "status": "complete",
@@ -10429,7 +10429,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 15, 2026 • 12:38 PM PT",
+      "created": "Oct 15, 2026 • 1:38 PM PT",
       "transaction_id": "1416559851672236032",
       "type": "free_agent",
       "status": "complete",
@@ -10451,7 +10451,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 15, 2026 • 12:14 PM PT",
+      "created": "Oct 15, 2026 • 1:14 PM PT",
       "transaction_id": "1416553865624506368",
       "type": "free_agent",
       "status": "complete",
@@ -10473,7 +10473,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 15, 2026 • 10:51 AM PT",
+      "created": "Oct 15, 2026 • 11:51 AM PT",
       "transaction_id": "1416532998085517312",
       "type": "free_agent",
       "status": "complete",
@@ -10501,7 +10501,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 15, 2026 • 10:49 AM PT",
+      "created": "Oct 15, 2026 • 11:49 AM PT",
       "transaction_id": "1416532562519531520",
       "type": "trade",
       "status": "complete",
@@ -10563,7 +10563,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 15, 2026 • 5:19 AM PT",
+      "created": "Oct 15, 2026 • 6:19 AM PT",
       "transaction_id": "1416449474091307008",
       "type": "free_agent",
       "status": "complete",
@@ -10585,7 +10585,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 15, 2026 • 5:18 AM PT",
+      "created": "Oct 15, 2026 • 6:18 AM PT",
       "transaction_id": "1416449067361337344",
       "type": "free_agent",
       "status": "complete",
@@ -10607,7 +10607,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 14, 2026 • 11:19 PM PT",
+      "created": "Oct 15, 2026 • 12:19 AM PT",
       "transaction_id": "1416358875560488960",
       "type": "free_agent",
       "status": "complete",
@@ -10629,7 +10629,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 14, 2026 • 11:19 PM PT",
+      "created": "Oct 15, 2026 • 12:19 AM PT",
       "transaction_id": "1416358823920173056",
       "type": "free_agent",
       "status": "complete",
@@ -10651,7 +10651,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 14, 2026 • 10:18 AM PT",
+      "created": "Oct 14, 2026 • 11:18 AM PT",
       "transaction_id": "1416162292231335936",
       "type": "free_agent",
       "status": "complete",
@@ -10679,7 +10679,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 13, 2026 • 11:34 PM PT",
+      "created": "Oct 14, 2026 • 12:34 AM PT",
       "transaction_id": "1416000221132918784",
       "type": "free_agent",
       "status": "complete",
@@ -10701,7 +10701,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 13, 2026 • 11:34 PM PT",
+      "created": "Oct 14, 2026 • 12:34 AM PT",
       "transaction_id": "1416000183560339456",
       "type": "free_agent",
       "status": "complete",
@@ -10723,7 +10723,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 13, 2026 • 11:34 PM PT",
+      "created": "Oct 14, 2026 • 12:34 AM PT",
       "transaction_id": "1416000112391393280",
       "type": "free_agent",
       "status": "complete",
@@ -10745,7 +10745,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 13, 2026 • 11:22 PM PT",
+      "created": "Oct 14, 2026 • 12:22 AM PT",
       "transaction_id": "1415997230715850752",
       "type": "waiver",
       "status": "complete",
@@ -10767,7 +10767,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 13, 2026 • 11:22 PM PT",
+      "created": "Oct 14, 2026 • 12:22 AM PT",
       "transaction_id": "1415997202337132544",
       "type": "free_agent",
       "status": "complete",
@@ -10789,7 +10789,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 6,
-      "created": "Oct 13, 2026 • 11:14 PM PT",
+      "created": "Oct 14, 2026 • 12:14 AM PT",
       "transaction_id": "1415995165247569920",
       "type": "free_agent",
       "status": "complete",
@@ -10817,7 +10817,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 5,
-      "created": "Oct 13, 2026 • 10:45 PM PT",
+      "created": "Oct 13, 2026 • 11:45 PM PT",
       "transaction_id": "1415987781024436224",
       "type": "waiver",
       "status": "complete",
@@ -10845,7 +10845,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 5,
-      "created": "Oct 13, 2026 • 10:44 PM PT",
+      "created": "Oct 13, 2026 • 11:44 PM PT",
       "transaction_id": "1415987727257608192",
       "type": "waiver",
       "status": "complete",
@@ -10873,7 +10873,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 5,
-      "created": "Oct 13, 2026 • 10:43 PM PT",
+      "created": "Oct 13, 2026 • 11:43 PM PT",
       "transaction_id": "1415987411233587200",
       "type": "trade",
       "status": "complete",
@@ -10913,7 +10913,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 5,
-      "created": "Oct 13, 2026 • 7:52 PM PT",
+      "created": "Oct 13, 2026 • 8:52 PM PT",
       "transaction_id": "1415944382745436160",
       "type": "waiver",
       "status": "failed",
@@ -10935,7 +10935,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 5,
-      "created": "Oct 13, 2026 • 4:36 PM PT",
+      "created": "Oct 13, 2026 • 5:36 PM PT",
       "transaction_id": "1415895117088210944",
       "type": "waiver",
       "status": "failed",
@@ -10957,7 +10957,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 5,
-      "created": "Oct 13, 2026 • 10:44 AM PT",
+      "created": "Oct 13, 2026 • 11:44 AM PT",
       "transaction_id": "1415806424440668160",
       "type": "waiver",
       "status": "complete",
@@ -10985,7 +10985,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 5,
-      "created": "Oct 13, 2026 • 10:14 AM PT",
+      "created": "Oct 13, 2026 • 11:14 AM PT",
       "transaction_id": "1415798979291090944",
       "type": "waiver",
       "status": "complete",
@@ -11013,7 +11013,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 5,
-      "created": "Oct 13, 2026 • 8:57 AM PT",
+      "created": "Oct 13, 2026 • 9:57 AM PT",
       "transaction_id": "1415779571948703744",
       "type": "waiver",
       "status": "complete",
@@ -11041,7 +11041,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 5,
-      "created": "Oct 13, 2026 • 8:34 AM PT",
+      "created": "Oct 13, 2026 • 9:34 AM PT",
       "transaction_id": "1415773829816487936",
       "type": "waiver",
       "status": "failed",
@@ -11063,7 +11063,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 5,
-      "created": "Oct 12, 2026 • 7:05 PM PT",
+      "created": "Oct 12, 2026 • 8:05 PM PT",
       "transaction_id": "1415570246361772032",
       "type": "trade",
       "status": "complete",
@@ -11108,7 +11108,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 5,
-      "created": "Oct 9, 2026 • 6:11 AM PT",
+      "created": "Oct 9, 2026 • 7:11 AM PT",
       "transaction_id": "1414288109541040128",
       "type": "free_agent",
       "status": "complete",
@@ -11136,7 +11136,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 5,
-      "created": "Oct 8, 2026 • 5:48 PM PT",
+      "created": "Oct 8, 2026 • 6:48 PM PT",
       "transaction_id": "1414101142287273984",
       "type": "free_agent",
       "status": "complete",
@@ -11158,7 +11158,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 5,
-      "created": "Oct 7, 2026 • 7:17 PM PT",
+      "created": "Oct 7, 2026 • 8:17 PM PT",
       "transaction_id": "1413761093175726080",
       "type": "free_agent",
       "status": "complete",
@@ -11186,7 +11186,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 5,
-      "created": "Oct 7, 2026 • 12:57 PM PT",
+      "created": "Oct 7, 2026 • 1:57 PM PT",
       "transaction_id": "1413665590979133440",
       "type": "waiver",
       "status": "complete",
@@ -11208,7 +11208,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 5,
-      "created": "Oct 7, 2026 • 11:58 AM PT",
+      "created": "Oct 7, 2026 • 12:58 PM PT",
       "transaction_id": "1413650628621737984",
       "type": "free_agent",
       "status": "complete",
@@ -11236,7 +11236,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 5,
-      "created": "Oct 7, 2026 • 6:17 AM PT",
+      "created": "Oct 7, 2026 • 7:17 AM PT",
       "transaction_id": "1413564870057635840",
       "type": "free_agent",
       "status": "complete",
@@ -11264,7 +11264,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 6, 2026 • 9:26 PM PT",
+      "created": "Oct 6, 2026 • 10:26 PM PT",
       "transaction_id": "1413431185203322880",
       "type": "waiver",
       "status": "complete",
@@ -11292,7 +11292,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 6, 2026 • 9:02 PM PT",
+      "created": "Oct 6, 2026 • 10:02 PM PT",
       "transaction_id": "1413425281812692992",
       "type": "waiver",
       "status": "complete",
@@ -11314,7 +11314,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 6, 2026 • 8:15 PM PT",
+      "created": "Oct 6, 2026 • 9:15 PM PT",
       "transaction_id": "1413413535806988288",
       "type": "free_agent",
       "status": "complete",
@@ -11336,7 +11336,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 6, 2026 • 8:13 PM PT",
+      "created": "Oct 6, 2026 • 9:13 PM PT",
       "transaction_id": "1413412916501164032",
       "type": "waiver",
       "status": "failed",
@@ -11358,7 +11358,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 6, 2026 • 4:25 PM PT",
+      "created": "Oct 6, 2026 • 5:25 PM PT",
       "transaction_id": "1413355498324942848",
       "type": "waiver",
       "status": "failed",
@@ -11380,7 +11380,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 6, 2026 • 1:30 PM PT",
+      "created": "Oct 6, 2026 • 2:30 PM PT",
       "transaction_id": "1413311451652759552",
       "type": "waiver",
       "status": "complete",
@@ -11408,7 +11408,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 6, 2026 • 1:15 PM PT",
+      "created": "Oct 6, 2026 • 2:15 PM PT",
       "transaction_id": "1413307824372510720",
       "type": "waiver",
       "status": "failed",
@@ -11430,7 +11430,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 6, 2026 • 1:14 PM PT",
+      "created": "Oct 6, 2026 • 2:14 PM PT",
       "transaction_id": "1413307559695167488",
       "type": "waiver",
       "status": "complete",
@@ -11458,7 +11458,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 6, 2026 • 8:51 AM PT",
+      "created": "Oct 6, 2026 • 9:51 AM PT",
       "transaction_id": "1413241274760192000",
       "type": "waiver",
       "status": "complete",
@@ -11486,7 +11486,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 6, 2026 • 7:52 AM PT",
+      "created": "Oct 6, 2026 • 8:52 AM PT",
       "transaction_id": "1413226477817749504",
       "type": "free_agent",
       "status": "complete",
@@ -11508,7 +11508,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 6, 2026 • 2:45 AM PT",
+      "created": "Oct 6, 2026 • 3:45 AM PT",
       "transaction_id": "1413149285255581696",
       "type": "waiver",
       "status": "complete",
@@ -11536,7 +11536,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 5, 2026 • 9:41 PM PT",
+      "created": "Oct 5, 2026 • 10:41 PM PT",
       "transaction_id": "1413072784598286336",
       "type": "waiver",
       "status": "failed",
@@ -11558,7 +11558,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 5, 2026 • 4:25 PM PT",
+      "created": "Oct 5, 2026 • 5:25 PM PT",
       "transaction_id": "1412993034991247360",
       "type": "trade",
       "status": "complete",
@@ -11598,7 +11598,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 5, 2026 • 5:05 AM PT",
+      "created": "Oct 5, 2026 • 6:05 AM PT",
       "transaction_id": "1412822098090483712",
       "type": "waiver",
       "status": "failed",
@@ -11620,7 +11620,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 4, 2026 • 8:42 PM PT",
+      "created": "Oct 4, 2026 • 9:42 PM PT",
       "transaction_id": "1412695566776795136",
       "type": "waiver",
       "status": "failed",
@@ -11642,7 +11642,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 4, 2026 • 2:30 PM PT",
+      "created": "Oct 4, 2026 • 3:30 PM PT",
       "transaction_id": "1412601888922255360",
       "type": "waiver",
       "status": "complete",
@@ -11670,7 +11670,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 3, 2026 • 7:54 PM PT",
+      "created": "Oct 3, 2026 • 8:54 PM PT",
       "transaction_id": "1412320901327749120",
       "type": "free_agent",
       "status": "complete",
@@ -11692,7 +11692,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 2, 2026 • 9:58 AM PT",
+      "created": "Oct 2, 2026 • 10:58 AM PT",
       "transaction_id": "1411808677467357184",
       "type": "free_agent",
       "status": "complete",
@@ -11720,7 +11720,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 2, 2026 • 3:07 AM PT",
+      "created": "Oct 2, 2026 • 4:07 AM PT",
       "transaction_id": "1411705069585391616",
       "type": "trade",
       "status": "complete",
@@ -11755,7 +11755,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 1, 2026 • 8:28 PM PT",
+      "created": "Oct 1, 2026 • 9:28 PM PT",
       "transaction_id": "1411604834896850944",
       "type": "free_agent",
       "status": "complete",
@@ -11777,7 +11777,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Oct 1, 2026 • 1:16 AM PT",
+      "created": "Oct 1, 2026 • 2:16 AM PT",
       "transaction_id": "1411314966316773376",
       "type": "free_agent",
       "status": "complete",
@@ -11805,7 +11805,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Sep 30, 2026 • 9:52 PM PT",
+      "created": "Sep 30, 2026 • 10:52 PM PT",
       "transaction_id": "1411263594376531968",
       "type": "trade",
       "status": "complete",
@@ -11861,7 +11861,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Sep 30, 2026 • 9:48 AM PT",
+      "created": "Sep 30, 2026 • 10:48 AM PT",
       "transaction_id": "1411081321458982912",
       "type": "free_agent",
       "status": "complete",
@@ -11889,7 +11889,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Sep 30, 2026 • 1:29 AM PT",
+      "created": "Sep 30, 2026 • 2:29 AM PT",
       "transaction_id": "1410955620726673408",
       "type": "waiver",
       "status": "complete",
@@ -11917,7 +11917,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 4,
-      "created": "Sep 29, 2026 • 11:13 PM PT",
+      "created": "Sep 30, 2026 • 12:13 AM PT",
       "transaction_id": "1410921458699358208",
       "type": "free_agent",
       "status": "complete",
@@ -11939,7 +11939,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 29, 2026 • 6:51 PM PT",
+      "created": "Sep 29, 2026 • 7:51 PM PT",
       "transaction_id": "1410855536018096128",
       "type": "waiver",
       "status": "complete",
@@ -11961,7 +11961,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 29, 2026 • 2:15 PM PT",
+      "created": "Sep 29, 2026 • 3:15 PM PT",
       "transaction_id": "1410786094009548800",
       "type": "waiver",
       "status": "complete",
@@ -11989,7 +11989,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 29, 2026 • 1:35 PM PT",
+      "created": "Sep 29, 2026 • 2:35 PM PT",
       "transaction_id": "1410776109888344064",
       "type": "free_agent",
       "status": "complete",
@@ -12011,7 +12011,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 29, 2026 • 1:35 PM PT",
+      "created": "Sep 29, 2026 • 2:35 PM PT",
       "transaction_id": "1410776083946582016",
       "type": "free_agent",
       "status": "complete",
@@ -12033,7 +12033,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 29, 2026 • 7:58 AM PT",
+      "created": "Sep 29, 2026 • 8:58 AM PT",
       "transaction_id": "1410691181666467840",
       "type": "free_agent",
       "status": "complete",
@@ -12055,7 +12055,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 29, 2026 • 7:27 AM PT",
+      "created": "Sep 29, 2026 • 8:27 AM PT",
       "transaction_id": "1410683444018577408",
       "type": "waiver",
       "status": "complete",
@@ -12077,7 +12077,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 29, 2026 • 5:52 AM PT",
+      "created": "Sep 29, 2026 • 6:52 AM PT",
       "transaction_id": "1410659484883337216",
       "type": "waiver",
       "status": "complete",
@@ -12105,7 +12105,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 29, 2026 • 5:41 AM PT",
+      "created": "Sep 29, 2026 • 6:41 AM PT",
       "transaction_id": "1410656684463992832",
       "type": "waiver",
       "status": "complete",
@@ -12127,7 +12127,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 29, 2026 • 5:40 AM PT",
+      "created": "Sep 29, 2026 • 6:40 AM PT",
       "transaction_id": "1410656477449830400",
       "type": "waiver",
       "status": "failed",
@@ -12149,7 +12149,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 29, 2026 • 4:43 AM PT",
+      "created": "Sep 29, 2026 • 5:43 AM PT",
       "transaction_id": "1410642240912572416",
       "type": "waiver",
       "status": "failed",
@@ -12171,7 +12171,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 29, 2026 • 4:43 AM PT",
+      "created": "Sep 29, 2026 • 5:43 AM PT",
       "transaction_id": "1410642176651669504",
       "type": "waiver",
       "status": "failed",
@@ -12193,7 +12193,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 29, 2026 • 4:43 AM PT",
+      "created": "Sep 29, 2026 • 5:43 AM PT",
       "transaction_id": "1410642129193025536",
       "type": "waiver",
       "status": "complete",
@@ -12215,7 +12215,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 28, 2026 • 10:35 PM PT",
+      "created": "Sep 28, 2026 • 11:35 PM PT",
       "transaction_id": "1410549594395312128",
       "type": "free_agent",
       "status": "complete",
@@ -12237,7 +12237,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 28, 2026 • 10:33 PM PT",
+      "created": "Sep 28, 2026 • 11:33 PM PT",
       "transaction_id": "1410548987118796800",
       "type": "waiver",
       "status": "failed",
@@ -12259,7 +12259,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 28, 2026 • 6:31 AM PT",
+      "created": "Sep 28, 2026 • 7:31 AM PT",
       "transaction_id": "1410307060301570048",
       "type": "free_agent",
       "status": "complete",
@@ -12281,7 +12281,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 27, 2026 • 4:43 PM PT",
+      "created": "Sep 27, 2026 • 5:43 PM PT",
       "transaction_id": "1410098551169515520",
       "type": "trade",
       "status": "complete",
@@ -12325,7 +12325,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 27, 2026 • 8:20 AM PT",
+      "created": "Sep 27, 2026 • 9:20 AM PT",
       "transaction_id": "1409971945188917248",
       "type": "free_agent",
       "status": "complete",
@@ -12353,7 +12353,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 26, 2026 • 10:57 AM PT",
+      "created": "Sep 26, 2026 • 11:57 AM PT",
       "transaction_id": "1409649169408299008",
       "type": "free_agent",
       "status": "complete",
@@ -12375,7 +12375,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 26, 2026 • 7:17 AM PT",
+      "created": "Sep 26, 2026 • 8:17 AM PT",
       "transaction_id": "1409593753634615296",
       "type": "free_agent",
       "status": "complete",
@@ -12403,7 +12403,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 25, 2026 • 10:55 PM PT",
+      "created": "Sep 25, 2026 • 11:55 PM PT",
       "transaction_id": "1409467356186431488",
       "type": "free_agent",
       "status": "complete",
@@ -12425,7 +12425,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 25, 2026 • 7:46 PM PT",
+      "created": "Sep 25, 2026 • 8:46 PM PT",
       "transaction_id": "1409419928909475840",
       "type": "free_agent",
       "status": "complete",
@@ -12453,7 +12453,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 24, 2026 • 4:01 PM PT",
+      "created": "Sep 24, 2026 • 5:01 PM PT",
       "transaction_id": "1409000839728648192",
       "type": "free_agent",
       "status": "complete",
@@ -12475,7 +12475,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 24, 2026 • 8:29 AM PT",
+      "created": "Sep 24, 2026 • 9:29 AM PT",
       "transaction_id": "1408886994796359680",
       "type": "trade",
       "status": "complete",
@@ -12514,7 +12514,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 24, 2026 • 7:57 AM PT",
+      "created": "Sep 24, 2026 • 8:57 AM PT",
       "transaction_id": "1408879050214105088",
       "type": "free_agent",
       "status": "complete",
@@ -12536,7 +12536,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 23, 2026 • 9:55 PM PT",
+      "created": "Sep 23, 2026 • 10:55 PM PT",
       "transaction_id": "1408727569087451136",
       "type": "free_agent",
       "status": "complete",
@@ -12558,7 +12558,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 23, 2026 • 9:52 PM PT",
+      "created": "Sep 23, 2026 • 10:52 PM PT",
       "transaction_id": "1408726864394043392",
       "type": "waiver",
       "status": "complete",
@@ -12586,7 +12586,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 23, 2026 • 9:51 PM PT",
+      "created": "Sep 23, 2026 • 10:51 PM PT",
       "transaction_id": "1408726622017687552",
       "type": "trade",
       "status": "complete",
@@ -12607,7 +12607,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 23, 2026 • 12:34 PM PT",
+      "created": "Sep 23, 2026 • 1:34 PM PT",
       "transaction_id": "1408586329922510848",
       "type": "free_agent",
       "status": "complete",
@@ -12635,7 +12635,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 23, 2026 • 8:29 AM PT",
+      "created": "Sep 23, 2026 • 9:29 AM PT",
       "transaction_id": "1408524816247435264",
       "type": "free_agent",
       "status": "complete",
@@ -12663,7 +12663,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 23, 2026 • 7:40 AM PT",
+      "created": "Sep 23, 2026 • 8:40 AM PT",
       "transaction_id": "1408512259067506688",
       "type": "free_agent",
       "status": "complete",
@@ -12691,7 +12691,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 3,
-      "created": "Sep 23, 2026 • 4:16 AM PT",
+      "created": "Sep 23, 2026 • 5:16 AM PT",
       "transaction_id": "1408461024813756416",
       "type": "free_agent",
       "status": "complete",
@@ -12719,7 +12719,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 2,
-      "created": "Sep 22, 2026 • 8:12 PM PT",
+      "created": "Sep 22, 2026 • 9:12 PM PT",
       "transaction_id": "1408339290957553664",
       "type": "waiver",
       "status": "complete",
@@ -12747,7 +12747,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 2,
-      "created": "Sep 22, 2026 • 3:21 PM PT",
+      "created": "Sep 22, 2026 • 4:21 PM PT",
       "transaction_id": "1408265900381028352",
       "type": "waiver",
       "status": "complete",
@@ -12775,7 +12775,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 2,
-      "created": "Sep 21, 2026 • 11:43 PM PT",
+      "created": "Sep 22, 2026 • 12:43 AM PT",
       "transaction_id": "1408030031082528768",
       "type": "trade",
       "status": "complete",
@@ -12832,7 +12832,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 2,
-      "created": "Sep 20, 2026 • 3:00 PM PT",
+      "created": "Sep 20, 2026 • 4:00 PM PT",
       "transaction_id": "1407535871695056896",
       "type": "waiver",
       "status": "complete",
@@ -12860,7 +12860,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 2,
-      "created": "Sep 18, 2026 • 5:13 PM PT",
+      "created": "Sep 18, 2026 • 6:13 PM PT",
       "transaction_id": "1406844707710959616",
       "type": "free_agent",
       "status": "complete",
@@ -12882,7 +12882,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 2,
-      "created": "Sep 18, 2026 • 5:13 PM PT",
+      "created": "Sep 18, 2026 • 6:13 PM PT",
       "transaction_id": "1406844697124564992",
       "type": "free_agent",
       "status": "complete",
@@ -12904,7 +12904,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 2,
-      "created": "Sep 17, 2026 • 2:01 PM PT",
+      "created": "Sep 17, 2026 • 3:01 PM PT",
       "transaction_id": "1406433895607484416",
       "type": "free_agent",
       "status": "complete",
@@ -12932,7 +12932,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 2,
-      "created": "Sep 16, 2026 • 4:24 PM PT",
+      "created": "Sep 16, 2026 • 5:24 PM PT",
       "transaction_id": "1406107650151739392",
       "type": "free_agent",
       "status": "complete",
@@ -12954,7 +12954,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 2,
-      "created": "Sep 16, 2026 • 4:23 PM PT",
+      "created": "Sep 16, 2026 • 5:23 PM PT",
       "transaction_id": "1406107182906269696",
       "type": "waiver",
       "status": "complete",
@@ -12982,7 +12982,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 2,
-      "created": "Sep 16, 2026 • 2:48 PM PT",
+      "created": "Sep 16, 2026 • 3:48 PM PT",
       "transaction_id": "1406083421381435392",
       "type": "waiver",
       "status": "failed",
@@ -13004,7 +13004,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 2,
-      "created": "Sep 16, 2026 • 8:36 AM PT",
+      "created": "Sep 16, 2026 • 9:36 AM PT",
       "transaction_id": "1405989884602195968",
       "type": "free_agent",
       "status": "complete",
@@ -13026,7 +13026,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 2,
-      "created": "Sep 16, 2026 • 6:16 AM PT",
+      "created": "Sep 16, 2026 • 7:16 AM PT",
       "transaction_id": "1405954456389955584",
       "type": "free_agent",
       "status": "complete",
@@ -13054,7 +13054,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 2,
-      "created": "Sep 16, 2026 • 5:05 AM PT",
+      "created": "Sep 16, 2026 • 6:05 AM PT",
       "transaction_id": "1405936557432532992",
       "type": "free_agent",
       "status": "complete",
@@ -13076,7 +13076,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 2,
-      "created": "Sep 15, 2026 • 11:12 PM PT",
+      "created": "Sep 16, 2026 • 12:12 AM PT",
       "transaction_id": "1405847900868669440",
       "type": "waiver",
       "status": "failed",
@@ -13098,7 +13098,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 15, 2026 • 10:39 PM PT",
+      "created": "Sep 15, 2026 • 11:39 PM PT",
       "transaction_id": "1405839500294250496",
       "type": "waiver",
       "status": "complete",
@@ -13120,7 +13120,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 15, 2026 • 10:36 PM PT",
+      "created": "Sep 15, 2026 • 11:36 PM PT",
       "transaction_id": "1405838653883793408",
       "type": "waiver",
       "status": "failed",
@@ -13142,7 +13142,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 15, 2026 • 10:05 PM PT",
+      "created": "Sep 15, 2026 • 11:05 PM PT",
       "transaction_id": "1405830923240349696",
       "type": "waiver",
       "status": "failed",
@@ -13164,7 +13164,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 15, 2026 • 10:05 PM PT",
+      "created": "Sep 15, 2026 • 11:05 PM PT",
       "transaction_id": "1405830900402438144",
       "type": "waiver",
       "status": "complete",
@@ -13192,7 +13192,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 15, 2026 • 7:45 PM PT",
+      "created": "Sep 15, 2026 • 8:45 PM PT",
       "transaction_id": "1405795631057965056",
       "type": "waiver",
       "status": "complete",
@@ -13220,7 +13220,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 15, 2026 • 7:44 PM PT",
+      "created": "Sep 15, 2026 • 8:44 PM PT",
       "transaction_id": "1405795444910526464",
       "type": "waiver",
       "status": "complete",
@@ -13248,7 +13248,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 15, 2026 • 6:54 PM PT",
+      "created": "Sep 15, 2026 • 7:54 PM PT",
       "transaction_id": "1405782910149070848",
       "type": "waiver",
       "status": "complete",
@@ -13270,7 +13270,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 15, 2026 • 6:13 PM PT",
+      "created": "Sep 15, 2026 • 7:13 PM PT",
       "transaction_id": "1405772663598641152",
       "type": "waiver",
       "status": "complete",
@@ -13298,7 +13298,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 15, 2026 • 3:07 PM PT",
+      "created": "Sep 15, 2026 • 4:07 PM PT",
       "transaction_id": "1405725810953932800",
       "type": "waiver",
       "status": "failed",
@@ -13320,7 +13320,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 15, 2026 • 3:07 PM PT",
+      "created": "Sep 15, 2026 • 4:07 PM PT",
       "transaction_id": "1405725760634748928",
       "type": "free_agent",
       "status": "complete",
@@ -13342,7 +13342,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 15, 2026 • 3:06 PM PT",
+      "created": "Sep 15, 2026 • 4:06 PM PT",
       "transaction_id": "1405725629302816768",
       "type": "free_agent",
       "status": "complete",
@@ -13364,7 +13364,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 15, 2026 • 3:06 PM PT",
+      "created": "Sep 15, 2026 • 4:06 PM PT",
       "transaction_id": "1405725567537414144",
       "type": "free_agent",
       "status": "complete",
@@ -13386,7 +13386,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 15, 2026 • 8:31 AM PT",
+      "created": "Sep 15, 2026 • 9:31 AM PT",
       "transaction_id": "1405626065593880576",
       "type": "waiver",
       "status": "failed",
@@ -13408,7 +13408,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 15, 2026 • 8:27 AM PT",
+      "created": "Sep 15, 2026 • 9:27 AM PT",
       "transaction_id": "1405625203685359616",
       "type": "waiver",
       "status": "complete",
@@ -13436,7 +13436,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 15, 2026 • 8:27 AM PT",
+      "created": "Sep 15, 2026 • 9:27 AM PT",
       "transaction_id": "1405625140292702208",
       "type": "waiver",
       "status": "failed",
@@ -13458,7 +13458,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 15, 2026 • 8:10 AM PT",
+      "created": "Sep 15, 2026 • 9:10 AM PT",
       "transaction_id": "1405620732922200064",
       "type": "waiver",
       "status": "complete",
@@ -13486,7 +13486,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 14, 2026 • 5:38 PM PT",
+      "created": "Sep 14, 2026 • 6:38 PM PT",
       "transaction_id": "1405401411038040064",
       "type": "waiver",
       "status": "complete",
@@ -13514,7 +13514,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 14, 2026 • 7:17 AM PT",
+      "created": "Sep 14, 2026 • 8:17 AM PT",
       "transaction_id": "1405245072307400704",
       "type": "trade",
       "status": "complete",
@@ -13553,7 +13553,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 13, 2026 • 1:23 PM PT",
+      "created": "Sep 13, 2026 • 2:23 PM PT",
       "transaction_id": "1404974834957533184",
       "type": "waiver",
       "status": "complete",
@@ -13575,7 +13575,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 13, 2026 • 1:23 PM PT",
+      "created": "Sep 13, 2026 • 2:23 PM PT",
       "transaction_id": "1404974735732879360",
       "type": "free_agent",
       "status": "complete",
@@ -13597,7 +13597,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 13, 2026 • 7:37 AM PT",
+      "created": "Sep 13, 2026 • 8:37 AM PT",
       "transaction_id": "1404887765023199232",
       "type": "free_agent",
       "status": "complete",
@@ -13619,7 +13619,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 11, 2026 • 1:26 PM PT",
+      "created": "Sep 11, 2026 • 2:26 PM PT",
       "transaction_id": "1404250766696361984",
       "type": "free_agent",
       "status": "complete",
@@ -13641,7 +13641,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 11, 2026 • 1:14 PM PT",
+      "created": "Sep 11, 2026 • 2:14 PM PT",
       "transaction_id": "1404247784940441600",
       "type": "free_agent",
       "status": "complete",
@@ -13663,7 +13663,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 11, 2026 • 1:11 PM PT",
+      "created": "Sep 11, 2026 • 2:11 PM PT",
       "transaction_id": "1404247038798970880",
       "type": "free_agent",
       "status": "complete",
@@ -13685,7 +13685,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 10, 2026 • 11:34 PM PT",
+      "created": "Sep 11, 2026 • 12:34 AM PT",
       "transaction_id": "1404041342648131584",
       "type": "trade",
       "status": "complete",
@@ -13739,7 +13739,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 9, 2026 • 8:53 PM PT",
+      "created": "Sep 9, 2026 • 9:53 PM PT",
       "transaction_id": "1403638541946249216",
       "type": "free_agent",
       "status": "complete",
@@ -13767,7 +13767,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 9, 2026 • 8:50 PM PT",
+      "created": "Sep 9, 2026 • 9:50 PM PT",
       "transaction_id": "1403637699725848576",
       "type": "waiver",
       "status": "complete",
@@ -13795,7 +13795,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 9, 2026 • 8:19 PM PT",
+      "created": "Sep 9, 2026 • 9:19 PM PT",
       "transaction_id": "1403629941492400128",
       "type": "free_agent",
       "status": "complete",
@@ -13823,7 +13823,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 9, 2026 • 7:13 PM PT",
+      "created": "Sep 9, 2026 • 8:13 PM PT",
       "transaction_id": "1403613394258395136",
       "type": "free_agent",
       "status": "complete",
@@ -13845,7 +13845,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 9, 2026 • 7:13 PM PT",
+      "created": "Sep 9, 2026 • 8:13 PM PT",
       "transaction_id": "1403613343947804672",
       "type": "free_agent",
       "status": "complete",
@@ -13867,7 +13867,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 9, 2026 • 7:12 PM PT",
+      "created": "Sep 9, 2026 • 8:12 PM PT",
       "transaction_id": "1403613219192422400",
       "type": "free_agent",
       "status": "complete",
@@ -13889,7 +13889,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 9, 2026 • 5:12 PM PT",
+      "created": "Sep 9, 2026 • 6:12 PM PT",
       "transaction_id": "1403582839676563456",
       "type": "free_agent",
       "status": "complete",
@@ -13911,7 +13911,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 9, 2026 • 5:11 PM PT",
+      "created": "Sep 9, 2026 • 6:11 PM PT",
       "transaction_id": "1403582747099795456",
       "type": "free_agent",
       "status": "complete",
@@ -13933,7 +13933,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 9, 2026 • 5:11 PM PT",
+      "created": "Sep 9, 2026 • 6:11 PM PT",
       "transaction_id": "1403582585472405504",
       "type": "free_agent",
       "status": "complete",
@@ -13955,7 +13955,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 9, 2026 • 3:50 PM PT",
+      "created": "Sep 9, 2026 • 4:50 PM PT",
       "transaction_id": "1403562377927995392",
       "type": "free_agent",
       "status": "complete",
@@ -13977,7 +13977,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 9, 2026 • 3:27 PM PT",
+      "created": "Sep 9, 2026 • 4:27 PM PT",
       "transaction_id": "1403556575720837120",
       "type": "free_agent",
       "status": "complete",
@@ -13999,7 +13999,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 9, 2026 • 3:20 PM PT",
+      "created": "Sep 9, 2026 • 4:20 PM PT",
       "transaction_id": "1403554622592851968",
       "type": "free_agent",
       "status": "complete",
@@ -14021,7 +14021,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 9, 2026 • 3:19 PM PT",
+      "created": "Sep 9, 2026 • 4:19 PM PT",
       "transaction_id": "1403554579936808960",
       "type": "free_agent",
       "status": "complete",
@@ -14043,7 +14043,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 9, 2026 • 3:14 PM PT",
+      "created": "Sep 9, 2026 • 4:14 PM PT",
       "transaction_id": "1403553234051698688",
       "type": "free_agent",
       "status": "complete",
@@ -14065,7 +14065,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 9, 2026 • 1:35 PM PT",
+      "created": "Sep 9, 2026 • 2:35 PM PT",
       "transaction_id": "1403528299073777664",
       "type": "free_agent",
       "status": "complete",
@@ -14087,7 +14087,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 8, 2026 • 11:42 PM PT",
+      "created": "Sep 9, 2026 • 12:42 AM PT",
       "transaction_id": "1403318683052314624",
       "type": "free_agent",
       "status": "complete",
@@ -14109,7 +14109,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 8, 2026 • 11:42 PM PT",
+      "created": "Sep 9, 2026 • 12:42 AM PT",
       "transaction_id": "1403318589070565376",
       "type": "free_agent",
       "status": "complete",
@@ -14131,7 +14131,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 8, 2026 • 9:05 AM PT",
+      "created": "Sep 8, 2026 • 10:05 AM PT",
       "transaction_id": "1403098010690273280",
       "type": "free_agent",
       "status": "complete",
@@ -14153,7 +14153,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 8, 2026 • 8:26 AM PT",
+      "created": "Sep 8, 2026 • 9:26 AM PT",
       "transaction_id": "1403088181967982592",
       "type": "free_agent",
       "status": "complete",
@@ -14175,7 +14175,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 6, 2026 • 1:20 PM PT",
+      "created": "Sep 6, 2026 • 2:20 PM PT",
       "transaction_id": "1402437232777789440",
       "type": "free_agent",
       "status": "complete",
@@ -14203,7 +14203,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 3, 2026 • 5:05 PM PT",
+      "created": "Sep 3, 2026 • 6:05 PM PT",
       "transaction_id": "1401406893255041024",
       "type": "waiver",
       "status": "complete",
@@ -14231,7 +14231,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 3, 2026 • 4:04 PM PT",
+      "created": "Sep 3, 2026 • 5:04 PM PT",
       "transaction_id": "1401391568270716928",
       "type": "free_agent",
       "status": "complete",
@@ -14253,7 +14253,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 3, 2026 • 4:04 PM PT",
+      "created": "Sep 3, 2026 • 5:04 PM PT",
       "transaction_id": "1401391451371261952",
       "type": "free_agent",
       "status": "complete",
@@ -14275,7 +14275,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 3, 2026 • 4:03 PM PT",
+      "created": "Sep 3, 2026 • 5:03 PM PT",
       "transaction_id": "1401391186219925504",
       "type": "free_agent",
       "status": "complete",
@@ -14297,7 +14297,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 3, 2026 • 4:03 PM PT",
+      "created": "Sep 3, 2026 • 5:03 PM PT",
       "transaction_id": "1401391138451017728",
       "type": "free_agent",
       "status": "complete",
@@ -14319,7 +14319,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 3, 2026 • 4:02 PM PT",
+      "created": "Sep 3, 2026 • 5:02 PM PT",
       "transaction_id": "1401391031684976640",
       "type": "free_agent",
       "status": "complete",
@@ -14341,7 +14341,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 3, 2026 • 11:49 AM PT",
+      "created": "Sep 3, 2026 • 12:49 PM PT",
       "transaction_id": "1401327296257720320",
       "type": "free_agent",
       "status": "complete",
@@ -14363,7 +14363,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 3, 2026 • 11:49 AM PT",
+      "created": "Sep 3, 2026 • 12:49 PM PT",
       "transaction_id": "1401327219170676763",
       "type": "free_agent",
       "status": "complete",
@@ -14385,7 +14385,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 2, 2026 • 7:30 PM PT",
+      "created": "Sep 2, 2026 • 8:30 PM PT",
       "transaction_id": "1401080817488232448",
       "type": "trade",
       "status": "complete",
@@ -14429,7 +14429,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 2, 2026 • 6:19 PM PT",
+      "created": "Sep 2, 2026 • 7:19 PM PT",
       "transaction_id": "1401063014685253632",
       "type": "free_agent",
       "status": "complete",
@@ -14451,7 +14451,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 1, 2026 • 5:22 PM PT",
+      "created": "Sep 1, 2026 • 6:22 PM PT",
       "transaction_id": "1400686372301373440",
       "type": "trade",
       "status": "complete",
@@ -14479,7 +14479,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 1, 2026 • 4:00 PM PT",
+      "created": "Sep 1, 2026 • 5:00 PM PT",
       "transaction_id": "1400665712497864704",
       "type": "trade",
       "status": "complete",
@@ -14528,7 +14528,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Sep 1, 2026 • 2:17 PM PT",
+      "created": "Sep 1, 2026 • 3:17 PM PT",
       "transaction_id": "1400639847441375232",
       "type": "free_agent",
       "status": "complete",
@@ -14550,7 +14550,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 31, 2026 • 6:11 PM PT",
+      "created": "Aug 31, 2026 • 7:11 PM PT",
       "transaction_id": "1400336261671067648",
       "type": "free_agent",
       "status": "complete",
@@ -14572,7 +14572,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 31, 2026 • 6:10 PM PT",
+      "created": "Aug 31, 2026 • 7:10 PM PT",
       "transaction_id": "1400335940131565568",
       "type": "free_agent",
       "status": "complete",
@@ -14594,7 +14594,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 31, 2026 • 6:09 PM PT",
+      "created": "Aug 31, 2026 • 7:09 PM PT",
       "transaction_id": "1400335649248145408",
       "type": "free_agent",
       "status": "complete",
@@ -14616,7 +14616,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 31, 2026 • 6:08 PM PT",
+      "created": "Aug 31, 2026 • 7:08 PM PT",
       "transaction_id": "1400335534731091968",
       "type": "free_agent",
       "status": "complete",
@@ -14638,7 +14638,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 31, 2026 • 4:48 PM PT",
+      "created": "Aug 31, 2026 • 5:48 PM PT",
       "transaction_id": "1400315456442605568",
       "type": "free_agent",
       "status": "complete",
@@ -14660,7 +14660,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 31, 2026 • 4:45 PM PT",
+      "created": "Aug 31, 2026 • 5:45 PM PT",
       "transaction_id": "1400314651958374400",
       "type": "free_agent",
       "status": "complete",
@@ -14682,7 +14682,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 31, 2026 • 4:38 PM PT",
+      "created": "Aug 31, 2026 • 5:38 PM PT",
       "transaction_id": "1400312921967362048",
       "type": "free_agent",
       "status": "complete",
@@ -14704,7 +14704,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 31, 2026 • 4:38 PM PT",
+      "created": "Aug 31, 2026 • 5:38 PM PT",
       "transaction_id": "1400312829742997504",
       "type": "free_agent",
       "status": "complete",
@@ -14726,7 +14726,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 31, 2026 • 1:25 PM PT",
+      "created": "Aug 31, 2026 • 2:25 PM PT",
       "transaction_id": "1400264241029640192",
       "type": "free_agent",
       "status": "complete",
@@ -14748,7 +14748,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 30, 2026 • 11:26 AM PT",
+      "created": "Aug 30, 2026 • 12:26 PM PT",
       "transaction_id": "1399871931947171840",
       "type": "free_agent",
       "status": "complete",
@@ -14770,7 +14770,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 30, 2026 • 11:22 AM PT",
+      "created": "Aug 30, 2026 • 12:22 PM PT",
       "transaction_id": "1399871015974154240",
       "type": "free_agent",
       "status": "complete",
@@ -14792,7 +14792,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 24, 2026 • 10:43 PM PT",
+      "created": "Aug 24, 2026 • 11:43 PM PT",
       "transaction_id": "1397867919605559296",
       "type": "free_agent",
       "status": "complete",
@@ -14820,7 +14820,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 23, 2026 • 6:44 PM PT",
+      "created": "Aug 23, 2026 • 7:44 PM PT",
       "transaction_id": "1397445387404513280",
       "type": "free_agent",
       "status": "complete",
@@ -14848,7 +14848,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 23, 2026 • 3:07 PM PT",
+      "created": "Aug 23, 2026 • 4:07 PM PT",
       "transaction_id": "1397390929660289024",
       "type": "trade",
       "status": "complete",
@@ -14877,7 +14877,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 23, 2026 • 2:45 PM PT",
+      "created": "Aug 23, 2026 • 3:45 PM PT",
       "transaction_id": "1397385414859329537",
       "type": "free_agent",
       "status": "complete",
@@ -14899,7 +14899,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 23, 2026 • 2:44 PM PT",
+      "created": "Aug 23, 2026 • 3:44 PM PT",
       "transaction_id": "1397385176186671104",
       "type": "free_agent",
       "status": "complete",
@@ -14921,7 +14921,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 23, 2026 • 2:30 PM PT",
+      "created": "Aug 23, 2026 • 3:30 PM PT",
       "transaction_id": "1397381580195962880",
       "type": "free_agent",
       "status": "complete",
@@ -14949,7 +14949,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 22, 2026 • 8:19 AM PT",
+      "created": "Aug 22, 2026 • 9:19 AM PT",
       "transaction_id": "1396925678544293888",
       "type": "free_agent",
       "status": "complete",
@@ -14971,7 +14971,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 21, 2026 • 11:41 PM PT",
+      "created": "Aug 22, 2026 • 12:41 AM PT",
       "transaction_id": "1396795505823981568",
       "type": "free_agent",
       "status": "complete",
@@ -14999,7 +14999,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 21, 2026 • 6:39 PM PT",
+      "created": "Aug 21, 2026 • 7:39 PM PT",
       "transaction_id": "1396719302194823168",
       "type": "free_agent",
       "status": "complete",
@@ -15021,7 +15021,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 20, 2026 • 4:46 PM PT",
+      "created": "Aug 20, 2026 • 5:46 PM PT",
       "transaction_id": "1396328682829651968",
       "type": "free_agent",
       "status": "complete",
@@ -15049,7 +15049,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 20, 2026 • 3:21 PM PT",
+      "created": "Aug 20, 2026 • 4:21 PM PT",
       "transaction_id": "1396307084135378944",
       "type": "trade",
       "status": "complete",
@@ -15083,7 +15083,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 19, 2026 • 8:57 PM PT",
+      "created": "Aug 19, 2026 • 9:57 PM PT",
       "transaction_id": "1396029291539472384",
       "type": "free_agent",
       "status": "complete",
@@ -15111,7 +15111,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 19, 2026 • 8:47 PM PT",
+      "created": "Aug 19, 2026 • 9:47 PM PT",
       "transaction_id": "1396026804317208576",
       "type": "trade",
       "status": "complete",
@@ -15145,7 +15145,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 19, 2026 • 8:23 PM PT",
+      "created": "Aug 19, 2026 • 9:23 PM PT",
       "transaction_id": "1396020844097978368",
       "type": "free_agent",
       "status": "complete",
@@ -15173,7 +15173,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 19, 2026 • 1:50 PM PT",
+      "created": "Aug 19, 2026 • 2:50 PM PT",
       "transaction_id": "1395922002807619584",
       "type": "free_agent",
       "status": "complete",
@@ -15195,7 +15195,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 19, 2026 • 1:50 PM PT",
+      "created": "Aug 19, 2026 • 2:50 PM PT",
       "transaction_id": "1395921798444388352",
       "type": "free_agent",
       "status": "complete",
@@ -15217,7 +15217,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 19, 2026 • 1:37 PM PT",
+      "created": "Aug 19, 2026 • 2:37 PM PT",
       "transaction_id": "1395918693749235712",
       "type": "trade",
       "status": "complete",
@@ -15260,7 +15260,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 19, 2026 • 12:09 PM PT",
+      "created": "Aug 19, 2026 • 1:09 PM PT",
       "transaction_id": "1395896382719557632",
       "type": "trade",
       "status": "complete",
@@ -15305,7 +15305,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 19, 2026 • 12:00 PM PT",
+      "created": "Aug 19, 2026 • 1:00 PM PT",
       "transaction_id": "1395894190843367424",
       "type": "trade",
       "status": "complete",
@@ -15354,7 +15354,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 18, 2026 • 7:11 PM PT",
+      "created": "Aug 18, 2026 • 8:11 PM PT",
       "transaction_id": "1395640340005806080",
       "type": "free_agent",
       "status": "complete",
@@ -15376,7 +15376,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 18, 2026 • 7:07 PM PT",
+      "created": "Aug 18, 2026 • 8:07 PM PT",
       "transaction_id": "1395639282516922368",
       "type": "free_agent",
       "status": "complete",
@@ -15398,7 +15398,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 18, 2026 • 8:57 AM PT",
+      "created": "Aug 18, 2026 • 9:57 AM PT",
       "transaction_id": "1395485866654187520",
       "type": "free_agent",
       "status": "complete",
@@ -15420,7 +15420,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 18, 2026 • 8:56 AM PT",
+      "created": "Aug 18, 2026 • 9:56 AM PT",
       "transaction_id": "1395485525804077056",
       "type": "free_agent",
       "status": "complete",
@@ -15442,7 +15442,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 17, 2026 • 3:13 PM PT",
+      "created": "Aug 17, 2026 • 4:13 PM PT",
       "transaction_id": "1395217978148032512",
       "type": "trade",
       "status": "complete",
@@ -15522,7 +15522,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 17, 2026 • 7:57 AM PT",
+      "created": "Aug 17, 2026 • 8:57 AM PT",
       "transaction_id": "1395108291205427200",
       "type": "free_agent",
       "status": "complete",
@@ -15544,7 +15544,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 13, 2026 • 10:17 AM PT",
+      "created": "Aug 13, 2026 • 11:17 AM PT",
       "transaction_id": "1393694063374405632",
       "type": "trade",
       "status": "complete",
@@ -15608,7 +15608,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 12, 2026 • 7:51 PM PT",
+      "created": "Aug 12, 2026 • 8:51 PM PT",
       "transaction_id": "1393476068316307456",
       "type": "free_agent",
       "status": "complete",
@@ -15630,7 +15630,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 12, 2026 • 7:51 PM PT",
+      "created": "Aug 12, 2026 • 8:51 PM PT",
       "transaction_id": "1393476045222469632",
       "type": "free_agent",
       "status": "complete",
@@ -15652,7 +15652,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 12, 2026 • 5:00 PM PT",
+      "created": "Aug 12, 2026 • 6:00 PM PT",
       "transaction_id": "1393432951026356224",
       "type": "trade",
       "status": "complete",
@@ -15708,7 +15708,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 11, 2026 • 9:31 PM PT",
+      "created": "Aug 11, 2026 • 10:31 PM PT",
       "transaction_id": "1393138857444147200",
       "type": "free_agent",
       "status": "complete",
@@ -15730,7 +15730,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 11, 2026 • 3:58 PM PT",
+      "created": "Aug 11, 2026 • 4:58 PM PT",
       "transaction_id": "1393055024266870784",
       "type": "trade",
       "status": "complete",
@@ -15765,7 +15765,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 11, 2026 • 3:08 PM PT",
+      "created": "Aug 11, 2026 • 4:08 PM PT",
       "transaction_id": "1393042386522742784",
       "type": "trade",
       "status": "complete",
@@ -15817,7 +15817,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 11, 2026 • 12:14 PM PT",
+      "created": "Aug 11, 2026 • 1:14 PM PT",
       "transaction_id": "1392998536768929792",
       "type": "free_agent",
       "status": "complete",
@@ -15839,7 +15839,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 11, 2026 • 12:17 AM PT",
+      "created": "Aug 11, 2026 • 1:17 AM PT",
       "transaction_id": "1392818319031042048",
       "type": "free_agent",
       "status": "complete",
@@ -15861,7 +15861,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 11, 2026 • 12:15 AM PT",
+      "created": "Aug 11, 2026 • 1:15 AM PT",
       "transaction_id": "1392817695598080000",
       "type": "free_agent",
       "status": "complete",
@@ -15883,7 +15883,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 11, 2026 • 12:13 AM PT",
+      "created": "Aug 11, 2026 • 1:13 AM PT",
       "transaction_id": "1392817265652551680",
       "type": "free_agent",
       "status": "complete",
@@ -15905,7 +15905,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 9, 2026 • 10:57 PM PT",
+      "created": "Aug 9, 2026 • 11:57 PM PT",
       "transaction_id": "1392435815551873024",
       "type": "trade",
       "status": "complete",
@@ -15962,7 +15962,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 8, 2026 • 11:21 PM PT",
+      "created": "Aug 9, 2026 • 12:21 AM PT",
       "transaction_id": "1392079373393227776",
       "type": "free_agent",
       "status": "complete",
@@ -15990,7 +15990,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 6, 2026 • 2:34 PM PT",
+      "created": "Aug 6, 2026 • 3:34 PM PT",
       "transaction_id": "1391221920657072128",
       "type": "free_agent",
       "status": "complete",
@@ -16012,7 +16012,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 4, 2026 • 3:01 PM PT",
+      "created": "Aug 4, 2026 • 4:01 PM PT",
       "transaction_id": "1390503998598963200",
       "type": "free_agent",
       "status": "complete",
@@ -16034,7 +16034,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 2, 2026 • 7:46 AM PT",
+      "created": "Aug 2, 2026 • 8:46 AM PT",
       "transaction_id": "1389669781656866816",
       "type": "free_agent",
       "status": "complete",
@@ -16056,7 +16056,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 2, 2026 • 7:46 AM PT",
+      "created": "Aug 2, 2026 • 8:46 AM PT",
       "transaction_id": "1389669748215672832",
       "type": "free_agent",
       "status": "complete",
@@ -16078,7 +16078,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Aug 2, 2026 • 7:46 AM PT",
+      "created": "Aug 2, 2026 • 8:46 AM PT",
       "transaction_id": "1389669721313415168",
       "type": "free_agent",
       "status": "complete",
@@ -16100,7 +16100,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jul 29, 2026 • 5:56 PM PT",
+      "created": "Jul 29, 2026 • 6:56 PM PT",
       "transaction_id": "1388373641237905408",
       "type": "free_agent",
       "status": "complete",
@@ -16122,7 +16122,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jul 29, 2026 • 5:56 PM PT",
+      "created": "Jul 29, 2026 • 6:56 PM PT",
       "transaction_id": "1388373612972494848",
       "type": "free_agent",
       "status": "complete",
@@ -16144,7 +16144,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jul 4, 2026 • 8:25 AM PT",
+      "created": "Jul 4, 2026 • 9:25 AM PT",
       "transaction_id": "1379170314688135168",
       "type": "free_agent",
       "status": "complete",
@@ -16166,7 +16166,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jul 3, 2026 • 10:45 AM PT",
+      "created": "Jul 3, 2026 • 11:45 AM PT",
       "transaction_id": "1378843128101883904",
       "type": "free_agent",
       "status": "complete",
@@ -16188,7 +16188,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 26, 2026 • 1:52 PM PT",
+      "created": "Jun 26, 2026 • 2:52 PM PT",
       "transaction_id": "1376353512111214592",
       "type": "free_agent",
       "status": "complete",
@@ -16210,7 +16210,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 26, 2026 • 1:52 PM PT",
+      "created": "Jun 26, 2026 • 2:52 PM PT",
       "transaction_id": "1376353485875875840",
       "type": "free_agent",
       "status": "complete",
@@ -16232,7 +16232,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 25, 2026 • 10:23 PM PT",
+      "created": "Jun 25, 2026 • 11:23 PM PT",
       "transaction_id": "1376119670020538368",
       "type": "trade",
       "status": "complete",
@@ -16266,7 +16266,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 25, 2026 • 8:50 PM PT",
+      "created": "Jun 25, 2026 • 9:50 PM PT",
       "transaction_id": "1376096290793848832",
       "type": "trade",
       "status": "complete",
@@ -16305,7 +16305,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 23, 2026 • 3:57 AM PT",
+      "created": "Jun 23, 2026 • 4:57 AM PT",
       "transaction_id": "1375116537437917184",
       "type": "free_agent",
       "status": "complete",
@@ -16327,7 +16327,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 23, 2026 • 3:56 AM PT",
+      "created": "Jun 23, 2026 • 4:56 AM PT",
       "transaction_id": "1375116224320503808",
       "type": "free_agent",
       "status": "complete",
@@ -16349,7 +16349,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 18, 2026 • 12:22 PM PT",
+      "created": "Jun 18, 2026 • 1:22 PM PT",
       "transaction_id": "1373431745772265472",
       "type": "free_agent",
       "status": "complete",
@@ -16377,7 +16377,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 17, 2026 • 12:58 AM PT",
+      "created": "Jun 17, 2026 • 1:58 AM PT",
       "transaction_id": "1372897145543217152",
       "type": "free_agent",
       "status": "complete",
@@ -16405,7 +16405,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 17, 2026 • 12:57 AM PT",
+      "created": "Jun 17, 2026 • 1:57 AM PT",
       "transaction_id": "1372896960582795264",
       "type": "free_agent",
       "status": "complete",
@@ -16433,7 +16433,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 16, 2026 • 11:37 AM PT",
+      "created": "Jun 16, 2026 • 12:37 PM PT",
       "transaction_id": "1372695548578004992",
       "type": "free_agent",
       "status": "complete",
@@ -16461,7 +16461,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 3:26 PM PT",
+      "created": "Jun 15, 2026 • 4:26 PM PT",
       "transaction_id": "1372390911983513600",
       "type": "free_agent",
       "status": "complete",
@@ -16483,7 +16483,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 3:26 PM PT",
+      "created": "Jun 15, 2026 • 4:26 PM PT",
       "transaction_id": "1372390766571159552",
       "type": "free_agent",
       "status": "complete",
@@ -16505,7 +16505,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 2:51 PM PT",
+      "created": "Jun 15, 2026 • 3:51 PM PT",
       "transaction_id": "1372381943739449344",
       "type": "free_agent",
       "status": "complete",
@@ -16533,7 +16533,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 2:31 PM PT",
+      "created": "Jun 15, 2026 • 3:31 PM PT",
       "transaction_id": "1372377060353253376",
       "type": "free_agent",
       "status": "complete",
@@ -16561,7 +16561,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 1:59 PM PT",
+      "created": "Jun 15, 2026 • 2:59 PM PT",
       "transaction_id": "1372368848686170112",
       "type": "waiver",
       "status": "failed",
@@ -16583,7 +16583,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 1:57 PM PT",
+      "created": "Jun 15, 2026 • 2:57 PM PT",
       "transaction_id": "1372368459056308224",
       "type": "free_agent",
       "status": "complete",
@@ -16605,7 +16605,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 1:57 PM PT",
+      "created": "Jun 15, 2026 • 2:57 PM PT",
       "transaction_id": "1372368350755164160",
       "type": "free_agent",
       "status": "complete",
@@ -16627,7 +16627,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 1:56 PM PT",
+      "created": "Jun 15, 2026 • 2:56 PM PT",
       "transaction_id": "1372368170488180736",
       "type": "waiver",
       "status": "complete",
@@ -16655,7 +16655,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 1:54 PM PT",
+      "created": "Jun 15, 2026 • 2:54 PM PT",
       "transaction_id": "1372367841147244544",
       "type": "free_agent",
       "status": "complete",
@@ -16683,7 +16683,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 1:52 PM PT",
+      "created": "Jun 15, 2026 • 2:52 PM PT",
       "transaction_id": "1372367104040239104",
       "type": "free_agent",
       "status": "complete",
@@ -16711,7 +16711,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 1:46 PM PT",
+      "created": "Jun 15, 2026 • 2:46 PM PT",
       "transaction_id": "1372365783551705088",
       "type": "free_agent",
       "status": "complete",
@@ -16733,7 +16733,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 1:46 PM PT",
+      "created": "Jun 15, 2026 • 2:46 PM PT",
       "transaction_id": "1372365726727274496",
       "type": "free_agent",
       "status": "complete",
@@ -16755,7 +16755,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 1:46 PM PT",
+      "created": "Jun 15, 2026 • 2:46 PM PT",
       "transaction_id": "1372365720909774848",
       "type": "free_agent",
       "status": "complete",
@@ -16783,7 +16783,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 1:45 PM PT",
+      "created": "Jun 15, 2026 • 2:45 PM PT",
       "transaction_id": "1372365549647953920",
       "type": "free_agent",
       "status": "complete",
@@ -16811,7 +16811,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 1:45 PM PT",
+      "created": "Jun 15, 2026 • 2:45 PM PT",
       "transaction_id": "1372365510213128192",
       "type": "free_agent",
       "status": "complete",
@@ -16833,7 +16833,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 1:44 PM PT",
+      "created": "Jun 15, 2026 • 2:44 PM PT",
       "transaction_id": "1372365279186681856",
       "type": "free_agent",
       "status": "complete",
@@ -16861,7 +16861,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 1:38 PM PT",
+      "created": "Jun 15, 2026 • 2:38 PM PT",
       "transaction_id": "1372363583588925440",
       "type": "free_agent",
       "status": "complete",
@@ -16883,7 +16883,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 15, 2026 • 1:35 PM PT",
+      "created": "Jun 15, 2026 • 2:35 PM PT",
       "transaction_id": "1372363009279684608",
       "type": "free_agent",
       "status": "complete",
@@ -16905,7 +16905,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 10, 2026 • 9:31 PM PT",
+      "created": "Jun 10, 2026 • 10:31 PM PT",
       "transaction_id": "1370670720450830336",
       "type": "trade",
       "status": "complete",
@@ -16954,7 +16954,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 10, 2026 • 4:48 PM PT",
+      "created": "Jun 10, 2026 • 5:48 PM PT",
       "transaction_id": "1370599606894739456",
       "type": "free_agent",
       "status": "complete",
@@ -16976,7 +16976,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 10, 2026 • 4:47 PM PT",
+      "created": "Jun 10, 2026 • 5:47 PM PT",
       "transaction_id": "1370599429144313856",
       "type": "free_agent",
       "status": "complete",
@@ -16998,7 +16998,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 10, 2026 • 4:46 PM PT",
+      "created": "Jun 10, 2026 • 5:46 PM PT",
       "transaction_id": "1370599136193175552",
       "type": "free_agent",
       "status": "complete",
@@ -17020,7 +17020,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 10, 2026 • 11:08 AM PT",
+      "created": "Jun 10, 2026 • 12:08 PM PT",
       "transaction_id": "1370514117244223488",
       "type": "trade",
       "status": "complete",
@@ -17049,7 +17049,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 7, 2026 • 7:44 PM PT",
+      "created": "Jun 7, 2026 • 8:44 PM PT",
       "transaction_id": "1369556650192560128",
       "type": "free_agent",
       "status": "complete",
@@ -17071,7 +17071,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Jun 7, 2026 • 7:43 PM PT",
+      "created": "Jun 7, 2026 • 8:43 PM PT",
       "transaction_id": "1369556346537537536",
       "type": "free_agent",
       "status": "complete",
@@ -17093,7 +17093,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "May 19, 2026 • 7:34 PM PT",
+      "created": "May 19, 2026 • 8:34 PM PT",
       "transaction_id": "1362668846992887808",
       "type": "trade",
       "status": "complete",
@@ -17136,7 +17136,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Apr 28, 2026 • 2:42 PM PT",
+      "created": "Apr 28, 2026 • 3:42 PM PT",
       "transaction_id": "1354985291743514624",
       "type": "free_agent",
       "status": "complete",
@@ -17158,7 +17158,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Apr 4, 2026 • 10:06 PM PT",
+      "created": "Apr 4, 2026 • 11:06 PM PT",
       "transaction_id": "1346399555796619264",
       "type": "free_agent",
       "status": "complete",
@@ -17180,7 +17180,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Apr 4, 2026 • 9:46 PM PT",
+      "created": "Apr 4, 2026 • 10:46 PM PT",
       "transaction_id": "1346394590411771904",
       "type": "free_agent",
       "status": "complete",
@@ -17202,7 +17202,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Mar 20, 2026 • 9:44 PM PT",
+      "created": "Mar 20, 2026 • 10:44 PM PT",
       "transaction_id": "1340958133706559488",
       "type": "free_agent",
       "status": "complete",
@@ -17224,7 +17224,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Mar 20, 2026 • 9:43 PM PT",
+      "created": "Mar 20, 2026 • 10:43 PM PT",
       "transaction_id": "1340958053054283776",
       "type": "free_agent",
       "status": "complete",
@@ -17246,7 +17246,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Mar 17, 2026 • 10:22 AM PT",
+      "created": "Mar 17, 2026 • 11:22 AM PT",
       "transaction_id": "1339699485214797824",
       "type": "free_agent",
       "status": "complete",
@@ -17268,7 +17268,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 1,
-      "created": "Mar 17, 2026 • 10:21 AM PT",
+      "created": "Mar 17, 2026 • 11:21 AM PT",
       "transaction_id": "1339699273062682624",
       "type": "free_agent",
       "status": "complete",
@@ -22294,7 +22294,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 9,
-      "created": "Nov 1, 2025 • 10:59 PM PT",
+      "created": "Nov 1, 2025 • 11:59 PM PT",
       "transaction_id": "1290605185407672320",
       "type": "free_agent",
       "status": "complete",
@@ -22322,7 +22322,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 9,
-      "created": "Oct 31, 2025 • 10:22 PM PT",
+      "created": "Oct 31, 2025 • 11:22 PM PT",
       "transaction_id": "1290233398333288448",
       "type": "free_agent",
       "status": "complete",
@@ -22344,7 +22344,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 9,
-      "created": "Oct 31, 2025 • 9:30 PM PT",
+      "created": "Oct 31, 2025 • 10:30 PM PT",
       "transaction_id": "1290220471811313664",
       "type": "free_agent",
       "status": "complete",
@@ -22366,7 +22366,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 9,
-      "created": "Oct 31, 2025 • 1:28 PM PT",
+      "created": "Oct 31, 2025 • 2:28 PM PT",
       "transaction_id": "1290099119280377856",
       "type": "free_agent",
       "status": "complete",
@@ -22388,7 +22388,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 9,
-      "created": "Oct 30, 2025 • 6:43 PM PT",
+      "created": "Oct 30, 2025 • 7:43 PM PT",
       "transaction_id": "1289816010949423104",
       "type": "free_agent",
       "status": "complete",
@@ -22416,7 +22416,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 9,
-      "created": "Oct 30, 2025 • 6:49 AM PT",
+      "created": "Oct 30, 2025 • 7:49 AM PT",
       "transaction_id": "1289636323002454016",
       "type": "trade",
       "status": "complete",
@@ -22455,7 +22455,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 9,
-      "created": "Oct 29, 2025 • 5:51 PM PT",
+      "created": "Oct 29, 2025 • 6:51 PM PT",
       "transaction_id": "1289440530438029312",
       "type": "waiver",
       "status": "complete",
@@ -22483,7 +22483,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 9,
-      "created": "Oct 29, 2025 • 4:03 AM PT",
+      "created": "Oct 29, 2025 • 5:03 AM PT",
       "transaction_id": "1289232050095673344",
       "type": "free_agent",
       "status": "complete",
@@ -22511,7 +22511,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 9,
-      "created": "Oct 29, 2025 • 4:00 AM PT",
+      "created": "Oct 29, 2025 • 5:00 AM PT",
       "transaction_id": "1289231440189333504",
       "type": "free_agent",
       "status": "complete",
@@ -22539,7 +22539,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 9,
-      "created": "Oct 29, 2025 • 1:28 AM PT",
+      "created": "Oct 29, 2025 • 2:28 AM PT",
       "transaction_id": "1289193125813694464",
       "type": "trade",
       "status": "complete",
@@ -22589,7 +22589,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 9,
-      "created": "Oct 29, 2025 • 1:09 AM PT",
+      "created": "Oct 29, 2025 • 2:09 AM PT",
       "transaction_id": "1289188301038718976",
       "type": "free_agent",
       "status": "complete",
@@ -22611,7 +22611,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 9,
-      "created": "Oct 29, 2025 • 1:08 AM PT",
+      "created": "Oct 29, 2025 • 2:08 AM PT",
       "transaction_id": "1289188189004644352",
       "type": "free_agent",
       "status": "complete",
@@ -22633,7 +22633,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 9,
-      "created": "Oct 29, 2025 • 1:08 AM PT",
+      "created": "Oct 29, 2025 • 2:08 AM PT",
       "transaction_id": "1289188166271533056",
       "type": "free_agent",
       "status": "complete",
@@ -22655,7 +22655,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 9,
-      "created": "Oct 28, 2025 • 11:55 PM PT",
+      "created": "Oct 29, 2025 • 12:55 AM PT",
       "transaction_id": "1289169824928256000",
       "type": "free_agent",
       "status": "complete",
@@ -22683,7 +22683,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 9,
-      "created": "Oct 28, 2025 • 11:28 PM PT",
+      "created": "Oct 29, 2025 • 12:28 AM PT",
       "transaction_id": "1289163022585073664",
       "type": "free_agent",
       "status": "complete",
@@ -22705,7 +22705,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 9,
-      "created": "Oct 28, 2025 • 11:18 PM PT",
+      "created": "Oct 29, 2025 • 12:18 AM PT",
       "transaction_id": "1289160471227699200",
       "type": "free_agent",
       "status": "complete",
@@ -22727,7 +22727,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 28, 2025 • 9:26 PM PT",
+      "created": "Oct 28, 2025 • 10:26 PM PT",
       "transaction_id": "1289132139241050112",
       "type": "waiver",
       "status": "complete",
@@ -22755,7 +22755,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 28, 2025 • 9:23 PM PT",
+      "created": "Oct 28, 2025 • 10:23 PM PT",
       "transaction_id": "1289131519893315585",
       "type": "waiver",
       "status": "failed",
@@ -22777,7 +22777,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 28, 2025 • 9:37 AM PT",
+      "created": "Oct 28, 2025 • 10:37 AM PT",
       "transaction_id": "1288953861666529280",
       "type": "waiver",
       "status": "failed",
@@ -22799,7 +22799,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 28, 2025 • 6:03 AM PT",
+      "created": "Oct 28, 2025 • 7:03 AM PT",
       "transaction_id": "1288900003502264320",
       "type": "free_agent",
       "status": "complete",
@@ -22821,7 +22821,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 28, 2025 • 6:03 AM PT",
+      "created": "Oct 28, 2025 • 7:03 AM PT",
       "transaction_id": "1288899974939045888",
       "type": "free_agent",
       "status": "complete",
@@ -22843,7 +22843,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 27, 2025 • 11:23 PM PT",
+      "created": "Oct 28, 2025 • 12:23 AM PT",
       "transaction_id": "1288799384670056448",
       "type": "waiver",
       "status": "complete",
@@ -22871,7 +22871,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 27, 2025 • 11:21 PM PT",
+      "created": "Oct 28, 2025 • 12:21 AM PT",
       "transaction_id": "1288798856959500288",
       "type": "waiver",
       "status": "complete",
@@ -22899,7 +22899,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 27, 2025 • 10:30 PM PT",
+      "created": "Oct 27, 2025 • 11:30 PM PT",
       "transaction_id": "1288785956211556352",
       "type": "trade",
       "status": "complete",
@@ -22953,7 +22953,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 27, 2025 • 9:20 PM PT",
+      "created": "Oct 27, 2025 • 10:20 PM PT",
       "transaction_id": "1288768314562068480",
       "type": "waiver",
       "status": "complete",
@@ -22981,7 +22981,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 27, 2025 • 9:05 PM PT",
+      "created": "Oct 27, 2025 • 10:05 PM PT",
       "transaction_id": "1288764511142039552",
       "type": "free_agent",
       "status": "complete",
@@ -23003,7 +23003,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 27, 2025 • 9:31 AM PT",
+      "created": "Oct 27, 2025 • 10:31 AM PT",
       "transaction_id": "1288589947787292672",
       "type": "waiver",
       "status": "complete",
@@ -23031,7 +23031,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 26, 2025 • 10:16 PM PT",
+      "created": "Oct 26, 2025 • 11:16 PM PT",
       "transaction_id": "1288420184444379136",
       "type": "trade",
       "status": "complete",
@@ -23082,7 +23082,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 26, 2025 • 1:22 PM PT",
+      "created": "Oct 26, 2025 • 2:22 PM PT",
       "transaction_id": "1288285604697632769",
       "type": "waiver",
       "status": "failed",
@@ -23104,7 +23104,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 26, 2025 • 6:01 AM PT",
+      "created": "Oct 26, 2025 • 7:01 AM PT",
       "transaction_id": "1288174812451053568",
       "type": "free_agent",
       "status": "complete",
@@ -23126,7 +23126,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 26, 2025 • 6:01 AM PT",
+      "created": "Oct 26, 2025 • 7:01 AM PT",
       "transaction_id": "1288174579738501120",
       "type": "free_agent",
       "status": "complete",
@@ -23148,7 +23148,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 25, 2025 • 9:11 PM PT",
+      "created": "Oct 25, 2025 • 10:11 PM PT",
       "transaction_id": "1288041271524335616",
       "type": "trade",
       "status": "complete",
@@ -23194,7 +23194,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 25, 2025 • 7:13 PM PT",
+      "created": "Oct 25, 2025 • 8:13 PM PT",
       "transaction_id": "1288011550782664704",
       "type": "free_agent",
       "status": "complete",
@@ -23216,7 +23216,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 25, 2025 • 9:42 AM PT",
+      "created": "Oct 25, 2025 • 10:42 AM PT",
       "transaction_id": "1287867923313991680",
       "type": "free_agent",
       "status": "complete",
@@ -23238,7 +23238,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 23, 2025 • 8:32 PM PT",
+      "created": "Oct 23, 2025 • 9:32 PM PT",
       "transaction_id": "1287306767008563200",
       "type": "free_agent",
       "status": "complete",
@@ -23260,7 +23260,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 23, 2025 • 12:54 PM PT",
+      "created": "Oct 23, 2025 • 1:54 PM PT",
       "transaction_id": "1287191436894154752",
       "type": "free_agent",
       "status": "complete",
@@ -23288,7 +23288,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 23, 2025 • 12:54 PM PT",
+      "created": "Oct 23, 2025 • 1:54 PM PT",
       "transaction_id": "1287191365779730432",
       "type": "free_agent",
       "status": "complete",
@@ -23316,7 +23316,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 23, 2025 • 12:34 PM PT",
+      "created": "Oct 23, 2025 • 1:34 PM PT",
       "transaction_id": "1287186462286041088",
       "type": "free_agent",
       "status": "complete",
@@ -23344,7 +23344,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 23, 2025 • 7:34 AM PT",
+      "created": "Oct 23, 2025 • 8:34 AM PT",
       "transaction_id": "1287111031167918080",
       "type": "free_agent",
       "status": "complete",
@@ -23372,7 +23372,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 8,
-      "created": "Oct 22, 2025 • 6:40 PM PT",
+      "created": "Oct 22, 2025 • 7:40 PM PT",
       "transaction_id": "1286916034254626816",
       "type": "free_agent",
       "status": "complete",
@@ -23400,7 +23400,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 21, 2025 • 10:24 PM PT",
+      "created": "Oct 21, 2025 • 11:24 PM PT",
       "transaction_id": "1286610211787796480",
       "type": "waiver",
       "status": "complete",
@@ -23428,7 +23428,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 21, 2025 • 8:21 PM PT",
+      "created": "Oct 21, 2025 • 9:21 PM PT",
       "transaction_id": "1286579133576396800",
       "type": "waiver",
       "status": "complete",
@@ -23456,7 +23456,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 21, 2025 • 1:38 PM PT",
+      "created": "Oct 21, 2025 • 2:38 PM PT",
       "transaction_id": "1286477669759721472",
       "type": "free_agent",
       "status": "complete",
@@ -23478,7 +23478,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 21, 2025 • 1:10 PM PT",
+      "created": "Oct 21, 2025 • 2:10 PM PT",
       "transaction_id": "1286470757999738880",
       "type": "waiver",
       "status": "complete",
@@ -23506,7 +23506,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 21, 2025 • 11:55 AM PT",
+      "created": "Oct 21, 2025 • 12:55 PM PT",
       "transaction_id": "1286451911716802560",
       "type": "waiver",
       "status": "complete",
@@ -23534,7 +23534,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 20, 2025 • 8:40 PM PT",
+      "created": "Oct 20, 2025 • 9:40 PM PT",
       "transaction_id": "1286221678795304960",
       "type": "waiver",
       "status": "complete",
@@ -23562,7 +23562,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 20, 2025 • 8:40 PM PT",
+      "created": "Oct 20, 2025 • 9:40 PM PT",
       "transaction_id": "1286221490945032192",
       "type": "waiver",
       "status": "failed",
@@ -23584,7 +23584,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 20, 2025 • 8:11 AM PT",
+      "created": "Oct 20, 2025 • 9:11 AM PT",
       "transaction_id": "1286033151759491072",
       "type": "waiver",
       "status": "complete",
@@ -23612,7 +23612,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 20, 2025 • 8:10 AM PT",
+      "created": "Oct 20, 2025 • 9:10 AM PT",
       "transaction_id": "1286032725098123264",
       "type": "waiver",
       "status": "complete",
@@ -23640,7 +23640,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 19, 2025 • 8:29 AM PT",
+      "created": "Oct 19, 2025 • 9:29 AM PT",
       "transaction_id": "1285675232517980160",
       "type": "free_agent",
       "status": "complete",
@@ -23662,7 +23662,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 18, 2025 • 1:30 PM PT",
+      "created": "Oct 18, 2025 • 2:30 PM PT",
       "transaction_id": "1285388511205130240",
       "type": "free_agent",
       "status": "complete",
@@ -23690,7 +23690,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 17, 2025 • 11:31 AM PT",
+      "created": "Oct 17, 2025 • 12:31 PM PT",
       "transaction_id": "1284996261472145408",
       "type": "free_agent",
       "status": "complete",
@@ -23718,7 +23718,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 16, 2025 • 4:19 PM PT",
+      "created": "Oct 16, 2025 • 5:19 PM PT",
       "transaction_id": "1284706413792219136",
       "type": "free_agent",
       "status": "complete",
@@ -23746,7 +23746,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 16, 2025 • 5:59 AM PT",
+      "created": "Oct 16, 2025 • 6:59 AM PT",
       "transaction_id": "1284550397322620928",
       "type": "free_agent",
       "status": "complete",
@@ -23768,7 +23768,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 16, 2025 • 5:56 AM PT",
+      "created": "Oct 16, 2025 • 6:56 AM PT",
       "transaction_id": "1284549466791112704",
       "type": "free_agent",
       "status": "complete",
@@ -23790,7 +23790,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 16, 2025 • 5:55 AM PT",
+      "created": "Oct 16, 2025 • 6:55 AM PT",
       "transaction_id": "1284549355277148160",
       "type": "free_agent",
       "status": "complete",
@@ -23818,7 +23818,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 16, 2025 • 5:48 AM PT",
+      "created": "Oct 16, 2025 • 6:48 AM PT",
       "transaction_id": "1284547639748083712",
       "type": "free_agent",
       "status": "complete",
@@ -23840,7 +23840,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 15, 2025 • 5:55 PM PT",
+      "created": "Oct 15, 2025 • 6:55 PM PT",
       "transaction_id": "1284368079442186240",
       "type": "free_agent",
       "status": "complete",
@@ -23868,7 +23868,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 15, 2025 • 5:49 PM PT",
+      "created": "Oct 15, 2025 • 6:49 PM PT",
       "transaction_id": "1284366658365841408",
       "type": "free_agent",
       "status": "complete",
@@ -23896,7 +23896,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 15, 2025 • 5:49 PM PT",
+      "created": "Oct 15, 2025 • 6:49 PM PT",
       "transaction_id": "1284366564149198848",
       "type": "free_agent",
       "status": "complete",
@@ -23918,7 +23918,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 15, 2025 • 5:39 PM PT",
+      "created": "Oct 15, 2025 • 6:39 PM PT",
       "transaction_id": "1284364194682015744",
       "type": "trade",
       "status": "complete",
@@ -23946,7 +23946,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 15, 2025 • 8:32 AM PT",
+      "created": "Oct 15, 2025 • 9:32 AM PT",
       "transaction_id": "1284226506331004928",
       "type": "free_agent",
       "status": "complete",
@@ -23974,7 +23974,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 15, 2025 • 7:35 AM PT",
+      "created": "Oct 15, 2025 • 8:35 AM PT",
       "transaction_id": "1284212188759740416",
       "type": "free_agent",
       "status": "complete",
@@ -24002,7 +24002,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 15, 2025 • 7:24 AM PT",
+      "created": "Oct 15, 2025 • 8:24 AM PT",
       "transaction_id": "1284209252256194560",
       "type": "trade",
       "status": "complete",
@@ -24036,7 +24036,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 7,
-      "created": "Oct 15, 2025 • 4:38 AM PT",
+      "created": "Oct 15, 2025 • 5:38 AM PT",
       "transaction_id": "1284167663353880576",
       "type": "free_agent",
       "status": "complete",
@@ -24064,7 +24064,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 14, 2025 • 9:18 PM PT",
+      "created": "Oct 14, 2025 • 10:18 PM PT",
       "transaction_id": "1284056895526572032",
       "type": "waiver",
       "status": "complete",
@@ -24092,7 +24092,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 14, 2025 • 9:10 PM PT",
+      "created": "Oct 14, 2025 • 10:10 PM PT",
       "transaction_id": "1284054700898918400",
       "type": "waiver",
       "status": "complete",
@@ -24114,7 +24114,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 14, 2025 • 9:09 PM PT",
+      "created": "Oct 14, 2025 • 10:09 PM PT",
       "transaction_id": "1284054615704207360",
       "type": "waiver",
       "status": "failed",
@@ -24136,7 +24136,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 14, 2025 • 4:49 PM PT",
+      "created": "Oct 14, 2025 • 5:49 PM PT",
       "transaction_id": "1283989168992587776",
       "type": "waiver",
       "status": "complete",
@@ -24164,7 +24164,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 14, 2025 • 4:07 PM PT",
+      "created": "Oct 14, 2025 • 5:07 PM PT",
       "transaction_id": "1283978536209616896",
       "type": "waiver",
       "status": "complete",
@@ -24192,7 +24192,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 14, 2025 • 3:42 PM PT",
+      "created": "Oct 14, 2025 • 4:42 PM PT",
       "transaction_id": "1283972268673761280",
       "type": "waiver",
       "status": "failed",
@@ -24214,7 +24214,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 14, 2025 • 12:44 PM PT",
+      "created": "Oct 14, 2025 • 1:44 PM PT",
       "transaction_id": "1283927391009255424",
       "type": "free_agent",
       "status": "complete",
@@ -24236,7 +24236,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 14, 2025 • 12:16 PM PT",
+      "created": "Oct 14, 2025 • 1:16 PM PT",
       "transaction_id": "1283920418264076288",
       "type": "trade",
       "status": "complete",
@@ -24275,7 +24275,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 14, 2025 • 7:22 AM PT",
+      "created": "Oct 14, 2025 • 8:22 AM PT",
       "transaction_id": "1283846483963027456",
       "type": "waiver",
       "status": "failed",
@@ -24297,7 +24297,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 14, 2025 • 7:21 AM PT",
+      "created": "Oct 14, 2025 • 8:21 AM PT",
       "transaction_id": "1283846238956961792",
       "type": "waiver",
       "status": "complete",
@@ -24325,7 +24325,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 13, 2025 • 11:47 PM PT",
+      "created": "Oct 14, 2025 • 12:47 AM PT",
       "transaction_id": "1283731971175890944",
       "type": "waiver",
       "status": "complete",
@@ -24353,7 +24353,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 13, 2025 • 2:45 PM PT",
+      "created": "Oct 13, 2025 • 3:45 PM PT",
       "transaction_id": "1283595401877786624",
       "type": "free_agent",
       "status": "complete",
@@ -24381,7 +24381,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 13, 2025 • 2:39 PM PT",
+      "created": "Oct 13, 2025 • 3:39 PM PT",
       "transaction_id": "1283594081104035840",
       "type": "waiver",
       "status": "failed",
@@ -24403,7 +24403,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 13, 2025 • 2:33 PM PT",
+      "created": "Oct 13, 2025 • 3:33 PM PT",
       "transaction_id": "1283592607590531072",
       "type": "waiver",
       "status": "failed",
@@ -24425,7 +24425,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 13, 2025 • 1:43 PM PT",
+      "created": "Oct 13, 2025 • 2:43 PM PT",
       "transaction_id": "1283579852699492352",
       "type": "waiver",
       "status": "failed",
@@ -24447,7 +24447,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 12, 2025 • 10:03 AM PT",
+      "created": "Oct 12, 2025 • 11:03 AM PT",
       "transaction_id": "1283162251674517504",
       "type": "free_agent",
       "status": "complete",
@@ -24475,7 +24475,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 12, 2025 • 6:37 AM PT",
+      "created": "Oct 12, 2025 • 7:37 AM PT",
       "transaction_id": "1283110276111011840",
       "type": "free_agent",
       "status": "complete",
@@ -24503,7 +24503,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 12, 2025 • 6:37 AM PT",
+      "created": "Oct 12, 2025 • 7:37 AM PT",
       "transaction_id": "1283110204036120576",
       "type": "free_agent",
       "status": "complete",
@@ -24525,7 +24525,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 11, 2025 • 9:20 AM PT",
+      "created": "Oct 11, 2025 • 10:20 AM PT",
       "transaction_id": "1282789029779103744",
       "type": "free_agent",
       "status": "complete",
@@ -24553,7 +24553,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 9, 2025 • 7:16 PM PT",
+      "created": "Oct 9, 2025 • 8:16 PM PT",
       "transaction_id": "1282214280367710208",
       "type": "free_agent",
       "status": "complete",
@@ -24581,7 +24581,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 9, 2025 • 12:24 PM PT",
+      "created": "Oct 9, 2025 • 1:24 PM PT",
       "transaction_id": "1282110392910254080",
       "type": "free_agent",
       "status": "complete",
@@ -24609,7 +24609,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 8, 2025 • 8:15 PM PT",
+      "created": "Oct 8, 2025 • 9:15 PM PT",
       "transaction_id": "1281866536432205824",
       "type": "free_agent",
       "status": "complete",
@@ -24637,7 +24637,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 8, 2025 • 8:02 PM PT",
+      "created": "Oct 8, 2025 • 9:02 PM PT",
       "transaction_id": "1281863444164771840",
       "type": "free_agent",
       "status": "complete",
@@ -24659,7 +24659,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 8, 2025 • 8:02 PM PT",
+      "created": "Oct 8, 2025 • 9:02 PM PT",
       "transaction_id": "1281863373192986624",
       "type": "free_agent",
       "status": "complete",
@@ -24687,7 +24687,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 8, 2025 • 2:16 PM PT",
+      "created": "Oct 8, 2025 • 3:16 PM PT",
       "transaction_id": "1281776286624124928",
       "type": "free_agent",
       "status": "complete",
@@ -24709,7 +24709,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 8, 2025 • 2:15 PM PT",
+      "created": "Oct 8, 2025 • 3:15 PM PT",
       "transaction_id": "1281776002904641536",
       "type": "free_agent",
       "status": "complete",
@@ -24737,7 +24737,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 8, 2025 • 11:16 AM PT",
+      "created": "Oct 8, 2025 • 12:16 PM PT",
       "transaction_id": "1281730925415112704",
       "type": "free_agent",
       "status": "complete",
@@ -24759,7 +24759,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 8, 2025 • 7:24 AM PT",
+      "created": "Oct 8, 2025 • 8:24 AM PT",
       "transaction_id": "1281672604070993920",
       "type": "waiver",
       "status": "complete",
@@ -24787,7 +24787,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 6,
-      "created": "Oct 8, 2025 • 7:23 AM PT",
+      "created": "Oct 8, 2025 • 8:23 AM PT",
       "transaction_id": "1281672271223603200",
       "type": "free_agent",
       "status": "complete",
@@ -24815,7 +24815,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 7, 2025 • 9:04 PM PT",
+      "created": "Oct 7, 2025 • 10:04 PM PT",
       "transaction_id": "1281516449776549888",
       "type": "waiver",
       "status": "complete",
@@ -24837,7 +24837,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 7, 2025 • 5:59 PM PT",
+      "created": "Oct 7, 2025 • 6:59 PM PT",
       "transaction_id": "1281470064414957568",
       "type": "waiver",
       "status": "complete",
@@ -24865,7 +24865,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 7, 2025 • 1:39 PM PT",
+      "created": "Oct 7, 2025 • 2:39 PM PT",
       "transaction_id": "1281404646396559360",
       "type": "waiver",
       "status": "complete",
@@ -24893,7 +24893,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 7, 2025 • 1:36 PM PT",
+      "created": "Oct 7, 2025 • 2:36 PM PT",
       "transaction_id": "1281403724366884864",
       "type": "waiver",
       "status": "complete",
@@ -24921,7 +24921,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 7, 2025 • 1:35 PM PT",
+      "created": "Oct 7, 2025 • 2:35 PM PT",
       "transaction_id": "1281403506028187648",
       "type": "waiver",
       "status": "complete",
@@ -24949,7 +24949,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 7, 2025 • 1:01 PM PT",
+      "created": "Oct 7, 2025 • 2:01 PM PT",
       "transaction_id": "1281395001946804224",
       "type": "waiver",
       "status": "complete",
@@ -24977,7 +24977,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 7, 2025 • 10:24 AM PT",
+      "created": "Oct 7, 2025 • 11:24 AM PT",
       "transaction_id": "1281355598474014720",
       "type": "waiver",
       "status": "complete",
@@ -24999,7 +24999,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 7, 2025 • 10:20 AM PT",
+      "created": "Oct 7, 2025 • 11:20 AM PT",
       "transaction_id": "1281354599948652544",
       "type": "free_agent",
       "status": "complete",
@@ -25021,7 +25021,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 7, 2025 • 10:20 AM PT",
+      "created": "Oct 7, 2025 • 11:20 AM PT",
       "transaction_id": "1281354519501877248",
       "type": "waiver",
       "status": "complete",
@@ -25043,7 +25043,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 7, 2025 • 10:19 AM PT",
+      "created": "Oct 7, 2025 • 11:19 AM PT",
       "transaction_id": "1281354304233418752",
       "type": "free_agent",
       "status": "complete",
@@ -25065,7 +25065,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 6, 2025 • 7:49 PM PT",
+      "created": "Oct 6, 2025 • 8:49 PM PT",
       "transaction_id": "1281135258703519744",
       "type": "waiver",
       "status": "failed",
@@ -25087,7 +25087,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 6, 2025 • 7:22 PM PT",
+      "created": "Oct 6, 2025 • 8:22 PM PT",
       "transaction_id": "1281128593195307008",
       "type": "waiver",
       "status": "complete",
@@ -25115,7 +25115,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 6, 2025 • 3:52 PM PT",
+      "created": "Oct 6, 2025 • 4:52 PM PT",
       "transaction_id": "1281075704909275136",
       "type": "waiver",
       "status": "failed",
@@ -25137,7 +25137,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 4, 2025 • 5:49 AM PT",
+      "created": "Oct 4, 2025 • 6:49 AM PT",
       "transaction_id": "1280199019489947648",
       "type": "free_agent",
       "status": "complete",
@@ -25165,7 +25165,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 3, 2025 • 10:51 AM PT",
+      "created": "Oct 3, 2025 • 11:51 AM PT",
       "transaction_id": "1279912847165366272",
       "type": "free_agent",
       "status": "complete",
@@ -25187,7 +25187,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 2, 2025 • 10:43 PM PT",
+      "created": "Oct 2, 2025 • 11:43 PM PT",
       "transaction_id": "1279729485066797056",
       "type": "free_agent",
       "status": "complete",
@@ -25215,7 +25215,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 2, 2025 • 9:26 PM PT",
+      "created": "Oct 2, 2025 • 10:26 PM PT",
       "transaction_id": "1279710294393753600",
       "type": "free_agent",
       "status": "complete",
@@ -25243,7 +25243,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 2, 2025 • 5:50 PM PT",
+      "created": "Oct 2, 2025 • 6:50 PM PT",
       "transaction_id": "1279655839493271552",
       "type": "free_agent",
       "status": "complete",
@@ -25271,7 +25271,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 2, 2025 • 5:43 PM PT",
+      "created": "Oct 2, 2025 • 6:43 PM PT",
       "transaction_id": "1279653989238996992",
       "type": "free_agent",
       "status": "complete",
@@ -25299,7 +25299,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 2, 2025 • 5:42 PM PT",
+      "created": "Oct 2, 2025 • 6:42 PM PT",
       "transaction_id": "1279653759898652672",
       "type": "free_agent",
       "status": "complete",
@@ -25321,7 +25321,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 2, 2025 • 5:41 PM PT",
+      "created": "Oct 2, 2025 • 6:41 PM PT",
       "transaction_id": "1279653559603822592",
       "type": "free_agent",
       "status": "complete",
@@ -25343,7 +25343,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 2, 2025 • 3:30 PM PT",
+      "created": "Oct 2, 2025 • 4:30 PM PT",
       "transaction_id": "1279620581444038656",
       "type": "free_agent",
       "status": "complete",
@@ -25365,7 +25365,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 2, 2025 • 12:57 PM PT",
+      "created": "Oct 2, 2025 • 1:57 PM PT",
       "transaction_id": "1279581982065438720",
       "type": "free_agent",
       "status": "complete",
@@ -25387,7 +25387,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 2, 2025 • 11:51 AM PT",
+      "created": "Oct 2, 2025 • 12:51 PM PT",
       "transaction_id": "1279565416510791680",
       "type": "free_agent",
       "status": "complete",
@@ -25409,7 +25409,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 2, 2025 • 11:48 AM PT",
+      "created": "Oct 2, 2025 • 12:48 PM PT",
       "transaction_id": "1279564698169126912",
       "type": "free_agent",
       "status": "complete",
@@ -25437,7 +25437,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 2, 2025 • 4:35 AM PT",
+      "created": "Oct 2, 2025 • 5:35 AM PT",
       "transaction_id": "1279455792163999744",
       "type": "free_agent",
       "status": "complete",
@@ -25459,7 +25459,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 2, 2025 • 4:35 AM PT",
+      "created": "Oct 2, 2025 • 5:35 AM PT",
       "transaction_id": "1279455700946276352",
       "type": "free_agent",
       "status": "complete",
@@ -25481,7 +25481,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 2, 2025 • 3:21 AM PT",
+      "created": "Oct 2, 2025 • 4:21 AM PT",
       "transaction_id": "1279437237230006272",
       "type": "free_agent",
       "status": "complete",
@@ -25509,7 +25509,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 1, 2025 • 8:57 AM PT",
+      "created": "Oct 1, 2025 • 9:57 AM PT",
       "transaction_id": "1279159317903183872",
       "type": "free_agent",
       "status": "complete",
@@ -25537,7 +25537,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 1, 2025 • 8:53 AM PT",
+      "created": "Oct 1, 2025 • 9:53 AM PT",
       "transaction_id": "1279158166906494976",
       "type": "free_agent",
       "status": "complete",
@@ -25565,7 +25565,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 1, 2025 • 7:41 AM PT",
+      "created": "Oct 1, 2025 • 8:41 AM PT",
       "transaction_id": "1279140118162079744",
       "type": "free_agent",
       "status": "complete",
@@ -25593,7 +25593,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 1, 2025 • 2:34 AM PT",
+      "created": "Oct 1, 2025 • 3:34 AM PT",
       "transaction_id": "1279062925444665344",
       "type": "free_agent",
       "status": "complete",
@@ -25621,7 +25621,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 1, 2025 • 2:31 AM PT",
+      "created": "Oct 1, 2025 • 3:31 AM PT",
       "transaction_id": "1279062260014120960",
       "type": "free_agent",
       "status": "complete",
@@ -25649,7 +25649,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 5,
-      "created": "Oct 1, 2025 • 12:31 AM PT",
+      "created": "Oct 1, 2025 • 1:31 AM PT",
       "transaction_id": "1279031840266539008",
       "type": "free_agent",
       "status": "complete",
@@ -25677,7 +25677,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 30, 2025 • 9:18 PM PT",
+      "created": "Sep 30, 2025 • 10:18 PM PT",
       "transaction_id": "1278983342158520320",
       "type": "waiver",
       "status": "complete",
@@ -25705,7 +25705,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 30, 2025 • 9:17 PM PT",
+      "created": "Sep 30, 2025 • 10:17 PM PT",
       "transaction_id": "1278983055695970304",
       "type": "waiver",
       "status": "failed",
@@ -25727,7 +25727,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 30, 2025 • 7:37 PM PT",
+      "created": "Sep 30, 2025 • 8:37 PM PT",
       "transaction_id": "1278958017311686656",
       "type": "waiver",
       "status": "failed",
@@ -25749,7 +25749,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 30, 2025 • 12:26 PM PT",
+      "created": "Sep 30, 2025 • 1:26 PM PT",
       "transaction_id": "1278849515847176192",
       "type": "waiver",
       "status": "complete",
@@ -25771,7 +25771,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 30, 2025 • 10:35 AM PT",
+      "created": "Sep 30, 2025 • 11:35 AM PT",
       "transaction_id": "1278821563818340352",
       "type": "waiver",
       "status": "complete",
@@ -25799,7 +25799,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 30, 2025 • 7:55 AM PT",
+      "created": "Sep 30, 2025 • 8:55 AM PT",
       "transaction_id": "1278781182212866048",
       "type": "waiver",
       "status": "complete",
@@ -25821,7 +25821,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 30, 2025 • 6:38 AM PT",
+      "created": "Sep 30, 2025 • 7:38 AM PT",
       "transaction_id": "1278761915568377856",
       "type": "trade",
       "status": "complete",
@@ -25855,7 +25855,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 30, 2025 • 5:01 AM PT",
+      "created": "Sep 30, 2025 • 6:01 AM PT",
       "transaction_id": "1278737600647041024",
       "type": "waiver",
       "status": "failed",
@@ -25877,7 +25877,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 29, 2025 • 11:44 PM PT",
+      "created": "Sep 30, 2025 • 12:44 AM PT",
       "transaction_id": "1278657793108242432",
       "type": "waiver",
       "status": "failed",
@@ -25899,7 +25899,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 29, 2025 • 11:43 PM PT",
+      "created": "Sep 30, 2025 • 12:43 AM PT",
       "transaction_id": "1278657447749246976",
       "type": "waiver",
       "status": "failed",
@@ -25921,7 +25921,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 29, 2025 • 11:42 PM PT",
+      "created": "Sep 30, 2025 • 12:42 AM PT",
       "transaction_id": "1278657285542932480",
       "type": "waiver",
       "status": "failed",
@@ -25943,7 +25943,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 29, 2025 • 9:01 PM PT",
+      "created": "Sep 29, 2025 • 10:01 PM PT",
       "transaction_id": "1278616840918044672",
       "type": "free_agent",
       "status": "complete",
@@ -25965,7 +25965,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 29, 2025 • 11:26 AM PT",
+      "created": "Sep 29, 2025 • 12:26 PM PT",
       "transaction_id": "1278472077493411840",
       "type": "waiver",
       "status": "complete",
@@ -25993,7 +25993,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 29, 2025 • 9:07 AM PT",
+      "created": "Sep 29, 2025 • 10:07 AM PT",
       "transaction_id": "1278437140933394432",
       "type": "waiver",
       "status": "complete",
@@ -26021,7 +26021,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 29, 2025 • 5:18 AM PT",
+      "created": "Sep 29, 2025 • 6:18 AM PT",
       "transaction_id": "1278379516342853632",
       "type": "waiver",
       "status": "failed",
@@ -26043,7 +26043,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 29, 2025 • 4:48 AM PT",
+      "created": "Sep 29, 2025 • 5:48 AM PT",
       "transaction_id": "1278371943862513664",
       "type": "waiver",
       "status": "complete",
@@ -26071,7 +26071,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 28, 2025 • 10:58 AM PT",
+      "created": "Sep 28, 2025 • 11:58 AM PT",
       "transaction_id": "1278102692333375488",
       "type": "waiver",
       "status": "failed",
@@ -26093,7 +26093,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 25, 2025 • 4:15 PM PT",
+      "created": "Sep 25, 2025 • 5:15 PM PT",
       "transaction_id": "1277095198324686848",
       "type": "waiver",
       "status": "complete",
@@ -26115,7 +26115,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 25, 2025 • 4:02 PM PT",
+      "created": "Sep 25, 2025 • 5:02 PM PT",
       "transaction_id": "1277091948980613120",
       "type": "free_agent",
       "status": "complete",
@@ -26137,7 +26137,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 25, 2025 • 12:50 PM PT",
+      "created": "Sep 25, 2025 • 1:50 PM PT",
       "transaction_id": "1277043628170047488",
       "type": "free_agent",
       "status": "complete",
@@ -26159,7 +26159,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 25, 2025 • 12:48 PM PT",
+      "created": "Sep 25, 2025 • 1:48 PM PT",
       "transaction_id": "1277043088052727808",
       "type": "free_agent",
       "status": "complete",
@@ -26181,7 +26181,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 25, 2025 • 12:48 PM PT",
+      "created": "Sep 25, 2025 • 1:48 PM PT",
       "transaction_id": "1277043034319499264",
       "type": "free_agent",
       "status": "complete",
@@ -26203,7 +26203,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 25, 2025 • 12:02 PM PT",
+      "created": "Sep 25, 2025 • 1:02 PM PT",
       "transaction_id": "1277031466835935232",
       "type": "trade",
       "status": "complete",
@@ -26243,7 +26243,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 24, 2025 • 9:10 PM PT",
+      "created": "Sep 24, 2025 • 10:10 PM PT",
       "transaction_id": "1276807142455640064",
       "type": "free_agent",
       "status": "complete",
@@ -26271,7 +26271,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 24, 2025 • 2:16 PM PT",
+      "created": "Sep 24, 2025 • 3:16 PM PT",
       "transaction_id": "1276702967814176768",
       "type": "free_agent",
       "status": "complete",
@@ -26299,7 +26299,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 4,
-      "created": "Sep 24, 2025 • 2:42 AM PT",
+      "created": "Sep 24, 2025 • 3:42 AM PT",
       "transaction_id": "1276528137387134976",
       "type": "free_agent",
       "status": "complete",
@@ -26321,7 +26321,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 23, 2025 • 7:52 PM PT",
+      "created": "Sep 23, 2025 • 8:52 PM PT",
       "transaction_id": "1276425109950730240",
       "type": "waiver",
       "status": "complete",
@@ -26349,7 +26349,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 23, 2025 • 7:51 PM PT",
+      "created": "Sep 23, 2025 • 8:51 PM PT",
       "transaction_id": "1276424665996201984",
       "type": "waiver",
       "status": "complete",
@@ -26377,7 +26377,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 23, 2025 • 5:10 PM PT",
+      "created": "Sep 23, 2025 • 6:10 PM PT",
       "transaction_id": "1276384143730565120",
       "type": "trade",
       "status": "complete",
@@ -26427,7 +26427,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 23, 2025 • 3:22 PM PT",
+      "created": "Sep 23, 2025 • 4:22 PM PT",
       "transaction_id": "1276357074942431232",
       "type": "waiver",
       "status": "failed",
@@ -26449,7 +26449,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 23, 2025 • 8:03 AM PT",
+      "created": "Sep 23, 2025 • 9:03 AM PT",
       "transaction_id": "1276246507548327936",
       "type": "waiver",
       "status": "complete",
@@ -26477,7 +26477,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 22, 2025 • 3:02 PM PT",
+      "created": "Sep 22, 2025 • 4:02 PM PT",
       "transaction_id": "1275989577122738176",
       "type": "waiver",
       "status": "complete",
@@ -26499,7 +26499,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 22, 2025 • 5:41 AM PT",
+      "created": "Sep 22, 2025 • 6:41 AM PT",
       "transaction_id": "1275848401912614912",
       "type": "waiver",
       "status": "complete",
@@ -26527,7 +26527,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 22, 2025 • 5:36 AM PT",
+      "created": "Sep 22, 2025 • 6:36 AM PT",
       "transaction_id": "1275847335145934848",
       "type": "waiver",
       "status": "complete",
@@ -26549,7 +26549,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 20, 2025 • 5:23 PM PT",
+      "created": "Sep 20, 2025 • 6:23 PM PT",
       "transaction_id": "1275300304757211136",
       "type": "free_agent",
       "status": "complete",
@@ -26577,7 +26577,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 19, 2025 • 5:31 AM PT",
+      "created": "Sep 19, 2025 • 6:31 AM PT",
       "transaction_id": "1274758751877869568",
       "type": "trade",
       "status": "complete",
@@ -26622,7 +26622,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 18, 2025 • 4:10 PM PT",
+      "created": "Sep 18, 2025 • 5:10 PM PT",
       "transaction_id": "1274557170725167104",
       "type": "free_agent",
       "status": "complete",
@@ -26644,7 +26644,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 18, 2025 • 9:10 AM PT",
+      "created": "Sep 18, 2025 • 10:10 AM PT",
       "transaction_id": "1274451410263486464",
       "type": "free_agent",
       "status": "complete",
@@ -26672,7 +26672,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 18, 2025 • 9:09 AM PT",
+      "created": "Sep 18, 2025 • 10:09 AM PT",
       "transaction_id": "1274451328680079360",
       "type": "free_agent",
       "status": "complete",
@@ -26700,7 +26700,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 18, 2025 • 5:29 AM PT",
+      "created": "Sep 18, 2025 • 6:29 AM PT",
       "transaction_id": "1274395986684309504",
       "type": "free_agent",
       "status": "complete",
@@ -26722,7 +26722,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 18, 2025 • 5:29 AM PT",
+      "created": "Sep 18, 2025 • 6:29 AM PT",
       "transaction_id": "1274395890949304320",
       "type": "free_agent",
       "status": "complete",
@@ -26744,7 +26744,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 17, 2025 • 11:04 PM PT",
+      "created": "Sep 18, 2025 • 12:04 AM PT",
       "transaction_id": "1274298962207080448",
       "type": "free_agent",
       "status": "complete",
@@ -26772,7 +26772,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 17, 2025 • 6:33 PM PT",
+      "created": "Sep 17, 2025 • 7:33 PM PT",
       "transaction_id": "1274230780997959680",
       "type": "free_agent",
       "status": "complete",
@@ -26800,7 +26800,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 17, 2025 • 6:30 PM PT",
+      "created": "Sep 17, 2025 • 7:30 PM PT",
       "transaction_id": "1274230127605088256",
       "type": "free_agent",
       "status": "complete",
@@ -26828,7 +26828,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 17, 2025 • 6:26 PM PT",
+      "created": "Sep 17, 2025 • 7:26 PM PT",
       "transaction_id": "1274229000620748800",
       "type": "free_agent",
       "status": "complete",
@@ -26856,7 +26856,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 3,
-      "created": "Sep 17, 2025 • 6:25 PM PT",
+      "created": "Sep 17, 2025 • 7:25 PM PT",
       "transaction_id": "1274228734429257728",
       "type": "free_agent",
       "status": "complete",
@@ -26884,7 +26884,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 16, 2025 • 1:21 PM PT",
+      "created": "Sep 16, 2025 • 2:21 PM PT",
       "transaction_id": "1273789899719311360",
       "type": "waiver",
       "status": "complete",
@@ -26906,7 +26906,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 16, 2025 • 11:12 AM PT",
+      "created": "Sep 16, 2025 • 12:12 PM PT",
       "transaction_id": "1273757495831048192",
       "type": "waiver",
       "status": "complete",
@@ -26928,7 +26928,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 16, 2025 • 8:55 AM PT",
+      "created": "Sep 16, 2025 • 9:55 AM PT",
       "transaction_id": "1273723082447540224",
       "type": "waiver",
       "status": "complete",
@@ -26956,7 +26956,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 16, 2025 • 4:49 AM PT",
+      "created": "Sep 16, 2025 • 5:49 AM PT",
       "transaction_id": "1273661068735942656",
       "type": "waiver",
       "status": "complete",
@@ -26984,7 +26984,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 15, 2025 • 10:26 PM PT",
+      "created": "Sep 15, 2025 • 11:26 PM PT",
       "transaction_id": "1273564623047503872",
       "type": "waiver",
       "status": "failed",
@@ -27006,7 +27006,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 15, 2025 • 9:07 PM PT",
+      "created": "Sep 15, 2025 • 10:07 PM PT",
       "transaction_id": "1273544700413882368",
       "type": "waiver",
       "status": "complete",
@@ -27034,7 +27034,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 15, 2025 • 11:19 AM PT",
+      "created": "Sep 15, 2025 • 12:19 PM PT",
       "transaction_id": "1273396806474043392",
       "type": "trade",
       "status": "complete",
@@ -27062,7 +27062,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 15, 2025 • 11:17 AM PT",
+      "created": "Sep 15, 2025 • 12:17 PM PT",
       "transaction_id": "1273396366277636096",
       "type": "waiver",
       "status": "complete",
@@ -27090,7 +27090,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 15, 2025 • 7:09 AM PT",
+      "created": "Sep 15, 2025 • 8:09 AM PT",
       "transaction_id": "1273333955793276928",
       "type": "free_agent",
       "status": "complete",
@@ -27112,7 +27112,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 14, 2025 • 6:09 PM PT",
+      "created": "Sep 14, 2025 • 7:09 PM PT",
       "transaction_id": "1273137691109650432",
       "type": "waiver",
       "status": "failed",
@@ -27134,7 +27134,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 12, 2025 • 11:35 AM PT",
+      "created": "Sep 12, 2025 • 12:35 PM PT",
       "transaction_id": "1272313809515601920",
       "type": "free_agent",
       "status": "complete",
@@ -27162,7 +27162,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 12, 2025 • 5:14 AM PT",
+      "created": "Sep 12, 2025 • 6:14 AM PT",
       "transaction_id": "1272217899146158080",
       "type": "free_agent",
       "status": "complete",
@@ -27184,7 +27184,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 12, 2025 • 5:13 AM PT",
+      "created": "Sep 12, 2025 • 6:13 AM PT",
       "transaction_id": "1272217583856136192",
       "type": "waiver",
       "status": "failed",
@@ -27206,7 +27206,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 12, 2025 • 5:12 AM PT",
+      "created": "Sep 12, 2025 • 6:12 AM PT",
       "transaction_id": "1272217265466515456",
       "type": "free_agent",
       "status": "complete",
@@ -27228,7 +27228,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 12, 2025 • 4:52 AM PT",
+      "created": "Sep 12, 2025 • 5:52 AM PT",
       "transaction_id": "1272212351659016192",
       "type": "free_agent",
       "status": "complete",
@@ -27256,7 +27256,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 11, 2025 • 1:13 PM PT",
+      "created": "Sep 11, 2025 • 2:13 PM PT",
       "transaction_id": "1271975983192240128",
       "type": "free_agent",
       "status": "complete",
@@ -27278,7 +27278,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 10, 2025 • 10:18 PM PT",
+      "created": "Sep 10, 2025 • 11:18 PM PT",
       "transaction_id": "1271750703785742336",
       "type": "free_agent",
       "status": "complete",
@@ -27300,7 +27300,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 10, 2025 • 8:40 AM PT",
+      "created": "Sep 10, 2025 • 9:40 AM PT",
       "transaction_id": "1271544837186818048",
       "type": "free_agent",
       "status": "complete",
@@ -27328,7 +27328,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 10, 2025 • 6:48 AM PT",
+      "created": "Sep 10, 2025 • 7:48 AM PT",
       "transaction_id": "1271516609793523712",
       "type": "free_agent",
       "status": "complete",
@@ -27356,7 +27356,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 10, 2025 • 5:18 AM PT",
+      "created": "Sep 10, 2025 • 6:18 AM PT",
       "transaction_id": "1271494079351357440",
       "type": "free_agent",
       "status": "complete",
@@ -27384,7 +27384,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 10, 2025 • 12:32 AM PT",
+      "created": "Sep 10, 2025 • 1:32 AM PT",
       "transaction_id": "1271422164569968640",
       "type": "free_agent",
       "status": "complete",
@@ -27412,7 +27412,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 10, 2025 • 12:32 AM PT",
+      "created": "Sep 10, 2025 • 1:32 AM PT",
       "transaction_id": "1271422143158034432",
       "type": "free_agent",
       "status": "complete",
@@ -27434,7 +27434,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 10, 2025 • 12:30 AM PT",
+      "created": "Sep 10, 2025 • 1:30 AM PT",
       "transaction_id": "1271421594933170176",
       "type": "free_agent",
       "status": "complete",
@@ -27462,7 +27462,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 2,
-      "created": "Sep 9, 2025 • 11:23 PM PT",
+      "created": "Sep 10, 2025 • 12:23 AM PT",
       "transaction_id": "1271404647701024768",
       "type": "free_agent",
       "status": "complete",
@@ -27484,7 +27484,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 9, 2025 • 10:53 PM PT",
+      "created": "Sep 9, 2025 • 11:53 PM PT",
       "transaction_id": "1271397160977448960",
       "type": "waiver",
       "status": "failed",
@@ -27506,7 +27506,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 9, 2025 • 8:20 PM PT",
+      "created": "Sep 9, 2025 • 9:20 PM PT",
       "transaction_id": "1271358688182956032",
       "type": "waiver",
       "status": "failed",
@@ -27528,7 +27528,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 9, 2025 • 4:20 PM PT",
+      "created": "Sep 9, 2025 • 5:20 PM PT",
       "transaction_id": "1271298154578329600",
       "type": "waiver",
       "status": "failed",
@@ -27550,7 +27550,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 9, 2025 • 3:39 PM PT",
+      "created": "Sep 9, 2025 • 4:39 PM PT",
       "transaction_id": "1271287898137726976",
       "type": "trade",
       "status": "complete",
@@ -27589,7 +27589,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 9, 2025 • 11:11 AM PT",
+      "created": "Sep 9, 2025 • 12:11 PM PT",
       "transaction_id": "1271220489561341952",
       "type": "waiver",
       "status": "complete",
@@ -27617,7 +27617,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 9, 2025 • 9:25 AM PT",
+      "created": "Sep 9, 2025 • 10:25 AM PT",
       "transaction_id": "1271193792111714304",
       "type": "waiver",
       "status": "complete",
@@ -27639,7 +27639,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 9, 2025 • 4:58 AM PT",
+      "created": "Sep 9, 2025 • 5:58 AM PT",
       "transaction_id": "1271126531753652224",
       "type": "waiver",
       "status": "complete",
@@ -27667,7 +27667,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 8, 2025 • 9:38 PM PT",
+      "created": "Sep 8, 2025 • 10:38 PM PT",
       "transaction_id": "1271015853155946496",
       "type": "trade",
       "status": "complete",
@@ -27696,7 +27696,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 8, 2025 • 9:28 PM PT",
+      "created": "Sep 8, 2025 • 10:28 PM PT",
       "transaction_id": "1271013382891257856",
       "type": "trade",
       "status": "complete",
@@ -27735,7 +27735,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 8, 2025 • 8:57 PM PT",
+      "created": "Sep 8, 2025 • 9:57 PM PT",
       "transaction_id": "1271005566461808640",
       "type": "waiver",
       "status": "failed",
@@ -27757,7 +27757,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 8, 2025 • 8:13 PM PT",
+      "created": "Sep 8, 2025 • 9:13 PM PT",
       "transaction_id": "1270994578094166016",
       "type": "waiver",
       "status": "failed",
@@ -27779,7 +27779,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 8, 2025 • 12:08 PM PT",
+      "created": "Sep 8, 2025 • 1:08 PM PT",
       "transaction_id": "1270872503291494400",
       "type": "trade",
       "status": "complete",
@@ -27823,7 +27823,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 8, 2025 • 7:15 AM PT",
+      "created": "Sep 8, 2025 • 8:15 AM PT",
       "transaction_id": "1270798590494650368",
       "type": "waiver",
       "status": "complete",
@@ -27851,7 +27851,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 7, 2025 • 9:42 PM PT",
+      "created": "Sep 7, 2025 • 10:42 PM PT",
       "transaction_id": "1270654401928765440",
       "type": "waiver",
       "status": "complete",
@@ -27873,7 +27873,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 7, 2025 • 9:30 PM PT",
+      "created": "Sep 7, 2025 • 10:30 PM PT",
       "transaction_id": "1270651543565115392",
       "type": "waiver",
       "status": "failed",
@@ -27895,7 +27895,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 7, 2025 • 9:30 PM PT",
+      "created": "Sep 7, 2025 • 10:30 PM PT",
       "transaction_id": "1270651410479861760",
       "type": "free_agent",
       "status": "complete",
@@ -27917,7 +27917,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 7, 2025 • 9:05 PM PT",
+      "created": "Sep 7, 2025 • 10:05 PM PT",
       "transaction_id": "1270645152318242816",
       "type": "waiver",
       "status": "complete",
@@ -27939,7 +27939,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 7, 2025 • 2:18 PM PT",
+      "created": "Sep 7, 2025 • 3:18 PM PT",
       "transaction_id": "1270542670401380352",
       "type": "waiver",
       "status": "complete",
@@ -27961,7 +27961,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 7, 2025 • 2:17 PM PT",
+      "created": "Sep 7, 2025 • 3:17 PM PT",
       "transaction_id": "1270542562934927360",
       "type": "free_agent",
       "status": "complete",
@@ -27983,7 +27983,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 7, 2025 • 11:47 AM PT",
+      "created": "Sep 7, 2025 • 12:47 PM PT",
       "transaction_id": "1270504664030261249",
       "type": "waiver",
       "status": "failed",
@@ -28005,7 +28005,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 7, 2025 • 7:52 AM PT",
+      "created": "Sep 7, 2025 • 8:52 AM PT",
       "transaction_id": "1270445504320258048",
       "type": "free_agent",
       "status": "complete",
@@ -28033,7 +28033,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 6, 2025 • 5:31 PM PT",
+      "created": "Sep 6, 2025 • 6:31 PM PT",
       "transaction_id": "1270229042536120320",
       "type": "free_agent",
       "status": "complete",
@@ -28055,7 +28055,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 4, 2025 • 3:17 PM PT",
+      "created": "Sep 4, 2025 • 4:17 PM PT",
       "transaction_id": "1269470492130021376",
       "type": "free_agent",
       "status": "complete",
@@ -28083,7 +28083,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 4, 2025 • 11:19 AM PT",
+      "created": "Sep 4, 2025 • 12:19 PM PT",
       "transaction_id": "1269410536987054080",
       "type": "free_agent",
       "status": "complete",
@@ -28111,7 +28111,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 3, 2025 • 5:05 PM PT",
+      "created": "Sep 3, 2025 • 6:05 PM PT",
       "transaction_id": "1269135269391499264",
       "type": "waiver",
       "status": "complete",
@@ -28139,7 +28139,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 2, 2025 • 10:27 PM PT",
+      "created": "Sep 2, 2025 • 11:27 PM PT",
       "transaction_id": "1268853826807410688",
       "type": "free_agent",
       "status": "complete",
@@ -28161,7 +28161,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 2, 2025 • 10:26 PM PT",
+      "created": "Sep 2, 2025 • 11:26 PM PT",
       "transaction_id": "1268853640026673152",
       "type": "free_agent",
       "status": "complete",
@@ -28183,7 +28183,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 2, 2025 • 3:48 PM PT",
+      "created": "Sep 2, 2025 • 4:48 PM PT",
       "transaction_id": "1268753500267884545",
       "type": "free_agent",
       "status": "complete",
@@ -28205,7 +28205,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 2, 2025 • 5:55 AM PT",
+      "created": "Sep 2, 2025 • 6:55 AM PT",
       "transaction_id": "1268604317141565440",
       "type": "free_agent",
       "status": "complete",
@@ -28233,7 +28233,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Sep 1, 2025 • 12:35 PM PT",
+      "created": "Sep 1, 2025 • 1:35 PM PT",
       "transaction_id": "1268342550310178816",
       "type": "free_agent",
       "status": "complete",
@@ -28261,7 +28261,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Aug 31, 2025 • 8:22 AM PT",
+      "created": "Aug 31, 2025 • 9:22 AM PT",
       "transaction_id": "1267916401016852480",
       "type": "free_agent",
       "status": "complete",
@@ -28283,7 +28283,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Aug 30, 2025 • 1:25 PM PT",
+      "created": "Aug 30, 2025 • 2:25 PM PT",
       "transaction_id": "1267630224468611072",
       "type": "waiver",
       "status": "complete",
@@ -28311,7 +28311,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Aug 30, 2025 • 1:00 PM PT",
+      "created": "Aug 30, 2025 • 2:00 PM PT",
       "transaction_id": "1267624147530305536",
       "type": "free_agent",
       "status": "complete",
@@ -28333,7 +28333,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Aug 30, 2025 • 1:00 PM PT",
+      "created": "Aug 30, 2025 • 2:00 PM PT",
       "transaction_id": "1267624052160200704",
       "type": "free_agent",
       "status": "complete",
@@ -28355,7 +28355,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Aug 30, 2025 • 8:09 AM PT",
+      "created": "Aug 30, 2025 • 9:09 AM PT",
       "transaction_id": "1267550919730405376",
       "type": "free_agent",
       "status": "complete",
@@ -28377,7 +28377,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Aug 30, 2025 • 7:57 AM PT",
+      "created": "Aug 30, 2025 • 8:57 AM PT",
       "transaction_id": "1267547658755514368",
       "type": "free_agent",
       "status": "complete",
@@ -28399,7 +28399,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Aug 30, 2025 • 7:50 AM PT",
+      "created": "Aug 30, 2025 • 8:50 AM PT",
       "transaction_id": "1267546023031476224",
       "type": "free_agent",
       "status": "complete",
@@ -28421,7 +28421,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Aug 30, 2025 • 1:43 AM PT",
+      "created": "Aug 30, 2025 • 2:43 AM PT",
       "transaction_id": "1267453639224475648",
       "type": "free_agent",
       "status": "complete",
@@ -28449,7 +28449,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Aug 29, 2025 • 10:27 PM PT",
+      "created": "Aug 29, 2025 • 11:27 PM PT",
       "transaction_id": "1267404294399721472",
       "type": "free_agent",
       "status": "complete",
@@ -28477,7 +28477,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Aug 29, 2025 • 10:18 PM PT",
+      "created": "Aug 29, 2025 • 11:18 PM PT",
       "transaction_id": "1267401976811888640",
       "type": "free_agent",
       "status": "complete",
@@ -28505,7 +28505,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Aug 29, 2025 • 10:17 PM PT",
+      "created": "Aug 29, 2025 • 11:17 PM PT",
       "transaction_id": "1267401789490081792",
       "type": "free_agent",
       "status": "complete",
@@ -28527,7 +28527,7 @@ window.__STATIC_DATA__ = {
     {
       "season": "2025",
       "week": 1,
-      "created": "Aug 29, 2025 • 10:17 PM PT",
+      "created": "Aug 29, 2025 • 11:17 PM PT",
       "transaction_id": "1267401701669736448",
       "type": "free_agent",
       "status": "complete",
