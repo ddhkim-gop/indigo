@@ -3892,7 +3892,7 @@ window.__STATIC_DATA__ = {
           "weight": "206",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 203
         },
         {
@@ -4037,6 +4037,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 679
         },
         {
+          "player_id": "12491",
+          "espn_id": null,
+          "name": "Corey Kiner",
+          "position": "RB",
+          "team": "NE",
+          "birth_date": "2002-01-21",
+          "college": "Cincinnati",
+          "height": "69",
+          "weight": "209",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 487
+        },
+        {
           "player_id": "12492",
           "espn_id": null,
           "name": "Pat Bryant",
@@ -4123,7 +4138,7 @@ window.__STATIC_DATA__ = {
           "weight": "210",
           "years_exp": 9,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 4
         },
         {
@@ -4138,7 +4153,7 @@ window.__STATIC_DATA__ = {
           "weight": "226",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 17
         },
         {
@@ -4200,21 +4215,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 22
-        },
-        {
-          "player_id": "8135",
-          "espn_id": null,
-          "name": "Treylon Burks",
-          "position": "WR",
-          "team": "WAS",
-          "birth_date": "2000-03-23",
-          "college": "Arkansas",
-          "height": "74",
-          "weight": "225",
-          "years_exp": 4,
-          "status": "Active",
-          "injury_status": "Questionable",
-          "search_rank": 679
         },
         {
           "player_id": "8136",
@@ -4624,7 +4624,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 64
         },
         {
@@ -4654,7 +4654,7 @@ window.__STATIC_DATA__ = {
           "weight": "180",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 150
         },
         {
@@ -4780,7 +4780,7 @@ window.__STATIC_DATA__ = {
           "weight": "241",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 63
         },
         {
@@ -5251,7 +5251,7 @@ window.__STATIC_DATA__ = {
           "weight": "231",
           "years_exp": 12,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 60
         },
         {
@@ -5908,7 +5908,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 130
         },
         {
@@ -6169,7 +6169,7 @@ window.__STATIC_DATA__ = {
           "weight": "230",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 466
         },
         {
@@ -6244,7 +6244,7 @@ window.__STATIC_DATA__ = {
           "weight": "233",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 10
         },
         {
@@ -6334,7 +6334,7 @@ window.__STATIC_DATA__ = {
           "weight": "170",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 33
         },
         {
@@ -6490,7 +6490,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 28
         },
         {
@@ -6535,7 +6535,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 39
         },
         {
@@ -6550,7 +6550,7 @@ window.__STATIC_DATA__ = {
           "weight": "202",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 39
         },
         {
@@ -6796,7 +6796,7 @@ window.__STATIC_DATA__ = {
           "weight": "213",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 75
         },
         {
@@ -6961,7 +6961,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 153
         },
         {
@@ -7147,7 +7147,7 @@ window.__STATIC_DATA__ = {
           "weight": "246",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 81
         },
         {
@@ -7192,7 +7192,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "search_rank": 36
         },
         {
@@ -7329,6 +7329,21 @@ window.__STATIC_DATA__ = {
           "status": "Inactive",
           "injury_status": "IR",
           "search_rank": 55
+        },
+        {
+          "player_id": "6130",
+          "espn_id": 4040761,
+          "name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG",
+          "birth_date": "1997-09-03",
+          "college": "Florida Atlantic",
+          "height": "67",
+          "weight": "203",
+          "years_exp": 7,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 660
         },
         {
           "player_id": "6904",
@@ -7543,7 +7558,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 9,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 119
         },
         {
@@ -8029,6 +8044,56 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 9,
+      "created": "Nov 6, 2026 • 1:27 PM PT",
+      "transaction_id": "1424544694175637504",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Corey Kiner",
+          "position": "RB",
+          "team": "NE"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Treylon Burks",
+          "position": "WR",
+          "team": "WAS"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 9,
+      "created": "Nov 6, 2026 • 11:20 AM PT",
+      "transaction_id": "1424512697235464192",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "daevn"
+      ],
+      "added": [
+        {
+          "name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 9,
@@ -13785,7 +13850,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Jacoby Brissett",
           "position": "QB",
-          "team": "ARI"
+          "team": "BAL"
         }
       ],
       "faab": 0,
@@ -15032,7 +15097,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Jacoby Brissett",
           "position": "QB",
-          "team": "ARI"
+          "team": "BAL"
         }
       ],
       "dropped": [
