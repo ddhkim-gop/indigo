@@ -3861,8 +3861,8 @@ window.__STATIC_DATA__ = {
           "height": "73",
           "weight": "225",
           "years_exp": 4,
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "search_rank": 80
         },
         {
@@ -4062,8 +4062,8 @@ window.__STATIC_DATA__ = {
           "height": "74",
           "weight": "204",
           "years_exp": 1,
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": "Questionable",
           "search_rank": 172
         },
         {
@@ -4125,6 +4125,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 123
+        },
+        {
+          "player_id": "13603",
+          "espn_id": null,
+          "name": "Gregory Desrosiers",
+          "position": "RB",
+          "team": "NYG",
+          "birth_date": "2001-03-27",
+          "college": "Memphis",
+          "height": "71",
+          "weight": "200",
+          "years_exp": 0,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 570
         },
         {
           "player_id": "4034",
@@ -4290,21 +4305,6 @@ window.__STATIC_DATA__ = {
           "status": "Inactive",
           "injury_status": "IR",
           "search_rank": 8
-        },
-        {
-          "player_id": "9757",
-          "espn_id": null,
-          "name": "Kendre Miller",
-          "position": "RB",
-          "team": "NO",
-          "birth_date": "2002-06-11",
-          "college": "TCU",
-          "height": "72",
-          "weight": "220",
-          "years_exp": 3,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 180
         },
         {
           "player_id": "HOU",
@@ -7251,8 +7251,8 @@ window.__STATIC_DATA__ = {
           "height": "74",
           "weight": "203",
           "years_exp": 0,
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": "Questionable",
           "search_rank": 62
         },
         {
@@ -8029,6 +8029,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 9,
+      "created": "Nov 7, 2026 • 3:29 PM PT",
+      "transaction_id": "1424937970909073408",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Gregory Desrosiers",
+          "position": "RB",
+          "team": "NYG"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "NO"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 9,
