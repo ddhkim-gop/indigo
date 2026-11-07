@@ -3653,7 +3653,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 91
+          "search_rank": 89
         },
         {
           "player_id": "11581",
@@ -3908,7 +3908,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 487
+          "search_rank": 489
         },
         {
           "player_id": "9509",
@@ -3989,7 +3989,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 63
+          "search_rank": 65
         },
         {
           "player_id": "11655",
@@ -4094,7 +4094,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 199
+          "search_rank": 197
         },
         {
           "player_id": "13302",
@@ -4244,7 +4244,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 19
+          "search_rank": 17
         },
         {
           "player_id": "8408",
@@ -4340,7 +4340,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 46
+          "search_rank": 44
         },
         {
           "player_id": "11604",
@@ -4386,6 +4386,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 355
+        },
+        {
+          "player_id": "12481",
+          "espn_id": null,
+          "name": "Cam Skattebo",
+          "position": "RB",
+          "team": "NYG",
+          "birth_date": "2002-02-05",
+          "college": "Arizona State",
+          "height": "71",
+          "weight": "215",
+          "years_exp": 1,
+          "status": "Active",
+          "injury_status": "Doubtful",
+          "search_rank": 36
         },
         {
           "player_id": "12484",
@@ -4461,21 +4476,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 88
-        },
-        {
-          "player_id": "12718",
-          "espn_id": null,
-          "name": "Konata Mumpfield",
-          "position": "WR",
-          "team": "LAR",
-          "birth_date": "2002-10-24",
-          "college": "Pittsburgh",
-          "height": "73",
-          "weight": "188",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 678
         },
         {
           "player_id": "13269",
@@ -4611,6 +4611,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 30
+        },
+        {
+          "player_id": "8132",
+          "espn_id": null,
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI",
+          "birth_date": "2000-04-15",
+          "college": "BYU",
+          "height": "70",
+          "weight": "225",
+          "years_exp": 4,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 89
         },
         {
           "player_id": "8167",
@@ -4901,7 +4916,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 378
+          "search_rank": 377
         },
         {
           "player_id": "13533",
@@ -5162,7 +5177,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 450
+          "search_rank": 449
         },
         {
           "player_id": "12533",
@@ -5267,7 +5282,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 46
+          "search_rank": 44
         },
         {
           "player_id": "6801",
@@ -5342,7 +5357,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 132
+          "search_rank": 131
         },
         {
           "player_id": "9480",
@@ -5498,7 +5513,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 287
+          "search_rank": 288
         },
         {
           "player_id": "13285",
@@ -5513,7 +5528,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 199
+          "search_rank": 201
         },
         {
           "player_id": "13286",
@@ -5558,7 +5573,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 91
+          "search_rank": 89
         },
         {
           "player_id": "13298",
@@ -5603,7 +5618,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 181
+          "search_rank": 179
         },
         {
           "player_id": "3321",
@@ -5633,7 +5648,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 9,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 298
+          "search_rank": 296
         },
         {
           "player_id": "4881",
@@ -5648,7 +5663,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 10
+          "search_rank": 8
         },
         {
           "player_id": "6797",
@@ -5819,7 +5834,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 37
+          "search_rank": 35
         },
         {
           "player_id": "12530",
@@ -5864,7 +5879,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": "Out",
-          "search_rank": 93
+          "search_rank": 92
         },
         {
           "player_id": "4984",
@@ -6110,7 +6125,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 127
+          "search_rank": 125
         },
         {
           "player_id": "11576",
@@ -6491,7 +6506,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 28
+          "search_rank": 26
         },
         {
           "player_id": "11635",
@@ -6671,7 +6686,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 76
+          "search_rank": 75
         },
         {
           "player_id": "5844",
@@ -7022,7 +7037,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 447
+          "search_rank": 449
         },
         {
           "player_id": "5849",
@@ -7037,7 +7052,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 87
+          "search_rank": 88
         },
         {
           "player_id": "5947",
@@ -7163,7 +7178,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 149
+          "search_rank": 148
         },
         {
           "player_id": "11783",
@@ -7179,21 +7194,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 199
-        },
-        {
-          "player_id": "12481",
-          "espn_id": null,
-          "name": "Cam Skattebo",
-          "position": "RB",
-          "team": "NYG",
-          "birth_date": "2002-02-05",
-          "college": "Arizona State",
-          "height": "71",
-          "weight": "215",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": "Doubtful",
-          "search_rank": 36
         },
         {
           "player_id": "12490",
@@ -7376,21 +7376,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 68
         },
         {
-          "player_id": "8132",
-          "espn_id": null,
-          "name": "Tyler Allgeier",
-          "position": "RB",
-          "team": "ARI",
-          "birth_date": "2000-04-15",
-          "college": "BYU",
-          "height": "70",
-          "weight": "225",
-          "years_exp": 4,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 89
-        },
-        {
           "player_id": "KC",
           "espn_id": null,
           "name": "Kansas City Chiefs",
@@ -7439,7 +7424,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 14,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 262
+          "search_rank": 263
         },
         {
           "player_id": "11834",
@@ -7529,7 +7514,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 11,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 104
+          "search_rank": 105
         },
         {
           "player_id": "3198",
@@ -8047,6 +8032,28 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 9,
+      "created": "Nov 7, 2026 • 12:17 AM PT",
+      "transaction_id": "1424708373529526272",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "team": "LAR"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 9,
       "created": "Nov 6, 2026 • 1:27 PM PT",
       "transaction_id": "1424544694175637504",
       "type": "free_agent",
@@ -8093,6 +8100,52 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 9,
+      "created": "Nov 5, 2026 • 2:22 PM PT",
+      "transaction_id": "1424196270083391488",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "jamescho0829",
+        "daevn"
+      ],
+      "assets_received": {
+        "jamescho0829": [
+          {
+            "name": "Cam Skattebo",
+            "position": "RB",
+            "team": "NYG"
+          },
+          {
+            "name": "Tyler Allgeier",
+            "position": "RB",
+            "team": "ARI"
+          },
+          {
+            "name": "2027 Round 3",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "daevn"
+          },
+          {
+            "name": "2027 Round 3",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "willie425"
+          }
+        ],
+        "daevn": [
+          {
+            "name": "2027 Round 1",
+            "position": "PICK",
+            "team": null,
+            "original_owner": "jamescho0829"
+          }
+        ]
+      }
     },
     {
       "season": "2026",
@@ -31787,11 +31840,11 @@ window.__STATIC_DATA__ = {
       "season": "2027",
       "round": 3,
       "roster_id": "2",
-      "owner_id": "11",
-      "previous_owner_id": "6",
-      "owner_name": "daevn",
+      "owner_id": "3",
+      "previous_owner_id": "11",
+      "owner_name": "jamescho0829",
       "original_owner_name": "willie425",
-      "previous_owner_name": "natepark99"
+      "previous_owner_name": "daevn"
     },
     {
       "season": "2028",
@@ -31822,6 +31875,16 @@ window.__STATIC_DATA__ = {
       "owner_name": "justinpark99",
       "original_owner_name": "willie425",
       "previous_owner_name": "willie425"
+    },
+    {
+      "season": "2027",
+      "round": 1,
+      "roster_id": "3",
+      "owner_id": "11",
+      "previous_owner_id": "3",
+      "owner_name": "daevn",
+      "original_owner_name": "jamescho0829",
+      "previous_owner_name": "jamescho0829"
     },
     {
       "season": "2027",
@@ -32192,6 +32255,16 @@ window.__STATIC_DATA__ = {
       "owner_name": "PattyMahomiee",
       "original_owner_name": "daevn",
       "previous_owner_name": "GibbyMyTD"
+    },
+    {
+      "season": "2027",
+      "round": 3,
+      "roster_id": "11",
+      "owner_id": "3",
+      "previous_owner_id": "11",
+      "owner_name": "jamescho0829",
+      "original_owner_name": "daevn",
+      "previous_owner_name": "daevn"
     },
     {
       "season": "2029",
