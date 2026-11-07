@@ -7006,7 +7006,7 @@ window.__STATIC_DATA__ = {
           "weight": "167",
           "years_exp": 9,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 214
         },
         {
@@ -7468,7 +7468,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 677
         },
         {
