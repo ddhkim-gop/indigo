@@ -1,6 +1,6 @@
 {
   "team": "willie425",
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -120,7 +120,28 @@
       "published": "2026-11-02T04:15:36Z",
       "video": "https://video.twimg.com/amplify_video/2117108026373001216/vid/avc1/1920x1080/vtCQ0VXkkQhYKg7K.mp4",
       "author_name": "Washington Commanders",
-      "avatar": "https://pbs.twimg.com/profile_images/2043720907617632256/ceXYRByJ_normal.jpg",
+      "avatar": "",
+      "author_verified": true
+    },
+    {
+      "url": "https://x.com/NFL/status/2117012242596012429",
+      "player": "Corey Kiner",
+      "meta": "RB \u00b7 NE",
+      "date": "2026-11-01",
+      "author": "NFL",
+      "text": "Corey Kiner gets 20 yards and past midfield \ud83d\ude24\n\nNEvsMIA on CBS/Paramount+\nStream on @NFLPlus",
+      "verified": true,
+      "faves": 214,
+      "secs": 9,
+      "game_id": "401873034",
+      "game_time": "Q1 3:39",
+      "play_key": "401873034:401873034727",
+      "played_at": "2026-11-01T21:52:47Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117012118478241792/img/ggBxWRtcPTzrvbXV.jpg",
+      "published": "2026-11-01T21:53:45Z",
+      "video": "https://video.twimg.com/amplify_video/2117012118478241792/vid/avc1/1920x1080/oHSQDqoOWEJjfiCr.mp4",
+      "author_name": "NFL",
+      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
       "author_verified": true
     },
     {
