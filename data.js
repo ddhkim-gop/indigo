@@ -4127,19 +4127,19 @@ window.__STATIC_DATA__ = {
           "search_rank": 123
         },
         {
-          "player_id": "13603",
-          "espn_id": null,
-          "name": "Gregory Desrosiers",
-          "position": "RB",
-          "team": "NYG",
-          "birth_date": "2001-03-27",
-          "college": "Memphis",
-          "height": "71",
-          "weight": "200",
-          "years_exp": 0,
+          "player_id": "3286",
+          "espn_id": 3043116,
+          "name": "Demarcus Robinson",
+          "position": "WR",
+          "team": "SF",
+          "birth_date": "1994-09-21",
+          "college": "Florida",
+          "height": "73",
+          "weight": "202",
+          "years_exp": 10,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 570
+          "search_rank": 679
         },
         {
           "player_id": "4034",
@@ -8029,6 +8029,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 9,
+      "created": "Nov 7, 2026 • 6:20 PM PT",
+      "transaction_id": "1424980910981275648",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Demarcus Robinson",
+          "position": "WR",
+          "team": "SF"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Gregory Desrosiers",
+          "position": "RB",
+          "team": "NYG"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 9,
