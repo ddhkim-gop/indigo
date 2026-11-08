@@ -3832,7 +3832,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 23
         },
         {
@@ -4063,7 +4063,7 @@ window.__STATIC_DATA__ = {
           "weight": "204",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 172
         },
         {
@@ -4399,7 +4399,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 36
         },
         {
@@ -6028,7 +6028,7 @@ window.__STATIC_DATA__ = {
           "weight": "202",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 7
         },
         {
@@ -6610,7 +6610,7 @@ window.__STATIC_DATA__ = {
           "weight": "217",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 157
         },
         {
@@ -7100,11 +7100,11 @@ window.__STATIC_DATA__ = {
           "search_rank": 101
         },
         {
-          "player_id": "NYJ",
+          "player_id": "NO",
           "espn_id": null,
-          "name": "New York Jets",
+          "name": "New Orleans Saints",
           "position": "DEF",
-          "team": "NYJ",
+          "team": "NO",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -7237,7 +7237,7 @@ window.__STATIC_DATA__ = {
           "weight": "203",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 62
         },
         {
@@ -7453,7 +7453,7 @@ window.__STATIC_DATA__ = {
           "weight": "208",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 242
         },
         {
@@ -7633,7 +7633,7 @@ window.__STATIC_DATA__ = {
           "weight": "250",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 97
         },
         {
@@ -8017,6 +8017,34 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 9,
+      "created": "Nov 8, 2026 • 7:58 AM PT",
+      "transaction_id": "1425186823184896000",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "bsohn00"
+      ],
+      "added": [
+        {
+          "name": "New Orleans Saints",
+          "position": "DEF",
+          "team": "NO"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "New York Jets",
+          "position": "DEF",
+          "team": "NYJ"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 9,
       "created": "Nov 7, 2026 • 9:43 PM PT",
       "transaction_id": "1425032013877952512",
       "type": "free_agent",
@@ -8085,7 +8113,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Kendre Miller",
           "position": "RB",
-          "team": "NO"
+          "team": null
         }
       ],
       "faab": 0,
@@ -8530,7 +8558,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Kendre Miller",
           "position": "RB",
-          "team": "NO"
+          "team": null
         }
       ],
       "dropped": [
@@ -8843,7 +8871,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Kendre Miller",
           "position": "RB",
-          "team": "NO"
+          "team": null
         }
       ],
       "faab": 0,
@@ -15113,7 +15141,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Kendre Miller",
           "position": "RB",
-          "team": "NO"
+          "team": null
         }
       ],
       "dropped": [
@@ -16315,7 +16343,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Kendre Miller",
           "position": "RB",
-          "team": "NO"
+          "team": null
         }
       ],
       "faab": 0,
