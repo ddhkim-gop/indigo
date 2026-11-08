@@ -4,6 +4,27 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://x.com/Eagles/status/2119499702882259069",
+      "player": "Saquon Barkley",
+      "meta": "RB \u00b7 PHI",
+      "date": "2026-11-08",
+      "author": "Eagles",
+      "text": "Saquon just loves wearing Kelly Green \ud83d\ude0f",
+      "verified": true,
+      "faves": 876,
+      "secs": 18,
+      "game_id": "401873044",
+      "game_time": "Q1 2:09",
+      "play_key": "401873044:401873044955",
+      "played_at": "2026-11-08T18:36:29Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119499450762629120/img/3mNeYSK1ALctfhdD.jpg",
+      "published": "2026-11-08T18:38:02Z",
+      "video": "https://video.twimg.com/amplify_video/2119499450762629120/vid/avc1/1920x1080/fop0hdBWZc5CxLtk.mp4",
+      "author_name": "Philadelphia Eagles",
+      "avatar": "https://pbs.twimg.com/profile_images/2117663165093728256/jGzQUSAp_normal.jpg",
+      "author_verified": true
+    },
+    {
       "url": "https://x.com/Bengals/status/2119454980696318451",
       "player": "Joe Burrow",
       "meta": "QB \u00b7 CIN",
@@ -21,7 +42,7 @@
       "published": "2026-11-08T15:40:19Z",
       "video": "https://video.twimg.com/amplify_video/2119454534556647424/vid/avc1/1920x1080/WVByD1bmQRGniagd.mp4",
       "author_name": "Cincinnati Bengals",
-      "avatar": "https://pbs.twimg.com/profile_images/2079568103231348736/HbQk9Ucp_normal.jpg",
+      "avatar": "",
       "author_verified": true
     },
     {
@@ -42,7 +63,7 @@
       "published": "2026-11-08T15:19:07Z",
       "video": "https://video.twimg.com/amplify_video/2119449164530475008/vid/avc1/1920x1080/CnqmukGPMqiFhKur.mp4",
       "author_name": "Cincinnati Bengals",
-      "avatar": "https://pbs.twimg.com/profile_images/2079568103231348736/HbQk9Ucp_normal.jpg",
+      "avatar": "",
       "author_verified": true
     },
     {
@@ -63,7 +84,7 @@
       "published": "2026-11-08T14:50:01Z",
       "video": "https://video.twimg.com/amplify_video/2119442053570375680/vid/avc1/1920x1080/YOn1APKdpkv52Fo6.mp4",
       "author_name": "Cincinnati Bengals",
-      "avatar": "https://pbs.twimg.com/profile_images/2079568103231348736/HbQk9Ucp_normal.jpg",
+      "avatar": "",
       "author_verified": true
     },
     {
@@ -145,7 +166,7 @@
       "published": "2026-11-02T01:57:59Z",
       "video": "https://video.twimg.com/amplify_video/2117073183287197696/vid/avc1/1920x1080/DEjh9ATdvj8HAIz2.mp4",
       "author_name": "Philadelphia Eagles",
-      "avatar": "",
+      "avatar": "https://pbs.twimg.com/profile_images/2117663165093728256/jGzQUSAp_normal.jpg",
       "author_verified": true
     },
     {
@@ -246,7 +267,7 @@
       "published": "2026-11-01T18:07:01Z",
       "video": "https://video.twimg.com/amplify_video/2116955090074365952/vid/avc1/1920x1080/-0JY-Kjcik3284AT.mp4",
       "author_name": "New York Jets",
-      "avatar": "",
+      "avatar": "https://pbs.twimg.com/profile_images/2114726710214103040/pVXiph6H_normal.jpg",
       "author_verified": true
     }
   ]
