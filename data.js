@@ -3773,7 +3773,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 50
+          "search_rank": 49
         },
         {
           "player_id": "5012",
@@ -4340,7 +4340,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 44
+          "search_rank": 46
         },
         {
           "player_id": "11604",
@@ -4658,21 +4658,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 52
         },
         {
-          "player_id": "8676",
-          "espn_id": null,
-          "name": "Rashid Shaheed",
-          "position": "WR",
-          "team": "SEA",
-          "birth_date": "1998-08-31",
-          "college": "Weber State",
-          "height": "72",
-          "weight": "180",
-          "years_exp": 4,
-          "status": "Active",
-          "injury_status": "Out",
-          "search_rank": 150
-        },
-        {
           "player_id": "CHI",
           "espn_id": null,
           "name": "Chicago Bears",
@@ -4766,7 +4751,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 74
+          "search_rank": 73
         },
         {
           "player_id": "11786",
@@ -4781,7 +4766,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 133
+          "search_rank": 131
         },
         {
           "player_id": "12506",
@@ -5282,7 +5267,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 44
+          "search_rank": 46
         },
         {
           "player_id": "6801",
@@ -5648,7 +5633,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 9,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 296
+          "search_rank": 298
         },
         {
           "player_id": "4881",
@@ -5663,7 +5648,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 8
+          "search_rank": 10
         },
         {
           "player_id": "6797",
@@ -6320,7 +6305,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 12
+          "search_rank": 11
         },
         {
           "player_id": "6804",
@@ -6410,7 +6395,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 7
+          "search_rank": 5
         },
         {
           "player_id": "MIN",
@@ -6506,7 +6491,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 26
+          "search_rank": 28
         },
         {
           "player_id": "11635",
@@ -7358,7 +7343,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 27
+          "search_rank": 28
         },
         {
           "player_id": "7553",
@@ -7373,7 +7358,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 68
+          "search_rank": 67
         },
         {
           "player_id": "KC",
@@ -8029,6 +8014,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 9,
+      "created": "Nov 7, 2026 • 9:43 PM PT",
+      "transaction_id": "1425032013877952512",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Rashid Shaheed",
+          "position": "WR",
+          "team": "SEA"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 9,
