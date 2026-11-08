@@ -4,6 +4,27 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://www.youtube.com/shorts/QE5m_eEu1bc",
+      "player": "Matthew Stafford",
+      "meta": "QB \u00b7 LAR",
+      "date": "2026-11-08",
+      "author": "LARams",
+      "text": "PUKA WHAT A CATCH \ud83e\udd2f #nfl #shorts #rams",
+      "verified": true,
+      "faves": 272,
+      "secs": 13,
+      "game_id": "401873043",
+      "game_time": "Q4 12:51",
+      "play_key": "401873043:4018730433542",
+      "played_at": "2026-11-08T20:25:59Z",
+      "poster": "https://i.ytimg.com/vi/QE5m_eEu1bc/hqdefault.jpg",
+      "published": "2026-11-08T20:39:38Z",
+      "youtube": "QE5m_eEu1bc",
+      "author_name": "Los Angeles Rams",
+      "avatar": "",
+      "author_verified": true
+    },
+    {
       "url": "https://x.com/NFL/status/2119511019944919352",
       "player": "Darius Cooper",
       "meta": "WR \u00b7 PHI",
