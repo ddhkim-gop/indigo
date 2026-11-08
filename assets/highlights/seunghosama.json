@@ -4,6 +4,25 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://www.espn.com/video/clip/_/id/50421245/joe-burrow-throws-dart-tee-higgins-2nd-td-game",
+      "player": "Jaxson Dart",
+      "meta": "QB \u00b7 NYG",
+      "date": "2026-11-08",
+      "author": "ESPN",
+      "text": "Joe Burrow throws a dart to Tee Higgins for his 2nd TD of the game",
+      "verified": true,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401873038",
+      "game_id": "401873038",
+      "game_time": "Q3 2:05",
+      "play_key": "401873038:4018730382937",
+      "played_at": "2026-11-08T16:43:20Z",
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1108/d5a5c53d-737f-48d3-9757-32165165b41f/d5a5c53d-737f-48d3-9757-32165165b41f.jpg",
+      "published": "2026-11-08T16:53:46Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1108/d5a5c53d-737f-48d3-9757-32165165b41f/d5a5c53d-737f-48d3-9757-32165165b41f.mp4"
+    },
+    {
       "url": "https://x.com/Jaguars/status/2118520063707742714",
       "player": "Cam Little",
       "meta": "K \u00b7 JAX",
