@@ -3161,6 +3161,36 @@
   "published": "2026-11-09T00:07:55Z",
   "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1109/9ac8b299-3836-4a87-abcb-4b4a7f16a5cd/9ac8b299-3836-4a87-abcb-4b4a7f16a5cd.mp4"
  },
+ "https://www.espn.com/video/clip/_/id/50428198/rome-odunze-scores-first-td-season-bears-opening-drive": {
+  "espn_game": "401873050",
+  "game_id": "401873050",
+  "game_time": "Q1 9:38",
+  "play_key": "401873050:401873050292",
+  "played_at": "2026-11-09T01:31:02Z",
+  "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/71897c5805f84bf19d43d32a9b5c55a71259/71897c5805f84bf19d43d32a9b5c55a71259.jpg",
+  "published": "2026-11-09T01:42:49Z",
+  "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1109/71897c58-05f8-4bf1-9d43-d32a9b5c55a7/71897c58-05f8-4bf1-9d43-d32a9b5c55a7.mp4"
+ },
+ "https://www.espn.com/video/clip/_/id/50428420/luther-burden-iii-outruns-defense-56-yard-bears-td": {
+  "espn_game": "401873050",
+  "game_id": "401873050",
+  "game_time": "Q1 6:00",
+  "play_key": "401873050:401873050546",
+  "played_at": "2026-11-09T01:42:41Z",
+  "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/cfd2746e38694f7a95d7db075e6e77cd1327/cfd2746e38694f7a95d7db075e6e77cd1327.jpg",
+  "published": "2026-11-09T01:56:45Z",
+  "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1109/cfd2746e-3869-4f7a-95d7-db075e6e77cd/cfd2746e-3869-4f7a-95d7-db075e6e77cd.mp4"
+ },
+ "https://www.espn.com/video/clip/_/id/50428908/caleb-williams-throws-third-int-half": {
+  "espn_game": "401873050",
+  "game_id": "401873050",
+  "game_time": "Q1 9:38",
+  "play_key": "401873050:401873050292",
+  "played_at": "2026-11-09T01:31:02Z",
+  "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1109/4b3dfebf-3efe-4502-90e6-f948ecf4341b/4b3dfebf-3efe-4502-90e6-f948ecf4341b.jpg",
+  "published": "2026-11-09T02:58:54Z",
+  "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1109/4b3dfebf-3efe-4502-90e6-f948ecf4341b/4b3dfebf-3efe-4502-90e6-f948ecf4341b.mp4"
+ },
  "https://www.youtube.com/shorts/-3eIqRHdETk": {
   "game_id": "401873019",
   "game_time": "Q2 3:43",
@@ -7240,6 +7270,33 @@
   "published": "2026-11-09T00:54:35Z",
   "video": "https://video.twimg.com/amplify_video/2119594382315700225/vid/avc1/1080x1920/gd5_G8VisHmLGi6o.mp4"
  },
+ "https://x.com/Buccaneers/status/2119630217014649064": {
+  "game_id": "401873050",
+  "game_time": "Q3 11:37",
+  "play_key": "401873050:4018730502416",
+  "played_at": "2026-11-09T03:14:25Z",
+  "poster": "https://pbs.twimg.com/media/HSrBhzuXsAAEUUr.jpg",
+  "published": "2026-11-09T03:16:39Z",
+  "video": "https://video.twimg.com/amplify_video/2101692372921016320/vid/avc1/1080x1350/0MZFM_1QWA1NlqWv.mp4"
+ },
+ "https://x.com/Buccaneers/status/2119630372270932223": {
+  "game_id": "401873050",
+  "game_time": "Q3 11:37",
+  "play_key": "401873050:4018730502416",
+  "played_at": "2026-11-09T03:14:25Z",
+  "poster": "https://pbs.twimg.com/amplify_video_thumb/2119629849891414016/img/5sv3CeTdj4ieVK0N.jpg",
+  "published": "2026-11-09T03:17:16Z",
+  "video": "https://video.twimg.com/amplify_video/2119629849891414016/vid/avc1/1920x1080/R22HKM-CmITvzR5h.mp4"
+ },
+ "https://x.com/Buccaneers/status/2119636572798701943": {
+  "game_id": "401873050",
+  "game_time": "Q3 3:39",
+  "play_key": "401873050:4018730503054",
+  "played_at": "2026-11-09T03:41:50Z",
+  "poster": "https://pbs.twimg.com/media/HSrAxgIaoAAv8R0.jpg",
+  "published": "2026-11-09T03:41:54Z",
+  "video": "https://video.twimg.com/amplify_video/2101691204832313344/vid/avc1/1080x1350/yRKswrH1BTwrSk5C.mp4"
+ },
  "https://x.com/BuffaloBills/status/2106815551313965099": {
   "poster": "https://pbs.twimg.com/media/HTzpFn9WYAAvJrO.jpg",
   "published": "2026-10-04T18:35:44Z",
@@ -7420,6 +7477,15 @@
   "poster": "https://pbs.twimg.com/amplify_video_thumb/2117464931209781248/img/anYgPzAUxY__mr_f.jpg",
   "published": "2026-11-03T03:52:51Z",
   "video": "https://video.twimg.com/amplify_video/2117464931209781248/vid/avc1/1920x1080/XAuNYrHFh1Btb0TY.mp4"
+ },
+ "https://x.com/ChicagoBears/status/2119606987453317167": {
+  "game_id": "401873050",
+  "game_time": "Q1 6:00",
+  "play_key": "401873050:401873050546",
+  "played_at": "2026-11-09T01:42:41Z",
+  "poster": "https://pbs.twimg.com/amplify_video_thumb/2119606789150818304/img/q4Mee0pEtliVN3xA.jpg",
+  "published": "2026-11-09T01:44:20Z",
+  "video": "https://video.twimg.com/amplify_video/2119606789150818304/vid/avc1/1920x1080/kjJNb-GZI0JQVqml.mp4"
  },
  "https://x.com/Chiefs/status/2106849526405640582": {
   "game_id": "401872976",
@@ -11567,6 +11633,11 @@
   "poster": "https://pbs.twimg.com/amplify_video_thumb/2119629879343816704/img/wt8OUh5rsBzUem5p.jpg",
   "published": "2026-11-09T03:16:08Z",
   "video": "https://video.twimg.com/amplify_video/2119629879343816704/vid/avc1/1920x1080/zxpT_Q81IBE43U_v.mp4"
+ },
+ "https://x.com/NFL/status/2119648725312172367": {
+  "poster": "https://pbs.twimg.com/amplify_video_thumb/2119648585734148096/img/ePsr3q7t6X15gYsJ.jpg",
+  "published": "2026-11-09T04:30:11Z",
+  "video": "https://video.twimg.com/amplify_video/2119648585734148096/vid/avc1/1920x1080/R76ihohpPo_fPOkK.mp4"
  },
  "https://x.com/NFLBrasil/status/2093514185812431184": {
   "poster": "https://pbs.twimg.com/amplify_video_thumb/2093514163834269696/img/j7GWyppCmf8GOls3.jpg?name=orig",
