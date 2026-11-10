@@ -4512,7 +4512,7 @@ window.__STATIC_DATA__ = {
           "espn_id": 15818,
           "name": "Keenan Allen",
           "position": "WR",
-          "team": "IND",
+          "team": "SF",
           "birth_date": "1992-04-27",
           "college": "California",
           "height": "74",
@@ -9578,7 +9578,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Nick Folk",
           "position": "K",
-          "team": "ATL"
+          "team": null
         }
       ],
       "faab": 0,
@@ -10160,7 +10160,7 @@ window.__STATIC_DATA__ = {
           {
             "name": "Keenan Allen",
             "position": "WR",
-            "team": "IND"
+            "team": "SF"
           }
         ],
         "willie425": [
@@ -11205,7 +11205,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Nick Folk",
           "position": "K",
-          "team": "ATL"
+          "team": null
         }
       ],
       "dropped": [
@@ -12413,7 +12413,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Keenan Allen",
           "position": "WR",
-          "team": "IND"
+          "team": "SF"
         }
       ],
       "dropped": [],
@@ -13541,7 +13541,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Keenan Allen",
           "position": "WR",
-          "team": "IND"
+          "team": "SF"
         }
       ],
       "faab": 0,
@@ -15618,7 +15618,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Keenan Allen",
           "position": "WR",
-          "team": "IND"
+          "team": "SF"
         }
       ],
       "dropped": [],
@@ -17401,7 +17401,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Keenan Allen",
           "position": "WR",
-          "team": "IND"
+          "team": "SF"
         }
       ],
       "faab": 0,
