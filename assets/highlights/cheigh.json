@@ -4,6 +4,27 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://x.com/NFL/status/2120001488936448336",
+      "player": "Josh Allen",
+      "meta": "QB \u00b7 BUF",
+      "date": "2026-11-10",
+      "author": "NFL",
+      "text": "Tight window for Josh Allen. Tough catch for Keon Coleman.\n\nBUFvsMIN on ESPN\u2028Stream on @NFLPlus",
+      "verified": true,
+      "faves": 633,
+      "secs": 13,
+      "game_id": "401873051",
+      "game_time": "Q4 13:34",
+      "play_key": "401873051:4018730513372",
+      "played_at": "2026-11-10T03:50:47Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2120001412155523073/img/5xbAGWrY5Knut85_.jpg",
+      "published": "2026-11-10T03:51:57Z",
+      "video": "https://video.twimg.com/amplify_video/2120001412155523073/vid/avc1/1920x1080/t9c6hY_qrBOopnkY.mp4",
+      "author_name": "NFL",
+      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "author_verified": true
+    },
+    {
       "url": "https://www.espn.com/video/clip/_/id/50438454/keleki-latu-hauls-first-nfl-td-dime-josh-allen",
       "player": "Josh Allen",
       "meta": "QB \u00b7 BUF",
@@ -198,27 +219,6 @@
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1103/581a3db4-3f8d-4685-b3f6-079753b43f9c/581a3db4-3f8d-4685-b3f6-079753b43f9c.mp4"
     },
     {
-      "url": "https://x.com/NFL/status/2117462720207597939",
-      "player": "Sam Darnold",
-      "meta": "QB \u00b7 SEA",
-      "date": "2026-11-03",
-      "author": "NFL",
-      "text": "Darnold dime to Horton for two and this is a THREE POINT GAME.\n\nCHIvsSEA on ESPN\nStream on @NFLPlus",
-      "verified": true,
-      "faves": 565,
-      "secs": 11,
-      "game_id": "401873036",
-      "game_time": "Q3 1:22",
-      "play_key": "401873036:4018730362838",
-      "played_at": "2026-11-03T03:23:15Z",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117462524786622465/img/NGmDUxA1hBLAssqv.jpg",
-      "published": "2026-11-03T03:43:47Z",
-      "video": "https://video.twimg.com/amplify_video/2117462524786622465/vid/avc1/1920x1080/ZHhHGPqijSiMv16v.mp4",
-      "author_name": "NFL",
-      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
-      "author_verified": true
-    },
-    {
       "url": "https://www.espn.com/video/clip/_/id/50363885/sam-darnold-launches-beauty-wide-open-jsn-seahawks-td",
       "player": "Sam Darnold",
       "meta": "QB \u00b7 SEA",
@@ -236,6 +236,23 @@
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1103/b5ed609e-d5b2-4055-a9ce-a689b046ba71/b5ed609e-d5b2-4055-a9ce-a689b046ba71.jpg",
       "published": "2026-11-03T02:52:24Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1103/b5ed609e-d5b2-4055-a9ce-a689b046ba71/b5ed609e-d5b2-4055-a9ce-a689b046ba71.mp4"
+    },
+    {
+      "url": "https://x.com/NFL/status/2117462720207597939",
+      "player": "Sam Darnold",
+      "meta": "QB \u00b7 SEA",
+      "date": "2026-11-03",
+      "author": "NFL",
+      "text": "Darnold dime to Horton for two and this is a THREE POINT GAME.\n\nCHIvsSEA on ESPN\nStream on @NFLPlus",
+      "verified": false,
+      "faves": 565,
+      "secs": 11,
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117462524786622465/img/NGmDUxA1hBLAssqv.jpg",
+      "published": "2026-11-03T03:43:47Z",
+      "video": "https://video.twimg.com/amplify_video/2117462524786622465/vid/avc1/1920x1080/ZHhHGPqijSiMv16v.mp4",
+      "author_name": "NFL",
+      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "author_verified": true
     }
   ]
 }
