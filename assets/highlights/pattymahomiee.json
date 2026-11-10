@@ -1,6 +1,6 @@
 {
   "team": "PattyMahomiee",
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -164,25 +164,6 @@
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1108/25c2a2d6-8eae-4e8f-a857-4af72495d549/25c2a2d6-8eae-4e8f-a857-4af72495d549.jpg",
       "published": "2026-11-08T16:42:22Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1108/25c2a2d6-8eae-4e8f-a857-4af72495d549/25c2a2d6-8eae-4e8f-a857-4af72495d549.mp4"
-    },
-    {
-      "url": "https://www.espn.com/video/clip/_/id/50353608/kevin-coleman-jr-scores-deep-td-make-1-possetion-game",
-      "player": "Kevin Coleman Jr.",
-      "meta": "WR \u00b7 MIA",
-      "date": "2026-11-02",
-      "author": "ESPN",
-      "text": "Kevin Coleman Jr. scores deep TD to make it a 1 possetion game",
-      "verified": true,
-      "faves": 0,
-      "secs": 0,
-      "espn_game": "401873034",
-      "game_id": "401873034",
-      "game_time": "Q4 2:04",
-      "play_key": "401873034:4018730344021",
-      "played_at": "2026-11-02T00:17:21Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/64fb6e9b37fc4b888681eaead43e5d791181/64fb6e9b37fc4b888681eaead43e5d791181.jpg",
-      "published": "2026-11-02T00:35:19Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1102/64fb6e9b-37fc-4b88-8681-eaead43e5d79/64fb6e9b-37fc-4b88-8681-eaead43e5d79.mp4"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "team": "SeunghoSama",
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -179,44 +179,6 @@
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/035a5e076b854830b733e7419e4faab41242/035a5e076b854830b733e7419e4faab41242.jpg",
       "published": "2026-11-03T01:39:04Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1103/035a5e07-6b85-4830-b733-e7419e4faab4/035a5e07-6b85-4830-b733-e7419e4faab4.mp4"
-    },
-    {
-      "url": "https://www.espn.com/video/clip/_/id/50354769/jayden-daniels-fires-dart-stefon-diggs-commanders-td",
-      "player": "Jaxson Dart",
-      "meta": "QB \u00b7 NYG",
-      "date": "2026-11-02",
-      "author": "ESPN",
-      "text": "Jayden Daniels fires a dart to Stefon Diggs for a Commanders TD",
-      "verified": true,
-      "faves": 0,
-      "secs": 0,
-      "espn_game": "401873035",
-      "game_id": "401873035",
-      "game_time": "Q2 4:56",
-      "play_key": "401873035:4018730351699",
-      "played_at": "2026-11-02T02:25:18Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/28fcc7077c9b4bb3bd9874ab713fc5ac1322/28fcc7077c9b4bb3bd9874ab713fc5ac1322.jpg",
-      "published": "2026-11-02T02:34:07Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1102/28fcc707-7c9b-4bb3-bd98-74ab713fc5ac/28fcc707-7c9b-4bb3-bd98-74ab713fc5ac.mp4"
-    },
-    {
-      "url": "https://www.espn.com/video/clip/_/id/50353615/jonah-coleman-punches-go-ahead-td-put-broncos-top",
-      "player": "Jonah Coleman",
-      "meta": "RB \u00b7 DEN",
-      "date": "2026-11-02",
-      "author": "ESPN",
-      "text": "Jonah Coleman punches in go-ahead TD to put Broncos on top",
-      "verified": true,
-      "faves": 0,
-      "secs": 0,
-      "espn_game": "401873033",
-      "game_id": "401873033",
-      "game_time": "Q4 1:56",
-      "play_key": "401873033:4018730334260",
-      "played_at": "2026-11-02T00:24:46Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/0473bc20fda44862a94a7a974d599b2d1202/0473bc20fda44862a94a7a974d599b2d1202.jpg",
-      "published": "2026-11-02T00:36:14Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1102/0473bc20-fda4-4862-a94a-7a974d599b2d/0473bc20-fda4-4862-a94a-7a974d599b2d.mp4"
     }
   ]
 }

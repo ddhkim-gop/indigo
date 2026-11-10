@@ -1,6 +1,6 @@
 {
   "team": "jay0jay1jay2",
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -121,7 +121,7 @@
       "game_time": "Q4 12:51",
       "play_key": "401873043:4018730433542",
       "played_at": "2026-11-08T20:25:59Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1108/9ec58b98-f0eb-4250-adc6-c69f0624d1f5/9ec58b98-f0eb-4250-adc6-c69f0624d1f5.jpg",
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/9ec58b98f0eb4250adc6c69f0624d1f51062/9ec58b98f0eb4250adc6c69f0624d1f51062.jpg",
       "published": "2026-11-08T20:35:05Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1108/9ec58b98-f0eb-4250-adc6-c69f0624d1f5/9ec58b98-f0eb-4250-adc6-c69f0624d1f5.mp4"
     },
@@ -202,25 +202,6 @@
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/7b74a7e2ca70462cb41a37fcda4e6b4c1401/7b74a7e2ca70462cb41a37fcda4e6b4c1401.jpg",
       "published": "2026-11-06T02:37:15Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1106/7b74a7e2-ca70-462c-b41a-37fcda4e6b4c/7b74a7e2-ca70-462c-b41a-37fcda4e6b4c.mp4"
-    },
-    {
-      "url": "https://www.espn.com/video/clip/_/id/50354769/jayden-daniels-fires-dart-stefon-diggs-commanders-td",
-      "player": "Stefon Diggs",
-      "meta": "WR \u00b7 WAS",
-      "date": "2026-11-02",
-      "author": "ESPN",
-      "text": "Jayden Daniels fires a dart to Stefon Diggs for a Commanders TD",
-      "verified": true,
-      "faves": 0,
-      "secs": 0,
-      "espn_game": "401873035",
-      "game_id": "401873035",
-      "game_time": "Q2 4:56",
-      "play_key": "401873035:4018730351699",
-      "played_at": "2026-11-02T02:25:18Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/28fcc7077c9b4bb3bd9874ab713fc5ac1322/28fcc7077c9b4bb3bd9874ab713fc5ac1322.jpg",
-      "published": "2026-11-02T02:34:07Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1102/28fcc707-7c9b-4bb3-bd98-74ab713fc5ac/28fcc707-7c9b-4bb3-bd98-74ab713fc5ac.mp4"
     }
   ]
 }
