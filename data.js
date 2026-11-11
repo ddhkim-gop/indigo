@@ -4538,21 +4538,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 128
         },
         {
-          "player_id": "5001",
-          "espn_id": 3117256,
-          "name": "Dalton Schultz",
-          "position": "TE",
-          "team": "HOU",
-          "birth_date": "1996-07-11",
-          "college": "Stanford",
-          "height": "77",
-          "weight": "242",
-          "years_exp": 8,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 98
-        },
-        {
           "player_id": "5850",
           "espn_id": 4047365,
           "name": "Josh Jacobs",
@@ -5685,7 +5670,7 @@ window.__STATIC_DATA__ = {
           "espn_id": null,
           "name": "Josh Downs",
           "position": "WR",
-          "team": "IND",
+          "team": "KC",
           "birth_date": "2001-08-12",
           "college": "North Carolina",
           "height": "69",
@@ -6714,8 +6699,8 @@ window.__STATIC_DATA__ = {
           "height": "73",
           "weight": "225",
           "years_exp": 4,
-          "status": "Active",
-          "injury_status": "Questionable",
+          "status": "Inactive",
+          "injury_status": "IR",
           "search_rank": 122
         },
         {
@@ -6795,8 +6780,8 @@ window.__STATIC_DATA__ = {
           "height": "74",
           "weight": "213",
           "years_exp": 3,
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "search_rank": 75
         },
         {
@@ -7401,7 +7386,7 @@ window.__STATIC_DATA__ = {
           "espn_id": 14880,
           "name": "Kirk Cousins",
           "position": "QB",
-          "team": "LV",
+          "team": "MIN",
           "birth_date": "1988-08-19",
           "college": "Michigan State",
           "height": "75",
@@ -8017,6 +8002,28 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 9,
+      "created": "Nov 10, 2026 • 4:19 PM PT",
+      "transaction_id": "1426037624438534144",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Dalton Schultz",
+          "position": "TE",
+          "team": "HOU"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 9,
       "created": "Nov 8, 2026 • 7:58 AM PT",
       "transaction_id": "1425186823184896000",
       "type": "free_agent",
@@ -8113,7 +8120,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Kendre Miller",
           "position": "RB",
-          "team": null
+          "team": "DAL"
         }
       ],
       "faab": 0,
@@ -8558,7 +8565,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Kendre Miller",
           "position": "RB",
-          "team": null
+          "team": "DAL"
         }
       ],
       "dropped": [
@@ -8871,7 +8878,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Kendre Miller",
           "position": "RB",
-          "team": null
+          "team": "DAL"
         }
       ],
       "faab": 0,
@@ -9060,7 +9067,7 @@ window.__STATIC_DATA__ = {
           {
             "name": "Josh Downs",
             "position": "WR",
-            "team": "IND"
+            "team": "KC"
           }
         ],
         "GibbyMyTD": [
@@ -12967,7 +12974,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Kirk Cousins",
           "position": "QB",
-          "team": "LV"
+          "team": "MIN"
         }
       ],
       "dropped": [
@@ -15141,7 +15148,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Kendre Miller",
           "position": "RB",
-          "team": null
+          "team": "DAL"
         }
       ],
       "dropped": [
@@ -16343,7 +16350,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Kendre Miller",
           "position": "RB",
-          "team": null
+          "team": "DAL"
         }
       ],
       "faab": 0,
