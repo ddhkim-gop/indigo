@@ -1,6 +1,6 @@
 {
   "team": "jamescho0829",
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -266,42 +266,6 @@
       "video": "https://video.twimg.com/amplify_video/2119496425620840448/vid/avc1/1920x1080/wPTHrveoESMasV2D.mp4",
       "author_name": "Miami Dolphins",
       "avatar": "https://pbs.twimg.com/profile_images/2003476192737857536/3trK5_DF_normal.jpg",
-      "author_verified": true
-    },
-    {
-      "url": "https://www.espn.com/video/clip/_/id/50362941/caleb-williams-fires-dart-luther-burden-iii-bears-td",
-      "player": "Luther Burden III",
-      "meta": "WR \u00b7 CHI",
-      "date": "2026-11-03",
-      "author": "ESPN",
-      "text": "Caleb Williams fires a dart to Luther Burden III for a Bears TD",
-      "verified": true,
-      "faves": 0,
-      "secs": 0,
-      "espn_game": "401873036",
-      "game_id": "401873036",
-      "game_time": "Q1 5:25",
-      "play_key": "401873036:401873036542",
-      "played_at": "2026-11-03T01:30:21Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/035a5e076b854830b733e7419e4faab41242/035a5e076b854830b733e7419e4faab41242.jpg",
-      "published": "2026-11-03T01:39:04Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1103/035a5e07-6b85-4830-b733-e7419e4faab4/035a5e07-6b85-4830-b733-e7419e4faab4.mp4"
-    },
-    {
-      "url": "https://x.com/NFL/status/2119559971360694691",
-      "player": "Dalton Schultz",
-      "meta": "TE \u00b7 HOU",
-      "date": "2026-11-08",
-      "author": "NFL",
-      "text": "This toe tap by Dalton Schultz \ud83d\udd25\n\nHOUvsLAC on CBS/Paramount+\nStream on @NFLPlus",
-      "verified": false,
-      "faves": 116,
-      "secs": 14,
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119559710948884480/img/nxWoRQkgzd_RE4V1.jpg",
-      "published": "2026-11-08T22:37:31Z",
-      "video": "https://video.twimg.com/amplify_video/2119559710948884480/vid/avc1/1920x1080/QRDJ0Wc3_UaSJO4i.mp4",
-      "author_name": "NFL",
-      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
       "author_verified": true
     }
   ]

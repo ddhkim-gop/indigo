@@ -1,6 +1,6 @@
 {
   "team": "willie425",
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -399,23 +399,6 @@
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/9d9d0ff5794146c6982d14518818025d1012/9d9d0ff5794146c6982d14518818025d1012.jpg",
       "published": "2026-11-08T21:48:31Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1108/9d9d0ff5-7941-46c6-982d-14518818025d/9d9d0ff5-7941-46c6-982d-14518818025d.mp4"
-    },
-    {
-      "url": "https://x.com/NFL/status/2117443019767267829",
-      "player": "Rome Odunze",
-      "meta": "WR \u00b7 CHI",
-      "date": "2026-11-03",
-      "author": "NFL",
-      "text": "Odunze catches another big one. Caleb starting to cook.\n\nBears on the move to end the half.\n\nCHIvsSEA on ESPN\nStream on @NFLPlus",
-      "verified": false,
-      "faves": 831,
-      "secs": 6,
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2117442607588704256/img/eOTZjJQIxWtFPSb7.jpg",
-      "published": "2026-11-03T02:25:30Z",
-      "video": "https://video.twimg.com/amplify_video/2117442607588704256/vid/avc1/1920x1080/lYJq_J0ZghIqIVCk.mp4",
-      "author_name": "NFL",
-      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
-      "author_verified": true
     }
   ]
 }
