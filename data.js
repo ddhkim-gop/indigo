@@ -3667,7 +3667,7 @@ window.__STATIC_DATA__ = {
           "weight": "220",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 98
         },
         {
@@ -3757,7 +3757,7 @@ window.__STATIC_DATA__ = {
           "weight": "225",
           "years_exp": 9,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 39
         },
         {
@@ -4011,7 +4011,7 @@ window.__STATIC_DATA__ = {
           "espn_id": null,
           "name": "Jaydon Blue",
           "position": "RB",
-          "team": "PHI",
+          "team": null,
           "birth_date": "2004-01-08",
           "college": "Texas",
           "height": "69",
@@ -4033,7 +4033,7 @@ window.__STATIC_DATA__ = {
           "weight": "222",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 679
         },
         {
@@ -4504,7 +4504,7 @@ window.__STATIC_DATA__ = {
           "weight": "228",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 197
         },
         {
@@ -4720,7 +4720,7 @@ window.__STATIC_DATA__ = {
           "weight": "165",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 122
         },
         {
@@ -4930,7 +4930,7 @@ window.__STATIC_DATA__ = {
           "weight": "217",
           "years_exp": 10,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 61
         },
         {
@@ -5617,7 +5617,7 @@ window.__STATIC_DATA__ = {
           "weight": "191",
           "years_exp": 10,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "",
           "search_rank": 145
         },
         {
@@ -6028,7 +6028,7 @@ window.__STATIC_DATA__ = {
           "weight": "202",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 7
         },
         {
@@ -6109,7 +6109,7 @@ window.__STATIC_DATA__ = {
           "weight": "224",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 125
         },
         {
@@ -6685,23 +6685,23 @@ window.__STATIC_DATA__ = {
           "weight": "248",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 128
         },
         {
-          "player_id": "6083",
-          "espn_id": 4249087,
-          "name": "Matt Gay",
-          "position": "K",
-          "team": "LV",
-          "birth_date": "1994-03-15",
-          "college": "Utah",
-          "height": "72",
-          "weight": "232",
-          "years_exp": 7,
+          "player_id": "8135",
+          "espn_id": null,
+          "name": "Treylon Burks",
+          "position": "WR",
+          "team": "WAS",
+          "birth_date": "2000-03-23",
+          "college": "Arkansas",
+          "height": "74",
+          "weight": "225",
+          "years_exp": 4,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 239
+          "search_rank": 679
         },
         {
           "player_id": "8161",
@@ -6747,6 +6747,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 64
+        },
+        {
+          "player_id": "9504",
+          "espn_id": null,
+          "name": "Kayshon Boutte",
+          "position": "WR",
+          "team": "HOU",
+          "birth_date": "2002-05-07",
+          "college": "LSU",
+          "height": "72",
+          "weight": "203",
+          "years_exp": 3,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 164
         },
         {
           "player_id": "9511",
@@ -6961,7 +6976,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 153
         },
         {
@@ -7051,7 +7066,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 77
         },
         {
@@ -7147,7 +7162,7 @@ window.__STATIC_DATA__ = {
           "weight": "246",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 81
         },
         {
@@ -7192,7 +7207,7 @@ window.__STATIC_DATA__ = {
           "weight": "209",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 44
         },
         {
@@ -7498,7 +7513,7 @@ window.__STATIC_DATA__ = {
           "weight": "199",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 151
         },
         {
@@ -7558,7 +7573,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 9,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 119
         },
         {
@@ -7723,7 +7738,7 @@ window.__STATIC_DATA__ = {
           "weight": "216",
           "years_exp": 3,
           "status": "Inactive",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 4
         },
         {
@@ -8044,6 +8059,56 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 10,
+      "created": "Nov 11, 2026 • 10:31 AM PT",
+      "transaction_id": "1426312527087702016",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "justinpark99"
+      ],
+      "added": [
+        {
+          "name": "Kayshon Boutte",
+          "position": "WR",
+          "team": "HOU"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 10,
+      "created": "Nov 11, 2026 • 10:31 AM PT",
+      "transaction_id": "1426312454547185664",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "justinpark99"
+      ],
+      "added": [
+        {
+          "name": "Treylon Burks",
+          "position": "WR",
+          "team": "WAS"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Matt Gay",
+          "position": "K",
+          "team": "LV"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 10,
@@ -15221,7 +15286,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Jarquez Hunter",
           "position": "RB",
-          "team": "NO"
+          "team": null
         }
       ],
       "faab": 0,
@@ -15650,7 +15715,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Odell Beckham Jr.",
           "position": "WR",
-          "team": "MIN"
+          "team": null
         }
       ],
       "faab": 0,
@@ -16865,7 +16930,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Odell Beckham Jr.",
           "position": "WR",
-          "team": "MIN"
+          "team": null
         }
       ],
       "dropped": [],
