@@ -3716,6 +3716,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 699
         },
         {
+          "player_id": "13333",
+          "espn_id": null,
+          "name": "Deion Burks",
+          "position": "WR",
+          "team": "IND",
+          "birth_date": "2003-01-08",
+          "college": "Oklahoma",
+          "height": "69",
+          "weight": "180",
+          "years_exp": 0,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 670
+        },
+        {
           "player_id": "13338",
           "espn_id": null,
           "name": "Kevin Coleman Jr.",
@@ -3759,21 +3774,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 38
-        },
-        {
-          "player_id": "4037",
-          "espn_id": 3116165,
-          "name": "Chris Godwin Jr.",
-          "position": "WR",
-          "team": "TB",
-          "birth_date": "1996-02-27",
-          "college": "Penn State",
-          "height": "73",
-          "weight": "209",
-          "years_exp": 9,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 88
         },
         {
           "player_id": "4046",
@@ -4142,21 +4142,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 123
         },
         {
-          "player_id": "3286",
-          "espn_id": 3043116,
-          "name": "Demarcus Robinson",
-          "position": "WR",
-          "team": "SF",
-          "birth_date": "1994-09-21",
-          "college": "Florida",
-          "height": "73",
-          "weight": "202",
-          "years_exp": 10,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 679
-        },
-        {
           "player_id": "4034",
           "espn_id": 3117251,
           "name": "Christian McCaffrey",
@@ -4185,6 +4170,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "Questionable",
           "search_rank": 17
+        },
+        {
+          "player_id": "6427",
+          "espn_id": 4061956,
+          "name": "Ashton Dulin",
+          "position": "WR",
+          "team": "IND",
+          "birth_date": "1997-05-15",
+          "college": "Malone (OH)",
+          "height": "74",
+          "weight": "215",
+          "years_exp": 7,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 697
         },
         {
           "player_id": "7523",
@@ -8104,6 +8104,62 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 10,
+      "created": "Nov 12, 2026 • 9:14 AM PT",
+      "transaction_id": "1426655357601579008",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Deion Burks",
+          "position": "WR",
+          "team": "IND"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Chris Godwin Jr.",
+          "position": "WR",
+          "team": "TB"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 10,
+      "created": "Nov 12, 2026 • 5:59 AM PT",
+      "transaction_id": "1426606359444463616",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "willie425"
+      ],
+      "added": [
+        {
+          "name": "Ashton Dulin",
+          "position": "WR",
+          "team": "IND"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Demarcus Robinson",
+          "position": "WR",
+          "team": "SF"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 10,
