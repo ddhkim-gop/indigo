@@ -3701,6 +3701,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 212
         },
         {
+          "player_id": "13297",
+          "espn_id": null,
+          "name": "Reggie Virgil",
+          "position": "WR",
+          "team": "ARI",
+          "birth_date": "2004-05-14",
+          "college": "Texas Tech",
+          "height": "75",
+          "weight": "187",
+          "years_exp": 0,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 699
+        },
+        {
           "player_id": "13338",
           "espn_id": null,
           "name": "Kevin Coleman Jr.",
@@ -3773,7 +3788,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 9,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 39
+          "search_rank": 40
         },
         {
           "player_id": "4983",
@@ -3908,7 +3923,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 488
+          "search_rank": 486
         },
         {
           "player_id": "9509",
@@ -3974,7 +3989,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 21
+          "search_rank": 22
         },
         {
           "player_id": "11620",
@@ -4109,7 +4124,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 409
+          "search_rank": 410
         },
         {
           "player_id": "13305",
@@ -4490,7 +4505,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 109
+          "search_rank": 110
         },
         {
           "player_id": "13311",
@@ -4766,7 +4781,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 133
+          "search_rank": 131
         },
         {
           "player_id": "12506",
@@ -4931,7 +4946,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 10,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 61
+          "search_rank": 62
         },
         {
           "player_id": "8112",
@@ -5162,7 +5177,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 448
+          "search_rank": 449
         },
         {
           "player_id": "12533",
@@ -5267,7 +5282,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 44
+          "search_rank": 46
         },
         {
           "player_id": "6801",
@@ -5342,7 +5357,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 131
+          "search_rank": 130
         },
         {
           "player_id": "9480",
@@ -5372,7 +5387,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 423
+          "search_rank": 422
         },
         {
           "player_id": "SF",
@@ -5498,7 +5513,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 287
+          "search_rank": 288
         },
         {
           "player_id": "13285",
@@ -5648,7 +5663,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 9
+          "search_rank": 10
         },
         {
           "player_id": "6797",
@@ -5663,7 +5678,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": "Questionable",
-          "search_rank": 33
+          "search_rank": 34
         },
         {
           "player_id": "8121",
@@ -5819,7 +5834,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 35
+          "search_rank": 36
         },
         {
           "player_id": "12530",
@@ -5834,7 +5849,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 104
+          "search_rank": 103
         },
         {
           "player_id": "13330",
@@ -6305,7 +6320,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 12
+          "search_rank": 11
         },
         {
           "player_id": "6804",
@@ -6395,7 +6410,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 7
+          "search_rank": 5
         },
         {
           "player_id": "MIN",
@@ -6491,7 +6506,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 26
+          "search_rank": 28
         },
         {
           "player_id": "11635",
@@ -6641,7 +6656,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 363
+          "search_rank": 364
         },
         {
           "player_id": "1945",
@@ -6671,7 +6686,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 75
+          "search_rank": 77
         },
         {
           "player_id": "5844",
@@ -6746,7 +6761,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 64
+          "search_rank": 65
         },
         {
           "player_id": "9504",
@@ -7037,7 +7052,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 450
+          "search_rank": 399
         },
         {
           "player_id": "5849",
@@ -7052,7 +7067,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 7,
           "status": "Active",
           "injury_status": "Doubtful",
-          "search_rank": 88
+          "search_rank": 89
         },
         {
           "player_id": "5947",
@@ -7112,7 +7127,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 102
+          "search_rank": 101
         },
         {
           "player_id": "NO",
@@ -7181,6 +7196,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 148
         },
         {
+          "player_id": "11610",
+          "espn_id": null,
+          "name": "Malik Washington",
+          "position": "WR",
+          "team": "MIA",
+          "birth_date": "2001-01-04",
+          "college": "Virginia",
+          "height": "68",
+          "weight": "192",
+          "years_exp": 2,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 176
+        },
+        {
           "player_id": "11783",
           "espn_id": null,
           "name": "Ryan Flournoy",
@@ -7239,21 +7269,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 999
-        },
-        {
-          "player_id": "13150",
-          "espn_id": null,
-          "name": "Darius Cooper",
-          "position": "WR",
-          "team": "PHI",
-          "birth_date": "2001-11-22",
-          "college": "Tarleton State",
-          "height": "71",
-          "weight": "210",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 658
         },
         {
           "player_id": "13281",
@@ -7328,7 +7343,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 17,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 65
+          "search_rank": 66
         },
         {
           "player_id": "5927",
@@ -7767,7 +7782,7 @@ window.__STATIC_DATA__ = {
           "height": "74",
           "weight": "216",
           "years_exp": 3,
-          "status": "Inactive",
+          "status": "Active",
           "injury_status": "Out",
           "search_rank": 4
         },
@@ -8092,6 +8107,56 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 10,
+      "created": "Nov 11, 2026 • 9:39 PM PT",
+      "transaction_id": "1426480449500241920",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "daevn"
+      ],
+      "added": [
+        {
+          "name": "Malik Washington",
+          "position": "WR",
+          "team": "MIA"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Darius Cooper",
+          "position": "WR",
+          "team": "PHI"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 15,
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    {
+      "season": "2026",
+      "week": 10,
+      "created": "Nov 11, 2026 • 7:44 PM PT",
+      "transaction_id": "1426451647097233408",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Reggie Virgil",
+          "position": "WR",
+          "team": "ARI"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 10,
       "created": "Nov 11, 2026 • 7:38 PM PT",
       "transaction_id": "1426450157469192192",
       "type": "free_agent",
@@ -8210,6 +8275,28 @@ window.__STATIC_DATA__ = {
       "faab": 0,
       "waiver_bid": 0,
       "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 10,
+      "created": "Nov 11, 2026 • 5:13 AM PT",
+      "transaction_id": "1426232505987510272",
+      "type": "waiver",
+      "status": "failed",
+      "teams": [
+        "daevn"
+      ],
+      "added": [
+        {
+          "name": "Malik Washington",
+          "position": "WR",
+          "team": "MIA"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 14,
+      "notes": "This player was claimed by another owner."
     },
     {
       "season": "2026",
