@@ -3716,6 +3716,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 523
         },
         {
+          "player_id": "3214",
+          "espn_id": 3046439,
+          "name": "Hunter Henry",
+          "position": "TE",
+          "team": "NE",
+          "birth_date": "1994-12-07",
+          "college": "Arkansas",
+          "height": "77",
+          "weight": "249",
+          "years_exp": 10,
+          "status": "Active",
+          "injury_status": "Questionable",
+          "search_rank": 92
+        },
+        {
           "player_id": "3294",
           "espn_id": 2577417,
           "name": "Dak Prescott",
@@ -3774,21 +3789,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 49
-        },
-        {
-          "player_id": "5012",
-          "espn_id": 3116365,
-          "name": "Mark Andrews",
-          "position": "TE",
-          "team": "BAL",
-          "birth_date": "1995-09-06",
-          "college": "Oklahoma",
-          "height": "77",
-          "weight": "250",
-          "years_exp": 8,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 96
         },
         {
           "player_id": "5846",
@@ -4750,7 +4750,7 @@ window.__STATIC_DATA__ = {
           "weight": "220",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 73
         },
         {
@@ -4780,7 +4780,7 @@ window.__STATIC_DATA__ = {
           "weight": "241",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 63
         },
         {
@@ -5437,7 +5437,7 @@ window.__STATIC_DATA__ = {
           "weight": "208",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 105
         },
         {
@@ -5707,7 +5707,7 @@ window.__STATIC_DATA__ = {
           "weight": "165",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 187
         },
         {
@@ -6550,7 +6550,7 @@ window.__STATIC_DATA__ = {
           "weight": "202",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 39
         },
         {
@@ -7346,6 +7346,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 55
         },
         {
+          "player_id": "5995",
+          "espn_id": 4038441,
+          "name": "Justice Hill",
+          "position": "RB",
+          "team": "BAL",
+          "birth_date": "1997-11-14",
+          "college": "Oklahoma State",
+          "height": "70",
+          "weight": "195",
+          "years_exp": 7,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 220
+        },
+        {
           "player_id": "6130",
           "espn_id": 4040761,
           "name": "Devin Singletary",
@@ -7404,6 +7419,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 691
+        },
+        {
+          "player_id": "8122",
+          "espn_id": null,
+          "name": "Zonovan Knight",
+          "position": "RB",
+          "team": "ARI",
+          "birth_date": "2001-04-11",
+          "college": "NC State",
+          "height": "71",
+          "weight": "210",
+          "years_exp": 4,
+          "status": "Active",
+          "injury_status": "Questionable",
+          "search_rank": 669
         },
         {
           "player_id": "KC",
@@ -8059,6 +8089,78 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 10,
+      "created": "Nov 11, 2026 • 7:38 PM PT",
+      "transaction_id": "1426450157469192192",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Hunter Henry",
+          "position": "TE",
+          "team": "NE"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 10,
+      "created": "Nov 11, 2026 • 3:18 PM PT",
+      "transaction_id": "1426384561020870656",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "daevn"
+      ],
+      "added": [
+        {
+          "name": "Zonovan Knight",
+          "position": "RB",
+          "team": "ARI"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 10,
+      "created": "Nov 11, 2026 • 2:39 PM PT",
+      "transaction_id": "1426374917233868800",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "daevn"
+      ],
+      "added": [
+        {
+          "name": "Justice Hill",
+          "position": "RB",
+          "team": "BAL"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 10,
@@ -15715,7 +15817,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Odell Beckham Jr.",
           "position": "WR",
-          "team": null
+          "team": "MIN"
         }
       ],
       "faab": 0,
@@ -16930,7 +17032,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Odell Beckham Jr.",
           "position": "WR",
-          "team": null
+          "team": "MIN"
         }
       ],
       "dropped": [],
