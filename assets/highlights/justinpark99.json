@@ -1,6 +1,6 @@
 {
   "team": "justinpark99",
-  "updated": "2026-11-11",
+  "updated": "2026-11-13",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -21,7 +21,7 @@
       "published": "2026-11-09T03:41:54Z",
       "video": "https://video.twimg.com/amplify_video/2101691204832313344/vid/avc1/1080x1350/yRKswrH1BTwrSk5C.mp4",
       "author_name": "Tampa Bay Buccaneers",
-      "avatar": "https://pbs.twimg.com/profile_images/2037618478622887936/e0YeskTe_normal.png",
+      "avatar": "",
       "author_verified": true
     },
     {
@@ -88,6 +88,27 @@
       "author_verified": true
     },
     {
+      "url": "https://x.com/NFL/status/2119576729299669444",
+      "player": "Kayshon Boutte",
+      "meta": "WR \u00b7 HOU",
+      "date": "2026-11-08",
+      "author": "NFL",
+      "text": "C.J. Stroud and Kayshon Boutte with a 63-yard TD \ud83d\udc4f\n\nHOUvsLAC on CBS/Paramount+\nStream on @NFLPlus",
+      "verified": true,
+      "faves": 720,
+      "secs": 16,
+      "game_id": "401873046",
+      "game_time": "Q4 14:12",
+      "play_key": "401873046:4018730463522",
+      "played_at": "2026-11-08T23:40:14Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119576401653178368/img/dTKpmeVrI16_Sy2A.jpg",
+      "published": "2026-11-08T23:44:06Z",
+      "video": "https://video.twimg.com/amplify_video/2119576401653178368/vid/avc1/1920x1080/Vm6sXET8h0-sptJs.mp4",
+      "author_name": "NFL",
+      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "author_verified": true
+    },
+    {
       "url": "https://x.com/Patriots/status/2119562846803529824",
       "player": "Drake Maye",
       "meta": "QB \u00b7 NE",
@@ -130,6 +151,27 @@
       "author_verified": true
     },
     {
+      "url": "https://x.com/NFL/status/2119560652423307459",
+      "player": "Kayshon Boutte",
+      "meta": "WR \u00b7 HOU",
+      "date": "2026-11-08",
+      "author": "NFL",
+      "text": "Stroud with a strike to Kayshon Boutte for the TD!\n\nHOUvsLAC on CBS/Paramount+\nStream on @NFLPlus",
+      "verified": true,
+      "faves": 359,
+      "secs": 14,
+      "game_id": "401873046",
+      "game_time": "Q2 0:31",
+      "play_key": "401873046:4018730462355",
+      "played_at": "2026-11-08T22:38:35Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119560424265801729/img/VlOrJUN5RdzD8mQR.jpg",
+      "published": "2026-11-08T22:40:13Z",
+      "video": "https://video.twimg.com/amplify_video/2119560424265801729/vid/avc1/1920x1080/LmP18xBzhboUeCWB.mp4",
+      "author_name": "NFL",
+      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "author_verified": true
+    },
+    {
       "url": "https://x.com/Patriots/status/2119556089469394952",
       "player": "Drake Maye",
       "meta": "QB \u00b7 NE",
@@ -169,6 +211,23 @@
       "video": "https://video.twimg.com/amplify_video/2119495690627764224/vid/avc1/1920x1080/hh5vu2ddHLt95nis.mp4",
       "author_name": "NFL",
       "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "author_verified": true
+    },
+    {
+      "url": "https://www.youtube.com/shorts/_g95yeEd7C8",
+      "player": "Kayshon Boutte",
+      "meta": "WR \u00b7 HOU",
+      "date": "2026-11-09",
+      "author": "HoustonTexans",
+      "text": "Boutte all the way to the end zone!",
+      "verified": false,
+      "faves": 65,
+      "secs": 33,
+      "poster": "https://i.ytimg.com/vi/_g95yeEd7C8/hqdefault.jpg",
+      "published": "2026-11-09T20:59:00Z",
+      "youtube": "_g95yeEd7C8",
+      "author_name": "Houston Texans",
+      "avatar": "",
       "author_verified": true
     }
   ]

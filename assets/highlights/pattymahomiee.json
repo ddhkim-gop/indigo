@@ -1,6 +1,6 @@
 {
   "team": "PattyMahomiee",
-  "updated": "2026-11-11",
+  "updated": "2026-11-13",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -21,7 +21,7 @@
       "published": "2026-11-09T04:30:17Z",
       "video": "https://video.twimg.com/amplify_video/2119648399578353664/vid/avc1/1920x1080/8YiJKSagavrldcJQ.mp4",
       "author_name": "Tampa Bay Buccaneers",
-      "avatar": "https://pbs.twimg.com/profile_images/2037618478622887936/e0YeskTe_normal.png",
+      "avatar": "",
       "author_verified": true
     },
     {
@@ -64,6 +64,27 @@
       "video": "https://video.twimg.com/amplify_video/2119551326614863872/vid/avc1/1920x1080/KT0LL274kIDvgcMk.mp4",
       "author_name": "NFL",
       "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "author_verified": true
+    },
+    {
+      "url": "https://x.com/AZCardinals/status/2119543823776800806",
+      "player": "Reggie Virgil",
+      "meta": "WR \u00b7 ARI",
+      "date": "2026-11-08",
+      "author": "AZCardinals",
+      "text": "REGGIE VIRGIL + 25  \ud83d\ude24\n\n\ud83d\udcfa:FOX",
+      "verified": true,
+      "faves": 256,
+      "secs": 14,
+      "game_id": "401873048",
+      "game_time": "Q1 12:53",
+      "play_key": "401873048:401873048198",
+      "played_at": "2026-11-08T21:30:14Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2119543169003982848/img/VGqbvAD6a5LcEb-i.jpg",
+      "published": "2026-11-08T21:33:21Z",
+      "video": "https://video.twimg.com/amplify_video/2119543169003982848/vid/avc1/1920x1080/eg1oeC9WnbnYD8zz.mp4",
+      "author_name": "Arizona Cardinals",
+      "avatar": "",
       "author_verified": true
     },
     {
