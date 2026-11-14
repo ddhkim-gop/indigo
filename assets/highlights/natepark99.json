@@ -1,11 +1,11 @@
 {
   "team": "natepark99",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
       "url": "https://www.espn.com/video/clip/_/id/50427212/quentin-johnston-takes-pass-justin-herbert-58-yards-house",
-      "player": "Quentin Johnston & Justin Herbert",
+      "player": "Justin Herbert",
       "meta": "QB \u00b7 LAC",
       "date": "2026-11-09",
       "author": "ESPN",
