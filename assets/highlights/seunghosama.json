@@ -4,6 +4,27 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://x.com/Browns/status/2122072963629375833",
+      "player": "Quinshon Judkins",
+      "meta": "RB \u00b7 CLE",
+      "date": "2026-11-15",
+      "author": "Browns",
+      "text": "Q for the lead!!\n\n#HOUvsCLE on Fox",
+      "verified": true,
+      "faves": 273,
+      "secs": 9,
+      "game_id": "401873056",
+      "game_time": "Q4 0:53",
+      "play_key": "401873056:4018730564239",
+      "played_at": "2026-11-15T21:02:23Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2122072882247323649/img/WZwEI8SXpDQ1jp8y.jpg",
+      "published": "2026-11-15T21:03:15Z",
+      "video": "https://video.twimg.com/amplify_video/2122072882247323649/vid/avc1/1920x1080/Lh-DeiZtRlzx4uAx.mp4",
+      "author_name": "Cleveland Browns",
+      "avatar": "https://pbs.twimg.com/profile_images/2120617438324699137/pjKuFU5g_normal.jpg",
+      "author_verified": true
+    },
+    {
       "url": "https://x.com/Colts/status/2122045737873625332",
       "player": "Seth McGowan",
       "meta": "RB \u00b7 IND",
