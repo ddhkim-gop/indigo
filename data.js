@@ -4781,7 +4781,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 133
+          "search_rank": 131
         },
         {
           "player_id": "12506",
@@ -4811,7 +4811,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 43
+          "search_rank": 44
         },
         {
           "player_id": "12512",
@@ -5006,7 +5006,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 471
+          "search_rank": 470
         },
         {
           "player_id": "9997",
@@ -5177,7 +5177,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 449
+          "search_rank": 448
         },
         {
           "player_id": "12533",
@@ -5237,7 +5237,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 391
+          "search_rank": 390
         },
         {
           "player_id": "13477",
@@ -5282,7 +5282,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 44
+          "search_rank": 46
         },
         {
           "player_id": "6801",
@@ -6200,7 +6200,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 367
+          "search_rank": 366
         },
         {
           "player_id": "2747",
@@ -6320,7 +6320,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 12
+          "search_rank": 11
         },
         {
           "player_id": "6804",
@@ -6335,7 +6335,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 67
+          "search_rank": 65
         },
         {
           "player_id": "7525",
@@ -6410,7 +6410,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 7
+          "search_rank": 5
         },
         {
           "player_id": "MIN",
@@ -6506,7 +6506,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 26
+          "search_rank": 28
         },
         {
           "player_id": "11635",
@@ -6731,7 +6731,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 122
+          "search_rank": 123
         },
         {
           "player_id": "8210",
@@ -7037,7 +7037,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 400
+          "search_rank": 399
         },
         {
           "player_id": "5849",
@@ -7253,7 +7253,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 115
+          "search_rank": 116
         },
         {
           "player_id": "12634",
@@ -7403,7 +7403,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 27
+          "search_rank": 28
         },
         {
           "player_id": "7553",
@@ -7802,6 +7802,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 101
         },
         {
+          "player_id": "9754",
+          "espn_id": null,
+          "name": "Quentin Johnston",
+          "position": "WR",
+          "team": "LAC",
+          "birth_date": "2001-09-06",
+          "college": "TCU",
+          "height": "74",
+          "weight": "208",
+          "years_exp": 3,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 104
+        },
+        {
           "player_id": "CIN",
           "espn_id": null,
           "name": "Cincinnati Bengals",
@@ -8104,6 +8119,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 10,
+      "created": "Nov 15, 2026 • 8:20 PM PT",
+      "transaction_id": "1427910221472206848",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jay0jay1jay2"
+      ],
+      "added": [
+        {
+          "name": "Quentin Johnston",
+          "position": "WR",
+          "team": "LAC"
+        }
+      ],
+      "dropped": [],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 10,
