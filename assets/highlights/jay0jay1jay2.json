@@ -4,6 +4,25 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://www.espn.com/video/clip/_/id/50498368/pat-freiermuth-fights-goal-line-powerful-steelers-td",
+      "player": "Pat Freiermuth",
+      "meta": "TE \u00b7 PIT",
+      "date": "2026-11-16",
+      "author": "ESPN",
+      "text": "Pat Freiermuth fights across the goal line for a powerful Steelers TD",
+      "verified": true,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401873064",
+      "game_id": "401873064",
+      "game_time": "Q4 7:19",
+      "play_key": "401873064:4018730643817",
+      "played_at": "2026-11-16T04:05:44Z",
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/5fa6c31e398a4702b41950faad5d2f811436/5fa6c31e398a4702b41950faad5d2f811436.jpg",
+      "published": "2026-11-16T04:15:17Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1116/5fa6c31e-398a-4702-b419-50faad5d2f81/5fa6c31e-398a-4702-b419-50faad5d2f81.mp4"
+    },
+    {
       "url": "https://x.com/49ers/status/2122123384284954897",
       "player": "Brock Purdy",
       "meta": "QB \u00b7 SF",
