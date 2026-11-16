@@ -381,6 +381,7 @@ https://www.espn.com/video/clip/_/id/50491624/tyler-shough-throw-deflected-right
 https://www.espn.com/video/clip/_/id/50491628/trevor-lawrence-strikes-opening-drive-td-pass-parker-washington
 https://www.espn.com/video/clip/_/id/50491668/patrick-mahomes-emmett-johnson-strike-first-td
 https://www.espn.com/video/clip/_/id/50491679/josh-allen-barrels-bills-td
+https://www.espn.com/video/clip/_/id/50491725/travis-hunter-comes-slick-int-jaguars
 https://www.espn.com/video/clip/_/id/50491774/seth-mcgowan-puts-colts-board
 https://www.espn.com/video/clip/_/id/50491785/cj-stroud-links-xavier-hutchinson-texans-td
 https://www.espn.com/video/clip/_/id/50491809/travis-kelce-exits-game-getting-taken-down
@@ -390,6 +391,7 @@ https://www.espn.com/video/clip/_/id/50492104/aaron-jones-sr-does-lambeau-leap-s
 https://www.espn.com/video/clip/_/id/50492205/tyson-campbell-comes-incredible-pick-cj-stroud
 https://www.espn.com/video/clip/_/id/50492421/geno-smith-goes-deep-garrett-wilson-33-yard-jets-completion
 https://www.espn.com/video/clip/_/id/50492630/josh-downs-stamps-chiefs-debut-td-catch
+https://www.espn.com/video/clip/_/id/50492664/alvin-kamara-barrels-a-saints-touchdown
 https://www.espn.com/video/clip/_/id/50492685/kc-concepcion-finds-angle-runs-browns-td
 https://www.espn.com/video/clip/_/id/50492731/josh-allen-punches-2nd-td-game-bills
 https://www.espn.com/video/clip/_/id/50492753/jordan-love-puts-packers-board-32-yard-td-pass-j-michael-sturdivant
@@ -401,6 +403,7 @@ https://www.espn.com/video/clip/_/id/50493279/trevor-lawrence-hits-wide-open-jos
 https://www.espn.com/video/clip/_/id/50493413/tony-pollard-breaks-free-32-yard-td-keep-titans-alive
 https://www.espn.com/video/clip/_/id/50493457/james-cook-iii-erupts-74-yard-rushing-td
 https://www.espn.com/video/clip/_/id/50493631/quinshon-judkins-punches-late-go-ahead-td-browns
+https://www.espn.com/video/clip/_/id/50493934/alvin-kamara-lunges-give-saints-lead
 https://www.espn.com/video/clip/_/id/50494034/fernando-mendoza-runs-1st-nfl-td
 https://www.espn.com/video/clip/_/id/50494140/drew-lock-airs-one-cooper-kupp-incredible-seahawks-td
 https://www.espn.com/video/clip/_/id/50494615/dak-prescott-lets-fly-george-pickens-cowboys-td
@@ -1092,6 +1095,8 @@ https://x.com/NFL/status/2122139673267167257
 https://x.com/NFL/status/2122143727988957526
 https://x.com/NFL/status/2122145395493269839
 https://x.com/NFL/status/2122147723612975146
+https://x.com/NFL/status/2122154199114994162
+https://x.com/NFL/status/2122154821419667929
 https://x.com/NFLTDsVideos/status/2098243863588540602
 https://x.com/NFLTDsVideos/status/2099189736858419294
 https://x.com/NFLTDsVideos/status/2099201418368262610
@@ -1177,6 +1182,7 @@ https://x.com/NFLonFOX/status/2122030643064209567
 https://x.com/NFLonFOX/status/2122083457152983235
 https://x.com/NFLonFOX/status/2122086516285440387
 https://x.com/NFLonFOX/status/2122086662641791385
+https://x.com/NFLonFOX/status/2122162353345339445
 https://x.com/Nate_Tice/status/2095691914121265331
 https://x.com/NotJustFootball/status/2095953794605645913
 https://x.com/OwenGregorian/status/2096200858102813005
