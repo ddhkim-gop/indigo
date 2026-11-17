@@ -1,6 +1,6 @@
 {
   "team": "jamescho0829",
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -212,25 +212,6 @@
       "author_name": "New York Giants",
       "avatar": "https://pbs.twimg.com/profile_images/1948024945973272577/q2A09qic_normal.jpg",
       "author_verified": true
-    },
-    {
-      "url": "https://www.espn.com/video/clip/_/id/50428420/luther-burden-iii-outruns-defense-56-yard-bears-td",
-      "player": "Luther Burden III",
-      "meta": "WR \u00b7 CHI",
-      "date": "2026-11-09",
-      "author": "ESPN",
-      "text": "Luther Burden III outruns defense for 56-yard Bears TD",
-      "verified": true,
-      "faves": 0,
-      "secs": 0,
-      "espn_game": "401873050",
-      "game_id": "401873050",
-      "game_time": "Q1 6:00",
-      "play_key": "401873050:401873050546",
-      "played_at": "2026-11-09T01:42:41Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/cfd2746e38694f7a95d7db075e6e77cd1327/cfd2746e38694f7a95d7db075e6e77cd1327.jpg",
-      "published": "2026-11-09T01:56:45Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1109/cfd2746e-3869-4f7a-95d7-db075e6e77cd/cfd2746e-3869-4f7a-95d7-db075e6e77cd.mp4"
     },
     {
       "url": "https://www.espn.com/video/clip/_/id/50491624/tyler-shough-throw-deflected-right-panthers-hands",
