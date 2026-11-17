@@ -4673,21 +4673,6 @@ window.__STATIC_DATA__ = {
           "search_rank": null
         },
         {
-          "player_id": "NYG",
-          "espn_id": null,
-          "name": "New York Giants",
-          "position": "DEF",
-          "team": "NYG",
-          "birth_date": null,
-          "college": null,
-          "height": null,
-          "weight": null,
-          "years_exp": null,
-          "status": null,
-          "injury_status": null,
-          "search_rank": null
-        },
-        {
           "player_id": "TB",
           "espn_id": null,
           "name": "Tampa Bay Buccaneers",
@@ -5655,7 +5640,7 @@ window.__STATIC_DATA__ = {
           "espn_id": 3043234,
           "name": "Zane Gonzalez",
           "position": "K",
-          "team": "MIA",
+          "team": null,
           "birth_date": "1995-05-07",
           "college": "Arizona State",
           "height": "72",
@@ -8122,6 +8107,28 @@ window.__STATIC_DATA__ = {
     {
       "season": "2026",
       "week": 10,
+      "created": "Nov 17, 2026 • 6:16 AM PT",
+      "transaction_id": "1428422594536669184",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "New York Giants",
+          "position": "DEF",
+          "team": "NYG"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 10,
       "created": "Nov 15, 2026 • 8:26 PM PT",
       "transaction_id": "1427911831573262336",
       "type": "trade",
@@ -10091,7 +10098,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Zane Gonzalez",
           "position": "K",
-          "team": "MIA"
+          "team": null
         }
       ],
       "dropped": [
