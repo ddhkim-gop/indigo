@@ -492,7 +492,6 @@ https://www.youtube.com/shorts/FqK2bLtHr98
 https://www.youtube.com/shorts/FvdjEnK4yjM
 https://www.youtube.com/shorts/G2tOYPJ6sXs
 https://www.youtube.com/shorts/G93l1bu_KT4
-https://www.youtube.com/shorts/GI2NLJ7gl2Y
 https://www.youtube.com/shorts/GoEVZAlu0GU
 https://www.youtube.com/shorts/Gwx9Da9gDpg
 https://www.youtube.com/shorts/HT2FfqeHANk
@@ -697,8 +696,6 @@ https://x.com/Buccaneers/status/2106825416090570828
 https://x.com/BuffaloBills/status/2106830827346706721
 https://x.com/BuffaloBills/status/2106834704028635476
 https://x.com/BuffaloBills/status/2119938562112012396
-https://x.com/BuffaloBills/status/2119984341048537488
-https://x.com/BuffaloBills/status/2120004975103242403
 https://x.com/BuffaloBills/status/2120013199231664304
 https://x.com/BuffaloBills/status/2122057732488376770
 https://x.com/BuffaloBills/status/2122061373710422295
@@ -706,7 +703,6 @@ https://x.com/BuffaloBills/status/2122070575602352469
 https://x.com/ChiSportsTracks/status/2095307339750404405
 https://x.com/ChicagoBears/status/2106801196447019476
 https://x.com/ChicagoBears/status/2106812813222011267
-https://x.com/ChicagoBears/status/2119650238877028825
 https://x.com/Chiefs/status/2106851118496006565
 https://x.com/Chiefs/status/2122020144633327976
 https://x.com/Chiefs/status/2122035792558088327
@@ -865,7 +861,6 @@ https://x.com/NFL/status/2107302418593751429
 https://x.com/NFL/status/2107304246018556261
 https://x.com/NFL/status/2107308162776961503
 https://x.com/NFL/status/2107311585207423098
-https://x.com/NFL/status/2119650417973871049
 https://x.com/NFL/status/2119942503533338733
 https://x.com/NFL/status/2119960338498232547
 https://x.com/NFL/status/2119961160825065828
@@ -962,6 +957,7 @@ https://x.com/NFL/status/2122509899049640254
 https://x.com/NFL/status/2122517850036617435
 https://x.com/NFL/status/2122531386083115275
 https://x.com/NFL/status/2122536203807584494
+https://x.com/NFL/status/2122550638005612605
 https://x.com/NFLTDsVideos/status/2098243863588540602
 https://x.com/NFLTDsVideos/status/2099189736858419294
 https://x.com/NFLTDsVideos/status/2099201418368262610
