@@ -427,6 +427,7 @@ https://www.espn.com/video/clip/_/id/50498257/aaron-rodgers-finds-dk-metcalf-muc
 https://www.espn.com/video/clip/_/id/50498368/pat-freiermuth-fights-goal-line-powerful-steelers-td
 https://www.espn.com/video/clip/_/id/50498452/burrow-throws-4-tds-bengals-blow-steelers
 https://www.espn.com/video/clip/_/id/50506563/justin-herbert-shows-elusiveness-rushing-td
+https://www.espn.com/video/clip/_/id/50507150/omarion-hampton-plows-goal-line-chargers-td
 https://www.youtube.com/shorts/-Prt969WqGo
 https://www.youtube.com/shorts/0Kc6nRU_KTk
 https://www.youtube.com/shorts/0jfMRO7UtC8
@@ -519,7 +520,6 @@ https://www.youtube.com/shorts/NjIsUJ5NOJA
 https://www.youtube.com/shorts/NkbBqEPpQCs
 https://www.youtube.com/shorts/OF7EE8wQm_E
 https://www.youtube.com/shorts/OHXxBSvY7pI
-https://www.youtube.com/shorts/Or5DgCHilFs
 https://www.youtube.com/shorts/OwR6Uk3KSlQ
 https://www.youtube.com/shorts/OwWVg4ipHFU
 https://www.youtube.com/shorts/PEa2jJlqxa8
@@ -693,9 +693,6 @@ https://x.com/Browns/status/2122057367529652534
 https://x.com/Browns/status/2122072963629375833
 https://x.com/Buccaneers/status/2106824852720021923
 https://x.com/Buccaneers/status/2106825416090570828
-https://x.com/Buccaneers/status/2119630217014649064
-https://x.com/Buccaneers/status/2119630372270932223
-https://x.com/Buccaneers/status/2119636572798701943
 https://x.com/Buccaneers/status/2119648603333402944
 https://x.com/Buccaneers/status/2119648748431118821
 https://x.com/BuffaloBills/status/2106830827346706721
@@ -869,8 +866,6 @@ https://x.com/NFL/status/2107302418593751429
 https://x.com/NFL/status/2107304246018556261
 https://x.com/NFL/status/2107308162776961503
 https://x.com/NFL/status/2107311585207423098
-https://x.com/NFL/status/2119629156187017276
-https://x.com/NFL/status/2119630088463331358
 https://x.com/NFL/status/2119648725312172367
 https://x.com/NFL/status/2119650417973871049
 https://x.com/NFL/status/2119942503533338733
@@ -962,6 +957,12 @@ https://x.com/NFL/status/2122179831781847165
 https://x.com/NFL/status/2122411146196246753
 https://x.com/NFL/status/2122481330680402329
 https://x.com/NFL/status/2122500398414225731
+https://x.com/NFL/status/2122500775591174260
+https://x.com/NFL/status/2122501437238526174
+https://x.com/NFL/status/2122507553624170978
+https://x.com/NFL/status/2122509899049640254
+https://x.com/NFL/status/2122517850036617435
+https://x.com/NFL/status/2122531386083115275
 https://x.com/NFLTDsVideos/status/2098243863588540602
 https://x.com/NFLTDsVideos/status/2099189736858419294
 https://x.com/NFLTDsVideos/status/2099201418368262610
