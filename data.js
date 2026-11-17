@@ -3653,7 +3653,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 89
+          "search_rank": 91
         },
         {
           "player_id": "11581",
@@ -4026,7 +4026,7 @@ window.__STATIC_DATA__ = {
           "espn_id": null,
           "name": "Jaydon Blue",
           "position": "RB",
-          "team": null,
+          "team": "PHI",
           "birth_date": "2004-01-08",
           "college": "Texas",
           "height": "69",
@@ -4109,7 +4109,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 197
+          "search_rank": 199
         },
         {
           "player_id": "13302",
@@ -4124,7 +4124,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Inactive",
           "injury_status": "IR",
-          "search_rank": 411
+          "search_rank": 410
         },
         {
           "player_id": "13305",
@@ -4229,7 +4229,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 5,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 155
+          "search_rank": 153
         },
         {
           "player_id": "8130",
@@ -4274,7 +4274,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 4,
           "status": "Active",
           "injury_status": "Out",
-          "search_rank": 17
+          "search_rank": 19
         },
         {
           "player_id": "8408",
@@ -4415,7 +4415,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 36
+          "search_rank": 37
         },
         {
           "player_id": "12484",
@@ -4781,7 +4781,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 131
+          "search_rank": 133
         },
         {
           "player_id": "12506",
@@ -4916,7 +4916,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 380
+          "search_rank": 377
         },
         {
           "player_id": "13533",
@@ -5087,7 +5087,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 22
+          "search_rank": 21
         },
         {
           "player_id": "11618",
@@ -5387,7 +5387,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 422
+          "search_rank": 421
         },
         {
           "player_id": "SF",
@@ -5513,7 +5513,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 288
+          "search_rank": 286
         },
         {
           "player_id": "13285",
@@ -5558,7 +5558,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": "Out",
-          "search_rank": 362
+          "search_rank": 361
         },
         {
           "player_id": "13293",
@@ -5588,7 +5588,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 89
+          "search_rank": 91
         },
         {
           "player_id": "13298",
@@ -5633,7 +5633,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 179
+          "search_rank": 181
         },
         {
           "player_id": "3321",
@@ -6320,7 +6320,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 11
+          "search_rank": 12
         },
         {
           "player_id": "6804",
@@ -6335,7 +6335,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 65
+          "search_rank": 67
         },
         {
           "player_id": "7525",
@@ -6410,7 +6410,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 5
+          "search_rank": 7
         },
         {
           "player_id": "MIN",
@@ -6641,7 +6641,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 162
+          "search_rank": 161
         },
         {
           "player_id": "13421",
@@ -6656,7 +6656,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 364
+          "search_rank": 363
         },
         {
           "player_id": "1945",
@@ -7037,7 +7037,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 8,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 399
+          "search_rank": 398
         },
         {
           "player_id": "5849",
@@ -7328,7 +7328,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 11,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 356
+          "search_rank": 355
         },
         {
           "player_id": "421",
@@ -8119,6 +8119,27 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 10,
+      "created": "Nov 15, 2026 • 8:26 PM PT",
+      "transaction_id": "1427911831573262336",
+      "type": "trade",
+      "status": "complete",
+      "teams": [
+        "GibbyMyTD",
+        "jay0jay1jay2"
+      ],
+      "assets_received": {
+        "GibbyMyTD": [
+          {
+            "name": "$10 FAAB",
+            "position": "FAAB",
+            "team": null
+          }
+        ]
+      }
+    },
     {
       "season": "2026",
       "week": 10,
@@ -29616,100 +29637,100 @@ window.__STATIC_DATA__ = {
     ],
     "2026": [
       {
-        "name": "willie425",
-        "wins": 8,
-        "losses": 1,
-        "ties": 0,
-        "pf": 1232.63,
-        "pa": 926.18
-      },
-      {
         "name": "Paul_Yoon",
-        "wins": 7,
+        "wins": 8,
         "losses": 2,
         "ties": 0,
-        "pf": 1288.01,
-        "pa": 1125.2
+        "pf": 1472.54,
+        "pa": 1274.07
+      },
+      {
+        "name": "willie425",
+        "wins": 8,
+        "losses": 2,
+        "ties": 0,
+        "pf": 1381.5,
+        "pa": 1110.71
       },
       {
         "name": "GibbyMyTD",
         "wins": 7,
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
-        "pf": 1270.38,
-        "pa": 1112.59
+        "pf": 1380.8,
+        "pa": 1226.83
       },
       {
         "name": "jay0jay1jay2",
-        "wins": 6,
+        "wins": 7,
         "losses": 3,
         "ties": 0,
-        "pf": 1137.18,
-        "pa": 1098.38
+        "pf": 1316.86,
+        "pa": 1183.84
       },
       {
         "name": "cheigh",
-        "wins": 5,
+        "wins": 6,
         "losses": 4,
         "ties": 0,
-        "pf": 1138.02,
-        "pa": 1116.56
+        "pf": 1285.03,
+        "pa": 1213.63
+      },
+      {
+        "name": "PattyMahomiee",
+        "wins": 5,
+        "losses": 5,
+        "ties": 0,
+        "pf": 1222.38,
+        "pa": 1157.93
       },
       {
         "name": "jamescho0829",
         "wins": 5,
-        "losses": 4,
-        "ties": 0,
-        "pf": 1109.74,
-        "pa": 974.56
-      },
-      {
-        "name": "PattyMahomiee",
-        "wins": 4,
         "losses": 5,
         "ties": 0,
-        "pf": 1062.57,
-        "pa": 1117.69
+        "pf": 1195.2,
+        "pa": 1154.24
+      },
+      {
+        "name": "SeunghoSama",
+        "wins": 4,
+        "losses": 6,
+        "ties": 0,
+        "pf": 975.8,
+        "pa": 1168.8
+      },
+      {
+        "name": "daevn",
+        "wins": 3,
+        "losses": 7,
+        "ties": 0,
+        "pf": 1116.98,
+        "pa": 1138.98
       },
       {
         "name": "bsohn00",
         "wins": 3,
-        "losses": 6,
+        "losses": 7,
         "ties": 0,
-        "pf": 948.91,
-        "pa": 1077.14
-      },
-      {
-        "name": "SeunghoSama",
-        "wins": 3,
-        "losses": 6,
-        "ties": 0,
-        "pf": 861.56,
-        "pa": 1058.38
+        "pf": 1045.98,
+        "pa": 1224.15
       },
       {
         "name": "justinpark99",
         "wins": 3,
-        "losses": 6,
-        "ties": 0,
-        "pf": 835.05,
-        "pa": 1008.42
-      },
-      {
-        "name": "daevn",
-        "wins": 2,
         "losses": 7,
         "ties": 0,
-        "pf": 1009.76,
-        "pa": 1063.46
+        "pf": 875.29,
+        "pa": 1168.23
       },
       {
         "name": "natepark99",
         "wins": 1,
-        "losses": 8,
+        "losses": 9,
         "ties": 0,
-        "pf": 828.8,
-        "pa": 1044.05
+        "pf": 904.32,
+        "pa": 1151.27
       }
     ]
   },
