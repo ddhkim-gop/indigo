@@ -1,6 +1,6 @@
 {
   "team": "SeunghoSama",
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -223,6 +223,23 @@
       "published": "2026-11-13T02:31:53Z",
       "youtube": "Fh4r28Uho48",
       "author_name": "New York Giants",
+      "avatar": "",
+      "author_verified": true
+    },
+    {
+      "url": "https://www.youtube.com/shorts/cqkMsEmOPpI",
+      "player": "Harold Fannin Jr.",
+      "meta": "TE \u00b7 CLE",
+      "date": "2026-11-17",
+      "author": "Browns",
+      "text": "Another angry Fannin run",
+      "verified": false,
+      "faves": 290,
+      "secs": 76,
+      "poster": "https://i.ytimg.com/vi/cqkMsEmOPpI/hqdefault.jpg",
+      "published": "2026-11-17T22:35:30Z",
+      "youtube": "cqkMsEmOPpI",
+      "author_name": "Cleveland Browns",
       "avatar": "",
       "author_verified": true
     },
