@@ -3656,21 +3656,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 91
         },
         {
-          "player_id": "11581",
-          "espn_id": null,
-          "name": "MarShawn Lloyd",
-          "position": "RB",
-          "team": "GB",
-          "birth_date": "2001-01-05",
-          "college": "USC",
-          "height": "69",
-          "weight": "220",
-          "years_exp": 2,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 98
-        },
-        {
           "player_id": "11584",
           "espn_id": null,
           "name": "Bucky Irving",
@@ -3834,6 +3819,21 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": "DNR",
           "search_rank": 177
+        },
+        {
+          "player_id": "8111",
+          "espn_id": null,
+          "name": "Cade Otton",
+          "position": "TE",
+          "team": "TB",
+          "birth_date": "1999-04-15",
+          "college": "Washington",
+          "height": "77",
+          "weight": "247",
+          "years_exp": 4,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 148
         },
         {
           "player_id": "8137",
@@ -8089,6 +8089,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 11,
+      "created": "Nov 18, 2026 • 5:41 AM PT",
+      "transaction_id": "1428776035582754816",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Cade Otton",
+          "position": "TE",
+          "team": "TB"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "MarShawn Lloyd",
+          "position": "RB",
+          "team": "GB"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 11,
