@@ -3671,6 +3671,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 32
         },
         {
+          "player_id": "11593",
+          "espn_id": null,
+          "name": "Brevyn Spann-Ford",
+          "position": "TE",
+          "team": "DAL",
+          "birth_date": "1999-12-27",
+          "college": "Minnesota",
+          "height": "78",
+          "weight": "265",
+          "years_exp": 2,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 634
+        },
+        {
           "player_id": "13278",
           "espn_id": null,
           "name": "Max Klare",
@@ -3684,21 +3699,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 212
-        },
-        {
-          "player_id": "13297",
-          "espn_id": null,
-          "name": "Reggie Virgil",
-          "position": "WR",
-          "team": "ARI",
-          "birth_date": "2004-05-14",
-          "college": "Texas Tech",
-          "height": "75",
-          "weight": "187",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 699
         },
         {
           "player_id": "13333",
@@ -4123,7 +4123,7 @@ window.__STATIC_DATA__ = {
           "weight": "208",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 199
         },
         {
@@ -4137,8 +4137,8 @@ window.__STATIC_DATA__ = {
           "height": "75",
           "weight": "240",
           "years_exp": 0,
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": null,
           "search_rank": 411
         },
         {
@@ -4750,7 +4750,7 @@ window.__STATIC_DATA__ = {
           "weight": "220",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 73
         },
         {
@@ -5396,6 +5396,21 @@ window.__STATIC_DATA__ = {
       "roster_id": 6,
       "players": [
         {
+          "player_id": "10955",
+          "espn_id": null,
+          "name": "Chad Ryland",
+          "position": "K",
+          "team": "ARI",
+          "birth_date": "1999-10-15",
+          "college": "Maryland",
+          "height": "72",
+          "weight": "195",
+          "years_exp": 3,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 324
+        },
+        {
           "player_id": "11638",
           "espn_id": null,
           "name": "Ricky Pearsall",
@@ -5437,7 +5452,7 @@ window.__STATIC_DATA__ = {
           "weight": "208",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 105
         },
         {
@@ -5531,21 +5546,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 52
         },
         {
-          "player_id": "13289",
-          "espn_id": null,
-          "name": "Drew Allar",
-          "position": "QB",
-          "team": "PIT",
-          "birth_date": "2004-03-08",
-          "college": "Penn State",
-          "height": "77",
-          "weight": "228",
-          "years_exp": 0,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 362
-        },
-        {
           "player_id": "13293",
           "espn_id": null,
           "name": "Ja'Kobi Lane",
@@ -5636,21 +5636,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 145
         },
         {
-          "player_id": "4233",
-          "espn_id": 3043234,
-          "name": "Zane Gonzalez",
-          "position": "K",
-          "team": null,
-          "birth_date": "1995-05-07",
-          "college": "Arizona State",
-          "height": "72",
-          "weight": "200",
-          "years_exp": 9,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 362
-        },
-        {
           "player_id": "4881",
           "espn_id": 3916387,
           "name": "Lamar Jackson",
@@ -5726,6 +5711,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 187
         },
         {
+          "player_id": "9506",
+          "espn_id": null,
+          "name": "Sean Tucker",
+          "position": "RB",
+          "team": "TB",
+          "birth_date": "2001-10-25",
+          "college": "Syracuse",
+          "height": "70",
+          "weight": "205",
+          "years_exp": 3,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 155
+        },
+        {
           "player_id": "9756",
           "espn_id": null,
           "name": "Jordan Addison",
@@ -5736,7 +5736,7 @@ window.__STATIC_DATA__ = {
           "height": "71",
           "weight": "179",
           "years_exp": 3,
-          "status": "Inactive",
+          "status": "Active",
           "injury_status": "Out",
           "search_rank": 99
         },
@@ -5998,7 +5998,7 @@ window.__STATIC_DATA__ = {
           "weight": "212",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 123
         },
         {
@@ -6109,7 +6109,7 @@ window.__STATIC_DATA__ = {
           "weight": "224",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 127
         },
         {
@@ -6595,7 +6595,7 @@ window.__STATIC_DATA__ = {
           "weight": "207",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 61
         },
         {
@@ -6841,7 +6841,7 @@ window.__STATIC_DATA__ = {
           "weight": "211",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 167
         },
         {
@@ -7066,7 +7066,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 77
         },
         {
@@ -7081,7 +7081,7 @@ window.__STATIC_DATA__ = {
           "weight": "232",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 239
         },
         {
@@ -7177,7 +7177,7 @@ window.__STATIC_DATA__ = {
           "weight": "246",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 81
         },
         {
@@ -7237,7 +7237,7 @@ window.__STATIC_DATA__ = {
           "weight": "209",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 44
         },
         {
@@ -7267,7 +7267,7 @@ window.__STATIC_DATA__ = {
           "weight": "203",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 62
         },
         {
@@ -7312,7 +7312,7 @@ window.__STATIC_DATA__ = {
           "weight": "238",
           "years_exp": 11,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 357
         },
         {
@@ -7483,7 +7483,7 @@ window.__STATIC_DATA__ = {
           "weight": "205",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 677
         },
         {
@@ -8089,6 +8089,90 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 11,
+      "created": "Nov 18, 2026 • 1:56 PM PT",
+      "transaction_id": "1428900821138960384",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Brevyn Spann-Ford",
+          "position": "TE",
+          "team": "DAL"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Reggie Virgil",
+          "position": "WR",
+          "team": "ARI"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 11,
+      "created": "Nov 18, 2026 • 1:43 PM PT",
+      "transaction_id": "1428897411698270208",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [
+        {
+          "name": "Sean Tucker",
+          "position": "RB",
+          "team": "TB"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Drew Allar",
+          "position": "QB",
+          "team": "PIT"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
+    {
+      "season": "2026",
+      "week": 11,
+      "created": "Nov 18, 2026 • 1:41 PM PT",
+      "transaction_id": "1428896994339885056",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [
+        {
+          "name": "Chad Ryland",
+          "position": "K",
+          "team": "ARI"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Zane Gonzalez",
+          "position": "K",
+          "team": null
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 11,
