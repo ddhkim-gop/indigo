@@ -1,6 +1,6 @@
 {
   "team": "Paul_Yoon",
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -279,9 +279,9 @@
       "faves": 1344,
       "secs": 8,
       "game_id": "401873060",
-      "game_time": "Q1 2:57",
-      "play_key": "401873060:401873060718",
-      "played_at": "2026-11-15T18:27:01Z",
+      "game_time": "Q1 2:46",
+      "play_key": "401873060:401873060757",
+      "played_at": "2026-11-15T18:28:35Z",
       "poster": "https://pbs.twimg.com/amplify_video_thumb/2122033251347034112/img/6ypSB9-rYhM4OLi0.jpg",
       "published": "2026-11-15T18:28:08Z",
       "video": "https://video.twimg.com/amplify_video/2122033251347034112/vid/avc1/1920x1080/nG2eKfH2ZG_fufO8.mp4",
