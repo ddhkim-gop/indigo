@@ -3671,19 +3671,19 @@ window.__STATIC_DATA__ = {
           "search_rank": 32
         },
         {
-          "player_id": "11593",
+          "player_id": "12502",
           "espn_id": null,
-          "name": "Brevyn Spann-Ford",
+          "name": "Gunnar Helm",
           "position": "TE",
-          "team": "DAL",
-          "birth_date": "1999-12-27",
-          "college": "Minnesota",
-          "height": "78",
-          "weight": "265",
-          "years_exp": 2,
+          "team": "TEN",
+          "birth_date": "2002-09-06",
+          "college": "Texas",
+          "height": "77",
+          "weight": "241",
+          "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 634
+          "search_rank": 153
         },
         {
           "player_id": "13278",
@@ -3907,7 +3907,7 @@ window.__STATIC_DATA__ = {
           "weight": "206",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 203
         },
         {
@@ -4123,7 +4123,7 @@ window.__STATIC_DATA__ = {
           "weight": "208",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 197
         },
         {
@@ -4258,7 +4258,7 @@ window.__STATIC_DATA__ = {
           "weight": "214",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 125
         },
         {
@@ -4273,7 +4273,7 @@ window.__STATIC_DATA__ = {
           "weight": "211",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 17
         },
         {
@@ -4519,7 +4519,7 @@ window.__STATIC_DATA__ = {
           "weight": "228",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 197
         },
         {
@@ -6013,7 +6013,7 @@ window.__STATIC_DATA__ = {
           "weight": "185",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 42
         },
         {
@@ -6109,7 +6109,7 @@ window.__STATIC_DATA__ = {
           "weight": "224",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 125
         },
         {
@@ -6184,7 +6184,7 @@ window.__STATIC_DATA__ = {
           "weight": "190",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 365
         },
         {
@@ -6715,7 +6715,7 @@ window.__STATIC_DATA__ = {
           "weight": "248",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 128
         },
         {
@@ -6730,7 +6730,7 @@ window.__STATIC_DATA__ = {
           "weight": "225",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 679
         },
         {
@@ -6841,7 +6841,7 @@ window.__STATIC_DATA__ = {
           "weight": "211",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 167
         },
         {
@@ -7066,7 +7066,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 77
         },
         {
@@ -7177,7 +7177,7 @@ window.__STATIC_DATA__ = {
           "weight": "246",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "search_rank": 81
         },
         {
@@ -7237,7 +7237,7 @@ window.__STATIC_DATA__ = {
           "weight": "209",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 44
         },
         {
@@ -7267,7 +7267,7 @@ window.__STATIC_DATA__ = {
           "weight": "203",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 62
         },
         {
@@ -8089,6 +8089,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 11,
+      "created": "Nov 20, 2026 • 1:10 PM PT",
+      "transaction_id": "1429614002488504320",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "PattyMahomiee"
+      ],
+      "added": [
+        {
+          "name": "Gunnar Helm",
+          "position": "TE",
+          "team": "TEN"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Brevyn Spann-Ford",
+          "position": "TE",
+          "team": "DAL"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 11,
@@ -9345,7 +9373,7 @@ window.__STATIC_DATA__ = {
       ],
       "dropped": [
         {
-          "name": "Gregory Desrosiers",
+          "name": "Gregory Desrosiers Jr.",
           "position": "RB",
           "team": "NYG"
         }
@@ -9366,7 +9394,7 @@ window.__STATIC_DATA__ = {
       ],
       "added": [
         {
-          "name": "Gregory Desrosiers",
+          "name": "Gregory Desrosiers Jr.",
           "position": "RB",
           "team": "NYG"
         }
