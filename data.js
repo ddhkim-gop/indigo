@@ -7130,11 +7130,11 @@ window.__STATIC_DATA__ = {
           "search_rank": 102
         },
         {
-          "player_id": "NO",
+          "player_id": "CAR",
           "espn_id": null,
-          "name": "New Orleans Saints",
+          "name": "Carolina Panthers",
           "position": "DEF",
-          "team": "NO",
+          "team": "CAR",
           "birth_date": null,
           "college": null,
           "height": null,
@@ -7528,7 +7528,7 @@ window.__STATIC_DATA__ = {
           "weight": "199",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 151
         },
         {
@@ -8089,6 +8089,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 11,
+      "created": "Nov 20, 2026 • 6:29 AM PT",
+      "transaction_id": "1429512964351758336",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "bsohn00"
+      ],
+      "added": [
+        {
+          "name": "Carolina Panthers",
+          "position": "DEF",
+          "team": "CAR"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "New Orleans Saints",
+          "position": "DEF",
+          "team": "NO"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 11,
