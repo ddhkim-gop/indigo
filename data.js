@@ -4358,6 +4358,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 46
         },
         {
+          "player_id": "11593",
+          "espn_id": null,
+          "name": "Brevyn Spann-Ford",
+          "position": "TE",
+          "team": "DAL",
+          "birth_date": "1999-12-27",
+          "college": "Minnesota",
+          "height": "78",
+          "weight": "265",
+          "years_exp": 2,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 634
+        },
+        {
           "player_id": "11604",
           "espn_id": null,
           "name": "Brock Bowers",
@@ -4476,21 +4491,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 88
-        },
-        {
-          "player_id": "12700",
-          "espn_id": null,
-          "name": "Gavin Bartholomew",
-          "position": "TE",
-          "team": "MIN",
-          "birth_date": "2003-04-30",
-          "college": "Pittsburgh",
-          "height": "77",
-          "weight": "249",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 667
         },
         {
           "player_id": "13269",
@@ -5100,8 +5100,8 @@ window.__STATIC_DATA__ = {
           "height": "72",
           "weight": "192",
           "years_exp": 2,
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": "Questionable",
           "search_rank": 688
         },
         {
@@ -5512,7 +5512,7 @@ window.__STATIC_DATA__ = {
           "weight": "233",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 287
         },
         {
@@ -8089,6 +8089,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 11,
+      "created": "Nov 20, 2026 • 5:31 PM PT",
+      "transaction_id": "1429679687583399936",
+      "type": "waiver",
+      "status": "complete",
+      "teams": [
+        "jamescho0829"
+      ],
+      "added": [
+        {
+          "name": "Brevyn Spann-Ford",
+          "position": "TE",
+          "team": "DAL"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Gavin Bartholomew",
+          "position": "TE",
+          "team": "MIN"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": "Your waiver claim was processed successfully!"
+    },
     {
       "season": "2026",
       "week": 11,
@@ -11762,7 +11790,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Daniel Jones",
           "position": "QB",
-          "team": "IND"
+          "team": null
         }
       ],
       "faab": 0,
@@ -15277,7 +15305,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Daniel Jones",
           "position": "QB",
-          "team": "IND"
+          "team": null
         }
       ],
       "dropped": [
@@ -15334,7 +15362,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Daniel Jones",
           "position": "QB",
-          "team": "IND"
+          "team": null
         }
       ],
       "faab": 0,
