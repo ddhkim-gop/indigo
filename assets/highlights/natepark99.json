@@ -4,6 +4,27 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://www.youtube.com/shorts/iDitw8KLPy4",
+      "player": "Justin Herbert",
+      "meta": "QB \u00b7 LAC",
+      "date": "2026-11-22",
+      "author": "chargers",
+      "text": "JUSTIN FLIPPIN\u2019 HERBERT \ud83d\ude24",
+      "verified": true,
+      "faves": 1,
+      "secs": 11,
+      "game_id": "401873074",
+      "game_time": "Q2 0:00",
+      "play_key": "401873074:4018730741946",
+      "played_at": "2026-11-22T22:20:43Z",
+      "poster": "https://i.ytimg.com/vi/iDitw8KLPy4/hqdefault.jpg",
+      "published": "2026-11-22T22:30:16Z",
+      "youtube": "iDitw8KLPy4",
+      "author_name": "Los Angeles Chargers",
+      "avatar": "",
+      "author_verified": true
+    },
+    {
       "url": "https://x.com/NFL/status/2124575240164712604",
       "player": "Jalen Coker",
       "meta": "WR \u00b7 CAR",
