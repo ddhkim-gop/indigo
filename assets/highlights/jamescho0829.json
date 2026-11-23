@@ -4,6 +4,25 @@
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
+      "url": "https://www.espn.com/video/clip/_/id/50567555/mendoza-throws-3-tds-raiders-fall-broncos-denver",
+      "player": "Fernando Mendoza",
+      "meta": "QB \u00b7 LV",
+      "date": "2026-11-23",
+      "author": "ESPN",
+      "text": "Mendoza throws 3 TDs, but Raiders fall to Broncos in Denver",
+      "verified": true,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401873075",
+      "game_id": "401873075",
+      "game_time": "Q4 1:52",
+      "play_key": "401873075:4018730754300",
+      "played_at": "2026-11-23T00:32:28Z",
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1123/974cccdc-04cd-4e6a-b27b-7698ea742463/974cccdc-04cd-4e6a-b27b-7698ea742463.jpg",
+      "published": "2026-11-23T00:43:10Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1123/974cccdc-04cd-4e6a-b27b-7698ea742463/974cccdc-04cd-4e6a-b27b-7698ea742463.mp4"
+    },
+    {
       "url": "https://x.com/Raiders/status/2124634641806057528",
       "player": "Fernando Mendoza",
       "meta": "QB \u00b7 LV",
