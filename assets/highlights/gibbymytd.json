@@ -1,6 +1,6 @@
 {
   "team": "GibbyMyTD",
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -102,65 +102,6 @@
       "video": "https://video.twimg.com/amplify_video/2124575122434740224/vid/avc1/1920x1080/nNSX6OSQUxXUps4j.mp4",
       "author_name": "NFL",
       "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
-      "author_verified": true
-    },
-    {
-      "url": "https://www.espn.com/video/clip/_/id/50492804/trevor-lawrence-finds-wide-open-brenton-strange-jaguars-td",
-      "player": "Brenton Strange",
-      "meta": "TE \u00b7 JAX",
-      "date": "2026-11-15",
-      "author": "ESPN",
-      "text": "Trevor Lawrence finds a wide-open Brenton Strange for a Jaguars TD",
-      "verified": true,
-      "faves": 0,
-      "secs": 0,
-      "espn_game": "401873057",
-      "game_id": "401873057",
-      "game_time": "Q3 6:28",
-      "play_key": "401873057:4018730572710",
-      "played_at": "2026-11-15T20:09:54Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1115/6f15f9ad-8393-44fa-9ae4-2e2dca20f002/6f15f9ad-8393-44fa-9ae4-2e2dca20f002.jpg",
-      "published": "2026-11-15T20:19:03Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1115/6f15f9ad-8393-44fa-9ae4-2e2dca20f002/6f15f9ad-8393-44fa-9ae4-2e2dca20f002.mp4"
-    },
-    {
-      "url": "https://www.espn.com/video/clip/_/id/50490754/jahmyr-gibbs-punches-a-5-yard-lions-td",
-      "player": "Jahmyr Gibbs",
-      "meta": "RB \u00b7 DET",
-      "date": "2026-11-15",
-      "author": "ESPN",
-      "text": "Jahmyr Gibbs punches it in for a 5-yard Lions TD",
-      "verified": true,
-      "faves": 0,
-      "secs": 0,
-      "espn_game": "401873053",
-      "game_id": "401873053",
-      "game_time": "Q2 2:06",
-      "play_key": "401873053:4018730531842",
-      "played_at": "2026-11-15T15:47:59Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/8edcfaf00c454679bba6588dec9be747755/8edcfaf00c454679bba6588dec9be747755.jpg",
-      "published": "2026-11-15T15:56:39Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1115/8edcfaf0-0c45-4679-bba6-588dec9be747/8edcfaf0-0c45-4679-bba6-588dec9be747.mp4"
-    },
-    {
-      "url": "https://x.com/Lions/status/2121986085572014392",
-      "player": "Isaac TeSlaa",
-      "meta": "WR \u00b7 DET",
-      "date": "2026-11-15",
-      "author": "Lions",
-      "text": "That was filthy, @TeslaaIsaac",
-      "verified": true,
-      "faves": 1450,
-      "secs": 31,
-      "game_id": "401873053",
-      "game_time": "Q2 12:57",
-      "play_key": "401873053:4018730531061",
-      "played_at": "2026-11-15T15:15:43Z",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2121985785343741952/img/RovB57pi2avbmyQF.jpg",
-      "published": "2026-11-15T15:18:02Z",
-      "video": "https://video.twimg.com/amplify_video/2121985785343741952/vid/avc1/1920x1080/HVtqt2fWBsaK6TL_.mp4",
-      "author_name": "Detroit Lions",
-      "avatar": "https://pbs.twimg.com/profile_images/2123059463183552512/trJ0qtt2_normal.jpg",
       "author_verified": true
     }
   ]
