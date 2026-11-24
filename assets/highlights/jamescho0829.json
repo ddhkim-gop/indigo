@@ -1,6 +1,6 @@
 {
   "team": "jamescho0829",
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -44,25 +44,23 @@
       "author_verified": true
     },
     {
-      "url": "https://x.com/Broncos/status/2124625104483361046",
+      "url": "https://www.espn.com/video/clip/_/id/50565818/announcer-breaks-song-adam-trautman-broncos-td",
       "player": "Bo Nix",
       "meta": "QB \u00b7 DEN",
       "date": "2026-11-22",
-      "author": "Broncos",
-      "text": "The TJ reference on this TD call \ud83e\udde1\n\n\ud83d\udcfa: CBS",
+      "author": "ESPN",
+      "text": "Announcer breaks into song over Adam Trautman's Broncos TD",
       "verified": true,
-      "faves": 1475,
-      "secs": 22,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401873075",
       "game_id": "401873075",
       "game_time": "Q2 14:50",
       "play_key": "401873075:401873075987",
       "played_at": "2026-11-22T22:01:27Z",
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2124624507398918144/img/brx4nEqneNpIpmR0.jpg",
-      "published": "2026-11-22T22:04:33Z",
-      "video": "https://video.twimg.com/amplify_video/2124624507398918144/vid/avc1/1920x1080/_yCWqXXAvNwl6Cqy.mp4",
-      "author_name": "Denver Broncos",
-      "avatar": "https://pbs.twimg.com/profile_images/2112577385640116224/VdpaQL_v_normal.jpg",
-      "author_verified": true
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1122/a34834bc-d062-4d6b-b58b-fc685f6c97ba/a34834bc-d062-4d6b-b58b-fc685f6c97ba.jpg",
+      "published": "2026-11-22T22:14:13Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1122/a34834bc-d062-4d6b-b58b-fc685f6c97ba/a34834bc-d062-4d6b-b58b-fc685f6c97ba.mp4"
     },
     {
       "url": "https://x.com/dallascowboys/status/2124605876833005569",
@@ -82,7 +80,7 @@
       "published": "2026-11-22T20:48:08Z",
       "video": "https://video.twimg.com/amplify_video/2124605578668367873/vid/avc1/1920x1080/gEXL7YkBiKVG-eqy.mp4",
       "author_name": "Dallas Cowboys",
-      "avatar": "https://pbs.twimg.com/profile_images/2047411798953857024/QaW_Sgph_normal.jpg",
+      "avatar": "",
       "author_verified": true
     },
     {
@@ -100,7 +98,7 @@
       "game_time": "Q3 8:58",
       "play_key": "401873073:4018730732648",
       "played_at": "2026-11-22T19:53:56Z",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1122/29494971-0094-4769-919c-274ef917cf49/29494971-0094-4769-919c-274ef917cf49.jpg",
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/2949497100944769919c274ef917cf49167/2949497100944769919c274ef917cf49167.jpg",
       "published": "2026-11-22T20:10:12Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1122/29494971-0094-4769-919c-274ef917cf49/29494971-0094-4769-919c-274ef917cf49.mp4"
     },
