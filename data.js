@@ -3810,7 +3810,7 @@ window.__STATIC_DATA__ = {
           "espn_id": 4360438,
           "name": "Brandon Aiyuk",
           "position": "WR",
-          "team": "SF",
+          "team": null,
           "birth_date": "1998-03-17",
           "college": "Arizona State",
           "height": "72",
@@ -5938,7 +5938,7 @@ window.__STATIC_DATA__ = {
           "weight": "212",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Sus",
           "search_rank": 68
         },
         {
@@ -6976,7 +6976,7 @@ window.__STATIC_DATA__ = {
           "weight": "215",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 153
         },
         {
@@ -9655,7 +9655,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Brandon Aiyuk",
           "position": "WR",
-          "team": "SF"
+          "team": null
         }
       ],
       "dropped": [
@@ -13216,7 +13216,7 @@ window.__STATIC_DATA__ = {
         {
           "name": "Brandon Aiyuk",
           "position": "WR",
-          "team": "SF"
+          "team": null
         }
       ],
       "faab": 0,
