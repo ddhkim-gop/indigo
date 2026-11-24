@@ -4355,7 +4355,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 44
+          "search_rank": 46
         },
         {
           "player_id": "11593",
@@ -5267,7 +5267,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 44
+          "search_rank": 46
         },
         {
           "player_id": "6801",
@@ -5498,7 +5498,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 1,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 49
+          "search_rank": 48
         },
         {
           "player_id": "13272",
@@ -5709,21 +5709,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 187
-        },
-        {
-          "player_id": "9506",
-          "espn_id": null,
-          "name": "Sean Tucker",
-          "position": "RB",
-          "team": "TB",
-          "birth_date": "2001-10-25",
-          "college": "Syracuse",
-          "height": "70",
-          "weight": "205",
-          "years_exp": 3,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 155
         },
         {
           "player_id": "9756",
@@ -6320,7 +6305,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 6,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 12
+          "search_rank": 11
         },
         {
           "player_id": "6804",
@@ -6410,7 +6395,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 3,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 7
+          "search_rank": 5
         },
         {
           "player_id": "MIN",
@@ -6506,7 +6491,7 @@ window.__STATIC_DATA__ = {
           "years_exp": 2,
           "status": "Active",
           "injury_status": null,
-          "search_rank": 26
+          "search_rank": 28
         },
         {
           "player_id": "11635",
@@ -8089,6 +8074,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 11,
+      "created": "Nov 23, 2026 • 10:13 PM PT",
+      "transaction_id": "1430837827444146176",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "natepark99"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Sean Tucker",
+          "position": "RB",
+          "team": "TB"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 11,
@@ -30165,98 +30172,98 @@ window.__STATIC_DATA__ = {
       {
         "name": "Paul_Yoon",
         "wins": 8,
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
-        "pf": 1472.54,
-        "pa": 1274.07
+        "pf": 1594.57,
+        "pa": 1410.06
+      },
+      {
+        "name": "GibbyMyTD",
+        "wins": 8,
+        "losses": 3,
+        "ties": 0,
+        "pf": 1519.43,
+        "pa": 1330.63
       },
       {
         "name": "willie425",
         "wins": 8,
-        "losses": 2,
-        "ties": 0,
-        "pf": 1381.5,
-        "pa": 1110.71
-      },
-      {
-        "name": "GibbyMyTD",
-        "wins": 7,
         "losses": 3,
         "ties": 0,
-        "pf": 1380.8,
-        "pa": 1226.83
+        "pf": 1485.3,
+        "pa": 1249.34
       },
       {
         "name": "jay0jay1jay2",
-        "wins": 7,
+        "wins": 8,
         "losses": 3,
         "ties": 0,
-        "pf": 1316.86,
-        "pa": 1183.84
+        "pf": 1474.11,
+        "pa": 1319.79
       },
       {
         "name": "cheigh",
-        "wins": 6,
+        "wins": 7,
         "losses": 4,
         "ties": 0,
-        "pf": 1285.03,
-        "pa": 1213.63
+        "pf": 1356.21,
+        "pa": 1261.21
+      },
+      {
+        "name": "jamescho0829",
+        "wins": 6,
+        "losses": 5,
+        "ties": 0,
+        "pf": 1283.49,
+        "pa": 1235.36
       },
       {
         "name": "PattyMahomiee",
         "wins": 5,
-        "losses": 5,
+        "losses": 6,
         "ties": 0,
-        "pf": 1222.38,
-        "pa": 1157.93
-      },
-      {
-        "name": "jamescho0829",
-        "wins": 5,
-        "losses": 5,
-        "ties": 0,
-        "pf": 1195.2,
-        "pa": 1154.24
+        "pf": 1358.33,
+        "pa": 1315.18
       },
       {
         "name": "SeunghoSama",
-        "wins": 4,
+        "wins": 5,
         "losses": 6,
         "ties": 0,
-        "pf": 975.8,
-        "pa": 1168.8
+        "pf": 1111.79,
+        "pa": 1290.83
+      },
+      {
+        "name": "bsohn00",
+        "wins": 4,
+        "losses": 7,
+        "ties": 0,
+        "pf": 1182.19,
+        "pa": 1310.7
       },
       {
         "name": "daevn",
         "wins": 3,
-        "losses": 7,
+        "losses": 8,
         "ties": 0,
-        "pf": 1116.98,
-        "pa": 1138.98
-      },
-      {
-        "name": "bsohn00",
-        "wins": 3,
-        "losses": 7,
-        "ties": 0,
-        "pf": 1045.98,
-        "pa": 1224.15
+        "pf": 1203.53,
+        "pa": 1275.19
       },
       {
         "name": "justinpark99",
         "wins": 3,
-        "losses": 7,
+        "losses": 8,
         "ties": 0,
-        "pf": 875.29,
-        "pa": 1168.23
+        "pf": 956.41,
+        "pa": 1256.52
       },
       {
         "name": "natepark99",
         "wins": 1,
-        "losses": 9,
+        "losses": 10,
         "ties": 0,
-        "pf": 904.32,
-        "pa": 1151.27
+        "pf": 951.9,
+        "pa": 1222.45
       }
     ]
   },
