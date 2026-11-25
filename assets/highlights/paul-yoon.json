@@ -1,6 +1,6 @@
 {
   "team": "Paul_Yoon",
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -162,7 +162,7 @@
       "published": "2026-11-22T19:55:15Z",
       "video": "https://video.twimg.com/amplify_video/2124592395429859328/vid/avc1/1920x1080/exhuxbBDM7lBAZ0K.mp4",
       "author_name": "Chicago Bears",
-      "avatar": "https://pbs.twimg.com/profile_images/2095215291395665920/hTWEqaly_normal.jpg",
+      "avatar": "",
       "author_verified": true
     },
     {
@@ -183,7 +183,7 @@
       "published": "2026-11-22T19:07:13Z",
       "video": "https://video.twimg.com/amplify_video/2124580277766737920/vid/avc1/1920x1080/VjkmC_pRlwlKbGm_.mp4",
       "author_name": "Buffalo Bills",
-      "avatar": "https://pbs.twimg.com/profile_images/2122736573888307200/x_8TH138_normal.jpg",
+      "avatar": "",
       "author_verified": true
     },
     {
@@ -238,23 +238,6 @@
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1122/6a9ad9671fa54108b400d741c3a8aa431417/6a9ad9671fa54108b400d741c3a8aa431417.jpg",
       "published": "2026-11-23T04:33:24Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1123/6a9ad967-1fa5-4108-b400-d741c3a8aa43/6a9ad967-1fa5-4108-b400-d741c3a8aa43.mp4"
-    },
-    {
-      "url": "https://x.com/NFL/status/2122507553624170978",
-      "player": "Tre' Harris",
-      "meta": "WR \u00b7 LAC",
-      "date": "2026-11-17",
-      "author": "NFL",
-      "text": "Tre' Harris with the sliding catch \ud83d\ude2e\u200d\ud83d\udca8\n\nLACvsBAL on ESPN\nStream on @NFLPlus",
-      "verified": false,
-      "faves": 264,
-      "secs": 12,
-      "poster": "https://pbs.twimg.com/amplify_video_thumb/2122506656840142849/img/ZVS43eztybx3EcXt.jpg",
-      "published": "2026-11-17T01:50:09Z",
-      "video": "https://video.twimg.com/amplify_video/2122506656840142849/vid/avc1/1920x1080/YwAdLxDDyv3LmC7N.mp4",
-      "author_name": "NFL",
-      "avatar": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
-      "author_verified": true
     }
   ]
 }
