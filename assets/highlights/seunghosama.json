@@ -1,6 +1,6 @@
 {
   "team": "SeunghoSama",
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -82,7 +82,7 @@
       "published": "2026-11-22T22:15:54Z",
       "video": "https://video.twimg.com/amplify_video/2124627766675140608/vid/avc1/1920x1080/mCuklMmfJs2kKbQT.mp4",
       "author_name": "Denver Broncos",
-      "avatar": "https://pbs.twimg.com/profile_images/2112577385640116224/VdpaQL_v_normal.jpg",
+      "avatar": "",
       "author_verified": true
     },
     {
@@ -183,6 +183,27 @@
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1122/c384f5d4-39e4-48c1-be28-035ed3eabc50/c384f5d4-39e4-48c1-be28-035ed3eabc50.jpg",
       "published": "2026-11-22T18:47:34Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1122/c384f5d4-39e4-48c1-be28-035ed3eabc50/c384f5d4-39e4-48c1-be28-035ed3eabc50.mp4"
+    },
+    {
+      "url": "https://x.com/Ravens/status/2124567751888982170",
+      "player": "Rashod Bateman",
+      "meta": "WR \u00b7 BAL",
+      "date": "2026-11-22",
+      "author": "Ravens",
+      "text": "52-YARD TOUCHDOWN TRICKERY!!!!\n\nTune in on FOX!",
+      "verified": true,
+      "faves": 1595,
+      "secs": 47,
+      "game_id": "401873068",
+      "game_time": "Q1 11:21",
+      "play_key": "401873068:401873068335",
+      "played_at": "2026-11-22T18:14:57Z",
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2124567643101204481/img/tMNBvcZUBU1BoAfu.jpg",
+      "published": "2026-11-22T18:16:39Z",
+      "video": "https://video.twimg.com/amplify_video/2124567643101204481/vid/avc1/1920x1080/YjDgT1ZiXcN2FYks.mp4",
+      "author_name": "Baltimore Ravens",
+      "avatar": "https://pbs.twimg.com/profile_images/1994466436266225664/05ma1sy0_normal.jpg",
+      "author_verified": true
     },
     {
       "url": "https://x.com/NFL/status/2124555057765253447",

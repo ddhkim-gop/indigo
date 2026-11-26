@@ -1,6 +1,6 @@
 {
   "team": "justinpark99",
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
     {
@@ -108,7 +108,7 @@
       "url": "https://x.com/rannyxkmj/status/2097884866348216770",
       "player": "Eli Raridon & Drake Maye",
       "meta": "QB \u00b7 NE",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "author": "rannyxkmj",
       "text": "Eli Raridon & Drake Maye - 2-yard TD catch in NFL debut, first TD of the 2026 season vs SEA (NE #82, ref signals TD, NE 0-0 1st & Goal, NBC, watched)",
       "verified": true,
@@ -131,21 +131,6 @@
       "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1122/14556fb4-dbd0-4c60-afe2-7b39fb63588a/14556fb4-dbd0-4c60-afe2-7b39fb63588a.jpg",
       "published": "2026-11-22T23:42:22Z",
       "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1122/14556fb4-dbd0-4c60-afe2-7b39fb63588a/14556fb4-dbd0-4c60-afe2-7b39fb63588a.mp4"
-    },
-    {
-      "url": "https://www.espn.com/video/clip/_/id/50520478/can-vikings-make-super-bowl-run-kirk-cousins",
-      "player": "Kirk Cousins",
-      "meta": "QB \u00b7 MIN",
-      "date": "2026-11-18",
-      "author": "ESPN",
-      "text": "Can the Vikings make a Super Bowl run with Kirk Cousins?",
-      "verified": true,
-      "faves": 0,
-      "secs": 0,
-      "espn_game": "401873077",
-      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/ss_20261118_085910184_3747727542/ss_20261118_085910184_3747727542.jpg",
-      "published": "2026-11-18T13:59:09Z",
-      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/2026/1118/ss_20261118_085910184_3747727/ss_20261118_085910184_3747727.mp4"
     }
   ]
 }
