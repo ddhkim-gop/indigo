@@ -4168,7 +4168,7 @@ window.__STATIC_DATA__ = {
           "weight": "226",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 17
         },
         {
@@ -5497,7 +5497,7 @@ window.__STATIC_DATA__ = {
           "weight": "233",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 288
         },
         {
@@ -5707,7 +5707,7 @@ window.__STATIC_DATA__ = {
           "weight": "179",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "search_rank": 99
         },
         {
@@ -5968,7 +5968,7 @@ window.__STATIC_DATA__ = {
           "weight": "245",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 103
         },
         {
@@ -6931,7 +6931,7 @@ window.__STATIC_DATA__ = {
           "weight": "180",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 185
         },
         {
@@ -7234,7 +7234,7 @@ window.__STATIC_DATA__ = {
           "birth_date": "2004-08-12",
           "college": "Arizona State",
           "height": "74",
-          "weight": "203",
+          "weight": "200",
           "years_exp": 0,
           "status": "Active",
           "injury_status": null,
@@ -7528,7 +7528,7 @@ window.__STATIC_DATA__ = {
           "weight": "199",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 151
         },
         {
@@ -7738,7 +7738,7 @@ window.__STATIC_DATA__ = {
           "weight": "204",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 68
         },
         {
