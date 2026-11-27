@@ -3988,7 +3988,7 @@ window.__STATIC_DATA__ = {
           "weight": "226",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 23
         },
         {
@@ -4750,7 +4750,7 @@ window.__STATIC_DATA__ = {
           "weight": "220",
           "years_exp": 2,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 73
         },
         {
@@ -4780,7 +4780,7 @@ window.__STATIC_DATA__ = {
           "weight": "241",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 63
         },
         {
@@ -4945,7 +4945,7 @@ window.__STATIC_DATA__ = {
           "weight": "193",
           "years_exp": 5,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 203
         },
         {
@@ -5020,7 +5020,7 @@ window.__STATIC_DATA__ = {
           "weight": "183",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 40
         },
         {
@@ -5221,7 +5221,7 @@ window.__STATIC_DATA__ = {
           "weight": "192",
           "years_exp": 0,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 392
         },
         {
@@ -5358,21 +5358,6 @@ window.__STATIC_DATA__ = {
           "status": "Active",
           "injury_status": null,
           "search_rank": 104
-        },
-        {
-          "player_id": "9482",
-          "espn_id": null,
-          "name": "Michael Mayer",
-          "position": "TE",
-          "team": "LV",
-          "birth_date": "2001-07-06",
-          "college": "Notre Dame",
-          "height": "76",
-          "weight": "256",
-          "years_exp": 3,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 417
         },
         {
           "player_id": "SF",
@@ -5818,7 +5803,7 @@ window.__STATIC_DATA__ = {
           "weight": "241",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 36
         },
         {
@@ -5967,8 +5952,8 @@ window.__STATIC_DATA__ = {
           "height": "76",
           "weight": "223",
           "years_exp": 6,
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": null,
           "search_rank": 107
         },
         {
@@ -6244,7 +6229,7 @@ window.__STATIC_DATA__ = {
           "weight": "233",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 10
         },
         {
@@ -6259,7 +6244,7 @@ window.__STATIC_DATA__ = {
           "weight": "256",
           "years_exp": 8,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "search_rank": 94
         },
         {
@@ -7162,7 +7147,7 @@ window.__STATIC_DATA__ = {
           "weight": "246",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 81
         },
         {
@@ -7297,7 +7282,7 @@ window.__STATIC_DATA__ = {
           "weight": "238",
           "years_exp": 11,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 355
         },
         {
@@ -7558,7 +7543,7 @@ window.__STATIC_DATA__ = {
           "weight": "191",
           "years_exp": 11,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 104
         },
         {
@@ -7753,7 +7738,7 @@ window.__STATIC_DATA__ = {
           "weight": "204",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 68
         },
         {
@@ -8089,6 +8074,28 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 12,
+      "created": "Nov 26, 2026 • 1:50 PM PT",
+      "transaction_id": "1431798397790093312",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "GibbyMyTD"
+      ],
+      "added": [],
+      "dropped": [
+        {
+          "name": "Michael Mayer",
+          "position": "TE",
+          "team": "LV"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 12,
