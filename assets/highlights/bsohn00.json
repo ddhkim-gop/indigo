@@ -1,8 +1,27 @@
 {
   "team": "bsohn00",
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "note": "Curated: X has no public search API, so posts are collected by hand and matched to rosters by this script.",
   "tweets": [
+    {
+      "url": "https://www.espn.com/video/clip/_/id/50608653/chiefs-take-lead-emmett-johnson-td",
+      "player": "Emmett Johnson",
+      "meta": "RB \u00b7 KC",
+      "date": "2026-11-27",
+      "author": "ESPN",
+      "text": "Chiefs take the lead with Emmett Johnson TD",
+      "verified": true,
+      "faves": 0,
+      "secs": 0,
+      "espn_game": "401873082",
+      "game_id": "401873082",
+      "game_time": "Q3 11:28",
+      "play_key": "401873082:4018730822144",
+      "played_at": "2026-11-27T03:10:58Z",
+      "poster": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1126/bab6828d90444774ba33d82ac7a0b1351384/bab6828d90444774ba33d82ac7a0b1351384.jpg",
+      "published": "2026-11-27T03:21:06Z",
+      "video": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1127/bab6828d-9044-4774-ba33-d82ac7a0b135/bab6828d-9044-4774-ba33-d82ac7a0b135.mp4"
+    },
     {
       "url": "https://x.com/NFL/status/2125079171684855841",
       "player": "Mike Gesicki",
