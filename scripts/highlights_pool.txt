@@ -509,6 +509,7 @@ https://www.espn.com/video/clip/_/id/50608653/chiefs-take-lead-emmett-johnson-td
 https://www.espn.com/video/clip/_/id/50608845/josh-allen-pass-ricochets-khalil-shakir-second-int
 https://www.espn.com/video/clip/_/id/50613822/dk-metcalf-makes-nice-td-snag
 https://www.espn.com/video/clip/_/id/50615531/bo-nix-turns-3rd-4th-21
+https://www.espn.com/video/clip/_/id/50616923/falcons-play-familiar-face-kirk-cousins
 https://www.youtube.com/shorts/-Prt969WqGo
 https://www.youtube.com/shorts/-ltaiQ2cubA
 https://www.youtube.com/shorts/0Kc6nRU_KTk
@@ -530,7 +531,6 @@ https://www.youtube.com/shorts/4S64vj94Ydw
 https://www.youtube.com/shorts/51niZIOL9BM
 https://www.youtube.com/shorts/5XJwiLYCFy4
 https://www.youtube.com/shorts/5kaZm06xrcE
-https://www.youtube.com/shorts/5vRZggzKamE
 https://www.youtube.com/shorts/64fzMxVTmX4
 https://www.youtube.com/shorts/6dRI-ZRAqRA
 https://www.youtube.com/shorts/6mph8ywDJTI
@@ -543,6 +543,7 @@ https://www.youtube.com/shorts/A_-hr6hsZeQ
 https://www.youtube.com/shorts/Ax0AgGJD6Jc
 https://www.youtube.com/shorts/B6lJtnI-3XI
 https://www.youtube.com/shorts/Bs0c36ByT5o
+https://www.youtube.com/shorts/BwUGlT3ySqE
 https://www.youtube.com/shorts/C0bttKcwotU
 https://www.youtube.com/shorts/C8ipQWaQqok
 https://www.youtube.com/shorts/C9KuTNnZX7w
@@ -703,7 +704,6 @@ https://www.youtube.com/shorts/t2aDDQJjozo
 https://www.youtube.com/shorts/tI0d1QAMh94
 https://www.youtube.com/shorts/tcu4Pkqcm0w
 https://www.youtube.com/shorts/tmX8nyYlZgQ
-https://www.youtube.com/shorts/uO3mAsnggpc
 https://www.youtube.com/shorts/uSiRBN7TbEI
 https://www.youtube.com/shorts/uh04PL8s7CM
 https://www.youtube.com/shorts/undhGAhYX-c
@@ -805,9 +805,6 @@ https://x.com/Giants/status/2124634370216522054
 https://x.com/HoustonTexans/status/2106794028498817525
 https://x.com/HoustonTexans/status/2106819840832868434
 https://x.com/HoustonTexans/status/2106835381911974100
-https://x.com/HoustonTexans/status/2123595114840736201
-https://x.com/HoustonTexans/status/2123600052119556599
-https://x.com/HoustonTexans/status/2123603846681460866
 https://x.com/JDurham_FBall/status/2098220723357597783
 https://x.com/JFowlerESPN/status/2096039707217953172
 https://x.com/JFowlerESPN/status/2096041783343894722
@@ -909,10 +906,6 @@ https://x.com/NFL/status/2107302418593751429
 https://x.com/NFL/status/2107304246018556261
 https://x.com/NFL/status/2107308162776961503
 https://x.com/NFL/status/2107311585207423098
-https://x.com/NFL/status/2123576179512992165
-https://x.com/NFL/status/2123595089394229303
-https://x.com/NFL/status/2123599940811387062
-https://x.com/NFL/status/2123618818589429900
 https://x.com/NFL/status/2124555057765253447
 https://x.com/NFL/status/2124557402335002764
 https://x.com/NFL/status/2124566327348105661
