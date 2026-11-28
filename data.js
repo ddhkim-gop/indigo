@@ -5281,7 +5281,7 @@ window.__STATIC_DATA__ = {
           "weight": "220",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "search_rank": 36
         },
         {
@@ -5437,7 +5437,7 @@ window.__STATIC_DATA__ = {
           "weight": "208",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 105
         },
         {
@@ -5647,7 +5647,7 @@ window.__STATIC_DATA__ = {
           "weight": "236",
           "years_exp": 6,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 34
         },
         {
@@ -6379,7 +6379,7 @@ window.__STATIC_DATA__ = {
           "weight": "197",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 6
         },
         {
@@ -6700,7 +6700,7 @@ window.__STATIC_DATA__ = {
           "weight": "225",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 679
         },
         {
@@ -6760,7 +6760,7 @@ window.__STATIC_DATA__ = {
           "weight": "191",
           "years_exp": 3,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 148
         },
         {
@@ -7021,7 +7021,7 @@ window.__STATIC_DATA__ = {
           "weight": "207",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 89
         },
         {
@@ -7036,7 +7036,7 @@ window.__STATIC_DATA__ = {
           "weight": "200",
           "years_exp": 7,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 77
         },
         {
@@ -7081,7 +7081,7 @@ window.__STATIC_DATA__ = {
           "weight": "241",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 105
         },
         {
@@ -7207,7 +7207,7 @@ window.__STATIC_DATA__ = {
           "weight": "209",
           "years_exp": 1,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 44
         },
         {
@@ -7457,21 +7457,6 @@ window.__STATIC_DATA__ = {
           "search_rank": 209
         },
         {
-          "player_id": "12498",
-          "espn_id": null,
-          "name": "Mason Taylor",
-          "position": "TE",
-          "team": "NYJ",
-          "birth_date": "2004-05-08",
-          "college": "LSU",
-          "height": "77",
-          "weight": "251",
-          "years_exp": 1,
-          "status": "Active",
-          "injury_status": null,
-          "search_rank": 138
-        },
-        {
           "player_id": "12541",
           "espn_id": null,
           "name": "Dont'e Thornton Jr.",
@@ -7532,6 +7517,21 @@ window.__STATIC_DATA__ = {
           "search_rank": 151
         },
         {
+          "player_id": "1373",
+          "espn_id": 15864,
+          "name": "Geno Smith",
+          "position": "QB",
+          "team": "NYJ",
+          "birth_date": "1990-10-10",
+          "college": "West Virginia",
+          "height": "74",
+          "weight": "221",
+          "years_exp": 13,
+          "status": "Active",
+          "injury_status": null,
+          "search_rank": 210
+        },
+        {
           "player_id": "1466",
           "espn_id": 15847,
           "name": "Travis Kelce",
@@ -7573,7 +7573,7 @@ window.__STATIC_DATA__ = {
           "weight": "252",
           "years_exp": 10,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "search_rank": 7
         },
         {
@@ -7723,7 +7723,7 @@ window.__STATIC_DATA__ = {
           "weight": "220",
           "years_exp": 4,
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "search_rank": 56
         },
         {
@@ -8074,6 +8074,34 @@ window.__STATIC_DATA__ = {
     }
   ],
   "transactions": [
+    {
+      "season": "2026",
+      "week": 12,
+      "created": "Nov 27, 2026 • 3:26 PM PT",
+      "transaction_id": "1432184936596533248",
+      "type": "free_agent",
+      "status": "complete",
+      "teams": [
+        "jay0jay1jay2"
+      ],
+      "added": [
+        {
+          "name": "Geno Smith",
+          "position": "QB",
+          "team": "NYJ"
+        }
+      ],
+      "dropped": [
+        {
+          "name": "Mason Taylor",
+          "position": "TE",
+          "team": "NYJ"
+        }
+      ],
+      "faab": 0,
+      "waiver_bid": 0,
+      "notes": null
+    },
     {
       "season": "2026",
       "week": 12,
